@@ -1,0 +1,2858 @@
+path	value
+[].Physiology and metabolism.metabolite utilization.[].utilization activity	-
+[].Physiology and metabolism.metabolite utilization.[].utilization activity	+/-
+[].Physiology and metabolism.metabolite utilization.[].utilization activity	+
+[].Physiology and metabolism.enzymes.[].activity	+/-
+[].Physiology and metabolism.enzymes.[].activity	+
+[].Physiology and metabolism.enzymes.[].activity	-
+[].Name and taxonomic classification.type strain	yes
+[].Name and taxonomic classification.type strain	no
+[].Name and taxonomic classification.domain	Bacteria
+[].Name and taxonomic classification.domain	Archaea
+[].Name and taxonomic classification.LPSN.@ref	20215
+[].Name and taxonomic classification.LPSN.domain	Bacteria
+[].Name and taxonomic classification.LPSN.domain	Archaea
+[].Name and taxonomic classification.LPSN.description	domain/bacteria
+[].Name and taxonomic classification.LPSN.description	domain/archaea
+[].General.NCBI tax id.Matching level	species
+[].General.NCBI tax id.Matching level	subspecies
+[].General.NCBI tax id.Matching level	strain
+[].Isolation, sampling and environmental information.isolation source categories.[].Cat1	#Host
+[].Isolation, sampling and environmental information.isolation source categories.[].Cat1	#Host Body Product
+[].Isolation, sampling and environmental information.isolation source categories.[].Cat1	#Climate
+[].Isolation, sampling and environmental information.isolation source categories.[].Cat1	#Host Body-Site
+[].Isolation, sampling and environmental information.isolation source categories.[].Cat1	#Engineered
+[].Isolation, sampling and environmental information.isolation source categories.[].Cat1	#Infection
+[].Isolation, sampling and environmental information.isolation source categories.[].Cat1	#Condition
+[].Isolation, sampling and environmental information.isolation source categories.[].Cat1	#Environmental
+[].Culture and growth conditions.culture medium.[].growth	yes
+[].Culture and growth conditions.culture medium.[].growth	no
+[].Culture and growth conditions.culture temp.[].type	optimum
+[].Culture and growth conditions.culture temp.[].type	minimum
+[].Culture and growth conditions.culture temp.[].type	maximum
+[].Culture and growth conditions.culture temp.[].type	other
+[].Culture and growth conditions.culture temp.[].type	growth
+[].Culture and growth conditions.culture temp.[].growth	no
+[].Culture and growth conditions.culture temp.[].growth	positive
+[].Culture and growth conditions.culture temp.[].growth	inconsistent
+[].Sequence information.Genome sequences.[].database	img
+[].Sequence information.Genome sequences.[].database	patric
+[].Sequence information.Genome sequences.[].database	ncbi
+[].Sequence information.Genome sequences.[].assembly level	chromosome
+[].Sequence information.Genome sequences.[].assembly level	complete
+[].Sequence information.Genome sequences.[].assembly level	contig
+[].Sequence information.Genome sequences.[].assembly level	wgs
+[].Sequence information.Genome sequences.[].assembly level	draft
+[].Sequence information.Genome sequences.[].assembly level	plasmid
+[].Sequence information.Genome sequences.[].assembly level	scaffold
+[].External links.literature.[].topic	Metabolism
+[].External links.literature.[].topic	Proteome
+[].External links.literature.[].topic	Pathogenicity
+[].External links.literature.[].topic	Stress
+[].External links.literature.[].topic	Phenotype
+[].External links.literature.[].topic	Phylogeny
+[].External links.literature.[].topic	Enzymology
+[].External links.literature.[].topic	Transcriptome
+[].External links.literature.[].topic	Lipids
+[].External links.literature.[].topic	Biotechnology
+[].External links.literature.[].topic	Genetics
+[].External links.literature.[].topic	Physiology
+[].External links.literature.[].topic	Cultivation
+[].Isolation, sampling and environmental information.isolation.continent	North America
+[].Isolation, sampling and environmental information.isolation.continent	Asia
+[].Isolation, sampling and environmental information.isolation.continent	Middle and South America
+[].Isolation, sampling and environmental information.isolation.continent	Europe
+[].Isolation, sampling and environmental information.isolation.continent	Africa
+[].Isolation, sampling and environmental information.isolation.continent	Antarctica
+[].Isolation, sampling and environmental information.isolation.continent	Australia and Oceania
+[].Isolation, sampling and environmental information.isolation.continent	Arctic
+[].External links.literature.[].topic2	Pathogenicity
+[].External links.literature.[].topic2	Metabolism
+[].External links.literature.[].topic2	Genetics
+[].External links.literature.[].topic2	Cultivation
+[].External links.literature.[].topic2	Phenotype
+[].External links.literature.[].topic2	Biotechnology
+[].External links.literature.[].topic2	Physiology
+[].External links.literature.[].topic2	Lipids
+[].External links.literature.[].topic2	Transcriptome
+[].External links.literature.[].topic2	Phylogeny
+[].External links.literature.[].topic2	Enzymology
+[].External links.literature.[].topic2	Stress
+[].External links.literature.[].topic2	Proteome
+[].Culture and growth conditions.culture temp.type	optimum
+[].Culture and growth conditions.culture temp.type	growth
+[].Culture and growth conditions.culture temp.growth	no
+[].Culture and growth conditions.culture temp.growth	positive
+[].Isolation, sampling and environmental information.isolation.[].continent	Africa
+[].Isolation, sampling and environmental information.isolation.[].continent	Australia and Oceania
+[].Isolation, sampling and environmental information.isolation.[].continent	Antarctica
+[].Isolation, sampling and environmental information.isolation.[].continent	North America
+[].Isolation, sampling and environmental information.isolation.[].continent	Middle and South America
+[].Isolation, sampling and environmental information.isolation.[].continent	Arctic
+[].Isolation, sampling and environmental information.isolation.[].continent	Asia
+[].Isolation, sampling and environmental information.isolation.[].continent	Europe
+[].Safety information.risk assessment.biosafety level	3**
+[].Safety information.risk assessment.biosafety level	L1
+[].Safety information.risk assessment.biosafety level	3
+[].Safety information.risk assessment.biosafety level	2
+[].Safety information.risk assessment.biosafety level	1
+[].Safety information.risk assessment.biosafety level comment	Risk group (French classification)
+[].Safety information.risk assessment.biosafety level comment	Risk group (German classification)
+[].Safety information.risk assessment.biosafety level comment	German classification
+[].Safety information.risk assessment.biosafety level comment	Risk group
+[].Name and taxonomic classification.LPSN.synonyms.@ref	20215
+[].Physiology and metabolism.metabolite production.[].production	no
+[].Physiology and metabolism.metabolite production.[].production	yes
+[].Sequence information.16S sequences.database	ena
+[].Sequence information.16S sequences.database	nuccore
+[].Sequence information.16S sequences.[].database	nuccore
+[].Sequence information.16S sequences.[].database	ena
+[].Culture and growth conditions.culture medium.growth	yes
+[].Culture and growth conditions.culture medium.growth	no
+[].Physiology and metabolism.halophily.[].tested relation	optimum
+[].Physiology and metabolism.halophily.[].tested relation	minimum
+[].Physiology and metabolism.halophily.[].tested relation	other
+[].Physiology and metabolism.halophily.[].tested relation	maximum
+[].Physiology and metabolism.halophily.[].tested relation	resistant
+[].Physiology and metabolism.halophily.[].tested relation	growth
+[].Physiology and metabolism.halophily.[].salt	Marine salts
+[].Physiology and metabolism.halophily.[].salt	MgCl2x6H2O
+[].Physiology and metabolism.halophily.[].salt	Na+
+[].Physiology and metabolism.halophily.[].salt	NaCl
+[].Physiology and metabolism.halophily.[].salt	Sea Salts (S9883)
+[].Physiology and metabolism.halophily.[].salt	MgSO4x7H2O
+[].Physiology and metabolism.halophily.[].salt	Na2SO4
+[].Physiology and metabolism.halophily.[].salt	KCl
+[].Physiology and metabolism.halophily.[].salt	MgCl2
+[].Physiology and metabolism.halophily.[].salt	Chromium (Cr6+)
+[].Physiology and metabolism.halophily.[].salt	NaCL
+[].Physiology and metabolism.oxygen tolerance.oxygen tolerance	obligate aerobe
+[].Physiology and metabolism.oxygen tolerance.oxygen tolerance	anaerobe
+[].Physiology and metabolism.oxygen tolerance.oxygen tolerance	microaerophile
+[].Physiology and metabolism.oxygen tolerance.oxygen tolerance	facultative anaerobe
+[].Physiology and metabolism.oxygen tolerance.oxygen tolerance	facultative aerobe
+[].Physiology and metabolism.oxygen tolerance.oxygen tolerance	obligate anaerobe
+[].Physiology and metabolism.oxygen tolerance.oxygen tolerance	aerobe
+[].Physiology and metabolism.oxygen tolerance.oxygen tolerance	aerotolerant
+[].Physiology and metabolism.oxygen tolerance.oxygen tolerance	microaerotolerant
+[].Physiology and metabolism.halophily.[].growth	no
+[].Physiology and metabolism.halophily.[].growth	positive
+[].Physiology and metabolism.halophily.[].growth	inconsistent
+[].Physiology and metabolism.metabolite tests.[].metabolite	acetoin
+[].Physiology and metabolism.metabolite tests.[].metabolite	hydrogen sulfide
+[].Physiology and metabolism.metabolite tests.[].metabolite	indole
+[].Physiology and metabolism.metabolite tests.[].metabolite	gelatin
+[].Physiology and metabolism.metabolite tests.[].metabolite	nitrate
+[].Physiology and metabolism.metabolite tests.[].metabolite	glucose
+[].Physiology and metabolism.metabolite tests.[].metabolite	tryptophan
+[].Physiology and metabolism.metabolite tests.[].metabolite	citrate
+[].Physiology and metabolism.metabolite tests.[].metabolite	dna
+[].Physiology and metabolism.metabolite tests.[].Chebi-ID	35581
+[].Physiology and metabolism.metabolite tests.[].Chebi-ID	27897
+[].Physiology and metabolism.metabolite tests.[].Chebi-ID	15688
+[].Physiology and metabolism.metabolite tests.[].Chebi-ID	16991
+[].Physiology and metabolism.metabolite tests.[].Chebi-ID	16947
+[].Physiology and metabolism.metabolite tests.[].Chebi-ID	17234
+[].Physiology and metabolism.metabolite tests.[].Chebi-ID	17632
+[].Physiology and metabolism.metabolite tests.[].Chebi-ID	16136
+[].Physiology and metabolism.metabolite tests.[].Chebi-ID	5291
+[].Physiology and metabolism.metabolite production.production	no
+[].Physiology and metabolism.metabolite production.production	yes
+[].Isolation, sampling and environmental information.taxonmaps.@ref	69479
+[].Morphology.cell morphology.gram stain	variable
+[].Morphology.cell morphology.gram stain	negative
+[].Morphology.cell morphology.gram stain	positive
+[].Physiology and metabolism.metabolite tests.metabolite	acetoin
+[].Physiology and metabolism.metabolite tests.metabolite	hydrogen sulfide
+[].Physiology and metabolism.metabolite tests.metabolite	glucose
+[].Physiology and metabolism.metabolite tests.metabolite	indole
+[].Physiology and metabolism.metabolite tests.metabolite	citrate
+[].Physiology and metabolism.metabolite tests.metabolite	gelatin
+[].Physiology and metabolism.metabolite tests.metabolite	nitrate
+[].Physiology and metabolism.metabolite tests.Chebi-ID	16947
+[].Physiology and metabolism.metabolite tests.Chebi-ID	17234
+[].Physiology and metabolism.metabolite tests.Chebi-ID	17632
+[].Physiology and metabolism.metabolite tests.Chebi-ID	16136
+[].Physiology and metabolism.metabolite tests.Chebi-ID	5291
+[].Physiology and metabolism.metabolite tests.Chebi-ID	35581
+[].Physiology and metabolism.metabolite tests.Chebi-ID	15688
+[].Culture and growth conditions.culture pH.[].type	optimum
+[].Culture and growth conditions.culture pH.[].type	minimum
+[].Culture and growth conditions.culture pH.[].type	maximum
+[].Culture and growth conditions.culture pH.[].type	growth
+[].Culture and growth conditions.culture pH.[].ability	inconsistent
+[].Culture and growth conditions.culture pH.[].ability	no
+[].Culture and growth conditions.culture pH.[].ability	positive
+[].Isolation, sampling and environmental information.isolation source categories.Cat1	#Condition
+[].Isolation, sampling and environmental information.isolation source categories.Cat1	#Climate
+[].Isolation, sampling and environmental information.isolation source categories.Cat1	#Environmental
+[].Isolation, sampling and environmental information.isolation source categories.Cat1	#Host Body-Site
+[].Isolation, sampling and environmental information.isolation source categories.Cat1	#Engineered
+[].Isolation, sampling and environmental information.isolation source categories.Cat1	#Infection
+[].Isolation, sampling and environmental information.isolation source categories.Cat1	#Host
+[].Isolation, sampling and environmental information.isolation source categories.Cat1	#Host Body Product
+[].Morphology.cell morphology.motility	no
+[].Morphology.cell morphology.motility	yes
+[].Physiology and metabolism.API zym.Lipase	+/-
+[].Physiology and metabolism.API zym.Lipase	+
+[].Physiology and metabolism.API zym.Lipase	-
+[].Physiology and metabolism.API zym.Trypsin	+/-
+[].Physiology and metabolism.API zym.Trypsin	-
+[].Physiology and metabolism.API zym.Trypsin	+
+[].Physiology and metabolism.API zym.N-acetyl-beta- glucosaminidase	+/-
+[].Physiology and metabolism.API zym.N-acetyl-beta- glucosaminidase	-
+[].Physiology and metabolism.API zym.N-acetyl-beta- glucosaminidase	+
+[].Physiology and metabolism.API zym.Esterase	+/-
+[].Physiology and metabolism.API zym.Esterase	-
+[].Physiology and metabolism.API zym.Esterase	+
+[].Physiology and metabolism.API zym.Cystine arylamidase	+/-
+[].Physiology and metabolism.API zym.Cystine arylamidase	-
+[].Physiology and metabolism.API zym.Cystine arylamidase	+
+[].Physiology and metabolism.API zym.Alkaline phosphatase	+/-
+[].Physiology and metabolism.API zym.Alkaline phosphatase	+
+[].Physiology and metabolism.API zym.Alkaline phosphatase	-
+[].Physiology and metabolism.API zym.Acid phosphatase	-
+[].Physiology and metabolism.API zym.Acid phosphatase	+/-
+[].Physiology and metabolism.API zym.Acid phosphatase	+
+[].Physiology and metabolism.API zym.Valine arylamidase	+/-
+[].Physiology and metabolism.API zym.Valine arylamidase	-
+[].Physiology and metabolism.API zym.Valine arylamidase	+
+[].Physiology and metabolism.API zym.Esterase Lipase	+/-
+[].Physiology and metabolism.API zym.Esterase Lipase	-
+[].Physiology and metabolism.API zym.Esterase Lipase	+
+[].Physiology and metabolism.API zym.beta- Glucuronidase	+/-
+[].Physiology and metabolism.API zym.beta- Glucuronidase	-
+[].Physiology and metabolism.API zym.beta- Glucuronidase	+
+[].Physiology and metabolism.API zym.beta- Glucosidase	+
+[].Physiology and metabolism.API zym.beta- Glucosidase	+/-
+[].Physiology and metabolism.API zym.beta- Glucosidase	-
+[].Physiology and metabolism.API zym.alpha- Mannosidase	+
+[].Physiology and metabolism.API zym.alpha- Mannosidase	+/-
+[].Physiology and metabolism.API zym.alpha- Mannosidase	-
+[].Physiology and metabolism.API zym.alpha- Glucosidase	+
+[].Physiology and metabolism.API zym.alpha- Glucosidase	+/-
+[].Physiology and metabolism.API zym.alpha- Glucosidase	-
+[].Physiology and metabolism.API zym.alpha- Chymotrypsin	+/-
+[].Physiology and metabolism.API zym.alpha- Chymotrypsin	+
+[].Physiology and metabolism.API zym.alpha- Chymotrypsin	-
+[].Physiology and metabolism.API zym.Naphthol-AS-BI-phosphohydrolase	-
+[].Physiology and metabolism.API zym.Naphthol-AS-BI-phosphohydrolase	+
+[].Physiology and metabolism.API zym.Naphthol-AS-BI-phosphohydrolase	+/-
+[].Physiology and metabolism.API zym.Leucine arylamidase	+/-
+[].Physiology and metabolism.API zym.Leucine arylamidase	+
+[].Physiology and metabolism.API zym.Leucine arylamidase	-
+[].Physiology and metabolism.API zym.beta- Galactosidase	-
+[].Physiology and metabolism.API zym.beta- Galactosidase	+/-
+[].Physiology and metabolism.API zym.beta- Galactosidase	+
+[].Physiology and metabolism.API zym.alpha- Fucosidase	+
+[].Physiology and metabolism.API zym.alpha- Fucosidase	+/-
+[].Physiology and metabolism.API zym.alpha- Fucosidase	-
+[].Physiology and metabolism.API zym.alpha- Galactosidase	+
+[].Physiology and metabolism.API zym.alpha- Galactosidase	+/-
+[].Physiology and metabolism.API zym.alpha- Galactosidase	-
+[].Safety information.risk assessment.[].biosafety level	1
+[].Safety information.risk assessment.[].biosafety level	L1
+[].Safety information.risk assessment.[].biosafety level	3**
+[].Safety information.risk assessment.[].biosafety level	2
+[].Safety information.risk assessment.[].biosafety level	3
+[].Safety information.risk assessment.[].biosafety level	1+
+[].External links.literature.topic	Genetics
+[].External links.literature.topic	Pathogenicity
+[].External links.literature.topic	Cultivation
+[].External links.literature.topic	Metabolism
+[].External links.literature.topic	Physiology
+[].External links.literature.topic	Phenotype
+[].External links.literature.topic	Proteome
+[].External links.literature.topic	Biotechnology
+[].External links.literature.topic	Phylogeny
+[].External links.literature.topic	Enzymology
+[].External links.literature.topic	Stress
+[].External links.literature.topic	Transcriptome
+[].Physiology and metabolism.antibiotic resistance.[].is sensitive	no
+[].Physiology and metabolism.antibiotic resistance.[].is sensitive	yes
+[].Physiology and metabolism.oxygen tolerance.[].oxygen tolerance	obligate aerobe
+[].Physiology and metabolism.oxygen tolerance.[].oxygen tolerance	anaerobe
+[].Physiology and metabolism.oxygen tolerance.[].oxygen tolerance	microaerophile
+[].Physiology and metabolism.oxygen tolerance.[].oxygen tolerance	facultative aerobe
+[].Physiology and metabolism.oxygen tolerance.[].oxygen tolerance	facultative anaerobe
+[].Physiology and metabolism.oxygen tolerance.[].oxygen tolerance	aerobe
+[].Physiology and metabolism.oxygen tolerance.[].oxygen tolerance	obligate anaerobe
+[].Physiology and metabolism.oxygen tolerance.[].oxygen tolerance	aerotolerant
+[].Physiology and metabolism.oxygen tolerance.[].oxygen tolerance	microaerotolerant
+[].Safety information.risk assessment.[].biosafety level comment	German classification
+[].Safety information.risk assessment.[].biosafety level comment	Risk group (French classification)
+[].Safety information.risk assessment.[].biosafety level comment	Risk group (german classification)
+[].Safety information.risk assessment.[].biosafety level comment	Risk group (German classification)
+[].Safety information.risk assessment.[].biosafety level comment	risk group (German classification)
+[].Safety information.risk assessment.[].biosafety level comment	Hazard group
+[].Safety information.risk assessment.[].biosafety level comment	Hazard group (German classification)
+[].Safety information.risk assessment.[].biosafety level comment	hazard group
+[].Safety information.risk assessment.[].biosafety level comment	Risk group
+[].Physiology and metabolism.API zym.Control	+/-
+[].Physiology and metabolism.API zym.Control	+
+[].Physiology and metabolism.API zym.Control	-
+[].External links.literature.topic2	Transcriptome
+[].External links.literature.topic2	Phylogeny
+[].External links.literature.topic2	Biotechnology
+[].External links.literature.topic2	Genetics
+[].External links.literature.topic2	Physiology
+[].External links.literature.topic2	Cultivation
+[].External links.literature.topic2	Metabolism
+[].External links.literature.topic2	Stress
+[].External links.literature.topic2	Proteome
+[].External links.literature.topic2	Pathogenicity
+[].External links.literature.topic2	Phenotype
+[].External links.literature.topic2	Enzymology
+[].Physiology and metabolism.metabolite tests.[].voges-proskauer-test	+
+[].Physiology and metabolism.metabolite tests.[].voges-proskauer-test	+/-
+[].Physiology and metabolism.metabolite tests.[].voges-proskauer-test	-
+[].Morphology.multicellular morphology.[].forms multicellular complex	yes
+[].Morphology.multicellular morphology.[].forms multicellular complex	no
+[].General.NCBI tax id.[].Matching level	species
+[].General.NCBI tax id.[].Matching level	strain
+[].General.NCBI tax id.[].Matching level	subspecies
+[].Sequence information.GC content.[].method	Thermal denaturation, fluorometry
+[].Sequence information.GC content.[].method	genome sequence analysis
+[].Sequence information.GC content.[].method	fluorimetric
+[].Sequence information.GC content.[].method	high performance liquid chromatography (HPLC)
+[].Sequence information.GC content.[].method	capillary zone electrophoresis (CZE)
+[].Sequence information.GC content.[].method	real time PCR (RTD-PCR)
+[].Sequence information.GC content.[].method	thermal denaturation, midpoint method (Tm)
+[].Sequence information.GC content.[].method	sequence analysis
+[].Sequence information.GC content.[].method	paper chromatography
+[].Sequence information.GC content.[].method	Buoyant density centrifugation (BD)
+[].Sequence information.GC content.method	sequence analysis
+[].Sequence information.GC content.method	genome sequence analysis
+[].Sequence information.GC content.method	Buoyant density centrifugation (BD)
+[].Sequence information.GC content.method	Thermal denaturation, fluorometry
+[].Sequence information.GC content.method	fluorimetric
+[].Sequence information.GC content.method	capillary zone electrophoresis (CZE)
+[].Sequence information.GC content.method	thermal denaturation, midpoint method (Tm)
+[].Sequence information.GC content.method	paper chromatography
+[].Sequence information.GC content.method	high performance liquid chromatography (HPLC)
+[].Sequence information.GC content.method	real time PCR (RTD-PCR)
+[].Physiology and metabolism.metabolite tests.indole test	+
+[].Physiology and metabolism.metabolite tests.indole test	-
+[].Physiology and metabolism.antibiotic resistance.[].is resistant	yes
+[].Physiology and metabolism.antibiotic resistance.[].is resistant	no
+[].Physiology and metabolism.API 50CHac.XLT	+
+[].Physiology and metabolism.API 50CHac.XLT	+/-
+[].Physiology and metabolism.API 50CHac.XLT	-
+[].Physiology and metabolism.API 50CHac.TUR	+/-
+[].Physiology and metabolism.API 50CHac.TUR	-
+[].Physiology and metabolism.API 50CHac.TUR	+
+[].Physiology and metabolism.API 50CHac.TRE	+
+[].Physiology and metabolism.API 50CHac.TRE	+/-
+[].Physiology and metabolism.API 50CHac.TRE	-
+[].Physiology and metabolism.API 50CHac.TAG	+/-
+[].Physiology and metabolism.API 50CHac.TAG	+
+[].Physiology and metabolism.API 50CHac.TAG	-
+[].Physiology and metabolism.API 50CHac.SOR	+/-
+[].Physiology and metabolism.API 50CHac.SOR	-
+[].Physiology and metabolism.API 50CHac.SOR	+
+[].Physiology and metabolism.API 50CHac.SBE	+/-
+[].Physiology and metabolism.API 50CHac.SBE	-
+[].Physiology and metabolism.API 50CHac.SBE	+
+[].Physiology and metabolism.API 50CHac.SAL	+/-
+[].Physiology and metabolism.API 50CHac.SAL	-
+[].Physiology and metabolism.API 50CHac.SAL	+
+[].Physiology and metabolism.API 50CHac.RHA	-
+[].Physiology and metabolism.API 50CHac.RHA	+/-
+[].Physiology and metabolism.API 50CHac.RHA	+
+[].Physiology and metabolism.API 50CHac.RAF	-
+[].Physiology and metabolism.API 50CHac.RAF	+/-
+[].Physiology and metabolism.API 50CHac.RAF	+
+[].Physiology and metabolism.API 50CHac.NAG	+/-
+[].Physiology and metabolism.API 50CHac.NAG	-
+[].Physiology and metabolism.API 50CHac.NAG	+
+[].Physiology and metabolism.API 50CHac.MNE	+/-
+[].Physiology and metabolism.API 50CHac.MNE	-
+[].Physiology and metabolism.API 50CHac.MNE	+
+[].Physiology and metabolism.API 50CHac.MLZ	+
+[].Physiology and metabolism.API 50CHac.MLZ	+/-
+[].Physiology and metabolism.API 50CHac.MLZ	-
+[].Physiology and metabolism.API 50CHac.MEL	+/-
+[].Physiology and metabolism.API 50CHac.MEL	-
+[].Physiology and metabolism.API 50CHac.MEL	+
+[].Physiology and metabolism.API 50CHac.MDX	+/-
+[].Physiology and metabolism.API 50CHac.MDX	-
+[].Physiology and metabolism.API 50CHac.MDX	+
+[].Physiology and metabolism.API 50CHac.MDM	+
+[].Physiology and metabolism.API 50CHac.MDM	+/-
+[].Physiology and metabolism.API 50CHac.MDM	-
+[].Physiology and metabolism.API 50CHac.MDG	+/-
+[].Physiology and metabolism.API 50CHac.MDG	+
+[].Physiology and metabolism.API 50CHac.MDG	-
+[].Physiology and metabolism.API 50CHac.MAN	+
+[].Physiology and metabolism.API 50CHac.MAN	+/-
+[].Physiology and metabolism.API 50CHac.MAN	-
+[].Physiology and metabolism.API 50CHac.MAL	+/-
+[].Physiology and metabolism.API 50CHac.MAL	-
+[].Physiology and metabolism.API 50CHac.MAL	+
+[].Physiology and metabolism.API 50CHac.LYX	+/-
+[].Physiology and metabolism.API 50CHac.LYX	-
+[].Physiology and metabolism.API 50CHac.LYX	+
+[].Physiology and metabolism.API 50CHac.LXYL	+
+[].Physiology and metabolism.API 50CHac.LXYL	+/-
+[].Physiology and metabolism.API 50CHac.LXYL	-
+[].Physiology and metabolism.API 50CHac.LFUC	-
+[].Physiology and metabolism.API 50CHac.LFUC	+/-
+[].Physiology and metabolism.API 50CHac.LFUC	+
+[].Physiology and metabolism.API 50CHac.LARL	+
+[].Physiology and metabolism.API 50CHac.LARL	+/-
+[].Physiology and metabolism.API 50CHac.LARL	-
+[].Physiology and metabolism.API 50CHac.LARA	+/-
+[].Physiology and metabolism.API 50CHac.LARA	-
+[].Physiology and metabolism.API 50CHac.LARA	+
+[].Physiology and metabolism.API 50CHac.LAC	+/-
+[].Physiology and metabolism.API 50CHac.LAC	-
+[].Physiology and metabolism.API 50CHac.LAC	+
+[].Physiology and metabolism.API 50CHac.INU	+/-
+[].Physiology and metabolism.API 50CHac.INU	-
+[].Physiology and metabolism.API 50CHac.INU	+
+[].Physiology and metabolism.API 50CHac.INO	-
+[].Physiology and metabolism.API 50CHac.INO	+/-
+[].Physiology and metabolism.API 50CHac.INO	+
+[].Physiology and metabolism.API 50CHac.GNT	+/-
+[].Physiology and metabolism.API 50CHac.GNT	+
+[].Physiology and metabolism.API 50CHac.GNT	-
+[].Physiology and metabolism.API 50CHac.GLYG	+
+[].Physiology and metabolism.API 50CHac.GLYG	-
+[].Physiology and metabolism.API 50CHac.GLYG	+/-
+[].Physiology and metabolism.API 50CHac.GLY	+/-
+[].Physiology and metabolism.API 50CHac.GLY	-
+[].Physiology and metabolism.API 50CHac.GLY	+
+[].Physiology and metabolism.API 50CHac.GLU	+/-
+[].Physiology and metabolism.API 50CHac.GLU	-
+[].Physiology and metabolism.API 50CHac.GLU	+
+[].Physiology and metabolism.API 50CHac.GAL	+/-
+[].Physiology and metabolism.API 50CHac.GAL	-
+[].Physiology and metabolism.API 50CHac.GAL	+
+[].Physiology and metabolism.API 50CHac.FRU	+
+[].Physiology and metabolism.API 50CHac.FRU	-
+[].Physiology and metabolism.API 50CHac.FRU	+/-
+[].Physiology and metabolism.API 50CHac.ESC	+/-
+[].Physiology and metabolism.API 50CHac.ESC	-
+[].Physiology and metabolism.API 50CHac.ESC	+
+[].Physiology and metabolism.API 50CHac.ERY	-
+[].Physiology and metabolism.API 50CHac.ERY	+
+[].Physiology and metabolism.API 50CHac.ERY	+/-
+[].Physiology and metabolism.API 50CHac.DXYL	+/-
+[].Physiology and metabolism.API 50CHac.DXYL	-
+[].Physiology and metabolism.API 50CHac.DXYL	+
+[].Physiology and metabolism.API 50CHac.DUL	+/-
+[].Physiology and metabolism.API 50CHac.DUL	-
+[].Physiology and metabolism.API 50CHac.DUL	+
+[].Physiology and metabolism.API 50CHac.DFUC	+
+[].Physiology and metabolism.API 50CHac.DFUC	+/-
+[].Physiology and metabolism.API 50CHac.DFUC	-
+[].Physiology and metabolism.API 50CHac.DARL	+/-
+[].Physiology and metabolism.API 50CHac.DARL	+
+[].Physiology and metabolism.API 50CHac.DARL	-
+[].Physiology and metabolism.API 50CHac.DARA	+
+[].Physiology and metabolism.API 50CHac.DARA	+/-
+[].Physiology and metabolism.API 50CHac.DARA	-
+[].Physiology and metabolism.API 50CHac.CEL	-
+[].Physiology and metabolism.API 50CHac.CEL	+/-
+[].Physiology and metabolism.API 50CHac.CEL	+
+[].Physiology and metabolism.API 50CHac.ARB	-
+[].Physiology and metabolism.API 50CHac.ARB	+/-
+[].Physiology and metabolism.API 50CHac.ARB	+
+[].Physiology and metabolism.API 50CHac.AMY	+/-
+[].Physiology and metabolism.API 50CHac.AMY	+
+[].Physiology and metabolism.API 50CHac.AMY	-
+[].Physiology and metabolism.API 50CHac.AMD	+/-
+[].Physiology and metabolism.API 50CHac.AMD	+
+[].Physiology and metabolism.API 50CHac.AMD	-
+[].Physiology and metabolism.API 50CHac.ADO	+/-
+[].Physiology and metabolism.API 50CHac.ADO	-
+[].Physiology and metabolism.API 50CHac.ADO	+
+[].Physiology and metabolism.API 50CHac.2KG	+
+[].Physiology and metabolism.API 50CHac.2KG	+/-
+[].Physiology and metabolism.API 50CHac.2KG	-
+[].Physiology and metabolism.API 50CHac.SAC	+/-
+[].Physiology and metabolism.API 50CHac.SAC	+
+[].Physiology and metabolism.API 50CHac.SAC	-
+[].Physiology and metabolism.API 50CHac.RIB	+/-
+[].Physiology and metabolism.API 50CHac.RIB	-
+[].Physiology and metabolism.API 50CHac.RIB	+
+[].Physiology and metabolism.API 50CHac.GEN	+/-
+[].Physiology and metabolism.API 50CHac.GEN	-
+[].Physiology and metabolism.API 50CHac.GEN	+
+[].Physiology and metabolism.API 50CHac.5KG	+
+[].Physiology and metabolism.API 50CHac.5KG	+/-
+[].Physiology and metabolism.API 50CHac.5KG	-
+[].Morphology.multicellular morphology.forms multicellular complex	yes
+[].Morphology.multicellular morphology.forms multicellular complex	no
+[].Physiology and metabolism.metabolite tests.[].indole test	+
+[].Physiology and metabolism.metabolite tests.[].indole test	-
+[].Physiology and metabolism.fatty acid profile.type of FA analysis	whole cell analysis
+[].Morphology.cell morphology.[].gram stain	negative
+[].Morphology.cell morphology.[].gram stain	positive
+[].Morphology.cell morphology.[].gram stain	variable
+[].Physiology and metabolism.spore formation.spore formation	no
+[].Physiology and metabolism.spore formation.spore formation	yes
+[].Morphology.cell morphology.[].motility	no
+[].Morphology.cell morphology.[].motility	yes
+[].Sequence information.Genome sequences.database	img
+[].Sequence information.Genome sequences.database	ncbi
+[].Sequence information.Genome sequences.database	patric
+[].Sequence information.Genome sequences.assembly level	plasmid
+[].Sequence information.Genome sequences.assembly level	scaffold
+[].Sequence information.Genome sequences.assembly level	chromosome
+[].Sequence information.Genome sequences.assembly level	contig
+[].Sequence information.Genome sequences.assembly level	wgs
+[].Sequence information.Genome sequences.assembly level	complete
+[].Sequence information.Genome sequences.assembly level	draft
+[].Physiology and metabolism.metabolite tests.voges-proskauer-test	+/-
+[].Physiology and metabolism.metabolite tests.voges-proskauer-test	-
+[].Physiology and metabolism.metabolite tests.voges-proskauer-test	+
+[].Physiology and metabolism.antibiotic resistance.is antibiotic	yes
+[].Morphology.pigmentation.production	yes
+[].Morphology.pigmentation.production	no
+[].Culture and growth conditions.culture pH.[].PH range	acidophile
+[].Culture and growth conditions.culture pH.[].PH range	alkaliphile
+[].Physiology and metabolism.antibiotic resistance.is resistant	yes
+[].Physiology and metabolism.antibiotic resistance.is resistant	no
+[].Physiology and metabolism.API biotype100.TTE	+
+[].Physiology and metabolism.API biotype100.TTE	-
+[].Physiology and metabolism.API biotype100.TRY	-
+[].Physiology and metabolism.API biotype100.TRY	+
+[].Physiology and metabolism.API biotype100.TRE	-
+[].Physiology and metabolism.API biotype100.TRE	+
+[].Physiology and metabolism.API biotype100.TATE	-
+[].Physiology and metabolism.API biotype100.TATE	+
+[].Physiology and metabolism.API biotype100.SOR	+
+[].Physiology and metabolism.API biotype100.SOR	-
+[].Physiology and metabolism.API biotype100.SAT	-
+[].Physiology and metabolism.API biotype100.SAT	+
+[].Physiology and metabolism.API biotype100.SAC	-
+[].Physiology and metabolism.API biotype100.SAC	+
+[].Physiology and metabolism.API biotype100.RIB	+
+[].Physiology and metabolism.API biotype100.RIB	-
+[].Physiology and metabolism.API biotype100.RHA	+
+[].Physiology and metabolism.API biotype100.RHA	-
+[].Physiology and metabolism.API biotype100.pOBE	-
+[].Physiology and metabolism.API biotype100.pOBE	+
+[].Physiology and metabolism.API biotype100.PLE	-
+[].Physiology and metabolism.API biotype100.PLE	+
+[].Physiology and metabolism.API biotype100.PAT	+
+[].Physiology and metabolism.API biotype100.PAT	-
+[].Physiology and metabolism.API biotype100.PAC	-
+[].Physiology and metabolism.API biotype100.PAC	+
+[].Physiology and metabolism.API biotype100.NAG	-
+[].Physiology and metabolism.API biotype100.NAG	+
+[].Physiology and metabolism.API biotype100.MUC	-
+[].Physiology and metabolism.API biotype100.MUC	+
+[].Physiology and metabolism.API biotype100.MTL	-
+[].Physiology and metabolism.API biotype100.MTL	+
+[].Physiology and metabolism.API biotype100.MTE	-
+[].Physiology and metabolism.API biotype100.MTE	+
+[].Physiology and metabolism.API biotype100.MTAT	-
+[].Physiology and metabolism.API biotype100.MTAT	+
+[].Physiology and metabolism.API biotype100.MLZ	+
+[].Physiology and metabolism.API biotype100.MLZ	-
+[].Physiology and metabolism.API biotype100.MEL	+
+[].Physiology and metabolism.API biotype100.MEL	-
+[].Physiology and metabolism.API biotype100.MDG	-
+[].Physiology and metabolism.API biotype100.MDG	+
+[].Physiology and metabolism.API biotype100.MbGu	-
+[].Physiology and metabolism.API biotype100.MbGu	+
+[].Physiology and metabolism.API biotype100.MbGa	-
+[].Physiology and metabolism.API biotype100.MbGa	+
+[].Physiology and metabolism.API biotype100.MAN	-
+[].Physiology and metabolism.API biotype100.MAN	+
+[].Physiology and metabolism.API biotype100.MaGa	-
+[].Physiology and metabolism.API biotype100.MaGa	+
+[].Physiology and metabolism.API biotype100.LTE	+
+[].Physiology and metabolism.API biotype100.LTE	-
+[].Physiology and metabolism.API biotype100.LTAT	+
+[].Physiology and metabolism.API biotype100.LTAT	-
+[].Physiology and metabolism.API biotype100.LMLT	-
+[].Physiology and metabolism.API biotype100.LMLT	+
+[].Physiology and metabolism.API biotype100.INO	+
+[].Physiology and metabolism.API biotype100.INO	-
+[].Physiology and metabolism.API biotype100.HBG	+
+[].Physiology and metabolism.API biotype100.HBG	-
+[].Physiology and metabolism.API biotype100.GRT	+
+[].Physiology and metabolism.API biotype100.GRT	-
+[].Physiology and metabolism.API biotype100.GNT	+
+[].Physiology and metabolism.API biotype100.GNT	-
+[].Physiology and metabolism.API biotype100.GEN	+
+[].Physiology and metabolism.API biotype100.GEN	-
+[].Physiology and metabolism.API biotype100.GAT	-
+[].Physiology and metabolism.API biotype100.GAT	+
+[].Physiology and metabolism.API biotype100.GAL	+
+[].Physiology and metabolism.API biotype100.GAL	-
+[].Physiology and metabolism.API biotype100.ESC	+
+[].Physiology and metabolism.API biotype100.ESC	-
+[].Physiology and metabolism.API biotype100.ERY	+
+[].Physiology and metabolism.API biotype100.ERY	-
+[].Physiology and metabolism.API biotype100.DTAT	-
+[].Physiology and metabolism.API biotype100.DTAT	+
+[].Physiology and metabolism.API biotype100.DMLT	+
+[].Physiology and metabolism.API biotype100.DMLT	-
+[].Physiology and metabolism.API biotype100.CIT	+
+[].Physiology and metabolism.API biotype100.CIT	-
+[].Physiology and metabolism.API biotype100.CEL	+
+[].Physiology and metabolism.API biotype100.CEL	-
+[].Physiology and metabolism.API biotype100.CATE	-
+[].Physiology and metabolism.API biotype100.CATE	+
+[].Physiology and metabolism.API biotype100.5KG	+
+[].Physiology and metabolism.API biotype100.5KG	-
+[].Physiology and metabolism.API biotype100.3MDG	+
+[].Physiology and metabolism.API biotype100.3MDG	-
+[].Physiology and metabolism.API biotype100.2KG	+
+[].Physiology and metabolism.API biotype100.2KG	-
+[].Physiology and metabolism.API biotype100.XYL	+
+[].Physiology and metabolism.API biotype100.XYL	-
+[].Physiology and metabolism.API biotype100.XLT	+
+[].Physiology and metabolism.API biotype100.XLT	-
+[].Physiology and metabolism.API biotype100.TUR	-
+[].Physiology and metabolism.API biotype100.TUR	+
+[].Physiology and metabolism.API biotype100.TAG	+
+[].Physiology and metabolism.API biotype100.TAG	-
+[].Physiology and metabolism.API biotype100.SBE	+
+[].Physiology and metabolism.API biotype100.SBE	-
+[].Physiology and metabolism.API biotype100.RAF	+
+[].Physiology and metabolism.API biotype100.RAF	-
+[].Physiology and metabolism.API biotype100.MNE	+
+[].Physiology and metabolism.API biotype100.MNE	-
+[].Physiology and metabolism.API biotype100.MAL	-
+[].Physiology and metabolism.API biotype100.MAL	+
+[].Physiology and metabolism.API biotype100.LYX	+
+[].Physiology and metabolism.API biotype100.LYX	-
+[].Physiology and metabolism.API biotype100.LARL	+
+[].Physiology and metabolism.API biotype100.LARL	-
+[].Physiology and metabolism.API biotype100.LAC	+
+[].Physiology and metabolism.API biotype100.LAC	-
+[].Physiology and metabolism.API biotype100.GLY	+
+[].Physiology and metabolism.API biotype100.GLY	-
+[].Physiology and metabolism.API biotype100.GLU	-
+[].Physiology and metabolism.API biotype100.GLU	+
+[].Physiology and metabolism.API biotype100.FUC	+
+[].Physiology and metabolism.API biotype100.FUC	-
+[].Physiology and metabolism.API biotype100.FRU	+
+[].Physiology and metabolism.API biotype100.FRU	-
+[].Physiology and metabolism.API biotype100.DUL	+
+[].Physiology and metabolism.API biotype100.DUL	-
+[].Physiology and metabolism.API biotype100.DARL	+
+[].Physiology and metabolism.API biotype100.DARL	-
+[].Physiology and metabolism.API biotype100.ARA	+
+[].Physiology and metabolism.API biotype100.ARA	-
+[].Physiology and metabolism.API biotype100.ADO	+
+[].Physiology and metabolism.API biotype100.ADO	-
+[].Physiology and metabolism.API biotype100.TGE	+
+[].Physiology and metabolism.API biotype100.TGE	-
+[].Physiology and metabolism.API biotype100.SUC	+
+[].Physiology and metabolism.API biotype100.SUC	-
+[].Physiology and metabolism.API biotype100.QAT	-
+[].Physiology and metabolism.API biotype100.QAT	+
+[].Physiology and metabolism.API biotype100.PPAT	-
+[].Physiology and metabolism.API biotype100.PPAT	+
+[].Physiology and metabolism.API biotype100.PCE	-
+[].Physiology and metabolism.API biotype100.PCE	+
+[].Physiology and metabolism.API biotype100.mOBE	+
+[].Physiology and metabolism.API biotype100.mOBE	-
+[].Physiology and metabolism.API biotype100.LAT	+
+[].Physiology and metabolism.API biotype100.LAT	-
+[].Physiology and metabolism.API biotype100.HIS	+
+[].Physiology and metabolism.API biotype100.HIS	-
+[].Physiology and metabolism.API biotype100.HIN	+
+[].Physiology and metabolism.API biotype100.HIN	-
+[].Physiology and metabolism.API biotype100.GTE	-
+[].Physiology and metabolism.API biotype100.GTE	+
+[].Physiology and metabolism.API biotype100.CYT	+
+[].Physiology and metabolism.API biotype100.CYT	-
+[].Physiology and metabolism.API biotype100.CMT	-
+[].Physiology and metabolism.API biotype100.CMT	+
+[].Physiology and metabolism.API biotype100.CAP	-
+[].Physiology and metabolism.API biotype100.CAP	+
+[].Physiology and metabolism.API biotype100.BET	+
+[].Physiology and metabolism.API biotype100.BET	-
+[].Physiology and metabolism.API biotype100.BAT	+
+[].Physiology and metabolism.API biotype100.BAT	-
+[].Physiology and metabolism.API biotype100.ABT	+
+[].Physiology and metabolism.API biotype100.ABT	-
+[].Physiology and metabolism.API biotype100.TTN	+
+[].Physiology and metabolism.API biotype100.TTN	-
+[].Physiology and metabolism.API biotype100.SER	-
+[].Physiology and metabolism.API biotype100.SER	+
+[].Physiology and metabolism.API biotype100.PRO	+
+[].Physiology and metabolism.API biotype100.PRO	-
+[].Physiology and metabolism.API biotype100.MNT	+
+[].Physiology and metabolism.API biotype100.MNT	-
+[].Physiology and metabolism.API biotype100.LALA	-
+[].Physiology and metabolism.API biotype100.LALA	+
+[].Physiology and metabolism.API biotype100.ITA	-
+[].Physiology and metabolism.API biotype100.ITA	+
+[].Physiology and metabolism.API biotype100.GYT	+
+[].Physiology and metabolism.API biotype100.GYT	-
+[].Physiology and metabolism.API biotype100.GTT	-
+[].Physiology and metabolism.API biotype100.GTT	+
+[].Physiology and metabolism.API biotype100.GRE	+
+[].Physiology and metabolism.API biotype100.GRE	-
+[].Physiology and metabolism.API biotype100.GLN	-
+[].Physiology and metabolism.API biotype100.GLN	+
+[].Physiology and metabolism.API biotype100.FUM	+
+[].Physiology and metabolism.API biotype100.FUM	-
+[].Physiology and metabolism.API biotype100.ETN	+
+[].Physiology and metabolism.API biotype100.ETN	-
+[].Physiology and metabolism.API biotype100.DALA	+
+[].Physiology and metabolism.API biotype100.DALA	-
+[].Physiology and metabolism.API biotype100.AVT	+
+[].Physiology and metabolism.API biotype100.AVT	-
+[].Physiology and metabolism.API biotype100.APT	+
+[].Physiology and metabolism.API biotype100.APT	-
+[].Physiology and metabolism.API biotype100.3OBU	+
+[].Physiology and metabolism.API biotype100.3OBU	-
+[].Physiology and metabolism.API biotype100.TYR	-
+[].Physiology and metabolism.API biotype100.TYR	+
+[].Physiology and metabolism.API biotype100.PROP	+
+[].Physiology and metabolism.API biotype100.PROP	-
+[].Physiology and metabolism.API biotype100.2KT	+
+[].Physiology and metabolism.API biotype100.2KT	-
+[].Physiology and metabolism.API rID32STR.TRE	+/-
+[].Physiology and metabolism.API rID32STR.TRE	+
+[].Physiology and metabolism.API rID32STR.TRE	-
+[].Physiology and metabolism.API rID32STR.TAG	-
+[].Physiology and metabolism.API rID32STR.TAG	+
+[].Physiology and metabolism.API rID32STR.TAG	+/-
+[].Physiology and metabolism.API rID32STR.SOR	-
+[].Physiology and metabolism.API rID32STR.SOR	+
+[].Physiology and metabolism.API rID32STR.SOR	+/-
+[].Physiology and metabolism.API rID32STR.SAC	+/-
+[].Physiology and metabolism.API rID32STR.SAC	-
+[].Physiology and metabolism.API rID32STR.SAC	+
+[].Physiology and metabolism.API rID32STR.RIB	+/-
+[].Physiology and metabolism.API rID32STR.RIB	-
+[].Physiology and metabolism.API rID32STR.RIB	+
+[].Physiology and metabolism.API rID32STR.PyrA	-
+[].Physiology and metabolism.API rID32STR.PyrA	+/-
+[].Physiology and metabolism.API rID32STR.PyrA	+
+[].Physiology and metabolism.API rID32STR.PAL	+/-
+[].Physiology and metabolism.API rID32STR.PAL	+
+[].Physiology and metabolism.API rID32STR.PAL	-
+[].Physiology and metabolism.API rID32STR.MEL	+/-
+[].Physiology and metabolism.API rID32STR.MEL	+
+[].Physiology and metabolism.API rID32STR.MEL	-
+[].Physiology and metabolism.API rID32STR.Mbeta DG	+/-
+[].Physiology and metabolism.API rID32STR.Mbeta DG	+
+[].Physiology and metabolism.API rID32STR.Mbeta DG	-
+[].Physiology and metabolism.API rID32STR.MAN	+
+[].Physiology and metabolism.API rID32STR.MAN	+/-
+[].Physiology and metabolism.API rID32STR.MAN	-
+[].Physiology and metabolism.API rID32STR.MAL	+/-
+[].Physiology and metabolism.API rID32STR.MAL	+
+[].Physiology and metabolism.API rID32STR.MAL	-
+[].Physiology and metabolism.API rID32STR.LARA	-
+[].Physiology and metabolism.API rID32STR.LARA	+/-
+[].Physiology and metabolism.API rID32STR.LARA	+
+[].Physiology and metabolism.API rID32STR.LAC	+/-
+[].Physiology and metabolism.API rID32STR.LAC	+
+[].Physiology and metabolism.API rID32STR.LAC	-
+[].Physiology and metabolism.API rID32STR.HIP	+/-
+[].Physiology and metabolism.API rID32STR.HIP	+
+[].Physiology and metabolism.API rID32STR.HIP	-
+[].Physiology and metabolism.API rID32STR.GTA	-
+[].Physiology and metabolism.API rID32STR.GTA	+/-
+[].Physiology and metabolism.API rID32STR.GTA	+
+[].Physiology and metabolism.API rID32STR.DARL	+
+[].Physiology and metabolism.API rID32STR.DARL	+/-
+[].Physiology and metabolism.API rID32STR.DARL	-
+[].Physiology and metabolism.API rID32STR.beta NAG	+
+[].Physiology and metabolism.API rID32STR.beta NAG	-
+[].Physiology and metabolism.API rID32STR.beta NAG	+/-
+[].Physiology and metabolism.API rID32STR.beta MAN	-
+[].Physiology and metabolism.API rID32STR.beta MAN	+/-
+[].Physiology and metabolism.API rID32STR.beta MAN	+
+[].Physiology and metabolism.API rID32STR.beta GUR	+
+[].Physiology and metabolism.API rID32STR.beta GUR	-
+[].Physiology and metabolism.API rID32STR.beta GLU	+
+[].Physiology and metabolism.API rID32STR.beta GLU	+/-
+[].Physiology and metabolism.API rID32STR.beta GLU	-
+[].Physiology and metabolism.API rID32STR.beta GAR	+/-
+[].Physiology and metabolism.API rID32STR.beta GAR	-
+[].Physiology and metabolism.API rID32STR.beta GAR	+
+[].Physiology and metabolism.API rID32STR.alpha GAL	+/-
+[].Physiology and metabolism.API rID32STR.alpha GAL	-
+[].Physiology and metabolism.API rID32STR.alpha GAL	+
+[].Physiology and metabolism.API rID32STR.ADH Arg	+
+[].Physiology and metabolism.API rID32STR.ADH Arg	-
+[].Physiology and metabolism.API rID32STR.RAF	+/-
+[].Physiology and metabolism.API rID32STR.RAF	-
+[].Physiology and metabolism.API rID32STR.RAF	+
+[].Physiology and metabolism.API rID32STR.PUL	+/-
+[].Physiology and metabolism.API rID32STR.PUL	-
+[].Physiology and metabolism.API rID32STR.PUL	+
+[].Physiology and metabolism.API rID32STR.MLZ	+/-
+[].Physiology and metabolism.API rID32STR.MLZ	+
+[].Physiology and metabolism.API rID32STR.MLZ	-
+[].Physiology and metabolism.API rID32STR.GLYG	-
+[].Physiology and metabolism.API rID32STR.GLYG	+/-
+[].Physiology and metabolism.API rID32STR.GLYG	+
+[].Physiology and metabolism.API rID32STR.URE	-
+[].Physiology and metabolism.API rID32STR.URE	+/-
+[].Physiology and metabolism.API rID32STR.URE	+
+[].Physiology and metabolism.API rID32STR.beta GAL	+/-
+[].Physiology and metabolism.API rID32STR.beta GAL	-
+[].Physiology and metabolism.API rID32STR.beta GAL	+
+[].Physiology and metabolism.API rID32STR.APPA	-
+[].Physiology and metabolism.API rID32STR.APPA	+/-
+[].Physiology and metabolism.API rID32STR.APPA	+
+[].Physiology and metabolism.API rID32STR.CDEX	-
+[].Physiology and metabolism.API rID32STR.CDEX	+/-
+[].Physiology and metabolism.API rID32STR.CDEX	+
+[].Physiology and metabolism.API rID32STR.VP	+
+[].Physiology and metabolism.API rID32STR.VP	+/-
+[].Physiology and metabolism.API rID32STR.VP	-
+[].Morphology.multimedia.[].intellectual property rights	© Leibniz-Institut DSMZ
+[].Morphology.multimedia.[].intellectual property rights	Leibniz-Institut DSMZ-Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH
+[].Morphology.multimedia.[].intellectual property rights	© HZI/Manfred Rohde
+[].Morphology.multimedia.[].intellectual property rights	Helmholtz-Zentrum für Infektionsforschung GmbH
+[].Physiology and metabolism.antibiotic resistance.is sensitive	no
+[].Physiology and metabolism.antibiotic resistance.is sensitive	yes
+[].Physiology and metabolism.API 20NE.URE	+/-
+[].Physiology and metabolism.API 20NE.URE	-
+[].Physiology and metabolism.API 20NE.URE	+
+[].Physiology and metabolism.API 20NE.PAC	+/-
+[].Physiology and metabolism.API 20NE.PAC	+
+[].Physiology and metabolism.API 20NE.PAC	-
+[].Physiology and metabolism.API 20NE.NAG	+
+[].Physiology and metabolism.API 20NE.NAG	+/-
+[].Physiology and metabolism.API 20NE.NAG	-
+[].Physiology and metabolism.API 20NE.MNE	+/-
+[].Physiology and metabolism.API 20NE.MNE	+
+[].Physiology and metabolism.API 20NE.MNE	-
+[].Physiology and metabolism.API 20NE.MLT	+/-
+[].Physiology and metabolism.API 20NE.MLT	+
+[].Physiology and metabolism.API 20NE.MLT	-
+[].Physiology and metabolism.API 20NE.MAN	+/-
+[].Physiology and metabolism.API 20NE.MAN	+
+[].Physiology and metabolism.API 20NE.MAN	-
+[].Physiology and metabolism.API 20NE.MAL	-
+[].Physiology and metabolism.API 20NE.MAL	+/-
+[].Physiology and metabolism.API 20NE.MAL	+
+[].Physiology and metabolism.API 20NE.GNT	+/-
+[].Physiology and metabolism.API 20NE.GNT	+
+[].Physiology and metabolism.API 20NE.GNT	-
+[].Physiology and metabolism.API 20NE.GLU_ Ferm	+/-
+[].Physiology and metabolism.API 20NE.GLU_ Ferm	+
+[].Physiology and metabolism.API 20NE.GLU_ Ferm	-
+[].Physiology and metabolism.API 20NE.GEL	+/-
+[].Physiology and metabolism.API 20NE.GEL	-
+[].Physiology and metabolism.API 20NE.GEL	+
+[].Physiology and metabolism.API 20NE.ESC	+/-
+[].Physiology and metabolism.API 20NE.ESC	-
+[].Physiology and metabolism.API 20NE.ESC	+
+[].Physiology and metabolism.API 20NE.CIT	+/-
+[].Physiology and metabolism.API 20NE.CIT	+
+[].Physiology and metabolism.API 20NE.CIT	-
+[].Physiology and metabolism.API 20NE.CAP	+
+[].Physiology and metabolism.API 20NE.CAP	+/-
+[].Physiology and metabolism.API 20NE.CAP	-
+[].Physiology and metabolism.API 20NE.ARA	+
+[].Physiology and metabolism.API 20NE.ARA	+/-
+[].Physiology and metabolism.API 20NE.ARA	-
+[].Physiology and metabolism.API 20NE.ADI	+
+[].Physiology and metabolism.API 20NE.ADI	-
+[].Physiology and metabolism.API 20NE.ADI	+/-
+[].Physiology and metabolism.API 20NE.ADH Arg	+/-
+[].Physiology and metabolism.API 20NE.ADH Arg	+
+[].Physiology and metabolism.API 20NE.ADH Arg	-
+[].Physiology and metabolism.API 20NE.PNPG	-
+[].Physiology and metabolism.API 20NE.PNPG	+/-
+[].Physiology and metabolism.API 20NE.PNPG	+
+[].Physiology and metabolism.API 20NE.TRP	+
+[].Physiology and metabolism.API 20NE.TRP	-
+[].Physiology and metabolism.API 20NE.TRP	+/-
+[].Physiology and metabolism.API 20NE.GLU_ Assim	+
+[].Physiology and metabolism.API 20NE.GLU_ Assim	+/-
+[].Physiology and metabolism.API 20NE.GLU_ Assim	-
+[].Physiology and metabolism.API 20NE.NO3	-
+[].Physiology and metabolism.API 20NE.NO3	+/-
+[].Physiology and metabolism.API 20NE.NO3	+
+[].Physiology and metabolism.metabolite tests.[].methylred-test	+/-
+[].Physiology and metabolism.metabolite tests.[].methylred-test	+
+[].Physiology and metabolism.metabolite tests.[].methylred-test	-
+[].Physiology and metabolism.halophily.tested relation	optimum
+[].Physiology and metabolism.halophily.tested relation	other
+[].Physiology and metabolism.halophily.tested relation	maximum
+[].Physiology and metabolism.halophily.tested relation	resistant
+[].Physiology and metabolism.halophily.tested relation	growth
+[].Physiology and metabolism.halophily.salt	NaCl
+[].Physiology and metabolism.halophily.growth	no
+[].Physiology and metabolism.halophily.growth	positive
+[].Physiology and metabolism.API coryne.URE	+/-
+[].Physiology and metabolism.API coryne.URE	+
+[].Physiology and metabolism.API coryne.URE	-
+[].Physiology and metabolism.API coryne.GEL	+/-
+[].Physiology and metabolism.API coryne.GEL	-
+[].Physiology and metabolism.API coryne.GEL	+
+[].Physiology and metabolism.API coryne.ESC	+/-
+[].Physiology and metabolism.API coryne.ESC	+
+[].Physiology and metabolism.API coryne.ESC	-
+[].Physiology and metabolism.API coryne.PYRA	+/-
+[].Physiology and metabolism.API coryne.PYRA	-
+[].Physiology and metabolism.API coryne.PYRA	+
+[].Physiology and metabolism.API coryne.PAL	+/-
+[].Physiology and metabolism.API coryne.PAL	-
+[].Physiology and metabolism.API coryne.PAL	+
+[].Physiology and metabolism.API coryne.beta NAG	-
+[].Physiology and metabolism.API coryne.beta NAG	+
+[].Physiology and metabolism.API coryne.beta NAG	+/-
+[].Physiology and metabolism.API coryne.beta GAL	+
+[].Physiology and metabolism.API coryne.beta GAL	+/-
+[].Physiology and metabolism.API coryne.beta GAL	-
+[].Physiology and metabolism.API coryne.alpha GLU	+/-
+[].Physiology and metabolism.API coryne.alpha GLU	-
+[].Physiology and metabolism.API coryne.alpha GLU	+
+[].Physiology and metabolism.API coryne.beta GUR	-
+[].Physiology and metabolism.API coryne.beta GUR	+
+[].Physiology and metabolism.API coryne.beta GUR	+/-
+[].Physiology and metabolism.API coryne.SAC	+
+[].Physiology and metabolism.API coryne.SAC	+/-
+[].Physiology and metabolism.API coryne.SAC	-
+[].Physiology and metabolism.API coryne.PYZ	+/-
+[].Physiology and metabolism.API coryne.PYZ	-
+[].Physiology and metabolism.API coryne.PYZ	+
+[].Physiology and metabolism.API coryne.XYL	+
+[].Physiology and metabolism.API coryne.XYL	+/-
+[].Physiology and metabolism.API coryne.XYL	-
+[].Physiology and metabolism.API coryne.RIB	+/-
+[].Physiology and metabolism.API coryne.RIB	+
+[].Physiology and metabolism.API coryne.RIB	-
+[].Physiology and metabolism.API coryne.MAN	+/-
+[].Physiology and metabolism.API coryne.MAN	+
+[].Physiology and metabolism.API coryne.MAN	-
+[].Physiology and metabolism.API coryne.LAC	-
+[].Physiology and metabolism.API coryne.LAC	+/-
+[].Physiology and metabolism.API coryne.LAC	+
+[].Physiology and metabolism.API 20E.URE	+
+[].Physiology and metabolism.API 20E.URE	+/-
+[].Physiology and metabolism.API 20E.URE	-
+[].Physiology and metabolism.API 20E.H2S	+/-
+[].Physiology and metabolism.API 20E.H2S	+
+[].Physiology and metabolism.API 20E.H2S	-
+[].Physiology and metabolism.API 20E.ODC	+/-
+[].Physiology and metabolism.API 20E.ODC	+
+[].Physiology and metabolism.API 20E.ODC	-
+[].Physiology and metabolism.API coryne.NIT	+/-
+[].Physiology and metabolism.API coryne.NIT	+
+[].Physiology and metabolism.API coryne.NIT	-
+[].Physiology and metabolism.API coryne.GLYG	-
+[].Physiology and metabolism.API coryne.GLYG	+
+[].Physiology and metabolism.API coryne.GLYG	+/-
+[].Physiology and metabolism.API 20E.CIT	+/-
+[].Physiology and metabolism.API 20E.CIT	+
+[].Physiology and metabolism.API 20E.CIT	-
+[].Physiology and metabolism.API 20E.TDA Trp	-
+[].Physiology and metabolism.API 20E.TDA Trp	+/-
+[].Physiology and metabolism.API 20E.TDA Trp	+
+[].Physiology and metabolism.API 20E.ONPG	-
+[].Physiology and metabolism.API 20E.ONPG	+/-
+[].Physiology and metabolism.API 20E.ONPG	+
+[].Physiology and metabolism.API 20E.LDC Lys	+/-
+[].Physiology and metabolism.API 20E.LDC Lys	-
+[].Physiology and metabolism.API 20E.LDC Lys	+
+[].Physiology and metabolism.API 20E.IND	-
+[].Physiology and metabolism.API 20E.IND	+/-
+[].Physiology and metabolism.API 20E.IND	+
+[].Physiology and metabolism.API 20E.ADH Arg	-
+[].Physiology and metabolism.API 20E.ADH Arg	+/-
+[].Physiology and metabolism.API 20E.ADH Arg	+
+[].Physiology and metabolism.API 20E.GEL	+/-
+[].Physiology and metabolism.API 20E.GEL	+
+[].Physiology and metabolism.API 20E.GEL	-
+[].Physiology and metabolism.API 20E.VP	+/-
+[].Physiology and metabolism.API 20E.VP	-
+[].Physiology and metabolism.API 20E.VP	+
+[].Physiology and metabolism.API coryne.MAL	-
+[].Physiology and metabolism.API coryne.MAL	+
+[].Physiology and metabolism.API coryne.MAL	+/-
+[].Morphology.multimedia.intellectual property rights	© HZI/Manfred Rohde
+[].Morphology.multimedia.intellectual property rights	Helmholtz-Zentrum für Infektionsforschung GmbH
+[].Morphology.multimedia.intellectual property rights	© Leibniz-Institut DSMZ
+[].Morphology.multimedia.intellectual property rights	Leibniz-Institut DSMZ-Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH
+[].Physiology and metabolism.API coryne.GLU	-
+[].Physiology and metabolism.API coryne.GLU	+/-
+[].Physiology and metabolism.API coryne.GLU	+
+[].Physiology and metabolism.API 20NE.OX	+/-
+[].Physiology and metabolism.API 20NE.OX	+
+[].Physiology and metabolism.API 20NE.OX	-
+[].Safety information.risk assessment.pathogenicity human	yes, in single cases
+[].Safety information.risk assessment.pathogenicity human	yes
+[].Physiology and metabolism.API 20E.GLU	+
+[].Physiology and metabolism.API 20E.GLU	+/-
+[].Physiology and metabolism.API 20E.GLU	-
+[].Physiology and metabolism.API coryne.Control	-
+[].Physiology and metabolism.API coryne.Control	+
+[].Morphology.colony morphology.colony shape	round, undulate
+[].Morphology.colony morphology.colony shape	punctiform
+[].Morphology.colony morphology.colony shape	filamentous
+[].Morphology.colony morphology.colony shape	rhizoid
+[].Morphology.colony morphology.colony shape	irregular
+[].Morphology.colony morphology.colony shape	oval
+[].Morphology.colony morphology.colony shape	fried-egg-shaped
+[].Morphology.colony morphology.colony shape	circular
+[].Physiology and metabolism.API coryne.CAT	+
+[].Physiology and metabolism.API coryne.CAT	-
+[].Safety information.risk assessment.pathogenicity animal	yes
+[].Safety information.risk assessment.pathogenicity animal	yes, in single cases
+[].Physiology and metabolism.API rID32A.TyrA	+
+[].Physiology and metabolism.API rID32A.TyrA	-
+[].Physiology and metabolism.API rID32A.TyrA	+/-
+[].Physiology and metabolism.API rID32A.ProA	+/-
+[].Physiology and metabolism.API rID32A.ProA	+
+[].Physiology and metabolism.API rID32A.ProA	-
+[].Physiology and metabolism.API rID32A.PheA	+/-
+[].Physiology and metabolism.API rID32A.PheA	+
+[].Physiology and metabolism.API rID32A.PheA	-
+[].Physiology and metabolism.API rID32A.PAL	+
+[].Physiology and metabolism.API rID32A.PAL	+/-
+[].Physiology and metabolism.API rID32A.PAL	-
+[].Physiology and metabolism.API rID32A.MNE	+/-
+[].Physiology and metabolism.API rID32A.MNE	-
+[].Physiology and metabolism.API rID32A.MNE	+
+[].Physiology and metabolism.API rID32A.LGA	+/-
+[].Physiology and metabolism.API rID32A.LGA	-
+[].Physiology and metabolism.API rID32A.LGA	+
+[].Physiology and metabolism.API rID32A.LeuA	+
+[].Physiology and metabolism.API rID32A.LeuA	+/-
+[].Physiology and metabolism.API rID32A.LeuA	-
+[].Physiology and metabolism.API rID32A.beta GUR	+/-
+[].Physiology and metabolism.API rID32A.beta GUR	-
+[].Physiology and metabolism.API rID32A.beta GUR	+
+[].Physiology and metabolism.API rID32A.beta GLU	+/-
+[].Physiology and metabolism.API rID32A.beta GLU	-
+[].Physiology and metabolism.API rID32A.beta GLU	+
+[].Physiology and metabolism.API rID32A.beta GAL	+/-
+[].Physiology and metabolism.API rID32A.beta GAL	-
+[].Physiology and metabolism.API rID32A.beta GAL	+
+[].Physiology and metabolism.API rID32A.ArgA	+/-
+[].Physiology and metabolism.API rID32A.ArgA	+
+[].Physiology and metabolism.API rID32A.ArgA	-
+[].Physiology and metabolism.API rID32A.alpha ARA	+
+[].Physiology and metabolism.API rID32A.alpha ARA	+/-
+[].Physiology and metabolism.API rID32A.alpha ARA	-
+[].Physiology and metabolism.API rID32A.AlaA	+/-
+[].Physiology and metabolism.API rID32A.AlaA	-
+[].Physiology and metabolism.API rID32A.AlaA	+
+[].Physiology and metabolism.API rID32A.ADH Arg	+/-
+[].Physiology and metabolism.API rID32A.ADH Arg	+
+[].Physiology and metabolism.API rID32A.ADH Arg	-
+[].Physiology and metabolism.API rID32A.URE	+/-
+[].Physiology and metabolism.API rID32A.URE	+
+[].Physiology and metabolism.API rID32A.URE	-
+[].Physiology and metabolism.API rID32A.RAF	-
+[].Physiology and metabolism.API rID32A.RAF	+/-
+[].Physiology and metabolism.API rID32A.RAF	+
+[].Physiology and metabolism.API rID32A.GDC	+/-
+[].Physiology and metabolism.API rID32A.GDC	+
+[].Physiology and metabolism.API rID32A.GDC	-
+[].Physiology and metabolism.API rID32A.beta NAG	+/-
+[].Physiology and metabolism.API rID32A.beta NAG	-
+[].Physiology and metabolism.API rID32A.beta NAG	+
+[].Physiology and metabolism.API rID32A.alpha GAL	+/-
+[].Physiology and metabolism.API rID32A.alpha GAL	+
+[].Physiology and metabolism.API rID32A.alpha GAL	-
+[].Physiology and metabolism.API rID32A.alpha FUC	-
+[].Physiology and metabolism.API rID32A.alpha FUC	+
+[].Physiology and metabolism.API rID32A.alpha FUC	+/-
+[].Physiology and metabolism.API rID32A.PyrA	+/-
+[].Physiology and metabolism.API rID32A.PyrA	-
+[].Physiology and metabolism.API rID32A.PyrA	+
+[].Physiology and metabolism.API rID32A.IND	+/-
+[].Physiology and metabolism.API rID32A.IND	+
+[].Physiology and metabolism.API rID32A.IND	-
+[].Physiology and metabolism.API rID32A.alpha GLU	+/-
+[].Physiology and metabolism.API rID32A.alpha GLU	+
+[].Physiology and metabolism.API rID32A.alpha GLU	-
+[].Physiology and metabolism.API rID32A.GlyA	+/-
+[].Physiology and metabolism.API rID32A.GlyA	-
+[].Physiology and metabolism.API rID32A.GlyA	+
+[].Physiology and metabolism.API rID32A.NIT	+/-
+[].Physiology and metabolism.API rID32A.NIT	+
+[].Physiology and metabolism.API rID32A.NIT	-
+[].Physiology and metabolism.API rID32A.HisA	+
+[].Physiology and metabolism.API rID32A.HisA	+/-
+[].Physiology and metabolism.API rID32A.HisA	-
+[].Physiology and metabolism.API rID32A.GGA	+
+[].Physiology and metabolism.API rID32A.GGA	+/-
+[].Physiology and metabolism.API rID32A.GGA	-
+[].Physiology and metabolism.API rID32A.SerA	+/-
+[].Physiology and metabolism.API rID32A.SerA	-
+[].Physiology and metabolism.API rID32A.SerA	+
+[].Physiology and metabolism.API rID32A.beta GP	+/-
+[].Physiology and metabolism.API rID32A.beta GP	+
+[].Physiology and metabolism.API rID32A.beta GP	-
+[].Physiology and metabolism.API 20E.SAC	+/-
+[].Physiology and metabolism.API 20E.SAC	-
+[].Physiology and metabolism.API 20E.SAC	+
+[].Physiology and metabolism.API 20E.MEL	+/-
+[].Physiology and metabolism.API 20E.MEL	+
+[].Physiology and metabolism.API 20E.MEL	-
+[].Physiology and metabolism.API 20E.Sor	+/-
+[].Physiology and metabolism.API 20E.Sor	+
+[].Physiology and metabolism.API 20E.Sor	-
+[].Physiology and metabolism.API 20E.RHA	-
+[].Physiology and metabolism.API 20E.RHA	+/-
+[].Physiology and metabolism.API 20E.RHA	+
+[].Physiology and metabolism.API 20E.INO	+/-
+[].Physiology and metabolism.API 20E.INO	+
+[].Physiology and metabolism.API 20E.INO	-
+[].Physiology and metabolism.API zym.[].Trypsin	+
+[].Physiology and metabolism.API zym.[].Trypsin	+/-
+[].Physiology and metabolism.API zym.[].Trypsin	-
+[].Physiology and metabolism.API zym.[].Lipase	+
+[].Physiology and metabolism.API zym.[].Lipase	+/-
+[].Physiology and metabolism.API zym.[].Lipase	-
+[].Physiology and metabolism.API zym.[].Cystine arylamidase	+/-
+[].Physiology and metabolism.API zym.[].Cystine arylamidase	-
+[].Physiology and metabolism.API zym.[].Cystine arylamidase	+
+[].Physiology and metabolism.API zym.[].alpha- Chymotrypsin	+/-
+[].Physiology and metabolism.API zym.[].alpha- Chymotrypsin	+
+[].Physiology and metabolism.API zym.[].alpha- Chymotrypsin	-
+[].Physiology and metabolism.API zym.[].N-acetyl-beta- glucosaminidase	+/-
+[].Physiology and metabolism.API zym.[].N-acetyl-beta- glucosaminidase	+
+[].Physiology and metabolism.API zym.[].N-acetyl-beta- glucosaminidase	-
+[].Physiology and metabolism.API zym.[].Esterase Lipase	+
+[].Physiology and metabolism.API zym.[].Esterase Lipase	+/-
+[].Physiology and metabolism.API zym.[].Esterase Lipase	-
+[].Physiology and metabolism.API zym.[].Esterase	+
+[].Physiology and metabolism.API zym.[].Esterase	+/-
+[].Physiology and metabolism.API zym.[].Esterase	-
+[].Physiology and metabolism.API zym.[].beta- Galactosidase	+
+[].Physiology and metabolism.API zym.[].beta- Galactosidase	-
+[].Physiology and metabolism.API zym.[].beta- Galactosidase	+/-
+[].Physiology and metabolism.API zym.[].alpha- Mannosidase	+/-
+[].Physiology and metabolism.API zym.[].alpha- Mannosidase	-
+[].Physiology and metabolism.API zym.[].alpha- Mannosidase	+
+[].Physiology and metabolism.API zym.[].alpha- Galactosidase	-
+[].Physiology and metabolism.API zym.[].alpha- Galactosidase	+/-
+[].Physiology and metabolism.API zym.[].alpha- Galactosidase	+
+[].Physiology and metabolism.API zym.[].alpha- Fucosidase	+
+[].Physiology and metabolism.API zym.[].alpha- Fucosidase	+/-
+[].Physiology and metabolism.API zym.[].alpha- Fucosidase	-
+[].Physiology and metabolism.API zym.[].Alkaline phosphatase	+
+[].Physiology and metabolism.API zym.[].Alkaline phosphatase	-
+[].Physiology and metabolism.API zym.[].Alkaline phosphatase	+/-
+[].Physiology and metabolism.API zym.[].Valine arylamidase	+/-
+[].Physiology and metabolism.API zym.[].Valine arylamidase	-
+[].Physiology and metabolism.API zym.[].Valine arylamidase	+
+[].Physiology and metabolism.API zym.[].Naphthol-AS-BI-phosphohydrolase	-
+[].Physiology and metabolism.API zym.[].Naphthol-AS-BI-phosphohydrolase	+/-
+[].Physiology and metabolism.API zym.[].Naphthol-AS-BI-phosphohydrolase	+
+[].Physiology and metabolism.API zym.[].Leucine arylamidase	+/-
+[].Physiology and metabolism.API zym.[].Leucine arylamidase	+
+[].Physiology and metabolism.API zym.[].Leucine arylamidase	-
+[].Physiology and metabolism.API zym.[].beta- Glucuronidase	+
+[].Physiology and metabolism.API zym.[].beta- Glucuronidase	+/-
+[].Physiology and metabolism.API zym.[].beta- Glucuronidase	-
+[].Physiology and metabolism.API zym.[].beta- Glucosidase	-
+[].Physiology and metabolism.API zym.[].beta- Glucosidase	+/-
+[].Physiology and metabolism.API zym.[].beta- Glucosidase	+
+[].Physiology and metabolism.API zym.[].alpha- Glucosidase	+/-
+[].Physiology and metabolism.API zym.[].alpha- Glucosidase	-
+[].Physiology and metabolism.API zym.[].alpha- Glucosidase	+
+[].Physiology and metabolism.API zym.[].Acid phosphatase	+/-
+[].Physiology and metabolism.API zym.[].Acid phosphatase	+
+[].Physiology and metabolism.API zym.[].Acid phosphatase	-
+[].Physiology and metabolism.fatty acid profile.system	MIS MIDI
+[].Physiology and metabolism.API 20E.MAN	-
+[].Physiology and metabolism.API 20E.MAN	+/-
+[].Physiology and metabolism.API 20E.MAN	+
+[].Physiology and metabolism.API 20E.ARA	+/-
+[].Physiology and metabolism.API 20E.ARA	+
+[].Physiology and metabolism.API 20E.ARA	-
+[].Physiology and metabolism.API 20E.AMY	-
+[].Physiology and metabolism.API 20E.AMY	+/-
+[].Physiology and metabolism.API 20E.AMY	+
+[].Physiology and metabolism.API ID32E.URE	+
+[].Physiology and metabolism.API ID32E.URE	-
+[].Physiology and metabolism.API ID32E.TRE	+
+[].Physiology and metabolism.API ID32E.TRE	-
+[].Physiology and metabolism.API ID32E.SOR	+
+[].Physiology and metabolism.API ID32E.SOR	-
+[].Physiology and metabolism.API ID32E.SAC	-
+[].Physiology and metabolism.API ID32E.SAC	+
+[].Physiology and metabolism.API ID32E.RP	-
+[].Physiology and metabolism.API ID32E.RP	+
+[].Physiology and metabolism.API ID32E.RHA	-
+[].Physiology and metabolism.API ID32E.RHA	+
+[].Physiology and metabolism.API ID32E.PLE	+
+[].Physiology and metabolism.API ID32E.PLE	-
+[].Physiology and metabolism.API ID32E.ODC	-
+[].Physiology and metabolism.API ID32E.ODC	+
+[].Physiology and metabolism.API ID32E.LDC Lys	+
+[].Physiology and metabolism.API ID32E.LDC Lys	-
+[].Physiology and metabolism.API ID32E.LARL	+
+[].Physiology and metabolism.API ID32E.LARL	-
+[].Physiology and metabolism.API ID32E.LARA	-
+[].Physiology and metabolism.API ID32E.LARA	+
+[].Physiology and metabolism.API ID32E.INO	+
+[].Physiology and metabolism.API ID32E.INO	-
+[].Physiology and metabolism.API ID32E.GLU	-
+[].Physiology and metabolism.API ID32E.GLU	+
+[].Physiology and metabolism.API ID32E.GAT	+
+[].Physiology and metabolism.API ID32E.GAT	-
+[].Physiology and metabolism.API ID32E.DARL	+
+[].Physiology and metabolism.API ID32E.DARL	-
+[].Physiology and metabolism.API ID32E.CEL	+
+[].Physiology and metabolism.API ID32E.CEL	-
+[].Physiology and metabolism.API ID32E.beta GUR	+
+[].Physiology and metabolism.API ID32E.beta GUR	-
+[].Physiology and metabolism.API ID32E.beta GLU	+
+[].Physiology and metabolism.API ID32E.beta GLU	-
+[].Physiology and metabolism.API ID32E.beta GAL	-
+[].Physiology and metabolism.API ID32E.beta GAL	+
+[].Physiology and metabolism.API ID32E.alphaMAL	+
+[].Physiology and metabolism.API ID32E.alphaMAL	-
+[].Physiology and metabolism.API ID32E.alpha GAL	-
+[].Physiology and metabolism.API ID32E.alpha GAL	+
+[].Physiology and metabolism.API ID32E.ADO	+
+[].Physiology and metabolism.API ID32E.ADO	-
+[].Physiology and metabolism.API ID32E.ADH Arg	-
+[].Physiology and metabolism.API ID32E.ADH Arg	+
+[].Physiology and metabolism.API ID32E.5KG	+
+[].Physiology and metabolism.API ID32E.5KG	-
+[].Physiology and metabolism.API ID32E.MNT	+
+[].Physiology and metabolism.API ID32E.MNT	-
+[].Physiology and metabolism.API ID32E.MAL	-
+[].Physiology and metabolism.API ID32E.MAL	+
+[].Physiology and metabolism.API ID32E.alpha GLU	-
+[].Physiology and metabolism.API ID32E.alpha GLU	+
+[].Physiology and metabolism.API ID32E.MAN	-
+[].Physiology and metabolism.API ID32E.MAN	+
+[].Physiology and metabolism.API ID32E.LIP	+
+[].Physiology and metabolism.API ID32E.LIP	-
+[].Physiology and metabolism.API ID32E.IND	+
+[].Physiology and metabolism.API ID32E.IND	-
+[].Physiology and metabolism.API ID32E.beta NAG	+
+[].Physiology and metabolism.API ID32E.beta NAG	-
+[].Physiology and metabolism.API ID32E.AspA	+
+[].Physiology and metabolism.API ID32E.AspA	-
+[].Physiology and metabolism.API 20NE.[].PAC	+
+[].Physiology and metabolism.API 20NE.[].PAC	+/-
+[].Physiology and metabolism.API 20NE.[].PAC	-
+[].Physiology and metabolism.API 20NE.[].MNE	+
+[].Physiology and metabolism.API 20NE.[].MNE	+/-
+[].Physiology and metabolism.API 20NE.[].MNE	-
+[].Physiology and metabolism.API 20NE.[].MLT	+
+[].Physiology and metabolism.API 20NE.[].MLT	-
+[].Physiology and metabolism.API 20NE.[].MLT	+/-
+[].Physiology and metabolism.API 20NE.[].GNT	+
+[].Physiology and metabolism.API 20NE.[].GNT	+/-
+[].Physiology and metabolism.API 20NE.[].GNT	-
+[].Physiology and metabolism.API 20NE.[].GLU_ Ferm	+
+[].Physiology and metabolism.API 20NE.[].GLU_ Ferm	+/-
+[].Physiology and metabolism.API 20NE.[].GLU_ Ferm	-
+[].Physiology and metabolism.API 20NE.[].GLU_ Assim	+
+[].Physiology and metabolism.API 20NE.[].GLU_ Assim	-
+[].Physiology and metabolism.API 20NE.[].GLU_ Assim	+/-
+[].Physiology and metabolism.API 20NE.[].GEL	+
+[].Physiology and metabolism.API 20NE.[].GEL	+/-
+[].Physiology and metabolism.API 20NE.[].GEL	-
+[].Physiology and metabolism.API 20NE.[].ESC	+
+[].Physiology and metabolism.API 20NE.[].ESC	+/-
+[].Physiology and metabolism.API 20NE.[].ESC	-
+[].Physiology and metabolism.API 20NE.[].CIT	+
+[].Physiology and metabolism.API 20NE.[].CIT	+/-
+[].Physiology and metabolism.API 20NE.[].CIT	-
+[].Physiology and metabolism.API 20NE.[].CAP	+
+[].Physiology and metabolism.API 20NE.[].CAP	-
+[].Physiology and metabolism.API 20NE.[].CAP	+/-
+[].Physiology and metabolism.API 20NE.[].ARA	+/-
+[].Physiology and metabolism.API 20NE.[].ARA	+
+[].Physiology and metabolism.API 20NE.[].ARA	-
+[].Physiology and metabolism.API 20NE.[].ADI	+
+[].Physiology and metabolism.API 20NE.[].ADI	+/-
+[].Physiology and metabolism.API 20NE.[].ADI	-
+[].Physiology and metabolism.API 20NE.[].URE	+
+[].Physiology and metabolism.API 20NE.[].URE	-
+[].Physiology and metabolism.API 20NE.[].URE	+/-
+[].Physiology and metabolism.API 20NE.[].TRP	-
+[].Physiology and metabolism.API 20NE.[].TRP	+
+[].Physiology and metabolism.API 20NE.[].TRP	+/-
+[].Physiology and metabolism.API 20NE.[].PNPG	-
+[].Physiology and metabolism.API 20NE.[].PNPG	+
+[].Physiology and metabolism.API 20NE.[].PNPG	+/-
+[].Physiology and metabolism.API 20NE.[].NAG	+/-
+[].Physiology and metabolism.API 20NE.[].NAG	+
+[].Physiology and metabolism.API 20NE.[].NAG	-
+[].Physiology and metabolism.API 20NE.[].MAN	-
+[].Physiology and metabolism.API 20NE.[].MAN	+
+[].Physiology and metabolism.API 20NE.[].MAN	+/-
+[].Physiology and metabolism.API 20NE.[].MAL	+
+[].Physiology and metabolism.API 20NE.[].MAL	+/-
+[].Physiology and metabolism.API 20NE.[].MAL	-
+[].Physiology and metabolism.API 20NE.[].NO3	-
+[].Physiology and metabolism.API 20NE.[].NO3	+/-
+[].Physiology and metabolism.API 20NE.[].NO3	+
+[].Physiology and metabolism.API 20NE.[].ADH Arg	+/-
+[].Physiology and metabolism.API 20NE.[].ADH Arg	-
+[].Physiology and metabolism.API 20NE.[].ADH Arg	+
+[].Physiology and metabolism.API 20E.OX	+/-
+[].Physiology and metabolism.API 20E.OX	+
+[].Physiology and metabolism.API 20E.OX	-
+[].Physiology and metabolism.API 50CHac.Q	-
+[].Physiology and metabolism.API NH.URE	+
+[].Physiology and metabolism.API NH.URE	-
+[].Physiology and metabolism.API NH.SAC	+/-
+[].Physiology and metabolism.API NH.SAC	+
+[].Physiology and metabolism.API NH.SAC	-
+[].Physiology and metabolism.API NH.PAL	-
+[].Physiology and metabolism.API NH.PAL	+
+[].Physiology and metabolism.API NH.ODC	+
+[].Physiology and metabolism.API NH.ODC	-
+[].Physiology and metabolism.API NH.MAL	-
+[].Physiology and metabolism.API NH.MAL	+/-
+[].Physiology and metabolism.API NH.MAL	+
+[].Physiology and metabolism.API NH.LIP	+/-
+[].Physiology and metabolism.API NH.LIP	-
+[].Physiology and metabolism.API NH.LIP	+
+[].Physiology and metabolism.API NH.GLU	-
+[].Physiology and metabolism.API NH.GLU	+
+[].Physiology and metabolism.API NH.FRU	-
+[].Physiology and metabolism.API NH.FRU	+/-
+[].Physiology and metabolism.API NH.FRU	+
+[].Physiology and metabolism.API NH.beta GAL	+
+[].Physiology and metabolism.API NH.beta GAL	-
+[].Physiology and metabolism.API NH.ProA	-
+[].Physiology and metabolism.API NH.ProA	+/-
+[].Physiology and metabolism.API NH.ProA	+
+[].Physiology and metabolism.API NH.GGT	+/-
+[].Physiology and metabolism.API NH.GGT	+
+[].Physiology and metabolism.API NH.GGT	-
+[].Physiology and metabolism.API NH.IND	-
+[].Physiology and metabolism.API NH.IND	+
+[].Morphology.colony morphology.hemolysis ability	1
+[].Culture and growth conditions.culture pH.type	maximum
+[].Culture and growth conditions.culture pH.type	growth
+[].Culture and growth conditions.culture pH.type	optimum
+[].Culture and growth conditions.culture pH.type	minimum
+[].Culture and growth conditions.culture pH.ability	no
+[].Culture and growth conditions.culture pH.ability	positive
+[].Physiology and metabolism.API zym.[].Control	+/-
+[].Physiology and metabolism.API zym.[].Control	+
+[].Physiology and metabolism.API zym.[].Control	-
+[].Physiology and metabolism.API 20NE.[].OX	+/-
+[].Physiology and metabolism.API 20NE.[].OX	-
+[].Physiology and metabolism.API 20NE.[].OX	+
+[].Physiology and metabolism.API NH.PEN	+
+[].Physiology and metabolism.API NH.PEN	-
+[].Physiology and metabolism.API 20E.NO2	-
+[].Physiology and metabolism.API 20E.NO2	+
+[].Physiology and metabolism.API 20E.[].ONPG	+
+[].Physiology and metabolism.API 20E.[].ONPG	-
+[].Physiology and metabolism.API 20E.[].ONPG	+/-
+[].Physiology and metabolism.metabolite tests.methylred-test	-
+[].Physiology and metabolism.metabolite tests.methylred-test	+
+[].Physiology and metabolism.API 20E.[].URE	-
+[].Physiology and metabolism.API 20E.[].URE	+/-
+[].Physiology and metabolism.API 20E.[].URE	+
+[].Physiology and metabolism.API 20E.[].ODC	+
+[].Physiology and metabolism.API 20E.[].ODC	-
+[].Physiology and metabolism.API 20E.[].ODC	+/-
+[].Physiology and metabolism.API 20E.[].LDC Lys	+/-
+[].Physiology and metabolism.API 20E.[].LDC Lys	+
+[].Physiology and metabolism.API 20E.[].LDC Lys	-
+[].Physiology and metabolism.API 20E.[].H2S	-
+[].Physiology and metabolism.API 20E.[].H2S	+
+[].Physiology and metabolism.API 20E.[].H2S	+/-
+[].Physiology and metabolism.API 20E.[].GEL	+/-
+[].Physiology and metabolism.API 20E.[].GEL	-
+[].Physiology and metabolism.API 20E.[].GEL	+
+[].Physiology and metabolism.API 20E.[].CIT	+/-
+[].Physiology and metabolism.API 20E.[].CIT	-
+[].Physiology and metabolism.API 20E.[].CIT	+
+[].Physiology and metabolism.API 20E.[].ADH Arg	-
+[].Physiology and metabolism.API 20E.[].ADH Arg	+
+[].Physiology and metabolism.API 20E.[].ADH Arg	+/-
+[].Physiology and metabolism.API 20E.[].VP	+/-
+[].Physiology and metabolism.API 20E.[].VP	+
+[].Physiology and metabolism.API 20E.[].VP	-
+[].Physiology and metabolism.API 20E.[].TDA Trp	+
+[].Physiology and metabolism.API 20E.[].TDA Trp	-
+[].Physiology and metabolism.API 20E.[].TDA Trp	+/-
+[].Physiology and metabolism.API 20E.[].IND	-
+[].Physiology and metabolism.API 20E.[].IND	+/-
+[].Physiology and metabolism.API 20E.[].IND	+
+[].Physiology and metabolism.API 20E.[].GLU	+
+[].Physiology and metabolism.API 20E.[].GLU	+/-
+[].Physiology and metabolism.API 20E.[].GLU	-
+[].Physiology and metabolism.API 20E.[].Sor	-
+[].Physiology and metabolism.API 20E.[].Sor	+
+[].Physiology and metabolism.API 20E.[].Sor	+/-
+[].Physiology and metabolism.API 20E.[].RHA	+/-
+[].Physiology and metabolism.API 20E.[].RHA	-
+[].Physiology and metabolism.API 20E.[].RHA	+
+[].Physiology and metabolism.API 20E.[].MAN	+/-
+[].Physiology and metabolism.API 20E.[].MAN	-
+[].Physiology and metabolism.API 20E.[].MAN	+
+[].Physiology and metabolism.API 20E.[].INO	+/-
+[].Physiology and metabolism.API 20E.[].INO	+
+[].Physiology and metabolism.API 20E.[].INO	-
+[].Physiology and metabolism.API 20E.[].ARA	+/-
+[].Physiology and metabolism.API 20E.[].ARA	+
+[].Physiology and metabolism.API 20E.[].ARA	-
+[].Physiology and metabolism.API 20E.[].AMY	+/-
+[].Physiology and metabolism.API 20E.[].AMY	+
+[].Physiology and metabolism.API 20E.[].AMY	-
+[].Physiology and metabolism.API 20E.[].SAC	+
+[].Physiology and metabolism.API 20E.[].SAC	+/-
+[].Physiology and metabolism.API 20E.[].SAC	-
+[].Physiology and metabolism.API 20E.[].MEL	+/-
+[].Physiology and metabolism.API 20E.[].MEL	+
+[].Physiology and metabolism.API 20E.[].MEL	-
+[].Physiology and metabolism.fatty acid profile.agar/liquid	agar
+[].Physiology and metabolism.fatty acid profile.agar/liquid	liquid
+[].Morphology.pigmentation.[].production	yes
+[].Morphology.pigmentation.[].production	no
+[].Physiology and metabolism.API rID32A.[].MNE	+
+[].Physiology and metabolism.API rID32A.[].MNE	+/-
+[].Physiology and metabolism.API rID32A.[].MNE	-
+[].Physiology and metabolism.API rID32A.[].beta GP	+
+[].Physiology and metabolism.API rID32A.[].beta GP	-
+[].Physiology and metabolism.API rID32A.[].beta GP	+/-
+[].Physiology and metabolism.API rID32A.[].beta GLU	-
+[].Physiology and metabolism.API rID32A.[].beta GLU	+
+[].Physiology and metabolism.API rID32A.[].beta GLU	+/-
+[].Physiology and metabolism.API rID32A.[].beta GAL	+
+[].Physiology and metabolism.API rID32A.[].beta GAL	+/-
+[].Physiology and metabolism.API rID32A.[].beta GAL	-
+[].Physiology and metabolism.API rID32A.[].alpha GLU	+/-
+[].Physiology and metabolism.API rID32A.[].alpha GLU	-
+[].Physiology and metabolism.API rID32A.[].alpha GLU	+
+[].Physiology and metabolism.API rID32A.[].alpha ARA	+/-
+[].Physiology and metabolism.API rID32A.[].alpha ARA	+
+[].Physiology and metabolism.API rID32A.[].alpha ARA	-
+[].Physiology and metabolism.API rID32A.[].RAF	+/-
+[].Physiology and metabolism.API rID32A.[].RAF	+
+[].Physiology and metabolism.API rID32A.[].RAF	-
+[].Physiology and metabolism.API rID32A.[].PheA	+/-
+[].Physiology and metabolism.API rID32A.[].PheA	-
+[].Physiology and metabolism.API rID32A.[].PheA	+
+[].Physiology and metabolism.API rID32A.[].PAL	+
+[].Physiology and metabolism.API rID32A.[].PAL	-
+[].Physiology and metabolism.API rID32A.[].PAL	+/-
+[].Physiology and metabolism.API rID32A.[].beta NAG	+/-
+[].Physiology and metabolism.API rID32A.[].beta NAG	+
+[].Physiology and metabolism.API rID32A.[].beta NAG	-
+[].Physiology and metabolism.API rID32A.[].beta GUR	+/-
+[].Physiology and metabolism.API rID32A.[].beta GUR	+
+[].Physiology and metabolism.API rID32A.[].beta GUR	-
+[].Physiology and metabolism.API rID32A.[].ArgA	+
+[].Physiology and metabolism.API rID32A.[].ArgA	+/-
+[].Physiology and metabolism.API rID32A.[].ArgA	-
+[].Physiology and metabolism.API rID32A.[].ADH Arg	+/-
+[].Physiology and metabolism.API rID32A.[].ADH Arg	+
+[].Physiology and metabolism.API rID32A.[].ADH Arg	-
+[].Physiology and metabolism.API rID32A.[].PyrA	+/-
+[].Physiology and metabolism.API rID32A.[].PyrA	+
+[].Physiology and metabolism.API rID32A.[].PyrA	-
+[].Physiology and metabolism.API rID32A.[].ProA	-
+[].Physiology and metabolism.API rID32A.[].ProA	+/-
+[].Physiology and metabolism.API rID32A.[].ProA	+
+[].Physiology and metabolism.API rID32A.[].LeuA	+/-
+[].Physiology and metabolism.API rID32A.[].LeuA	-
+[].Physiology and metabolism.API rID32A.[].LeuA	+
+[].Physiology and metabolism.API rID32A.[].alpha GAL	+/-
+[].Physiology and metabolism.API rID32A.[].alpha GAL	+
+[].Physiology and metabolism.API rID32A.[].alpha GAL	-
+[].Physiology and metabolism.API rID32A.[].AlaA	+/-
+[].Physiology and metabolism.API rID32A.[].AlaA	+
+[].Physiology and metabolism.API rID32A.[].AlaA	-
+[].Physiology and metabolism.API rID32A.[].URE	+/-
+[].Physiology and metabolism.API rID32A.[].URE	+
+[].Physiology and metabolism.API rID32A.[].URE	-
+[].Physiology and metabolism.API rID32A.[].TyrA	+
+[].Physiology and metabolism.API rID32A.[].TyrA	+/-
+[].Physiology and metabolism.API rID32A.[].TyrA	-
+[].Physiology and metabolism.API rID32A.[].LGA	+/-
+[].Physiology and metabolism.API rID32A.[].LGA	+
+[].Physiology and metabolism.API rID32A.[].LGA	-
+[].Physiology and metabolism.API rID32A.[].GlyA	+/-
+[].Physiology and metabolism.API rID32A.[].GlyA	+
+[].Physiology and metabolism.API rID32A.[].GlyA	-
+[].Physiology and metabolism.API rID32A.[].GDC	+/-
+[].Physiology and metabolism.API rID32A.[].GDC	+
+[].Physiology and metabolism.API rID32A.[].GDC	-
+[].Physiology and metabolism.API rID32A.[].alpha FUC	-
+[].Physiology and metabolism.API rID32A.[].alpha FUC	+/-
+[].Physiology and metabolism.API rID32A.[].alpha FUC	+
+[].Physiology and metabolism.API rID32A.[].IND	+/-
+[].Physiology and metabolism.API rID32A.[].IND	-
+[].Physiology and metabolism.API rID32A.[].IND	+
+[].Physiology and metabolism.API rID32A.[].HisA	+/-
+[].Physiology and metabolism.API rID32A.[].HisA	-
+[].Physiology and metabolism.API rID32A.[].HisA	+
+[].Physiology and metabolism.API rID32A.[].NIT	+/-
+[].Physiology and metabolism.API rID32A.[].NIT	+
+[].Physiology and metabolism.API rID32A.[].NIT	-
+[].Physiology and metabolism.API rID32A.[].GGA	+
+[].Physiology and metabolism.API rID32A.[].GGA	-
+[].Physiology and metabolism.API rID32A.[].GGA	+/-
+[].Physiology and metabolism.API rID32A.[].SerA	-
+[].Physiology and metabolism.API rID32A.[].SerA	+/-
+[].Physiology and metabolism.API rID32A.[].SerA	+
+[].Physiology and metabolism.spore formation.[].spore formation	yes
+[].Physiology and metabolism.spore formation.[].spore formation	no
+[].Physiology and metabolism.API 20E.N2	-
+[].Physiology and metabolism.API 20E.N2	+/-
+[].Physiology and metabolism.API 20E.N2	+
+[].Physiology and metabolism.API 20E.[].OX	+/-
+[].Physiology and metabolism.API 20E.[].OX	+
+[].Physiology and metabolism.API 20E.[].OX	-
+[].Physiology and metabolism.API 50CHac.[].XLT	-
+[].Physiology and metabolism.API 50CHac.[].XLT	+
+[].Physiology and metabolism.API 50CHac.[].XLT	+/-
+[].Physiology and metabolism.API 50CHac.[].TUR	+/-
+[].Physiology and metabolism.API 50CHac.[].TUR	-
+[].Physiology and metabolism.API 50CHac.[].TUR	+
+[].Physiology and metabolism.API 50CHac.[].TRE	+/-
+[].Physiology and metabolism.API 50CHac.[].TRE	+
+[].Physiology and metabolism.API 50CHac.[].TRE	-
+[].Physiology and metabolism.API 50CHac.[].TAG	+
+[].Physiology and metabolism.API 50CHac.[].TAG	+/-
+[].Physiology and metabolism.API 50CHac.[].TAG	-
+[].Physiology and metabolism.API 50CHac.[].SOR	+
+[].Physiology and metabolism.API 50CHac.[].SOR	+/-
+[].Physiology and metabolism.API 50CHac.[].SOR	-
+[].Physiology and metabolism.API 50CHac.[].SBE	+/-
+[].Physiology and metabolism.API 50CHac.[].SBE	+
+[].Physiology and metabolism.API 50CHac.[].SBE	-
+[].Physiology and metabolism.API 50CHac.[].SAL	+
+[].Physiology and metabolism.API 50CHac.[].SAL	+/-
+[].Physiology and metabolism.API 50CHac.[].SAL	-
+[].Physiology and metabolism.API 50CHac.[].SAC	-
+[].Physiology and metabolism.API 50CHac.[].SAC	+/-
+[].Physiology and metabolism.API 50CHac.[].SAC	+
+[].Physiology and metabolism.API 50CHac.[].RIB	+/-
+[].Physiology and metabolism.API 50CHac.[].RIB	+
+[].Physiology and metabolism.API 50CHac.[].RIB	-
+[].Physiology and metabolism.API 50CHac.[].RHA	+
+[].Physiology and metabolism.API 50CHac.[].RHA	+/-
+[].Physiology and metabolism.API 50CHac.[].RHA	-
+[].Physiology and metabolism.API 50CHac.[].RAF	-
+[].Physiology and metabolism.API 50CHac.[].RAF	+
+[].Physiology and metabolism.API 50CHac.[].RAF	+/-
+[].Physiology and metabolism.API 50CHac.[].NAG	+/-
+[].Physiology and metabolism.API 50CHac.[].NAG	-
+[].Physiology and metabolism.API 50CHac.[].NAG	+
+[].Physiology and metabolism.API 50CHac.[].MNE	+/-
+[].Physiology and metabolism.API 50CHac.[].MNE	+
+[].Physiology and metabolism.API 50CHac.[].MNE	-
+[].Physiology and metabolism.API 50CHac.[].MLZ	+
+[].Physiology and metabolism.API 50CHac.[].MLZ	+/-
+[].Physiology and metabolism.API 50CHac.[].MLZ	-
+[].Physiology and metabolism.API 50CHac.[].MEL	+/-
+[].Physiology and metabolism.API 50CHac.[].MEL	+
+[].Physiology and metabolism.API 50CHac.[].MEL	-
+[].Physiology and metabolism.API 50CHac.[].MDX	+
+[].Physiology and metabolism.API 50CHac.[].MDX	+/-
+[].Physiology and metabolism.API 50CHac.[].MDX	-
+[].Physiology and metabolism.API 50CHac.[].MDM	+/-
+[].Physiology and metabolism.API 50CHac.[].MDM	+
+[].Physiology and metabolism.API 50CHac.[].MDM	-
+[].Physiology and metabolism.API 50CHac.[].MDG	+
+[].Physiology and metabolism.API 50CHac.[].MDG	+/-
+[].Physiology and metabolism.API 50CHac.[].MDG	-
+[].Physiology and metabolism.API 50CHac.[].MAN	+/-
+[].Physiology and metabolism.API 50CHac.[].MAN	+
+[].Physiology and metabolism.API 50CHac.[].MAN	-
+[].Physiology and metabolism.API 50CHac.[].MAL	+
+[].Physiology and metabolism.API 50CHac.[].MAL	+/-
+[].Physiology and metabolism.API 50CHac.[].MAL	-
+[].Physiology and metabolism.API 50CHac.[].LYX	+
+[].Physiology and metabolism.API 50CHac.[].LYX	+/-
+[].Physiology and metabolism.API 50CHac.[].LYX	-
+[].Physiology and metabolism.API 50CHac.[].LXYL	+/-
+[].Physiology and metabolism.API 50CHac.[].LXYL	-
+[].Physiology and metabolism.API 50CHac.[].LXYL	+
+[].Physiology and metabolism.API 50CHac.[].LFUC	-
+[].Physiology and metabolism.API 50CHac.[].LFUC	+
+[].Physiology and metabolism.API 50CHac.[].LFUC	+/-
+[].Physiology and metabolism.API 50CHac.[].LARL	-
+[].Physiology and metabolism.API 50CHac.[].LARL	+
+[].Physiology and metabolism.API 50CHac.[].LARL	+/-
+[].Physiology and metabolism.API 50CHac.[].LARA	+/-
+[].Physiology and metabolism.API 50CHac.[].LARA	+
+[].Physiology and metabolism.API 50CHac.[].LARA	-
+[].Physiology and metabolism.API 50CHac.[].LAC	-
+[].Physiology and metabolism.API 50CHac.[].LAC	+
+[].Physiology and metabolism.API 50CHac.[].LAC	+/-
+[].Physiology and metabolism.API 50CHac.[].INU	+/-
+[].Physiology and metabolism.API 50CHac.[].INU	-
+[].Physiology and metabolism.API 50CHac.[].INU	+
+[].Physiology and metabolism.API 50CHac.[].INO	+
+[].Physiology and metabolism.API 50CHac.[].INO	+/-
+[].Physiology and metabolism.API 50CHac.[].INO	-
+[].Physiology and metabolism.API 50CHac.[].GLYG	-
+[].Physiology and metabolism.API 50CHac.[].GLYG	+
+[].Physiology and metabolism.API 50CHac.[].GLYG	+/-
+[].Physiology and metabolism.API 50CHac.[].GLY	+
+[].Physiology and metabolism.API 50CHac.[].GLY	+/-
+[].Physiology and metabolism.API 50CHac.[].GLY	-
+[].Physiology and metabolism.API 50CHac.[].GLU	+/-
+[].Physiology and metabolism.API 50CHac.[].GLU	+
+[].Physiology and metabolism.API 50CHac.[].GLU	-
+[].Physiology and metabolism.API 50CHac.[].GEN	-
+[].Physiology and metabolism.API 50CHac.[].GEN	+/-
+[].Physiology and metabolism.API 50CHac.[].GEN	+
+[].Physiology and metabolism.API 50CHac.[].GAL	+/-
+[].Physiology and metabolism.API 50CHac.[].GAL	+
+[].Physiology and metabolism.API 50CHac.[].GAL	-
+[].Physiology and metabolism.API 50CHac.[].ESC	+/-
+[].Physiology and metabolism.API 50CHac.[].ESC	+
+[].Physiology and metabolism.API 50CHac.[].ESC	-
+[].Physiology and metabolism.API 50CHac.[].ERY	+/-
+[].Physiology and metabolism.API 50CHac.[].ERY	+
+[].Physiology and metabolism.API 50CHac.[].ERY	-
+[].Physiology and metabolism.API 50CHac.[].DXYL	+/-
+[].Physiology and metabolism.API 50CHac.[].DXYL	-
+[].Physiology and metabolism.API 50CHac.[].DXYL	+
+[].Physiology and metabolism.API 50CHac.[].DUL	-
+[].Physiology and metabolism.API 50CHac.[].DUL	+
+[].Physiology and metabolism.API 50CHac.[].DUL	+/-
+[].Physiology and metabolism.API 50CHac.[].DFUC	+/-
+[].Physiology and metabolism.API 50CHac.[].DFUC	+
+[].Physiology and metabolism.API 50CHac.[].DFUC	-
+[].Physiology and metabolism.API 50CHac.[].DARL	+
+[].Physiology and metabolism.API 50CHac.[].DARL	+/-
+[].Physiology and metabolism.API 50CHac.[].DARL	-
+[].Physiology and metabolism.API 50CHac.[].DARA	-
+[].Physiology and metabolism.API 50CHac.[].DARA	+/-
+[].Physiology and metabolism.API 50CHac.[].DARA	+
+[].Physiology and metabolism.API 50CHac.[].CEL	+
+[].Physiology and metabolism.API 50CHac.[].CEL	+/-
+[].Physiology and metabolism.API 50CHac.[].CEL	-
+[].Physiology and metabolism.API 50CHac.[].AMD	+/-
+[].Physiology and metabolism.API 50CHac.[].AMD	-
+[].Physiology and metabolism.API 50CHac.[].AMD	+
+[].Physiology and metabolism.API 50CHac.[].ADO	-
+[].Physiology and metabolism.API 50CHac.[].ADO	+/-
+[].Physiology and metabolism.API 50CHac.[].ADO	+
+[].Physiology and metabolism.API 50CHac.[].GNT	+/-
+[].Physiology and metabolism.API 50CHac.[].GNT	-
+[].Physiology and metabolism.API 50CHac.[].GNT	+
+[].Physiology and metabolism.API 50CHac.[].FRU	+/-
+[].Physiology and metabolism.API 50CHac.[].FRU	-
+[].Physiology and metabolism.API 50CHac.[].FRU	+
+[].Physiology and metabolism.API 50CHac.[].ARB	+/-
+[].Physiology and metabolism.API 50CHac.[].ARB	+
+[].Physiology and metabolism.API 50CHac.[].ARB	-
+[].Physiology and metabolism.API 50CHac.[].AMY	+/-
+[].Physiology and metabolism.API 50CHac.[].AMY	+
+[].Physiology and metabolism.API 50CHac.[].AMY	-
+[].Physiology and metabolism.API 50CHac.[].5KG	+/-
+[].Physiology and metabolism.API 50CHac.[].5KG	+
+[].Physiology and metabolism.API 50CHac.[].5KG	-
+[].Physiology and metabolism.API 50CHac.[].2KG	-
+[].Physiology and metabolism.API 50CHac.[].2KG	+/-
+[].Physiology and metabolism.API 50CHac.[].2KG	+
+[].Physiology and metabolism.API rID32STR.[].TRE	+
+[].Physiology and metabolism.API rID32STR.[].TRE	+/-
+[].Physiology and metabolism.API rID32STR.[].TRE	-
+[].Physiology and metabolism.API rID32STR.[].SOR	-
+[].Physiology and metabolism.API rID32STR.[].SOR	+/-
+[].Physiology and metabolism.API rID32STR.[].SOR	+
+[].Physiology and metabolism.API rID32STR.[].SAC	+
+[].Physiology and metabolism.API rID32STR.[].SAC	+/-
+[].Physiology and metabolism.API rID32STR.[].SAC	-
+[].Physiology and metabolism.API rID32STR.[].RAF	-
+[].Physiology and metabolism.API rID32STR.[].RAF	+/-
+[].Physiology and metabolism.API rID32STR.[].RAF	+
+[].Physiology and metabolism.API rID32STR.[].PAL	+
+[].Physiology and metabolism.API rID32STR.[].PAL	+/-
+[].Physiology and metabolism.API rID32STR.[].PAL	-
+[].Physiology and metabolism.API rID32STR.[].MAN	+
+[].Physiology and metabolism.API rID32STR.[].MAN	+/-
+[].Physiology and metabolism.API rID32STR.[].MAN	-
+[].Physiology and metabolism.API rID32STR.[].LARA	+
+[].Physiology and metabolism.API rID32STR.[].LARA	+/-
+[].Physiology and metabolism.API rID32STR.[].LARA	-
+[].Physiology and metabolism.API rID32STR.[].LAC	+
+[].Physiology and metabolism.API rID32STR.[].LAC	+/-
+[].Physiology and metabolism.API rID32STR.[].LAC	-
+[].Physiology and metabolism.API rID32STR.[].DARL	-
+[].Physiology and metabolism.API rID32STR.[].DARL	+
+[].Physiology and metabolism.API rID32STR.[].DARL	+/-
+[].Physiology and metabolism.API rID32STR.[].beta GUR	-
+[].Physiology and metabolism.API rID32STR.[].beta GUR	+
+[].Physiology and metabolism.API rID32STR.[].beta GUR	+/-
+[].Physiology and metabolism.API rID32STR.[].beta GLU	-
+[].Physiology and metabolism.API rID32STR.[].beta GLU	+/-
+[].Physiology and metabolism.API rID32STR.[].beta GLU	+
+[].Physiology and metabolism.API rID32STR.[].beta GAR	+
+[].Physiology and metabolism.API rID32STR.[].beta GAR	+/-
+[].Physiology and metabolism.API rID32STR.[].beta GAR	-
+[].Physiology and metabolism.API rID32STR.[].alpha GAL	-
+[].Physiology and metabolism.API rID32STR.[].alpha GAL	+/-
+[].Physiology and metabolism.API rID32STR.[].alpha GAL	+
+[].Physiology and metabolism.API rID32STR.[].ADH Arg	+/-
+[].Physiology and metabolism.API rID32STR.[].ADH Arg	-
+[].Physiology and metabolism.API rID32STR.[].ADH Arg	+
+[].Physiology and metabolism.API rID32STR.[].URE	+/-
+[].Physiology and metabolism.API rID32STR.[].URE	-
+[].Physiology and metabolism.API rID32STR.[].URE	+
+[].Physiology and metabolism.API rID32STR.[].TAG	+/-
+[].Physiology and metabolism.API rID32STR.[].TAG	-
+[].Physiology and metabolism.API rID32STR.[].TAG	+
+[].Physiology and metabolism.API rID32STR.[].RIB	-
+[].Physiology and metabolism.API rID32STR.[].RIB	+/-
+[].Physiology and metabolism.API rID32STR.[].RIB	+
+[].Physiology and metabolism.API rID32STR.[].PyrA	+/-
+[].Physiology and metabolism.API rID32STR.[].PyrA	+
+[].Physiology and metabolism.API rID32STR.[].PyrA	-
+[].Physiology and metabolism.API rID32STR.[].PUL	+/-
+[].Physiology and metabolism.API rID32STR.[].PUL	+
+[].Physiology and metabolism.API rID32STR.[].PUL	-
+[].Physiology and metabolism.API rID32STR.[].MLZ	-
+[].Physiology and metabolism.API rID32STR.[].MLZ	+/-
+[].Physiology and metabolism.API rID32STR.[].MLZ	+
+[].Physiology and metabolism.API rID32STR.[].MEL	+/-
+[].Physiology and metabolism.API rID32STR.[].MEL	-
+[].Physiology and metabolism.API rID32STR.[].MEL	+
+[].Physiology and metabolism.API rID32STR.[].Mbeta DG	+/-
+[].Physiology and metabolism.API rID32STR.[].Mbeta DG	+
+[].Physiology and metabolism.API rID32STR.[].Mbeta DG	-
+[].Physiology and metabolism.API rID32STR.[].MAL	+/-
+[].Physiology and metabolism.API rID32STR.[].MAL	+
+[].Physiology and metabolism.API rID32STR.[].MAL	-
+[].Physiology and metabolism.API rID32STR.[].GLYG	+/-
+[].Physiology and metabolism.API rID32STR.[].GLYG	+
+[].Physiology and metabolism.API rID32STR.[].GLYG	-
+[].Physiology and metabolism.API rID32STR.[].CDEX	+/-
+[].Physiology and metabolism.API rID32STR.[].CDEX	+
+[].Physiology and metabolism.API rID32STR.[].CDEX	-
+[].Physiology and metabolism.API rID32STR.[].beta MAN	+/-
+[].Physiology and metabolism.API rID32STR.[].beta MAN	-
+[].Physiology and metabolism.API rID32STR.[].beta MAN	+
+[].Physiology and metabolism.API rID32STR.[].VP	+/-
+[].Physiology and metabolism.API rID32STR.[].VP	-
+[].Physiology and metabolism.API rID32STR.[].VP	+
+[].Physiology and metabolism.API rID32STR.[].GTA	+/-
+[].Physiology and metabolism.API rID32STR.[].GTA	-
+[].Physiology and metabolism.API rID32STR.[].GTA	+
+[].Physiology and metabolism.API rID32STR.[].beta NAG	+/-
+[].Physiology and metabolism.API rID32STR.[].beta NAG	-
+[].Physiology and metabolism.API rID32STR.[].beta NAG	+
+[].Physiology and metabolism.API rID32STR.[].beta GAL	+
+[].Physiology and metabolism.API rID32STR.[].beta GAL	+/-
+[].Physiology and metabolism.API rID32STR.[].beta GAL	-
+[].Physiology and metabolism.API rID32STR.[].APPA	-
+[].Physiology and metabolism.API rID32STR.[].APPA	+/-
+[].Physiology and metabolism.API rID32STR.[].APPA	+
+[].Physiology and metabolism.API rID32STR.[].HIP	+/-
+[].Physiology and metabolism.API rID32STR.[].HIP	+
+[].Physiology and metabolism.API rID32STR.[].HIP	-
+[].Morphology.cell morphology.flagellum arrangement	peritrichous
+[].Morphology.cell morphology.flagellum arrangement	lophotrichous
+[].Morphology.cell morphology.flagellum arrangement	monotrichous, polar
+[].Morphology.cell morphology.flagellum arrangement	amphitrichous
+[].Morphology.cell morphology.flagellum arrangement	monotrichous
+[].Morphology.cell morphology.flagellum arrangement	polytrichous, monopolar
+[].Morphology.cell morphology.flagellum arrangement	polar
+[].Morphology.cell morphology.flagellum arrangement	gliding
+[].Morphology.cell morphology.flagellum arrangement	subpolar
+[].Morphology.cell morphology.flagellum arrangement	monopolar
+[].Physiology and metabolism.spore formation.type of spore	spore
+[].Physiology and metabolism.spore formation.type of spore	zoospore
+[].Physiology and metabolism.spore formation.type of spore	myxospore
+[].Physiology and metabolism.spore formation.type of spore	arthrospore
+[].Physiology and metabolism.spore formation.type of spore	endospore
+[].Physiology and metabolism.spore formation.type of spore	exospore (microbial cyst)
+[].Physiology and metabolism.API ID32STA.URE	+/-
+[].Physiology and metabolism.API ID32STA.URE	+
+[].Physiology and metabolism.API ID32STA.URE	-
+[].Physiology and metabolism.API ID32STA.TUR	+/-
+[].Physiology and metabolism.API ID32STA.TUR	+
+[].Physiology and metabolism.API ID32STA.TUR	-
+[].Physiology and metabolism.API ID32STA.TRE	+/-
+[].Physiology and metabolism.API ID32STA.TRE	-
+[].Physiology and metabolism.API ID32STA.TRE	+
+[].Physiology and metabolism.API ID32STA.SAC	-
+[].Physiology and metabolism.API ID32STA.SAC	+/-
+[].Physiology and metabolism.API ID32STA.SAC	+
+[].Physiology and metabolism.API ID32STA.RIB	+/-
+[].Physiology and metabolism.API ID32STA.RIB	-
+[].Physiology and metabolism.API ID32STA.RIB	+
+[].Physiology and metabolism.API ID32STA.RAF	-
+[].Physiology and metabolism.API ID32STA.RAF	+
+[].Physiology and metabolism.API ID32STA.NOVO	+/-
+[].Physiology and metabolism.API ID32STA.NOVO	-
+[].Physiology and metabolism.API ID32STA.NOVO	+
+[].Physiology and metabolism.API ID32STA.NIT	+/-
+[].Physiology and metabolism.API ID32STA.NIT	+
+[].Physiology and metabolism.API ID32STA.NIT	-
+[].Physiology and metabolism.API ID32STA.NAG	+/-
+[].Physiology and metabolism.API ID32STA.NAG	-
+[].Physiology and metabolism.API ID32STA.NAG	+
+[].Physiology and metabolism.API ID32STA.MNE	-
+[].Physiology and metabolism.API ID32STA.MNE	+/-
+[].Physiology and metabolism.API ID32STA.MNE	+
+[].Physiology and metabolism.API ID32STA.MAN	+/-
+[].Physiology and metabolism.API ID32STA.MAN	-
+[].Physiology and metabolism.API ID32STA.MAN	+
+[].Physiology and metabolism.API ID32STA.MAL	+
+[].Physiology and metabolism.API ID32STA.MAL	+/-
+[].Physiology and metabolism.API ID32STA.MAL	-
+[].Physiology and metabolism.API ID32STA.LAC	+/-
+[].Physiology and metabolism.API ID32STA.LAC	+
+[].Physiology and metabolism.API ID32STA.LAC	-
+[].Physiology and metabolism.API ID32STA.GLU	+/-
+[].Physiology and metabolism.API ID32STA.GLU	-
+[].Physiology and metabolism.API ID32STA.GLU	+
+[].Physiology and metabolism.API ID32STA.FRU	+/-
+[].Physiology and metabolism.API ID32STA.FRU	-
+[].Physiology and metabolism.API ID32STA.FRU	+
+[].Physiology and metabolism.API ID32STA.ESC	+/-
+[].Physiology and metabolism.API ID32STA.ESC	+
+[].Physiology and metabolism.API ID32STA.ESC	-
+[].Physiology and metabolism.API ID32STA.CEL	+/-
+[].Physiology and metabolism.API ID32STA.CEL	+
+[].Physiology and metabolism.API ID32STA.CEL	-
+[].Physiology and metabolism.API ID32STA.beta GUR	-
+[].Physiology and metabolism.API ID32STA.beta GUR	+
+[].Physiology and metabolism.API ID32STA.ArgA	+
+[].Physiology and metabolism.API ID32STA.ArgA	+/-
+[].Physiology and metabolism.API ID32STA.ArgA	-
+[].Physiology and metabolism.API ID32STA.ARA	+
+[].Physiology and metabolism.API ID32STA.ARA	+/-
+[].Physiology and metabolism.API ID32STA.ARA	-
+[].Physiology and metabolism.API ID32STA.ADH Arg	-
+[].Physiology and metabolism.API ID32STA.ADH Arg	+/-
+[].Physiology and metabolism.API ID32STA.ADH Arg	+
+[].Physiology and metabolism.API NH.[].URE	+
+[].Physiology and metabolism.API NH.[].URE	+/-
+[].Physiology and metabolism.API NH.[].URE	-
+[].Physiology and metabolism.API NH.[].SAC	-
+[].Physiology and metabolism.API NH.[].SAC	+/-
+[].Physiology and metabolism.API NH.[].SAC	+
+[].Physiology and metabolism.API NH.[].PAL	+/-
+[].Physiology and metabolism.API NH.[].PAL	-
+[].Physiology and metabolism.API NH.[].PAL	+
+[].Physiology and metabolism.API NH.[].ODC	+/-
+[].Physiology and metabolism.API NH.[].ODC	+
+[].Physiology and metabolism.API NH.[].ODC	-
+[].Physiology and metabolism.API NH.[].MAL	-
+[].Physiology and metabolism.API NH.[].MAL	+/-
+[].Physiology and metabolism.API NH.[].MAL	+
+[].Physiology and metabolism.API NH.[].LIP	-
+[].Physiology and metabolism.API NH.[].LIP	+
+[].Physiology and metabolism.API NH.[].LIP	+/-
+[].Physiology and metabolism.API NH.[].GLU	+
+[].Physiology and metabolism.API NH.[].GLU	-
+[].Physiology and metabolism.API NH.[].GLU	+/-
+[].Physiology and metabolism.API NH.[].FRU	-
+[].Physiology and metabolism.API NH.[].FRU	+/-
+[].Physiology and metabolism.API NH.[].FRU	+
+[].Physiology and metabolism.API ID32STA.PAL	+/-
+[].Physiology and metabolism.API ID32STA.PAL	-
+[].Physiology and metabolism.API ID32STA.PAL	+
+[].Physiology and metabolism.API ID32STA.ODC	+
+[].Physiology and metabolism.API ID32STA.ODC	-
+[].Physiology and metabolism.API ID32STA.beta GAL	-
+[].Physiology and metabolism.API ID32STA.beta GAL	+/-
+[].Physiology and metabolism.API ID32STA.beta GAL	+
+[].Physiology and metabolism.API NH.[].beta GAL	+/-
+[].Physiology and metabolism.API NH.[].beta GAL	-
+[].Physiology and metabolism.API NH.[].beta GAL	+
+[].Physiology and metabolism.API ID32STA.PyrA	-
+[].Physiology and metabolism.API ID32STA.PyrA	+/-
+[].Physiology and metabolism.API ID32STA.PyrA	+
+[].Physiology and metabolism.API ID32STA.VP	+/-
+[].Physiology and metabolism.API ID32STA.VP	+
+[].Physiology and metabolism.API ID32STA.VP	-
+[].Physiology and metabolism.API NH.[].ProA	-
+[].Physiology and metabolism.API NH.[].ProA	+
+[].Physiology and metabolism.API NH.[].ProA	+/-
+[].Physiology and metabolism.API NH.[].PEN	+/-
+[].Physiology and metabolism.API NH.[].PEN	+
+[].Physiology and metabolism.API NH.[].PEN	-
+[].Physiology and metabolism.API NH.[].GGT	+/-
+[].Physiology and metabolism.API NH.[].GGT	+
+[].Physiology and metabolism.API NH.[].GGT	-
+[].Physiology and metabolism.API NH.[].IND	+
+[].Physiology and metabolism.API NH.[].IND	-
+[].Physiology and metabolism.API NH.[].IND	+/-
+[].Safety information.risk assessment.[].pathogenicity human	yes
+[].Safety information.risk assessment.[].pathogenicity human	yes, in single cases
+[].Physiology and metabolism.enzymes.activity	+/-
+[].Physiology and metabolism.enzymes.activity	+
+[].Physiology and metabolism.enzymes.activity	-
+[].Physiology and metabolism.API 50CHac.[].Q	-
+[].Physiology and metabolism.API 50CHac.[].Q	+/-
+[].Morphology.colony morphology.type of hemolysis	alpha
+[].Morphology.colony morphology.type of hemolysis	CAMP test
+[].Morphology.colony morphology.type of hemolysis	gamma
+[].Morphology.colony morphology.type of hemolysis	alpha/beta
+[].Morphology.colony morphology.type of hemolysis	beta
+[].Safety information.risk assessment.[].pathogenicity animal	yes, in single cases
+[].Safety information.risk assessment.[].pathogenicity animal	yes
+[].Physiology and metabolism.API ID32STA.[].URE	+
+[].Physiology and metabolism.API ID32STA.[].URE	+/-
+[].Physiology and metabolism.API ID32STA.[].URE	-
+[].Physiology and metabolism.API ID32STA.[].TUR	-
+[].Physiology and metabolism.API ID32STA.[].TUR	+/-
+[].Physiology and metabolism.API ID32STA.[].TUR	+
+[].Physiology and metabolism.API ID32STA.[].TRE	+
+[].Physiology and metabolism.API ID32STA.[].TRE	-
+[].Physiology and metabolism.API ID32STA.[].TRE	+/-
+[].Physiology and metabolism.API ID32STA.[].SAC	+
+[].Physiology and metabolism.API ID32STA.[].SAC	-
+[].Physiology and metabolism.API ID32STA.[].SAC	+/-
+[].Physiology and metabolism.API ID32STA.[].RAF	+
+[].Physiology and metabolism.API ID32STA.[].RAF	-
+[].Physiology and metabolism.API ID32STA.[].RAF	+/-
+[].Physiology and metabolism.API ID32STA.[].PyrA	+/-
+[].Physiology and metabolism.API ID32STA.[].PyrA	+
+[].Physiology and metabolism.API ID32STA.[].PyrA	-
+[].Physiology and metabolism.API ID32STA.[].PAL	+/-
+[].Physiology and metabolism.API ID32STA.[].PAL	+
+[].Physiology and metabolism.API ID32STA.[].PAL	-
+[].Physiology and metabolism.API ID32STA.[].NOVO	+
+[].Physiology and metabolism.API ID32STA.[].NOVO	+/-
+[].Physiology and metabolism.API ID32STA.[].NOVO	-
+[].Physiology and metabolism.API ID32STA.[].NAG	+
+[].Physiology and metabolism.API ID32STA.[].NAG	-
+[].Physiology and metabolism.API ID32STA.[].NAG	+/-
+[].Physiology and metabolism.API ID32STA.[].MNE	-
+[].Physiology and metabolism.API ID32STA.[].MNE	+/-
+[].Physiology and metabolism.API ID32STA.[].MNE	+
+[].Physiology and metabolism.API ID32STA.[].MAN	-
+[].Physiology and metabolism.API ID32STA.[].MAN	+/-
+[].Physiology and metabolism.API ID32STA.[].MAN	+
+[].Physiology and metabolism.API ID32STA.[].MAL	-
+[].Physiology and metabolism.API ID32STA.[].MAL	+/-
+[].Physiology and metabolism.API ID32STA.[].MAL	+
+[].Physiology and metabolism.API ID32STA.[].GLU	+/-
+[].Physiology and metabolism.API ID32STA.[].GLU	+
+[].Physiology and metabolism.API ID32STA.[].GLU	-
+[].Physiology and metabolism.API ID32STA.[].FRU	-
+[].Physiology and metabolism.API ID32STA.[].FRU	+/-
+[].Physiology and metabolism.API ID32STA.[].FRU	+
+[].Physiology and metabolism.API ID32STA.[].ESC	+
+[].Physiology and metabolism.API ID32STA.[].ESC	+/-
+[].Physiology and metabolism.API ID32STA.[].ESC	-
+[].Physiology and metabolism.API ID32STA.[].beta GAL	+/-
+[].Physiology and metabolism.API ID32STA.[].beta GAL	-
+[].Physiology and metabolism.API ID32STA.[].beta GAL	+
+[].Physiology and metabolism.API ID32STA.[].ArgA	+
+[].Physiology and metabolism.API ID32STA.[].ArgA	+/-
+[].Physiology and metabolism.API ID32STA.[].ArgA	-
+[].Physiology and metabolism.API ID32STA.[].ARA	+
+[].Physiology and metabolism.API ID32STA.[].ARA	+/-
+[].Physiology and metabolism.API ID32STA.[].ARA	-
+[].Physiology and metabolism.API ID32STA.[].ADH Arg	+/-
+[].Physiology and metabolism.API ID32STA.[].ADH Arg	-
+[].Physiology and metabolism.API ID32STA.[].ADH Arg	+
+[].Physiology and metabolism.API ID32STA.[].RIB	+/-
+[].Physiology and metabolism.API ID32STA.[].RIB	+
+[].Physiology and metabolism.API ID32STA.[].RIB	-
+[].Physiology and metabolism.API ID32STA.[].ODC	-
+[].Physiology and metabolism.API ID32STA.[].ODC	+/-
+[].Physiology and metabolism.API ID32STA.[].ODC	+
+[].Physiology and metabolism.API ID32STA.[].LAC	+
+[].Physiology and metabolism.API ID32STA.[].LAC	+/-
+[].Physiology and metabolism.API ID32STA.[].LAC	-
+[].Physiology and metabolism.API ID32STA.[].beta GUR	+/-
+[].Physiology and metabolism.API ID32STA.[].beta GUR	-
+[].Physiology and metabolism.API ID32STA.[].beta GUR	+
+[].Physiology and metabolism.API ID32STA.[].VP	-
+[].Physiology and metabolism.API ID32STA.[].VP	+/-
+[].Physiology and metabolism.API ID32STA.[].VP	+
+[].Physiology and metabolism.API ID32STA.[].CEL	+
+[].Physiology and metabolism.API ID32STA.[].CEL	+/-
+[].Physiology and metabolism.API ID32STA.[].CEL	-
+[].Physiology and metabolism.API ID32STA.[].NIT	+/-
+[].Physiology and metabolism.API ID32STA.[].NIT	+
+[].Physiology and metabolism.API ID32STA.[].NIT	-
+[].Physiology and metabolism.antibiogram.[].nystatin	10
+[].Physiology and metabolism.antibiogram.[].nystatin	12
+[].Physiology and metabolism.antibiogram.[].nystatin	12-14
+[].Physiology and metabolism.antibiogram.[].nystatin	8
+[].Physiology and metabolism.antibiogram.[].nystatin	0
+[].Physiology and metabolism.antibiogram.[].nystatin	20
+[].Physiology and metabolism.antibiogram.[].nystatin	6-8
+[].Physiology and metabolism.antibiogram.[].nystatin	n.d.
+[].Physiology and metabolism.antibiogram.[].nystatin	10-12
+[].Physiology and metabolism.antibiogram.[].nystatin	8-10
+[].Physiology and metabolism.antibiogram.[].nystatin	6
+[].Physiology and metabolism.antibiogram.[].medium	Mueller-Hinton Agar
+[].Physiology and metabolism.antibiogram.[].medium	Mueller Hinton
+[].Physiology and metabolism.antibiogram.[].medium	M 693
+[].Physiology and metabolism.antibiogram.[].medium	M 804
+[].Physiology and metabolism.antibiogram.[].medium	M 92
+[].Physiology and metabolism.antibiogram.[].medium	M 514
+[].Physiology and metabolism.antibiogram.[].medium	M 1
+[].Physiology and metabolism.fatty acid profile.[].type of FA analysis	whole cell analysis
+[].Morphology.cell morphology.[].flagellum arrangement	monopolar
+[].Morphology.cell morphology.[].flagellum arrangement	monotrichous, polar
+[].Morphology.cell morphology.[].flagellum arrangement	lophotrichous
+[].Morphology.cell morphology.[].flagellum arrangement	peritrichous
+[].Morphology.cell morphology.[].flagellum arrangement	monotrichous
+[].Morphology.cell morphology.[].flagellum arrangement	polytrichous, monopolar
+[].Morphology.cell morphology.[].flagellum arrangement	polar
+[].Morphology.cell morphology.[].flagellum arrangement	subpolar
+[].Morphology.cell morphology.[].flagellum arrangement	amphitrichous
+[].Morphology.cell morphology.[].flagellum arrangement	gliding
+[].Culture and growth conditions.culture pH.PH range	alkaliphile
+[].Culture and growth conditions.culture pH.PH range	acidophile
+[].Physiology and metabolism.antibiogram.[].incubation temperature	28
+[].Physiology and metabolism.antibiogram.[].incubation temperature	30
+[].Physiology and metabolism.antibiogram.[].incubation temperature	55
+[].Physiology and metabolism.antibiogram.[].incubation temperature	33
+[].Physiology and metabolism.antibiogram.[].incubation temperature	37
+[].Physiology and metabolism.halophily.[].halophily level	extremely halophilic
+[].Physiology and metabolism.halophily.[].halophily level	haloalkaliphilic
+[].Physiology and metabolism.halophily.[].halophily level	moderately halophilic
+[].Physiology and metabolism.halophily.[].halophily level	halophilic
+[].Physiology and metabolism.halophily.[].halophily level	slightly halophilic
+[].Physiology and metabolism.halophily.[].halophily level	non-halophilic
+[].Physiology and metabolism.halophily.[].halophily level	halotolerant
+[].Physiology and metabolism.antibiogram.[].oxygen condition	microaerophil
+[].Physiology and metabolism.antibiogram.[].oxygen condition	aerob + 5% CO2
+[].Physiology and metabolism.antibiogram.[].oxygen condition	aerob
+[].Physiology and metabolism.API CAM.[].URE	+
+[].Physiology and metabolism.API CAM.[].URE	-
+[].Physiology and metabolism.API CAM.[].PYRA	+/-
+[].Physiology and metabolism.API CAM.[].PYRA	+
+[].Physiology and metabolism.API CAM.[].PYRA	-
+[].Physiology and metabolism.API CAM.[].PAL	+/-
+[].Physiology and metabolism.API CAM.[].PAL	+
+[].Physiology and metabolism.API CAM.[].PAL	-
+[].Physiology and metabolism.API CAM.[].NIT	+/-
+[].Physiology and metabolism.API CAM.[].NIT	-
+[].Physiology and metabolism.API CAM.[].NIT	+
+[].Physiology and metabolism.API CAM.[].GGT	+
+[].Physiology and metabolism.API CAM.[].GGT	+/-
+[].Physiology and metabolism.API CAM.[].GGT	-
+[].Physiology and metabolism.API CAM.[].AspA	+
+[].Physiology and metabolism.API CAM.[].AspA	+/-
+[].Physiology and metabolism.API CAM.[].AspA	-
+[].Physiology and metabolism.API CAM.[].ArgA	-
+[].Physiology and metabolism.API CAM.[].ArgA	+/-
+[].Physiology and metabolism.API CAM.[].ArgA	+
+[].Physiology and metabolism.API CAM.[].TTC	+
+[].Physiology and metabolism.API CAM.[].TTC	+/-
+[].Physiology and metabolism.API CAM.[].TTC	-
+[].Physiology and metabolism.API CAM.[].HIP	+/-
+[].Physiology and metabolism.API CAM.[].HIP	+
+[].Physiology and metabolism.API CAM.[].HIP	-
+[].Physiology and metabolism.API CAM.[].EST	+
+[].Physiology and metabolism.API CAM.[].EST	+/-
+[].Physiology and metabolism.API CAM.[].EST	-
+[].Physiology and metabolism.API CAM.[].H2S	-
+[].Physiology and metabolism.API CAM.[].H2S	+
+[].Physiology and metabolism.API CAM.[].SUT	+/-
+[].Physiology and metabolism.API CAM.[].SUT	+
+[].Physiology and metabolism.API CAM.[].SUT	-
+[].Physiology and metabolism.API CAM.[].PROP	+
+[].Physiology and metabolism.API CAM.[].PROP	+/-
+[].Physiology and metabolism.API CAM.[].PROP	-
+[].Physiology and metabolism.API CAM.[].NAL	+
+[].Physiology and metabolism.API CAM.[].NAL	+/-
+[].Physiology and metabolism.API CAM.[].NAL	-
+[].Physiology and metabolism.API CAM.[].MLT	+/-
+[].Physiology and metabolism.API CAM.[].MLT	-
+[].Physiology and metabolism.API CAM.[].MLT	+
+[].Physiology and metabolism.API CAM.[].GLU	+/-
+[].Physiology and metabolism.API CAM.[].GLU	+
+[].Physiology and metabolism.API CAM.[].GLU	-
+[].Physiology and metabolism.API CAM.[].ERO	+/-
+[].Physiology and metabolism.API CAM.[].ERO	-
+[].Physiology and metabolism.API CAM.[].ERO	+
+[].Physiology and metabolism.API CAM.[].CIT	+/-
+[].Physiology and metabolism.API CAM.[].CIT	+
+[].Physiology and metabolism.API CAM.[].CIT	-
+[].Physiology and metabolism.API CAM.[].CFZ	-
+[].Physiology and metabolism.API CAM.[].CFZ	+/-
+[].Physiology and metabolism.API CAM.[].CFZ	+
+[].Physiology and metabolism.API CAM.[].ACE	+/-
+[].Physiology and metabolism.API CAM.[].ACE	-
+[].Physiology and metabolism.API CAM.[].ACE	+
+[].Morphology.colony morphology.[].hemolysis ability	1
+[].Physiology and metabolism.API coryne.[].GEL	+
+[].Physiology and metabolism.API coryne.[].GEL	+/-
+[].Physiology and metabolism.API coryne.[].GEL	-
+[].Physiology and metabolism.API coryne.[].ESC	+
+[].Physiology and metabolism.API coryne.[].ESC	+/-
+[].Physiology and metabolism.API coryne.[].ESC	-
+[].Physiology and metabolism.API coryne.[].URE	+
+[].Physiology and metabolism.API coryne.[].URE	+/-
+[].Physiology and metabolism.API coryne.[].URE	-
+[].Physiology and metabolism.API coryne.[].PYRA	-
+[].Physiology and metabolism.API coryne.[].PYRA	+/-
+[].Physiology and metabolism.API coryne.[].PYRA	+
+[].Physiology and metabolism.API coryne.[].PAL	+/-
+[].Physiology and metabolism.API coryne.[].PAL	+
+[].Physiology and metabolism.API coryne.[].PAL	-
+[].Physiology and metabolism.API coryne.[].beta NAG	-
+[].Physiology and metabolism.API coryne.[].beta NAG	+/-
+[].Physiology and metabolism.API coryne.[].beta NAG	+
+[].Physiology and metabolism.API coryne.[].alpha GLU	+/-
+[].Physiology and metabolism.API coryne.[].alpha GLU	+
+[].Physiology and metabolism.API coryne.[].alpha GLU	-
+[].Physiology and metabolism.API coryne.[].SAC	+/-
+[].Physiology and metabolism.API coryne.[].SAC	-
+[].Physiology and metabolism.API coryne.[].SAC	+
+[].Physiology and metabolism.API coryne.[].beta GUR	+
+[].Physiology and metabolism.API coryne.[].beta GUR	+/-
+[].Physiology and metabolism.API coryne.[].beta GUR	-
+[].Physiology and metabolism.API coryne.[].beta GAL	-
+[].Physiology and metabolism.API coryne.[].beta GAL	+/-
+[].Physiology and metabolism.API coryne.[].beta GAL	+
+[].Physiology and metabolism.API coryne.[].XYL	-
+[].Physiology and metabolism.API coryne.[].XYL	+/-
+[].Physiology and metabolism.API coryne.[].XYL	+
+[].Physiology and metabolism.API coryne.[].RIB	+
+[].Physiology and metabolism.API coryne.[].RIB	+/-
+[].Physiology and metabolism.API coryne.[].RIB	-
+[].Physiology and metabolism.API coryne.[].PYZ	-
+[].Physiology and metabolism.API coryne.[].PYZ	+
+[].Physiology and metabolism.API coryne.[].PYZ	+/-
+[].Physiology and metabolism.API coryne.[].NIT	+/-
+[].Physiology and metabolism.API coryne.[].NIT	+
+[].Physiology and metabolism.API coryne.[].NIT	-
+[].Physiology and metabolism.API coryne.[].MAN	-
+[].Physiology and metabolism.API coryne.[].MAN	+
+[].Physiology and metabolism.API coryne.[].MAN	+/-
+[].Physiology and metabolism.API coryne.[].LAC	+/-
+[].Physiology and metabolism.API coryne.[].LAC	-
+[].Physiology and metabolism.API coryne.[].LAC	+
+[].Physiology and metabolism.API coryne.[].GLYG	-
+[].Physiology and metabolism.API coryne.[].GLYG	+/-
+[].Physiology and metabolism.API coryne.[].GLYG	+
+[].Physiology and metabolism.API coryne.[].MAL	+/-
+[].Physiology and metabolism.API coryne.[].MAL	+
+[].Physiology and metabolism.API coryne.[].MAL	-
+[].Physiology and metabolism.API 20STR.VP	-
+[].Physiology and metabolism.API 20STR.VP	+
+[].Physiology and metabolism.API 20STR.TRE	+/-
+[].Physiology and metabolism.API 20STR.TRE	+
+[].Physiology and metabolism.API 20STR.TRE	-
+[].Physiology and metabolism.API 20STR.SOR	+
+[].Physiology and metabolism.API 20STR.SOR	-
+[].Physiology and metabolism.API 20STR.RIB	-
+[].Physiology and metabolism.API 20STR.RIB	+/-
+[].Physiology and metabolism.API 20STR.RIB	+
+[].Physiology and metabolism.API 20STR.RAF	-
+[].Physiology and metabolism.API 20STR.RAF	+
+[].Physiology and metabolism.API 20STR.PYRA	+/-
+[].Physiology and metabolism.API 20STR.PYRA	+
+[].Physiology and metabolism.API 20STR.PYRA	-
+[].Physiology and metabolism.API 20STR.PAL	+
+[].Physiology and metabolism.API 20STR.PAL	-
+[].Physiology and metabolism.API 20STR.MAN	+
+[].Physiology and metabolism.API 20STR.MAN	+/-
+[].Physiology and metabolism.API 20STR.MAN	-
+[].Physiology and metabolism.API 20STR.LAP	+
+[].Physiology and metabolism.API 20STR.LAP	-
+[].Physiology and metabolism.API 20STR.LAC	+
+[].Physiology and metabolism.API 20STR.LAC	+/-
+[].Physiology and metabolism.API 20STR.LAC	-
+[].Physiology and metabolism.API 20STR.INU	-
+[].Physiology and metabolism.API 20STR.INU	+
+[].Physiology and metabolism.API 20STR.HIP	-
+[].Physiology and metabolism.API 20STR.HIP	+
+[].Physiology and metabolism.API 20STR.GLYG	+/-
+[].Physiology and metabolism.API 20STR.GLYG	-
+[].Physiology and metabolism.API 20STR.GLYG	+
+[].Physiology and metabolism.API 20STR.ESC	+/-
+[].Physiology and metabolism.API 20STR.ESC	-
+[].Physiology and metabolism.API 20STR.ESC	+
+[].Physiology and metabolism.API 20STR.beta GUR	-
+[].Physiology and metabolism.API 20STR.beta GUR	+
+[].Physiology and metabolism.API 20STR.beta GAL	+
+[].Physiology and metabolism.API 20STR.beta GAL	+/-
+[].Physiology and metabolism.API 20STR.beta GAL	-
+[].Physiology and metabolism.API 20STR.ARA	+
+[].Physiology and metabolism.API 20STR.ARA	-
+[].Physiology and metabolism.API 20STR.AMD	+
+[].Physiology and metabolism.API 20STR.AMD	-
+[].Physiology and metabolism.API 20STR.alpha GAL	+/-
+[].Physiology and metabolism.API 20STR.alpha GAL	+
+[].Physiology and metabolism.API 20STR.alpha GAL	-
+[].Physiology and metabolism.API 20STR.ADH	+/-
+[].Physiology and metabolism.API 20STR.ADH	-
+[].Physiology and metabolism.API 20STR.ADH	+
+[].Physiology and metabolism.metabolite utilization.utilization activity	-
+[].Physiology and metabolism.metabolite utilization.utilization activity	+
+[].Physiology and metabolism.API CAM.TTC	-
+[].Physiology and metabolism.API CAM.TTC	+/-
+[].Physiology and metabolism.API CAM.TTC	+
+[].Physiology and metabolism.API CAM.PYRA	+/-
+[].Physiology and metabolism.API CAM.PYRA	-
+[].Physiology and metabolism.API CAM.PYRA	+
+[].Physiology and metabolism.API CAM.PAL	+/-
+[].Physiology and metabolism.API CAM.PAL	+
+[].Physiology and metabolism.API CAM.PAL	-
+[].Physiology and metabolism.API CAM.GGT	+/-
+[].Physiology and metabolism.API CAM.GGT	+
+[].Physiology and metabolism.API CAM.GGT	-
+[].Physiology and metabolism.API CAM.URE	+
+[].Physiology and metabolism.API CAM.URE	-
+[].Physiology and metabolism.API CAM.NIT	+
+[].Physiology and metabolism.API CAM.NIT	+/-
+[].Physiology and metabolism.API CAM.NIT	-
+[].Physiology and metabolism.API CAM.HIP	+
+[].Physiology and metabolism.API CAM.HIP	+/-
+[].Physiology and metabolism.API CAM.HIP	-
+[].Physiology and metabolism.API CAM.EST	-
+[].Physiology and metabolism.API CAM.EST	+/-
+[].Physiology and metabolism.API CAM.EST	+
+[].Physiology and metabolism.API CAM.AspA	-
+[].Physiology and metabolism.API CAM.AspA	+
+[].Physiology and metabolism.API CAM.ArgA	+
+[].Physiology and metabolism.API CAM.ArgA	-
+[].Physiology and metabolism.API CAM.ArgA	+/-
+[].Physiology and metabolism.API CAM.SUT	+/-
+[].Physiology and metabolism.API CAM.SUT	+
+[].Physiology and metabolism.API CAM.SUT	-
+[].Physiology and metabolism.API CAM.MLT	+
+[].Physiology and metabolism.API CAM.MLT	+/-
+[].Physiology and metabolism.API CAM.MLT	-
+[].Physiology and metabolism.API CAM.H2S	-
+[].Physiology and metabolism.API CAM.H2S	+
+[].Physiology and metabolism.API CAM.GLU	+/-
+[].Physiology and metabolism.API CAM.GLU	+
+[].Physiology and metabolism.API CAM.GLU	-
+[].Physiology and metabolism.API CAM.CFZ	+
+[].Physiology and metabolism.API CAM.CFZ	+/-
+[].Physiology and metabolism.API CAM.CFZ	-
+[].Morphology.colony morphology.[].type of hemolysis	alpha
+[].Morphology.colony morphology.[].type of hemolysis	CAMP test
+[].Morphology.colony morphology.[].type of hemolysis	gamma
+[].Morphology.colony morphology.[].type of hemolysis	alpha/beta
+[].Morphology.colony morphology.[].type of hemolysis	beta
+[].Physiology and metabolism.API CAM.PROP	-
+[].Physiology and metabolism.API CAM.PROP	+/-
+[].Physiology and metabolism.API CAM.PROP	+
+[].Physiology and metabolism.API CAM.NAL	+/-
+[].Physiology and metabolism.API CAM.NAL	-
+[].Physiology and metabolism.API CAM.NAL	+
+[].Physiology and metabolism.API CAM.ERO	+/-
+[].Physiology and metabolism.API CAM.ERO	+
+[].Physiology and metabolism.API CAM.ERO	-
+[].Physiology and metabolism.API CAM.CIT	+
+[].Physiology and metabolism.API CAM.CIT	+/-
+[].Physiology and metabolism.API CAM.CIT	-
+[].Physiology and metabolism.API CAM.ACE	+/-
+[].Physiology and metabolism.API CAM.ACE	-
+[].Physiology and metabolism.API CAM.ACE	+
+[].Physiology and metabolism.API CAM.[].CAT	+/-
+[].Physiology and metabolism.API CAM.[].CAT	+
+[].Physiology and metabolism.API CAM.[].CAT	-
+[].Safety information.risk assessment.pathogenicity plant	yes
+[].Safety information.risk assessment.pathogenicity plant	yes, in single cases
+[].Physiology and metabolism.API CAM.CAT	+/-
+[].Physiology and metabolism.API CAM.CAT	-
+[].Physiology and metabolism.API CAM.CAT	+
+[].Physiology and metabolism.API 20STR.beta HEM	-
+[].Physiology and metabolism.API 20STR.beta HEM	+
+[].Physiology and metabolism.API coryne.[].GLU	-
+[].Physiology and metabolism.API coryne.[].GLU	+/-
+[].Physiology and metabolism.API coryne.[].GLU	+
+[].Physiology and metabolism.API LIST.XYL	+
+[].Physiology and metabolism.API LIST.XYL	-
+[].Physiology and metabolism.API LIST.RIB	+
+[].Physiology and metabolism.API LIST.RIB	-
+[].Physiology and metabolism.API LIST.RHA	+/-
+[].Physiology and metabolism.API LIST.RHA	-
+[].Physiology and metabolism.API LIST.RHA	+
+[].Physiology and metabolism.API LIST.MDG	+
+[].Physiology and metabolism.API LIST.MDG	-
+[].Physiology and metabolism.API LIST.G1P	-
+[].Physiology and metabolism.API LIST.G1P	+
+[].Physiology and metabolism.API LIST.ESC	-
+[].Physiology and metabolism.API LIST.ESC	+
+[].Physiology and metabolism.API LIST.DARL	+
+[].Physiology and metabolism.API LIST.DARL	-
+[].Physiology and metabolism.API LIST.alpha MAN	-
+[].Physiology and metabolism.API LIST.alpha MAN	+
+[].Physiology and metabolism.API LIST.TAG	+
+[].Physiology and metabolism.API LIST.TAG	-
+[].Physiology and metabolism.API LIST.DIM	+
+[].Physiology and metabolism.API LIST.DIM	-
+[].Physiology and metabolism.API coryne.[].Control	+
+[].Physiology and metabolism.API coryne.[].Control	-
+[].Physiology and metabolism.spore formation.[].type of spore	myxospore
+[].Physiology and metabolism.spore formation.[].type of spore	endospore
+[].Physiology and metabolism.spore formation.[].type of spore	exospore (microbial cyst)
+[].Physiology and metabolism.spore formation.[].type of spore	spore
+[].Physiology and metabolism.spore formation.[].type of spore	zoospore
+[].Physiology and metabolism.spore formation.[].type of spore	arthrospore
+[].Physiology and metabolism.API STA.XYL	-
+[].Physiology and metabolism.API STA.XYL	+
+[].Physiology and metabolism.API STA.XLT	-
+[].Physiology and metabolism.API STA.XLT	+
+[].Physiology and metabolism.API STA.VP	-
+[].Physiology and metabolism.API STA.VP	+
+[].Physiology and metabolism.API STA.URE	+
+[].Physiology and metabolism.API STA.URE	-
+[].Physiology and metabolism.API STA.TRE	-
+[].Physiology and metabolism.API STA.TRE	+
+[].Physiology and metabolism.API STA.SAC	-
+[].Physiology and metabolism.API STA.SAC	+
+[].Physiology and metabolism.API STA.RAF	-
+[].Physiology and metabolism.API STA.RAF	+
+[].Physiology and metabolism.API STA.PAL	+
+[].Physiology and metabolism.API STA.PAL	-
+[].Physiology and metabolism.API STA.NIT	+
+[].Physiology and metabolism.API STA.NIT	-
+[].Physiology and metabolism.API STA.NAG	-
+[].Physiology and metabolism.API STA.NAG	+/-
+[].Physiology and metabolism.API STA.NAG	+
+[].Physiology and metabolism.API STA.MNE	+
+[].Physiology and metabolism.API STA.MNE	-
+[].Physiology and metabolism.API STA.MEL	+
+[].Physiology and metabolism.API STA.MEL	-
+[].Physiology and metabolism.API STA.MDG	-
+[].Physiology and metabolism.API STA.MDG	+
+[].Physiology and metabolism.API STA.MAN	-
+[].Physiology and metabolism.API STA.MAN	+
+[].Physiology and metabolism.API STA.MAL	-
+[].Physiology and metabolism.API STA.MAL	+
+[].Physiology and metabolism.API STA.LAC	-
+[].Physiology and metabolism.API STA.LAC	+
+[].Physiology and metabolism.API STA.GLU	+
+[].Physiology and metabolism.API STA.GLU	-
+[].Physiology and metabolism.API STA.FRU	-
+[].Physiology and metabolism.API STA.FRU	+
+[].Physiology and metabolism.API STA.ADH	-
+[].Physiology and metabolism.API STA.ADH	+
+[].Physiology and metabolism.API coryne.[].CAT	+
+[].Physiology and metabolism.API coryne.[].CAT	-
+[].Physiology and metabolism.API STA.LSTR	-
+[].Physiology and metabolism.API STA.LSTR	+
+[].Physiology and metabolism.fatty acid profile.incubation_oxygen	aerobic
+[].Physiology and metabolism.fatty acid profile.incubation_oxygen	anaerobic
+[].Physiology and metabolism.fatty acid profile.incubation_oxygen	microaerophil
+[].Physiology and metabolism.API 20A.XYL	-
+[].Physiology and metabolism.API 20A.XYL	+/-
+[].Physiology and metabolism.API 20A.XYL	+
+[].Physiology and metabolism.API 20A.URE	-
+[].Physiology and metabolism.API 20A.URE	+
+[].Physiology and metabolism.API 20A.TRE	+
+[].Physiology and metabolism.API 20A.TRE	+/-
+[].Physiology and metabolism.API 20A.TRE	-
+[].Physiology and metabolism.API 20A.SOR	-
+[].Physiology and metabolism.API 20A.SOR	+/-
+[].Physiology and metabolism.API 20A.SOR	+
+[].Physiology and metabolism.API 20A.SAL	+
+[].Physiology and metabolism.API 20A.SAL	+/-
+[].Physiology and metabolism.API 20A.SAL	-
+[].Physiology and metabolism.API 20A.SAC	+
+[].Physiology and metabolism.API 20A.SAC	+/-
+[].Physiology and metabolism.API 20A.SAC	-
+[].Physiology and metabolism.API 20A.RHA	+
+[].Physiology and metabolism.API 20A.RHA	+/-
+[].Physiology and metabolism.API 20A.RHA	-
+[].Physiology and metabolism.API 20A.RAF	+/-
+[].Physiology and metabolism.API 20A.RAF	+
+[].Physiology and metabolism.API 20A.RAF	-
+[].Physiology and metabolism.API 20A.MNE	+/-
+[].Physiology and metabolism.API 20A.MNE	+
+[].Physiology and metabolism.API 20A.MNE	-
+[].Physiology and metabolism.API 20A.MLZ	+
+[].Physiology and metabolism.API 20A.MLZ	+/-
+[].Physiology and metabolism.API 20A.MLZ	-
+[].Physiology and metabolism.API 20A.MAN	+/-
+[].Physiology and metabolism.API 20A.MAN	-
+[].Physiology and metabolism.API 20A.MAN	+
+[].Physiology and metabolism.API 20A.MAL	+
+[].Physiology and metabolism.API 20A.MAL	+/-
+[].Physiology and metabolism.API 20A.MAL	-
+[].Physiology and metabolism.API 20A.LAC	+
+[].Physiology and metabolism.API 20A.LAC	-
+[].Physiology and metabolism.API 20A.LAC	+/-
+[].Physiology and metabolism.API 20A.GLY	+/-
+[].Physiology and metabolism.API 20A.GLY	+
+[].Physiology and metabolism.API 20A.GLY	-
+[].Physiology and metabolism.API 20A.GLU	+/-
+[].Physiology and metabolism.API 20A.GLU	-
+[].Physiology and metabolism.API 20A.GLU	+
+[].Physiology and metabolism.API 20A.GEL	+
+[].Physiology and metabolism.API 20A.GEL	-
+[].Physiology and metabolism.API 20A.GEL	+/-
+[].Physiology and metabolism.API 20A.CEL	+/-
+[].Physiology and metabolism.API 20A.CEL	-
+[].Physiology and metabolism.API 20A.CEL	+
+[].Physiology and metabolism.API 20A.ARA	+/-
+[].Physiology and metabolism.API 20A.ARA	+
+[].Physiology and metabolism.API 20A.ARA	-
+[].Physiology and metabolism.API 20A.ESC	+
+[].Physiology and metabolism.API 20A.ESC	-
+[].Physiology and metabolism.API 20A.ESC	+/-
+[].External links.phages.@ref	124042
+[].Physiology and metabolism.API 20A.IND	+
+[].Physiology and metabolism.API 20A.IND	-
+[].Physiology and metabolism.API 20A.[].XYL	-
+[].Physiology and metabolism.API 20A.[].XYL	+/-
+[].Physiology and metabolism.API 20A.[].XYL	+
+[].Physiology and metabolism.API 20A.[].URE	+
+[].Physiology and metabolism.API 20A.[].URE	-
+[].Physiology and metabolism.API 20A.[].TRE	+
+[].Physiology and metabolism.API 20A.[].TRE	-
+[].Physiology and metabolism.API 20A.[].TRE	+/-
+[].Physiology and metabolism.API 20A.[].SOR	+/-
+[].Physiology and metabolism.API 20A.[].SOR	+
+[].Physiology and metabolism.API 20A.[].SOR	-
+[].Physiology and metabolism.API 20A.[].SAL	-
+[].Physiology and metabolism.API 20A.[].SAL	+
+[].Physiology and metabolism.API 20A.[].SAL	+/-
+[].Physiology and metabolism.API 20A.[].SAC	-
+[].Physiology and metabolism.API 20A.[].SAC	+/-
+[].Physiology and metabolism.API 20A.[].SAC	+
+[].Physiology and metabolism.API 20A.[].RHA	-
+[].Physiology and metabolism.API 20A.[].RHA	+/-
+[].Physiology and metabolism.API 20A.[].RHA	+
+[].Physiology and metabolism.API 20A.[].RAF	+/-
+[].Physiology and metabolism.API 20A.[].RAF	-
+[].Physiology and metabolism.API 20A.[].RAF	+
+[].Physiology and metabolism.API 20A.[].MNE	-
+[].Physiology and metabolism.API 20A.[].MNE	+/-
+[].Physiology and metabolism.API 20A.[].MNE	+
+[].Physiology and metabolism.API 20A.[].MLZ	-
+[].Physiology and metabolism.API 20A.[].MLZ	+/-
+[].Physiology and metabolism.API 20A.[].MLZ	+
+[].Physiology and metabolism.API 20A.[].MAN	+
+[].Physiology and metabolism.API 20A.[].MAN	+/-
+[].Physiology and metabolism.API 20A.[].MAN	-
+[].Physiology and metabolism.API 20A.[].MAL	-
+[].Physiology and metabolism.API 20A.[].MAL	+/-
+[].Physiology and metabolism.API 20A.[].MAL	+
+[].Physiology and metabolism.API 20A.[].LAC	+
+[].Physiology and metabolism.API 20A.[].LAC	-
+[].Physiology and metabolism.API 20A.[].LAC	+/-
+[].Physiology and metabolism.API 20A.[].GLY	+/-
+[].Physiology and metabolism.API 20A.[].GLY	+
+[].Physiology and metabolism.API 20A.[].GLY	-
+[].Physiology and metabolism.API 20A.[].GLU	-
+[].Physiology and metabolism.API 20A.[].GLU	+/-
+[].Physiology and metabolism.API 20A.[].GLU	+
+[].Physiology and metabolism.API 20A.[].GEL	+
+[].Physiology and metabolism.API 20A.[].GEL	+/-
+[].Physiology and metabolism.API 20A.[].GEL	-
+[].Physiology and metabolism.API 20A.[].CEL	+
+[].Physiology and metabolism.API 20A.[].CEL	-
+[].Physiology and metabolism.API 20A.[].CEL	+/-
+[].Physiology and metabolism.API 20A.[].ARA	+/-
+[].Physiology and metabolism.API 20A.[].ARA	+
+[].Physiology and metabolism.API 20A.[].ARA	-
+[].Physiology and metabolism.API 20A.[].ESC	+/-
+[].Physiology and metabolism.API 20A.[].ESC	-
+[].Physiology and metabolism.API 20A.[].ESC	+
+[].Physiology and metabolism.antibiogram.[].incubation time	1
+[].Physiology and metabolism.antibiogram.[].incubation time	2
+[].Physiology and metabolism.API 20A.[].IND	+/-
+[].Physiology and metabolism.API 20A.[].IND	+
+[].Physiology and metabolism.API 20A.[].IND	-
+[].Physiology and metabolism.antibiogram.teicoplanin	10
+[].Physiology and metabolism.antibiogram.teicoplanin	16
+[].Physiology and metabolism.antibiogram.teicoplanin	16-18
+[].Physiology and metabolism.antibiogram.teicoplanin	0
+[].Physiology and metabolism.antibiogram.teicoplanin	n.d.
+[].Physiology and metabolism.antibiogram.teicoplanin	20-22
+[].Physiology and metabolism.antibiogram.teicoplanin	18-20
+[].Physiology and metabolism.antibiogram.teicoplanin	20
+[].Physiology and metabolism.antibiogram.teicoplanin	10-12
+[].Physiology and metabolism.antibiogram.teicoplanin	22
+[].Physiology and metabolism.antibiogram.teicoplanin	18
+[].Physiology and metabolism.antibiogram.teicoplanin	14
+[].Physiology and metabolism.antibiogram.quinupristin/dalfopristin	10
+[].Physiology and metabolism.antibiogram.quinupristin/dalfopristin	28-30
+[].Physiology and metabolism.antibiogram.quinupristin/dalfopristin	16-18
+[].Physiology and metabolism.antibiogram.quinupristin/dalfopristin	0
+[].Physiology and metabolism.antibiogram.quinupristin/dalfopristin	30
+[].Physiology and metabolism.antibiogram.quinupristin/dalfopristin	28
+[].Physiology and metabolism.antibiogram.quinupristin/dalfopristin	8
+[].Physiology and metabolism.antibiogram.quinupristin/dalfopristin	n.d.
+[].Physiology and metabolism.antibiogram.quinupristin/dalfopristin	18-20
+[].Physiology and metabolism.antibiogram.quinupristin/dalfopristin	20
+[].Physiology and metabolism.antibiogram.quinupristin/dalfopristin	24
+[].Physiology and metabolism.antibiogram.quinupristin/dalfopristin	22
+[].Physiology and metabolism.antibiogram.quinupristin/dalfopristin	14
+[].Physiology and metabolism.antibiogram.quinupristin/dalfopristin	32
+[].Physiology and metabolism.antibiogram.polymyxin b	16
+[].Physiology and metabolism.antibiogram.polymyxin b	10
+[].Physiology and metabolism.antibiogram.polymyxin b	16-18
+[].Physiology and metabolism.antibiogram.polymyxin b	0
+[].Physiology and metabolism.antibiogram.polymyxin b	10-12
+[].Physiology and metabolism.antibiogram.polymyxin b	8-10
+[].Physiology and metabolism.antibiogram.polymyxin b	6
+[].Physiology and metabolism.antibiogram.polymyxin b	12
+[].Physiology and metabolism.antibiogram.polymyxin b	8
+[].Physiology and metabolism.antibiogram.polymyxin b	12-14
+[].Physiology and metabolism.antibiogram.polymyxin b	6-8
+[].Physiology and metabolism.antibiogram.polymyxin b	14-16
+[].Physiology and metabolism.antibiogram.polymyxin b	14
+[].Physiology and metabolism.antibiogram.polymyxin b	18
+[].Physiology and metabolism.antibiogram.nystatin	6
+[].Physiology and metabolism.antibiogram.nystatin	0
+[].Physiology and metabolism.antibiogram.nystatin	n.d.
+[].Physiology and metabolism.antibiogram.nystatin	8
+[].Physiology and metabolism.antibiogram.nystatin	12-14
+[].Physiology and metabolism.antibiogram.medium	Mueller Hinton
+[].Physiology and metabolism.antibiogram.medium	Mueller-Hinton Agar
+[].Physiology and metabolism.antibiogram.medium	M 693
+[].Physiology and metabolism.antibiogram.medium	M 514
+[].Safety information.risk assessment.[].pathogenicity plant	yes
+[].Safety information.risk assessment.[].pathogenicity plant	yes, in single cases
+[].Physiology and metabolism.metabolite tests.[].citrate test	+
+[].Physiology and metabolism.metabolite tests.[].citrate test	+/-
+[].Physiology and metabolism.metabolite tests.[].citrate test	-
+[].Physiology and metabolism.API LIST.[].XYL	+
+[].Physiology and metabolism.API LIST.[].XYL	+/-
+[].Physiology and metabolism.API LIST.[].XYL	-
+[].Physiology and metabolism.API LIST.[].TAG	+/-
+[].Physiology and metabolism.API LIST.[].TAG	+
+[].Physiology and metabolism.API LIST.[].TAG	-
+[].Physiology and metabolism.API LIST.[].RIB	-
+[].Physiology and metabolism.API LIST.[].RIB	+/-
+[].Physiology and metabolism.API LIST.[].RIB	+
+[].Physiology and metabolism.API LIST.[].RHA	+
+[].Physiology and metabolism.API LIST.[].RHA	+/-
+[].Physiology and metabolism.API LIST.[].RHA	-
+[].Physiology and metabolism.API LIST.[].MDG	+
+[].Physiology and metabolism.API LIST.[].MDG	+/-
+[].Physiology and metabolism.API LIST.[].MDG	-
+[].Physiology and metabolism.API LIST.[].G1P	+
+[].Physiology and metabolism.API LIST.[].G1P	+/-
+[].Physiology and metabolism.API LIST.[].G1P	-
+[].Physiology and metabolism.API LIST.[].ESC	-
+[].Physiology and metabolism.API LIST.[].ESC	+
+[].Physiology and metabolism.API LIST.[].DARL	+
+[].Physiology and metabolism.API LIST.[].DARL	+/-
+[].Physiology and metabolism.API LIST.[].DARL	-
+[].Physiology and metabolism.API LIST.[].alpha MAN	+
+[].Physiology and metabolism.API LIST.[].alpha MAN	+/-
+[].Physiology and metabolism.API LIST.[].alpha MAN	-
+[].Physiology and metabolism.API LIST.[].DIM	+/-
+[].Physiology and metabolism.API LIST.[].DIM	+
+[].Physiology and metabolism.API LIST.[].DIM	-
+[].Physiology and metabolism.fatty acid profile.[].system	MIS MIDI
+[].Physiology and metabolism.API LIST.beta HEM	+
+[].Physiology and metabolism.API LIST.beta HEM	-
+[].Physiology and metabolism.API 20E.[].NO2	+/-
+[].Physiology and metabolism.API 20E.[].NO2	+
+[].Physiology and metabolism.API 20E.[].NO2	-
+[].Physiology and metabolism.antibiogram.incubation temperature	37
+[].Physiology and metabolism.antibiogram.incubation temperature	28
+[].Physiology and metabolism.antibiogram.incubation temperature	30
+[].Physiology and metabolism.API 20E.[].N2	-
+[].Physiology and metabolism.API 20E.[].N2	+/-
+[].Physiology and metabolism.API 20E.[].N2	+
+[].Physiology and metabolism.antibiogram.oxygen condition	aerob
+[].Physiology and metabolism.antibiogram.oxygen condition	microaerophil
+[].Physiology and metabolism.fatty acid profile.[].agar/liquid	agar
+[].Physiology and metabolism.fatty acid profile.[].agar/liquid	liquid
+[].Physiology and metabolism.API LIST.[].beta HEM	+
+[].Physiology and metabolism.API LIST.[].beta HEM	-
+[].Physiology and metabolism.API 20A.[].CAT	+/-
+[].Physiology and metabolism.API 20A.[].CAT	-
+[].Physiology and metabolism.API 20A.[].CAT	+
+[].Physiology and metabolism.API 20A.CAT	+/-
+[].Physiology and metabolism.API 20A.CAT	+
+[].Physiology and metabolism.API 20A.CAT	-
+[].Physiology and metabolism.API 20A.[].COCC	+
+[].Physiology and metabolism.API 20A.[].COCC	-
+[].Physiology and metabolism.API 20A.[].GRAM	-
+[].Physiology and metabolism.API 20A.[].GRAM	+
+[].Physiology and metabolism.antibiotic resistance.[].is intermediate	yes
+[].Physiology and metabolism.API ID32E.[].URE	-
+[].Physiology and metabolism.API ID32E.[].URE	+
+[].Physiology and metabolism.API ID32E.[].TRE	-
+[].Physiology and metabolism.API ID32E.[].TRE	+
+[].Physiology and metabolism.API ID32E.[].SOR	+
+[].Physiology and metabolism.API ID32E.[].SOR	-
+[].Physiology and metabolism.API ID32E.[].SAC	-
+[].Physiology and metabolism.API ID32E.[].SAC	+
+[].Physiology and metabolism.API ID32E.[].RP	-
+[].Physiology and metabolism.API ID32E.[].RP	+
+[].Physiology and metabolism.API ID32E.[].RHA	+
+[].Physiology and metabolism.API ID32E.[].RHA	-
+[].Physiology and metabolism.API ID32E.[].PLE	+
+[].Physiology and metabolism.API ID32E.[].PLE	-
+[].Physiology and metabolism.API ID32E.[].ODC	+
+[].Physiology and metabolism.API ID32E.[].ODC	-
+[].Physiology and metabolism.API ID32E.[].MNT	+
+[].Physiology and metabolism.API ID32E.[].MNT	-
+[].Physiology and metabolism.API ID32E.[].MAN	-
+[].Physiology and metabolism.API ID32E.[].MAN	+
+[].Physiology and metabolism.API ID32E.[].MAL	+
+[].Physiology and metabolism.API ID32E.[].MAL	-
+[].Physiology and metabolism.API ID32E.[].LIP	-
+[].Physiology and metabolism.API ID32E.[].LIP	+
+[].Physiology and metabolism.API ID32E.[].LDC Lys	-
+[].Physiology and metabolism.API ID32E.[].LDC Lys	+
+[].Physiology and metabolism.API ID32E.[].LARL	+
+[].Physiology and metabolism.API ID32E.[].LARL	-
+[].Physiology and metabolism.API ID32E.[].LARA	+
+[].Physiology and metabolism.API ID32E.[].LARA	-
+[].Physiology and metabolism.API ID32E.[].INO	+
+[].Physiology and metabolism.API ID32E.[].INO	-
+[].Physiology and metabolism.API ID32E.[].IND	-
+[].Physiology and metabolism.API ID32E.[].IND	+
+[].Physiology and metabolism.API ID32E.[].GLU	-
+[].Physiology and metabolism.API ID32E.[].GLU	+
+[].Physiology and metabolism.API ID32E.[].GAT	+
+[].Physiology and metabolism.API ID32E.[].GAT	-
+[].Physiology and metabolism.API ID32E.[].DARL	+
+[].Physiology and metabolism.API ID32E.[].DARL	-
+[].Physiology and metabolism.API ID32E.[].CEL	+
+[].Physiology and metabolism.API ID32E.[].CEL	-
+[].Physiology and metabolism.API ID32E.[].beta NAG	-
+[].Physiology and metabolism.API ID32E.[].beta NAG	+
+[].Physiology and metabolism.API ID32E.[].beta GUR	+
+[].Physiology and metabolism.API ID32E.[].beta GUR	-
+[].Physiology and metabolism.API ID32E.[].beta GLU	-
+[].Physiology and metabolism.API ID32E.[].beta GLU	+
+[].Physiology and metabolism.API ID32E.[].beta GAL	-
+[].Physiology and metabolism.API ID32E.[].beta GAL	+
+[].Physiology and metabolism.API ID32E.[].alphaMAL	+
+[].Physiology and metabolism.API ID32E.[].alphaMAL	-
+[].Physiology and metabolism.API ID32E.[].alpha GLU	+
+[].Physiology and metabolism.API ID32E.[].alpha GLU	-
+[].Physiology and metabolism.API ID32E.[].alpha GAL	+
+[].Physiology and metabolism.API ID32E.[].alpha GAL	-
+[].Physiology and metabolism.API ID32E.[].ADO	-
+[].Physiology and metabolism.API ID32E.[].ADO	+
+[].Physiology and metabolism.API ID32E.[].ADH Arg	+
+[].Physiology and metabolism.API ID32E.[].ADH Arg	-
+[].Physiology and metabolism.API ID32E.[].5KG	+
+[].Physiology and metabolism.API ID32E.[].5KG	-
+[].Physiology and metabolism.API 20A.[].SPOR	+
+[].Physiology and metabolism.API 20A.[].SPOR	-
+[].Physiology and metabolism.API ID32E.[].AspA	-
+[].Physiology and metabolism.API ID32E.[].AspA	+
+[].Physiology and metabolism.API 20STR.[].VP	-
+[].Physiology and metabolism.API 20STR.[].VP	+
+[].Physiology and metabolism.API 20STR.[].TRE	+
+[].Physiology and metabolism.API 20STR.[].TRE	+/-
+[].Physiology and metabolism.API 20STR.[].TRE	-
+[].Physiology and metabolism.API 20STR.[].SOR	+
+[].Physiology and metabolism.API 20STR.[].SOR	+/-
+[].Physiology and metabolism.API 20STR.[].SOR	-
+[].Physiology and metabolism.API 20STR.[].RIB	-
+[].Physiology and metabolism.API 20STR.[].RIB	+
+[].Physiology and metabolism.API 20STR.[].RIB	+/-
+[].Physiology and metabolism.API 20STR.[].RAF	+
+[].Physiology and metabolism.API 20STR.[].RAF	+/-
+[].Physiology and metabolism.API 20STR.[].RAF	-
+[].Physiology and metabolism.API 20STR.[].PYRA	-
+[].Physiology and metabolism.API 20STR.[].PYRA	+/-
+[].Physiology and metabolism.API 20STR.[].PYRA	+
+[].Physiology and metabolism.API 20STR.[].PAL	-
+[].Physiology and metabolism.API 20STR.[].PAL	+
+[].Physiology and metabolism.API 20STR.[].MAN	-
+[].Physiology and metabolism.API 20STR.[].MAN	+
+[].Physiology and metabolism.API 20STR.[].MAN	+/-
+[].Physiology and metabolism.API 20STR.[].LAP	-
+[].Physiology and metabolism.API 20STR.[].LAP	+
+[].Physiology and metabolism.API 20STR.[].LAC	+
+[].Physiology and metabolism.API 20STR.[].LAC	+/-
+[].Physiology and metabolism.API 20STR.[].LAC	-
+[].Physiology and metabolism.API 20STR.[].INU	+
+[].Physiology and metabolism.API 20STR.[].INU	-
+[].Physiology and metabolism.API 20STR.[].HIP	+
+[].Physiology and metabolism.API 20STR.[].HIP	-
+[].Physiology and metabolism.API 20STR.[].GLYG	+
+[].Physiology and metabolism.API 20STR.[].GLYG	+/-
+[].Physiology and metabolism.API 20STR.[].GLYG	-
+[].Physiology and metabolism.API 20STR.[].ESC	-
+[].Physiology and metabolism.API 20STR.[].ESC	+
+[].Physiology and metabolism.API 20STR.[].ESC	+/-
+[].Physiology and metabolism.API 20STR.[].beta GUR	+
+[].Physiology and metabolism.API 20STR.[].beta GUR	+/-
+[].Physiology and metabolism.API 20STR.[].beta GUR	-
+[].Physiology and metabolism.API 20STR.[].beta GAL	+
+[].Physiology and metabolism.API 20STR.[].beta GAL	+/-
+[].Physiology and metabolism.API 20STR.[].beta GAL	-
+[].Physiology and metabolism.API 20STR.[].ARA	-
+[].Physiology and metabolism.API 20STR.[].ARA	+
+[].Physiology and metabolism.API 20STR.[].AMD	+
+[].Physiology and metabolism.API 20STR.[].AMD	+/-
+[].Physiology and metabolism.API 20STR.[].AMD	-
+[].Physiology and metabolism.API 20STR.[].alpha GAL	-
+[].Physiology and metabolism.API 20STR.[].alpha GAL	+
+[].Physiology and metabolism.API 20STR.[].alpha GAL	+/-
+[].Physiology and metabolism.API 20STR.[].ADH	+
+[].Physiology and metabolism.API 20STR.[].ADH	+/-
+[].Physiology and metabolism.API 20STR.[].ADH	-
+[].Physiology and metabolism.halophily.halophily level	slightly halophilic
+[].Physiology and metabolism.halophily.halophily level	halotolerant
+[].Physiology and metabolism.halophily.halophily level	halophilic
+[].Physiology and metabolism.halophily.halophily level	moderately halophilic
+[].Physiology and metabolism.halophily.halophily level	non-halophilic
+[].Physiology and metabolism.antibiogram.incubation time	1
+[].Physiology and metabolism.fatty acid profile.[].incubation_oxygen	anaerobic
+[].Physiology and metabolism.fatty acid profile.[].incubation_oxygen	aerobic
+[].Physiology and metabolism.fatty acid profile.[].incubation_oxygen	microaerophil
+[].Physiology and metabolism.API 50CHas.XLT	-
+[].Physiology and metabolism.API 50CHas.XLT	+
+[].Physiology and metabolism.API 50CHas.TUR	+
+[].Physiology and metabolism.API 50CHas.TUR	-
+[].Physiology and metabolism.API 50CHas.TRE	-
+[].Physiology and metabolism.API 50CHas.TRE	+
+[].Physiology and metabolism.API 50CHas.TAG	+
+[].Physiology and metabolism.API 50CHas.TAG	-
+[].Physiology and metabolism.API 50CHas.SOR	+
+[].Physiology and metabolism.API 50CHas.SOR	-
+[].Physiology and metabolism.API 50CHas.SBE	+
+[].Physiology and metabolism.API 50CHas.SBE	-
+[].Physiology and metabolism.API 50CHas.SAL	-
+[].Physiology and metabolism.API 50CHas.SAL	+
+[].Physiology and metabolism.API 50CHas.SAC	+
+[].Physiology and metabolism.API 50CHas.SAC	-
+[].Physiology and metabolism.API 50CHas.RIB	+
+[].Physiology and metabolism.API 50CHas.RIB	-
+[].Physiology and metabolism.API 50CHas.RHA	+
+[].Physiology and metabolism.API 50CHas.RHA	-
+[].Physiology and metabolism.API 50CHas.RAF	+
+[].Physiology and metabolism.API 50CHas.RAF	-
+[].Physiology and metabolism.API 50CHas.Q	-
+[].Physiology and metabolism.API 50CHas.NAG	-
+[].Physiology and metabolism.API 50CHas.NAG	+
+[].Physiology and metabolism.API 50CHas.MNE	-
+[].Physiology and metabolism.API 50CHas.MNE	+
+[].Physiology and metabolism.API 50CHas.MLZ	-
+[].Physiology and metabolism.API 50CHas.MLZ	+
+[].Physiology and metabolism.API 50CHas.MEL	-
+[].Physiology and metabolism.API 50CHas.MEL	+
+[].Physiology and metabolism.API 50CHas.MDX	+
+[].Physiology and metabolism.API 50CHas.MDX	-
+[].Physiology and metabolism.API 50CHas.MDM	-
+[].Physiology and metabolism.API 50CHas.MDG	+
+[].Physiology and metabolism.API 50CHas.MDG	-
+[].Physiology and metabolism.API 50CHas.MAN	+
+[].Physiology and metabolism.API 50CHas.MAN	-
+[].Physiology and metabolism.API 50CHas.MAL	-
+[].Physiology and metabolism.API 50CHas.MAL	+
+[].Physiology and metabolism.API 50CHas.LYX	-
+[].Physiology and metabolism.API 50CHas.LYX	+
+[].Physiology and metabolism.API 50CHas.LXYL	-
+[].Physiology and metabolism.API 50CHas.LFUC	+
+[].Physiology and metabolism.API 50CHas.LFUC	-
+[].Physiology and metabolism.API 50CHas.LARL	+
+[].Physiology and metabolism.API 50CHas.LARL	-
+[].Physiology and metabolism.API 50CHas.LARA	+
+[].Physiology and metabolism.API 50CHas.LARA	-
+[].Physiology and metabolism.API 50CHas.LAC	+
+[].Physiology and metabolism.API 50CHas.LAC	-
+[].Physiology and metabolism.API 50CHas.INU	-
+[].Physiology and metabolism.API 50CHas.INO	-
+[].Physiology and metabolism.API 50CHas.INO	+
+[].Physiology and metabolism.API 50CHas.GLYG	-
+[].Physiology and metabolism.API 50CHas.GLY	+
+[].Physiology and metabolism.API 50CHas.GLY	-
+[].Physiology and metabolism.API 50CHas.GLU	-
+[].Physiology and metabolism.API 50CHas.GLU	+
+[].Physiology and metabolism.API 50CHas.GEN	+
+[].Physiology and metabolism.API 50CHas.GEN	-
+[].Physiology and metabolism.API 50CHas.GAL	+
+[].Physiology and metabolism.API 50CHas.GAL	-
+[].Physiology and metabolism.API 50CHas.FRU	-
+[].Physiology and metabolism.API 50CHas.FRU	+
+[].Physiology and metabolism.API 50CHas.ESC	-
+[].Physiology and metabolism.API 50CHas.ESC	+
+[].Physiology and metabolism.API 50CHas.ERY	+
+[].Physiology and metabolism.API 50CHas.ERY	-
+[].Physiology and metabolism.API 50CHas.DXYL	-
+[].Physiology and metabolism.API 50CHas.DXYL	+
+[].Physiology and metabolism.API 50CHas.DUL	+
+[].Physiology and metabolism.API 50CHas.DUL	-
+[].Physiology and metabolism.API 50CHas.DFUC	-
+[].Physiology and metabolism.API 50CHas.DFUC	+
+[].Physiology and metabolism.API 50CHas.DARL	+
+[].Physiology and metabolism.API 50CHas.DARL	-
+[].Physiology and metabolism.API 50CHas.DARA	+
+[].Physiology and metabolism.API 50CHas.DARA	-
+[].Physiology and metabolism.API 50CHas.CEL	+
+[].Physiology and metabolism.API 50CHas.CEL	-
+[].Physiology and metabolism.API 50CHas.ARB	+
+[].Physiology and metabolism.API 50CHas.ARB	-
+[].Physiology and metabolism.API 50CHas.AMY	-
+[].Physiology and metabolism.API 50CHas.AMY	+
+[].Physiology and metabolism.API 50CHas.AMD	+
+[].Physiology and metabolism.API 50CHas.AMD	-
+[].Physiology and metabolism.API 50CHas.ADO	-
+[].Physiology and metabolism.API 50CHas.ADO	+
+[].Physiology and metabolism.API 50CHas.@ref	65019
+[].Physiology and metabolism.API 50CHas.@ref	66492
+[].Physiology and metabolism.API 50CHas.@ref	66016
+[].Physiology and metabolism.API 50CHas.@ref	20215
+[].Physiology and metabolism.API 50CHas.@ref	6939
+[].Physiology and metabolism.API 50CHas.@ref	4877
+[].Physiology and metabolism.API 50CHas.@ref	1775
+[].Physiology and metabolism.API 50CHas.@ref	20920
+[].Physiology and metabolism.API 50CHas.@ref	20268
+[].Physiology and metabolism.API 50CHas.@ref	7029
+[].Physiology and metabolism.API 50CHas.@ref	24439
+[].Physiology and metabolism.API 50CHas.@ref	43903
+[].Physiology and metabolism.API 20A.GRAM	-
+[].Physiology and metabolism.API 20A.GRAM	+
+[].Physiology and metabolism.metabolite tests.citrate test	+
+[].Physiology and metabolism.metabolite tests.citrate test	-
+[].Physiology and metabolism.API 50CHas.GNT	+
+[].Physiology and metabolism.API 50CHas.GNT	-
+[].Physiology and metabolism.API 50CHas.5KG	-
+[].Physiology and metabolism.API 50CHas.5KG	+
+[].Physiology and metabolism.API 50CHas.2KG	-
+[].Physiology and metabolism.API 50CHas.2KG	+
+[].Physiology and metabolism.API 20A.SPOR	-
+[].Physiology and metabolism.API 20STR.[].beta HEM	+
+[].Physiology and metabolism.API 20STR.[].beta HEM	-
+[].Physiology and metabolism.API 20E.MAC	-
+[].Physiology and metabolism.API 20E.MAC	+
+[].Physiology and metabolism.API 20A.COCC	-
+[].Physiology and metabolism.API 20A.COCC	+
+[].Physiology and metabolism.tolerance.concentration	100.0 µg/ml
+[].Physiology and metabolism.tolerance.concentration	10.0 mM
+[].Physiology and metabolism.tolerance.concentration	12.5 mM
+[].Physiology and metabolism.tolerance.concentration	0.04 %
+[].Physiology and metabolism.tolerance.concentration	4.0 mM
+[].Physiology and metabolism.tolerance.concentration	20.0 % (w/v)
+[].Morphology.multicellular morphology.complex size	10 µm
+[].Morphology.multicellular morphology.complex size	200.0-800.0 µm
+[].Morphology.multicellular morphology.complex size	30 µm
+[].Morphology.multicellular morphology.complex size	40 µm
+[].Physiology and metabolism.fatty acid profile.treatment	180 r.p.m.
+[].Physiology and metabolism.fatty acid profile.treatment	medium supplemented with 5mM fumarate
+[].Physiology and metabolism.fatty acid profile.treatment	cultivation in ISP 2 broth for 5 days in shake flasks
+[].Physiology and metabolism.fatty acid profile.treatment	agar surface was kept moist with liquid R2A medium
+[].Physiology and metabolism.API 20E.OF-O	+
+[].Physiology and metabolism.API 20E.OF-O	-
+[].Physiology and metabolism.API 20E.OF-F	+
+[].Physiology and metabolism.API 20E.OF-F	-
+[].Physiology and metabolism.API 20E.MOB	-
+[].Physiology and metabolism.API 20E.MOB	+
+[].Physiology and metabolism.API 20E.[].MAC	+
+[].Physiology and metabolism.API 20E.[].MAC	-
+[].Physiology and metabolism.metabolite production.[].excretion	no
+[].Physiology and metabolism.metabolite production.[].excretion	yes
+[].Physiology and metabolism.fatty acid profile.[].treatment	180 r.p.m.
+[].Physiology and metabolism.fatty acid profile.[].treatment	Alkaline hydrolysis extract
+[].Physiology and metabolism.fatty acid profile.[].treatment	medium supplemented with 5mM fumarate
+[].Physiology and metabolism.fatty acid profile.[].treatment	agar surface was kept moist with liquid R2A medium
+[].Physiology and metabolism.fatty acid profile.[].treatment	cultivation in ISP 2 broth for 5 days in shake flasks
+[].Physiology and metabolism.fatty acid profile.[].treatment	Alkaline hydrolysis residue after extraction
+[].Physiology and metabolism.compound production.excreted	yes
+[].Physiology and metabolism.API STA.Control	-
+[].Physiology and metabolism.API 20E.[].OF-O	-
+[].Physiology and metabolism.API 20E.[].OF-O	+
+[].Physiology and metabolism.API 20E.[].OF-F	-
+[].Physiology and metabolism.API 20E.[].OF-F	+
+[].Physiology and metabolism.fatty acid profile.[].fatty acids.percentage	99.9
+[].Physiology and metabolism.fatty acid profile.[].fatty acids.fatty acid	C16:0 iso
+[].Physiology and metabolism.fatty acid profile.[].fatty acids.ECL	15.626
+[].Physiology and metabolism.fatty acid profile.[].fatty acids.@ref	51418
+[].Physiology and metabolism.compound production.[].excreted	yes
+[].Physiology and metabolism.antibiotic resistance.is intermediate	yes
+[].Morphology.multicellular morphology.[].complex size	10.1-14.6 µm
+[].Morphology.multicellular morphology.[].complex size	200.0-800.0 µm
+[].Morphology.multicellular morphology.[].complex size	10 µm
+[].Morphology.multicellular morphology.[].complex size	30 µm
+[].Morphology.multicellular morphology.[].complex size	40 µm

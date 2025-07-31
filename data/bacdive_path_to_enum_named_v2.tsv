@@ -1,0 +1,980 @@
+path	enum
+[].Culture and growth conditions.culture medium.growth	YesNoEnum
+[].Culture and growth conditions.culture medium.[].growth	YesNoEnum
+[].Culture and growth conditions.culture pH.type	TypeEnum
+[].Culture and growth conditions.culture pH.ability	TypeEnum
+[].Culture and growth conditions.culture pH.PH range	TypeEnum
+[].Culture and growth conditions.culture pH.[].type	TypeEnum
+[].Culture and growth conditions.culture pH.[].ability	TypeEnum
+[].Culture and growth conditions.culture pH.[].PH range	TypeEnum
+[].Culture and growth conditions.culture temp.type	TypeEnum
+[].Culture and growth conditions.culture temp.growth	TypeEnum
+[].Culture and growth conditions.culture temp.[].type	TypeEnum
+[].Culture and growth conditions.culture temp.[].growth	TypeEnum
+[].External links.literature.topic	TopicEnum
+[].External links.literature.topic2	TopicEnum
+[].External links.literature.[].topic	TopicEnum
+[].External links.literature.[].topic2	TopicEnum
+[].General.NCBI tax id.Matching level	MatchingLevelEnum
+[].General.NCBI tax id.[].Matching level	MatchingLevelEnum
+[].Isolation, sampling and environmental information.isolation.continent	ContinentEnum
+[].Isolation, sampling and environmental information.isolation source categories.Cat1	Cat1Enum
+[].Isolation, sampling and environmental information.isolation source categories.[].Cat1	Cat1Enum
+[].Isolation, sampling and environmental information.isolation.[].continent	ContinentEnum
+[].Morphology.cell morphology.gram stain	GramStainEnum
+[].Morphology.cell morphology.motility	GramStainEnum
+[].Morphology.cell morphology.flagellum arrangement	GramStainEnum
+[].Morphology.cell morphology.[].gram stain	GramStainEnum
+[].Morphology.cell morphology.[].motility	GramStainEnum
+[].Morphology.cell morphology.[].flagellum arrangement	GramStainEnum
+[].Morphology.colony morphology.colony shape	ColonyShapeEnum
+[].Morphology.colony morphology.type of hemolysis	ColonyShapeEnum
+[].Morphology.colony morphology.[].type of hemolysis	TypeOfHemolysisEnum
+[].Morphology.multicellular morphology.forms multicellular complex	FormsMulticellularComplexEnum
+[].Morphology.multicellular morphology.complex size	FormsMulticellularComplexEnum
+[].Morphology.multicellular morphology.[].forms multicellular complex	FormsMulticellularComplexEnum
+[].Morphology.multicellular morphology.[].complex size	FormsMulticellularComplexEnum
+[].Morphology.pigmentation.production	YesNoEnum
+[].Morphology.pigmentation.[].production	YesNoEnum
+[].Name and taxonomic classification.type strain	TypeStrainEnum
+[].Name and taxonomic classification.domain	TypeStrainEnum
+[].Name and taxonomic classification.LPSN.domain	DomainEnum
+[].Name and taxonomic classification.LPSN.description	DomainEnum
+[].Physiology and metabolism.API 20A.XYL	XylEnum
+[].Physiology and metabolism.API 20A.URE	XylEnum
+[].Physiology and metabolism.API 20A.TRE	XylEnum
+[].Physiology and metabolism.API 20A.SOR	XylEnum
+[].Physiology and metabolism.API 20A.SAL	XylEnum
+[].Physiology and metabolism.API 20A.SAC	XylEnum
+[].Physiology and metabolism.API 20A.RHA	XylEnum
+[].Physiology and metabolism.API 20A.RAF	XylEnum
+[].Physiology and metabolism.API 20A.MNE	XylEnum
+[].Physiology and metabolism.API 20A.MLZ	XylEnum
+[].Physiology and metabolism.API 20A.MAN	XylEnum
+[].Physiology and metabolism.API 20A.MAL	XylEnum
+[].Physiology and metabolism.API 20A.LAC	XylEnum
+[].Physiology and metabolism.API 20A.GLY	XylEnum
+[].Physiology and metabolism.API 20A.GLU	XylEnum
+[].Physiology and metabolism.API 20A.GEL	XylEnum
+[].Physiology and metabolism.API 20A.CEL	XylEnum
+[].Physiology and metabolism.API 20A.ARA	XylEnum
+[].Physiology and metabolism.API 20A.ESC	XylEnum
+[].Physiology and metabolism.API 20A.IND	XylEnum
+[].Physiology and metabolism.API 20A.CAT	XylEnum
+[].Physiology and metabolism.API 20A.GRAM	XylEnum
+[].Physiology and metabolism.API 20A.SPOR	XylEnum
+[].Physiology and metabolism.API 20A.COCC	XylEnum
+[].Physiology and metabolism.API 20A.[].XYL	XylEnum
+[].Physiology and metabolism.API 20A.[].URE	XylEnum
+[].Physiology and metabolism.API 20A.[].TRE	XylEnum
+[].Physiology and metabolism.API 20A.[].SOR	XylEnum
+[].Physiology and metabolism.API 20A.[].SAL	XylEnum
+[].Physiology and metabolism.API 20A.[].SAC	XylEnum
+[].Physiology and metabolism.API 20A.[].RHA	XylEnum
+[].Physiology and metabolism.API 20A.[].RAF	XylEnum
+[].Physiology and metabolism.API 20A.[].MNE	XylEnum
+[].Physiology and metabolism.API 20A.[].MLZ	XylEnum
+[].Physiology and metabolism.API 20A.[].MAN	XylEnum
+[].Physiology and metabolism.API 20A.[].MAL	XylEnum
+[].Physiology and metabolism.API 20A.[].LAC	XylEnum
+[].Physiology and metabolism.API 20A.[].GLY	XylEnum
+[].Physiology and metabolism.API 20A.[].GLU	XylEnum
+[].Physiology and metabolism.API 20A.[].GEL	XylEnum
+[].Physiology and metabolism.API 20A.[].CEL	XylEnum
+[].Physiology and metabolism.API 20A.[].ARA	XylEnum
+[].Physiology and metabolism.API 20A.[].ESC	XylEnum
+[].Physiology and metabolism.API 20A.[].IND	XylEnum
+[].Physiology and metabolism.API 20A.[].CAT	XylEnum
+[].Physiology and metabolism.API 20A.[].COCC	XylEnum
+[].Physiology and metabolism.API 20A.[].GRAM	XylEnum
+[].Physiology and metabolism.API 20A.[].SPOR	XylEnum
+[].Physiology and metabolism.API 20E.URE	XylEnum
+[].Physiology and metabolism.API 20E.H2S	XylEnum
+[].Physiology and metabolism.API 20E.ODC	XylEnum
+[].Physiology and metabolism.API 20E.CIT	XylEnum
+[].Physiology and metabolism.API 20E.TDA Trp	XylEnum
+[].Physiology and metabolism.API 20E.ONPG	XylEnum
+[].Physiology and metabolism.API 20E.LDC Lys	XylEnum
+[].Physiology and metabolism.API 20E.IND	XylEnum
+[].Physiology and metabolism.API 20E.ADH Arg	XylEnum
+[].Physiology and metabolism.API 20E.GEL	XylEnum
+[].Physiology and metabolism.API 20E.VP	XylEnum
+[].Physiology and metabolism.API 20E.GLU	XylEnum
+[].Physiology and metabolism.API 20E.SAC	XylEnum
+[].Physiology and metabolism.API 20E.MEL	XylEnum
+[].Physiology and metabolism.API 20E.Sor	XylEnum
+[].Physiology and metabolism.API 20E.RHA	XylEnum
+[].Physiology and metabolism.API 20E.INO	XylEnum
+[].Physiology and metabolism.API 20E.MAN	XylEnum
+[].Physiology and metabolism.API 20E.ARA	XylEnum
+[].Physiology and metabolism.API 20E.AMY	XylEnum
+[].Physiology and metabolism.API 20E.OX	XylEnum
+[].Physiology and metabolism.API 20E.NO2	XylEnum
+[].Physiology and metabolism.API 20E.N2	XylEnum
+[].Physiology and metabolism.API 20E.MAC	XylEnum
+[].Physiology and metabolism.API 20E.OF-O	XylEnum
+[].Physiology and metabolism.API 20E.OF-F	XylEnum
+[].Physiology and metabolism.API 20E.MOB	XylEnum
+[].Physiology and metabolism.API 20E.[].ONPG	XylEnum
+[].Physiology and metabolism.API 20E.[].URE	XylEnum
+[].Physiology and metabolism.API 20E.[].ODC	XylEnum
+[].Physiology and metabolism.API 20E.[].LDC Lys	XylEnum
+[].Physiology and metabolism.API 20E.[].H2S	XylEnum
+[].Physiology and metabolism.API 20E.[].GEL	XylEnum
+[].Physiology and metabolism.API 20E.[].CIT	XylEnum
+[].Physiology and metabolism.API 20E.[].ADH Arg	XylEnum
+[].Physiology and metabolism.API 20E.[].VP	XylEnum
+[].Physiology and metabolism.API 20E.[].TDA Trp	XylEnum
+[].Physiology and metabolism.API 20E.[].IND	XylEnum
+[].Physiology and metabolism.API 20E.[].GLU	XylEnum
+[].Physiology and metabolism.API 20E.[].Sor	XylEnum
+[].Physiology and metabolism.API 20E.[].RHA	XylEnum
+[].Physiology and metabolism.API 20E.[].MAN	XylEnum
+[].Physiology and metabolism.API 20E.[].INO	XylEnum
+[].Physiology and metabolism.API 20E.[].ARA	XylEnum
+[].Physiology and metabolism.API 20E.[].AMY	XylEnum
+[].Physiology and metabolism.API 20E.[].SAC	XylEnum
+[].Physiology and metabolism.API 20E.[].MEL	XylEnum
+[].Physiology and metabolism.API 20E.[].OX	XylEnum
+[].Physiology and metabolism.API 20E.[].NO2	XylEnum
+[].Physiology and metabolism.API 20E.[].N2	XylEnum
+[].Physiology and metabolism.API 20E.[].MAC	XylEnum
+[].Physiology and metabolism.API 20E.[].OF-O	XylEnum
+[].Physiology and metabolism.API 20E.[].OF-F	XylEnum
+[].Physiology and metabolism.API 20NE.URE	XylEnum
+[].Physiology and metabolism.API 20NE.PAC	XylEnum
+[].Physiology and metabolism.API 20NE.NAG	XylEnum
+[].Physiology and metabolism.API 20NE.MNE	XylEnum
+[].Physiology and metabolism.API 20NE.MLT	XylEnum
+[].Physiology and metabolism.API 20NE.MAN	XylEnum
+[].Physiology and metabolism.API 20NE.MAL	XylEnum
+[].Physiology and metabolism.API 20NE.GNT	XylEnum
+[].Physiology and metabolism.API 20NE.GLU_ Ferm	XylEnum
+[].Physiology and metabolism.API 20NE.GEL	XylEnum
+[].Physiology and metabolism.API 20NE.ESC	XylEnum
+[].Physiology and metabolism.API 20NE.CIT	XylEnum
+[].Physiology and metabolism.API 20NE.CAP	XylEnum
+[].Physiology and metabolism.API 20NE.ARA	XylEnum
+[].Physiology and metabolism.API 20NE.ADI	XylEnum
+[].Physiology and metabolism.API 20NE.ADH Arg	XylEnum
+[].Physiology and metabolism.API 20NE.PNPG	XylEnum
+[].Physiology and metabolism.API 20NE.TRP	XylEnum
+[].Physiology and metabolism.API 20NE.GLU_ Assim	XylEnum
+[].Physiology and metabolism.API 20NE.NO3	XylEnum
+[].Physiology and metabolism.API 20NE.OX	XylEnum
+[].Physiology and metabolism.API 20NE.[].PAC	XylEnum
+[].Physiology and metabolism.API 20NE.[].MNE	XylEnum
+[].Physiology and metabolism.API 20NE.[].MLT	XylEnum
+[].Physiology and metabolism.API 20NE.[].GNT	XylEnum
+[].Physiology and metabolism.API 20NE.[].GLU_ Ferm	XylEnum
+[].Physiology and metabolism.API 20NE.[].GLU_ Assim	XylEnum
+[].Physiology and metabolism.API 20NE.[].GEL	XylEnum
+[].Physiology and metabolism.API 20NE.[].ESC	XylEnum
+[].Physiology and metabolism.API 20NE.[].CIT	XylEnum
+[].Physiology and metabolism.API 20NE.[].CAP	XylEnum
+[].Physiology and metabolism.API 20NE.[].ARA	XylEnum
+[].Physiology and metabolism.API 20NE.[].ADI	XylEnum
+[].Physiology and metabolism.API 20NE.[].URE	XylEnum
+[].Physiology and metabolism.API 20NE.[].TRP	XylEnum
+[].Physiology and metabolism.API 20NE.[].PNPG	XylEnum
+[].Physiology and metabolism.API 20NE.[].NAG	XylEnum
+[].Physiology and metabolism.API 20NE.[].MAN	XylEnum
+[].Physiology and metabolism.API 20NE.[].MAL	XylEnum
+[].Physiology and metabolism.API 20NE.[].NO3	XylEnum
+[].Physiology and metabolism.API 20NE.[].ADH Arg	XylEnum
+[].Physiology and metabolism.API 20NE.[].OX	XylEnum
+[].Physiology and metabolism.API 20STR.VP	XylEnum
+[].Physiology and metabolism.API 20STR.TRE	XylEnum
+[].Physiology and metabolism.API 20STR.SOR	XylEnum
+[].Physiology and metabolism.API 20STR.RIB	XylEnum
+[].Physiology and metabolism.API 20STR.RAF	XylEnum
+[].Physiology and metabolism.API 20STR.PYRA	XylEnum
+[].Physiology and metabolism.API 20STR.PAL	XylEnum
+[].Physiology and metabolism.API 20STR.MAN	XylEnum
+[].Physiology and metabolism.API 20STR.LAP	XylEnum
+[].Physiology and metabolism.API 20STR.LAC	XylEnum
+[].Physiology and metabolism.API 20STR.INU	XylEnum
+[].Physiology and metabolism.API 20STR.HIP	XylEnum
+[].Physiology and metabolism.API 20STR.GLYG	XylEnum
+[].Physiology and metabolism.API 20STR.ESC	XylEnum
+[].Physiology and metabolism.API 20STR.beta GUR	XylEnum
+[].Physiology and metabolism.API 20STR.beta GAL	XylEnum
+[].Physiology and metabolism.API 20STR.ARA	XylEnum
+[].Physiology and metabolism.API 20STR.AMD	XylEnum
+[].Physiology and metabolism.API 20STR.alpha GAL	XylEnum
+[].Physiology and metabolism.API 20STR.ADH	XylEnum
+[].Physiology and metabolism.API 20STR.beta HEM	XylEnum
+[].Physiology and metabolism.API 20STR.[].VP	XylEnum
+[].Physiology and metabolism.API 20STR.[].TRE	XylEnum
+[].Physiology and metabolism.API 20STR.[].SOR	XylEnum
+[].Physiology and metabolism.API 20STR.[].RIB	XylEnum
+[].Physiology and metabolism.API 20STR.[].RAF	XylEnum
+[].Physiology and metabolism.API 20STR.[].PYRA	XylEnum
+[].Physiology and metabolism.API 20STR.[].PAL	XylEnum
+[].Physiology and metabolism.API 20STR.[].MAN	XylEnum
+[].Physiology and metabolism.API 20STR.[].LAP	XylEnum
+[].Physiology and metabolism.API 20STR.[].LAC	XylEnum
+[].Physiology and metabolism.API 20STR.[].INU	XylEnum
+[].Physiology and metabolism.API 20STR.[].HIP	XylEnum
+[].Physiology and metabolism.API 20STR.[].GLYG	XylEnum
+[].Physiology and metabolism.API 20STR.[].ESC	XylEnum
+[].Physiology and metabolism.API 20STR.[].beta GUR	XylEnum
+[].Physiology and metabolism.API 20STR.[].beta GAL	XylEnum
+[].Physiology and metabolism.API 20STR.[].ARA	XylEnum
+[].Physiology and metabolism.API 20STR.[].AMD	XylEnum
+[].Physiology and metabolism.API 20STR.[].alpha GAL	XylEnum
+[].Physiology and metabolism.API 20STR.[].ADH	XylEnum
+[].Physiology and metabolism.API 20STR.[].beta HEM	XylEnum
+[].Physiology and metabolism.API 50CHac.XLT	XylEnum
+[].Physiology and metabolism.API 50CHac.TUR	XylEnum
+[].Physiology and metabolism.API 50CHac.TRE	XylEnum
+[].Physiology and metabolism.API 50CHac.TAG	XylEnum
+[].Physiology and metabolism.API 50CHac.SOR	XylEnum
+[].Physiology and metabolism.API 50CHac.SBE	XylEnum
+[].Physiology and metabolism.API 50CHac.SAL	XylEnum
+[].Physiology and metabolism.API 50CHac.RHA	XylEnum
+[].Physiology and metabolism.API 50CHac.RAF	XylEnum
+[].Physiology and metabolism.API 50CHac.NAG	XylEnum
+[].Physiology and metabolism.API 50CHac.MNE	XylEnum
+[].Physiology and metabolism.API 50CHac.MLZ	XylEnum
+[].Physiology and metabolism.API 50CHac.MEL	XylEnum
+[].Physiology and metabolism.API 50CHac.MDX	XylEnum
+[].Physiology and metabolism.API 50CHac.MDM	XylEnum
+[].Physiology and metabolism.API 50CHac.MDG	XylEnum
+[].Physiology and metabolism.API 50CHac.MAN	XylEnum
+[].Physiology and metabolism.API 50CHac.MAL	XylEnum
+[].Physiology and metabolism.API 50CHac.LYX	XylEnum
+[].Physiology and metabolism.API 50CHac.LXYL	XylEnum
+[].Physiology and metabolism.API 50CHac.LFUC	XylEnum
+[].Physiology and metabolism.API 50CHac.LARL	XylEnum
+[].Physiology and metabolism.API 50CHac.LARA	XylEnum
+[].Physiology and metabolism.API 50CHac.LAC	XylEnum
+[].Physiology and metabolism.API 50CHac.INU	XylEnum
+[].Physiology and metabolism.API 50CHac.INO	XylEnum
+[].Physiology and metabolism.API 50CHac.GNT	XylEnum
+[].Physiology and metabolism.API 50CHac.GLYG	XylEnum
+[].Physiology and metabolism.API 50CHac.GLY	XylEnum
+[].Physiology and metabolism.API 50CHac.GLU	XylEnum
+[].Physiology and metabolism.API 50CHac.GAL	XylEnum
+[].Physiology and metabolism.API 50CHac.FRU	XylEnum
+[].Physiology and metabolism.API 50CHac.ESC	XylEnum
+[].Physiology and metabolism.API 50CHac.ERY	XylEnum
+[].Physiology and metabolism.API 50CHac.DXYL	XylEnum
+[].Physiology and metabolism.API 50CHac.DUL	XylEnum
+[].Physiology and metabolism.API 50CHac.DFUC	XylEnum
+[].Physiology and metabolism.API 50CHac.DARL	XylEnum
+[].Physiology and metabolism.API 50CHac.DARA	XylEnum
+[].Physiology and metabolism.API 50CHac.CEL	XylEnum
+[].Physiology and metabolism.API 50CHac.ARB	XylEnum
+[].Physiology and metabolism.API 50CHac.AMY	XylEnum
+[].Physiology and metabolism.API 50CHac.AMD	XylEnum
+[].Physiology and metabolism.API 50CHac.ADO	XylEnum
+[].Physiology and metabolism.API 50CHac.2KG	XylEnum
+[].Physiology and metabolism.API 50CHac.SAC	XylEnum
+[].Physiology and metabolism.API 50CHac.RIB	XylEnum
+[].Physiology and metabolism.API 50CHac.GEN	XylEnum
+[].Physiology and metabolism.API 50CHac.5KG	XylEnum
+[].Physiology and metabolism.API 50CHac.Q	XylEnum
+[].Physiology and metabolism.API 50CHac.[].XLT	XylEnum
+[].Physiology and metabolism.API 50CHac.[].TUR	XylEnum
+[].Physiology and metabolism.API 50CHac.[].TRE	XylEnum
+[].Physiology and metabolism.API 50CHac.[].TAG	XylEnum
+[].Physiology and metabolism.API 50CHac.[].SOR	XylEnum
+[].Physiology and metabolism.API 50CHac.[].SBE	XylEnum
+[].Physiology and metabolism.API 50CHac.[].SAL	XylEnum
+[].Physiology and metabolism.API 50CHac.[].SAC	XylEnum
+[].Physiology and metabolism.API 50CHac.[].RIB	XylEnum
+[].Physiology and metabolism.API 50CHac.[].RHA	XylEnum
+[].Physiology and metabolism.API 50CHac.[].RAF	XylEnum
+[].Physiology and metabolism.API 50CHac.[].NAG	XylEnum
+[].Physiology and metabolism.API 50CHac.[].MNE	XylEnum
+[].Physiology and metabolism.API 50CHac.[].MLZ	XylEnum
+[].Physiology and metabolism.API 50CHac.[].MEL	XylEnum
+[].Physiology and metabolism.API 50CHac.[].MDX	XylEnum
+[].Physiology and metabolism.API 50CHac.[].MDM	XylEnum
+[].Physiology and metabolism.API 50CHac.[].MDG	XylEnum
+[].Physiology and metabolism.API 50CHac.[].MAN	XylEnum
+[].Physiology and metabolism.API 50CHac.[].MAL	XylEnum
+[].Physiology and metabolism.API 50CHac.[].LYX	XylEnum
+[].Physiology and metabolism.API 50CHac.[].LXYL	XylEnum
+[].Physiology and metabolism.API 50CHac.[].LFUC	XylEnum
+[].Physiology and metabolism.API 50CHac.[].LARL	XylEnum
+[].Physiology and metabolism.API 50CHac.[].LARA	XylEnum
+[].Physiology and metabolism.API 50CHac.[].LAC	XylEnum
+[].Physiology and metabolism.API 50CHac.[].INU	XylEnum
+[].Physiology and metabolism.API 50CHac.[].INO	XylEnum
+[].Physiology and metabolism.API 50CHac.[].GLYG	XylEnum
+[].Physiology and metabolism.API 50CHac.[].GLY	XylEnum
+[].Physiology and metabolism.API 50CHac.[].GLU	XylEnum
+[].Physiology and metabolism.API 50CHac.[].GEN	XylEnum
+[].Physiology and metabolism.API 50CHac.[].GAL	XylEnum
+[].Physiology and metabolism.API 50CHac.[].ESC	XylEnum
+[].Physiology and metabolism.API 50CHac.[].ERY	XylEnum
+[].Physiology and metabolism.API 50CHac.[].DXYL	XylEnum
+[].Physiology and metabolism.API 50CHac.[].DUL	XylEnum
+[].Physiology and metabolism.API 50CHac.[].DFUC	XylEnum
+[].Physiology and metabolism.API 50CHac.[].DARL	XylEnum
+[].Physiology and metabolism.API 50CHac.[].DARA	XylEnum
+[].Physiology and metabolism.API 50CHac.[].CEL	XylEnum
+[].Physiology and metabolism.API 50CHac.[].AMD	XylEnum
+[].Physiology and metabolism.API 50CHac.[].ADO	XylEnum
+[].Physiology and metabolism.API 50CHac.[].GNT	XylEnum
+[].Physiology and metabolism.API 50CHac.[].FRU	XylEnum
+[].Physiology and metabolism.API 50CHac.[].ARB	XylEnum
+[].Physiology and metabolism.API 50CHac.[].AMY	XylEnum
+[].Physiology and metabolism.API 50CHac.[].5KG	XylEnum
+[].Physiology and metabolism.API 50CHac.[].2KG	XylEnum
+[].Physiology and metabolism.API 50CHac.[].Q	XylEnum
+[].Physiology and metabolism.API 50CHas.XLT	XltEnum
+[].Physiology and metabolism.API 50CHas.TUR	XltEnum
+[].Physiology and metabolism.API 50CHas.TRE	XltEnum
+[].Physiology and metabolism.API 50CHas.TAG	XltEnum
+[].Physiology and metabolism.API 50CHas.SOR	XltEnum
+[].Physiology and metabolism.API 50CHas.SBE	XltEnum
+[].Physiology and metabolism.API 50CHas.SAL	XltEnum
+[].Physiology and metabolism.API 50CHas.SAC	XltEnum
+[].Physiology and metabolism.API 50CHas.RIB	XltEnum
+[].Physiology and metabolism.API 50CHas.RHA	XltEnum
+[].Physiology and metabolism.API 50CHas.RAF	XltEnum
+[].Physiology and metabolism.API 50CHas.Q	XltEnum
+[].Physiology and metabolism.API 50CHas.NAG	XltEnum
+[].Physiology and metabolism.API 50CHas.MNE	XltEnum
+[].Physiology and metabolism.API 50CHas.MLZ	XltEnum
+[].Physiology and metabolism.API 50CHas.MEL	XltEnum
+[].Physiology and metabolism.API 50CHas.MDX	XltEnum
+[].Physiology and metabolism.API 50CHas.MDM	XltEnum
+[].Physiology and metabolism.API 50CHas.MDG	XltEnum
+[].Physiology and metabolism.API 50CHas.MAN	XltEnum
+[].Physiology and metabolism.API 50CHas.MAL	XltEnum
+[].Physiology and metabolism.API 50CHas.LYX	XltEnum
+[].Physiology and metabolism.API 50CHas.LXYL	XltEnum
+[].Physiology and metabolism.API 50CHas.LFUC	XltEnum
+[].Physiology and metabolism.API 50CHas.LARL	XltEnum
+[].Physiology and metabolism.API 50CHas.LARA	XltEnum
+[].Physiology and metabolism.API 50CHas.LAC	XltEnum
+[].Physiology and metabolism.API 50CHas.INU	XltEnum
+[].Physiology and metabolism.API 50CHas.INO	XltEnum
+[].Physiology and metabolism.API 50CHas.GLYG	XltEnum
+[].Physiology and metabolism.API 50CHas.GLY	XltEnum
+[].Physiology and metabolism.API 50CHas.GLU	XltEnum
+[].Physiology and metabolism.API 50CHas.GEN	XltEnum
+[].Physiology and metabolism.API 50CHas.GAL	XltEnum
+[].Physiology and metabolism.API 50CHas.FRU	XltEnum
+[].Physiology and metabolism.API 50CHas.ESC	XltEnum
+[].Physiology and metabolism.API 50CHas.ERY	XltEnum
+[].Physiology and metabolism.API 50CHas.DXYL	XltEnum
+[].Physiology and metabolism.API 50CHas.DUL	XltEnum
+[].Physiology and metabolism.API 50CHas.DFUC	XltEnum
+[].Physiology and metabolism.API 50CHas.DARL	XltEnum
+[].Physiology and metabolism.API 50CHas.DARA	XltEnum
+[].Physiology and metabolism.API 50CHas.CEL	XltEnum
+[].Physiology and metabolism.API 50CHas.ARB	XltEnum
+[].Physiology and metabolism.API 50CHas.AMY	XltEnum
+[].Physiology and metabolism.API 50CHas.AMD	XltEnum
+[].Physiology and metabolism.API 50CHas.ADO	XltEnum
+[].Physiology and metabolism.API 50CHas.GNT	XltEnum
+[].Physiology and metabolism.API 50CHas.5KG	XltEnum
+[].Physiology and metabolism.API 50CHas.2KG	XltEnum
+[].Physiology and metabolism.API CAM.TTC	XylEnum
+[].Physiology and metabolism.API CAM.PYRA	XylEnum
+[].Physiology and metabolism.API CAM.PAL	XylEnum
+[].Physiology and metabolism.API CAM.GGT	XylEnum
+[].Physiology and metabolism.API CAM.URE	XylEnum
+[].Physiology and metabolism.API CAM.NIT	XylEnum
+[].Physiology and metabolism.API CAM.HIP	XylEnum
+[].Physiology and metabolism.API CAM.EST	XylEnum
+[].Physiology and metabolism.API CAM.AspA	XylEnum
+[].Physiology and metabolism.API CAM.ArgA	XylEnum
+[].Physiology and metabolism.API CAM.SUT	XylEnum
+[].Physiology and metabolism.API CAM.MLT	XylEnum
+[].Physiology and metabolism.API CAM.H2S	XylEnum
+[].Physiology and metabolism.API CAM.GLU	XylEnum
+[].Physiology and metabolism.API CAM.CFZ	XylEnum
+[].Physiology and metabolism.API CAM.PROP	XylEnum
+[].Physiology and metabolism.API CAM.NAL	XylEnum
+[].Physiology and metabolism.API CAM.ERO	XylEnum
+[].Physiology and metabolism.API CAM.CIT	XylEnum
+[].Physiology and metabolism.API CAM.ACE	XylEnum
+[].Physiology and metabolism.API CAM.CAT	XylEnum
+[].Physiology and metabolism.API CAM.[].URE	XylEnum
+[].Physiology and metabolism.API CAM.[].PYRA	XylEnum
+[].Physiology and metabolism.API CAM.[].PAL	XylEnum
+[].Physiology and metabolism.API CAM.[].NIT	XylEnum
+[].Physiology and metabolism.API CAM.[].GGT	XylEnum
+[].Physiology and metabolism.API CAM.[].AspA	XylEnum
+[].Physiology and metabolism.API CAM.[].ArgA	XylEnum
+[].Physiology and metabolism.API CAM.[].TTC	XylEnum
+[].Physiology and metabolism.API CAM.[].HIP	XylEnum
+[].Physiology and metabolism.API CAM.[].EST	XylEnum
+[].Physiology and metabolism.API CAM.[].H2S	XylEnum
+[].Physiology and metabolism.API CAM.[].SUT	XylEnum
+[].Physiology and metabolism.API CAM.[].PROP	XylEnum
+[].Physiology and metabolism.API CAM.[].NAL	XylEnum
+[].Physiology and metabolism.API CAM.[].MLT	XylEnum
+[].Physiology and metabolism.API CAM.[].GLU	XylEnum
+[].Physiology and metabolism.API CAM.[].ERO	XylEnum
+[].Physiology and metabolism.API CAM.[].CIT	XylEnum
+[].Physiology and metabolism.API CAM.[].CFZ	XylEnum
+[].Physiology and metabolism.API CAM.[].ACE	XylEnum
+[].Physiology and metabolism.API CAM.[].CAT	XylEnum
+[].Physiology and metabolism.API ID32E.URE	XltEnum
+[].Physiology and metabolism.API ID32E.TRE	XltEnum
+[].Physiology and metabolism.API ID32E.SOR	XltEnum
+[].Physiology and metabolism.API ID32E.SAC	XltEnum
+[].Physiology and metabolism.API ID32E.RP	XltEnum
+[].Physiology and metabolism.API ID32E.RHA	XltEnum
+[].Physiology and metabolism.API ID32E.PLE	XltEnum
+[].Physiology and metabolism.API ID32E.ODC	XltEnum
+[].Physiology and metabolism.API ID32E.LDC Lys	XltEnum
+[].Physiology and metabolism.API ID32E.LARL	XltEnum
+[].Physiology and metabolism.API ID32E.LARA	XltEnum
+[].Physiology and metabolism.API ID32E.INO	XltEnum
+[].Physiology and metabolism.API ID32E.GLU	XltEnum
+[].Physiology and metabolism.API ID32E.GAT	XltEnum
+[].Physiology and metabolism.API ID32E.DARL	XltEnum
+[].Physiology and metabolism.API ID32E.CEL	XltEnum
+[].Physiology and metabolism.API ID32E.beta GUR	XltEnum
+[].Physiology and metabolism.API ID32E.beta GLU	XltEnum
+[].Physiology and metabolism.API ID32E.beta GAL	XltEnum
+[].Physiology and metabolism.API ID32E.alphaMAL	XltEnum
+[].Physiology and metabolism.API ID32E.alpha GAL	XltEnum
+[].Physiology and metabolism.API ID32E.ADO	XltEnum
+[].Physiology and metabolism.API ID32E.ADH Arg	XltEnum
+[].Physiology and metabolism.API ID32E.5KG	XltEnum
+[].Physiology and metabolism.API ID32E.MNT	XltEnum
+[].Physiology and metabolism.API ID32E.MAL	XltEnum
+[].Physiology and metabolism.API ID32E.alpha GLU	XltEnum
+[].Physiology and metabolism.API ID32E.MAN	XltEnum
+[].Physiology and metabolism.API ID32E.LIP	XltEnum
+[].Physiology and metabolism.API ID32E.IND	XltEnum
+[].Physiology and metabolism.API ID32E.beta NAG	XltEnum
+[].Physiology and metabolism.API ID32E.AspA	XltEnum
+[].Physiology and metabolism.API ID32E.[].URE	XltEnum
+[].Physiology and metabolism.API ID32E.[].TRE	XltEnum
+[].Physiology and metabolism.API ID32E.[].SOR	XltEnum
+[].Physiology and metabolism.API ID32E.[].SAC	XltEnum
+[].Physiology and metabolism.API ID32E.[].RP	XltEnum
+[].Physiology and metabolism.API ID32E.[].RHA	XltEnum
+[].Physiology and metabolism.API ID32E.[].PLE	XltEnum
+[].Physiology and metabolism.API ID32E.[].ODC	XltEnum
+[].Physiology and metabolism.API ID32E.[].MNT	XltEnum
+[].Physiology and metabolism.API ID32E.[].MAN	XltEnum
+[].Physiology and metabolism.API ID32E.[].MAL	XltEnum
+[].Physiology and metabolism.API ID32E.[].LIP	XltEnum
+[].Physiology and metabolism.API ID32E.[].LDC Lys	XltEnum
+[].Physiology and metabolism.API ID32E.[].LARL	XltEnum
+[].Physiology and metabolism.API ID32E.[].LARA	XltEnum
+[].Physiology and metabolism.API ID32E.[].INO	XltEnum
+[].Physiology and metabolism.API ID32E.[].IND	XltEnum
+[].Physiology and metabolism.API ID32E.[].GLU	XltEnum
+[].Physiology and metabolism.API ID32E.[].GAT	XltEnum
+[].Physiology and metabolism.API ID32E.[].DARL	XltEnum
+[].Physiology and metabolism.API ID32E.[].CEL	XltEnum
+[].Physiology and metabolism.API ID32E.[].beta NAG	XltEnum
+[].Physiology and metabolism.API ID32E.[].beta GUR	XltEnum
+[].Physiology and metabolism.API ID32E.[].beta GLU	XltEnum
+[].Physiology and metabolism.API ID32E.[].beta GAL	XltEnum
+[].Physiology and metabolism.API ID32E.[].alphaMAL	XltEnum
+[].Physiology and metabolism.API ID32E.[].alpha GLU	XltEnum
+[].Physiology and metabolism.API ID32E.[].alpha GAL	XltEnum
+[].Physiology and metabolism.API ID32E.[].ADO	XltEnum
+[].Physiology and metabolism.API ID32E.[].ADH Arg	XltEnum
+[].Physiology and metabolism.API ID32E.[].5KG	XltEnum
+[].Physiology and metabolism.API ID32E.[].AspA	XltEnum
+[].Physiology and metabolism.API ID32STA.URE	XylEnum
+[].Physiology and metabolism.API ID32STA.TUR	XylEnum
+[].Physiology and metabolism.API ID32STA.TRE	XylEnum
+[].Physiology and metabolism.API ID32STA.SAC	XylEnum
+[].Physiology and metabolism.API ID32STA.RIB	XylEnum
+[].Physiology and metabolism.API ID32STA.RAF	XylEnum
+[].Physiology and metabolism.API ID32STA.NOVO	XylEnum
+[].Physiology and metabolism.API ID32STA.NIT	XylEnum
+[].Physiology and metabolism.API ID32STA.NAG	XylEnum
+[].Physiology and metabolism.API ID32STA.MNE	XylEnum
+[].Physiology and metabolism.API ID32STA.MAN	XylEnum
+[].Physiology and metabolism.API ID32STA.MAL	XylEnum
+[].Physiology and metabolism.API ID32STA.LAC	XylEnum
+[].Physiology and metabolism.API ID32STA.GLU	XylEnum
+[].Physiology and metabolism.API ID32STA.FRU	XylEnum
+[].Physiology and metabolism.API ID32STA.ESC	XylEnum
+[].Physiology and metabolism.API ID32STA.CEL	XylEnum
+[].Physiology and metabolism.API ID32STA.beta GUR	XylEnum
+[].Physiology and metabolism.API ID32STA.ArgA	XylEnum
+[].Physiology and metabolism.API ID32STA.ARA	XylEnum
+[].Physiology and metabolism.API ID32STA.ADH Arg	XylEnum
+[].Physiology and metabolism.API ID32STA.PAL	XylEnum
+[].Physiology and metabolism.API ID32STA.ODC	XylEnum
+[].Physiology and metabolism.API ID32STA.beta GAL	XylEnum
+[].Physiology and metabolism.API ID32STA.PyrA	XylEnum
+[].Physiology and metabolism.API ID32STA.VP	XylEnum
+[].Physiology and metabolism.API ID32STA.[].URE	XylEnum
+[].Physiology and metabolism.API ID32STA.[].TUR	XylEnum
+[].Physiology and metabolism.API ID32STA.[].TRE	XylEnum
+[].Physiology and metabolism.API ID32STA.[].SAC	XylEnum
+[].Physiology and metabolism.API ID32STA.[].RAF	XylEnum
+[].Physiology and metabolism.API ID32STA.[].PyrA	XylEnum
+[].Physiology and metabolism.API ID32STA.[].PAL	XylEnum
+[].Physiology and metabolism.API ID32STA.[].NOVO	XylEnum
+[].Physiology and metabolism.API ID32STA.[].NAG	XylEnum
+[].Physiology and metabolism.API ID32STA.[].MNE	XylEnum
+[].Physiology and metabolism.API ID32STA.[].MAN	XylEnum
+[].Physiology and metabolism.API ID32STA.[].MAL	XylEnum
+[].Physiology and metabolism.API ID32STA.[].GLU	XylEnum
+[].Physiology and metabolism.API ID32STA.[].FRU	XylEnum
+[].Physiology and metabolism.API ID32STA.[].ESC	XylEnum
+[].Physiology and metabolism.API ID32STA.[].beta GAL	XylEnum
+[].Physiology and metabolism.API ID32STA.[].ArgA	XylEnum
+[].Physiology and metabolism.API ID32STA.[].ARA	XylEnum
+[].Physiology and metabolism.API ID32STA.[].ADH Arg	XylEnum
+[].Physiology and metabolism.API ID32STA.[].RIB	XylEnum
+[].Physiology and metabolism.API ID32STA.[].ODC	XylEnum
+[].Physiology and metabolism.API ID32STA.[].LAC	XylEnum
+[].Physiology and metabolism.API ID32STA.[].beta GUR	XylEnum
+[].Physiology and metabolism.API ID32STA.[].VP	XylEnum
+[].Physiology and metabolism.API ID32STA.[].CEL	XylEnum
+[].Physiology and metabolism.API ID32STA.[].NIT	XylEnum
+[].Physiology and metabolism.API LIST.XYL	XylEnum
+[].Physiology and metabolism.API LIST.RIB	XylEnum
+[].Physiology and metabolism.API LIST.RHA	XylEnum
+[].Physiology and metabolism.API LIST.MDG	XylEnum
+[].Physiology and metabolism.API LIST.G1P	XylEnum
+[].Physiology and metabolism.API LIST.ESC	XylEnum
+[].Physiology and metabolism.API LIST.DARL	XylEnum
+[].Physiology and metabolism.API LIST.alpha MAN	XylEnum
+[].Physiology and metabolism.API LIST.TAG	XylEnum
+[].Physiology and metabolism.API LIST.DIM	XylEnum
+[].Physiology and metabolism.API LIST.beta HEM	XylEnum
+[].Physiology and metabolism.API LIST.[].XYL	XylEnum
+[].Physiology and metabolism.API LIST.[].TAG	XylEnum
+[].Physiology and metabolism.API LIST.[].RIB	XylEnum
+[].Physiology and metabolism.API LIST.[].RHA	XylEnum
+[].Physiology and metabolism.API LIST.[].MDG	XylEnum
+[].Physiology and metabolism.API LIST.[].G1P	XylEnum
+[].Physiology and metabolism.API LIST.[].ESC	XylEnum
+[].Physiology and metabolism.API LIST.[].DARL	XylEnum
+[].Physiology and metabolism.API LIST.[].alpha MAN	XylEnum
+[].Physiology and metabolism.API LIST.[].DIM	XylEnum
+[].Physiology and metabolism.API LIST.[].beta HEM	XylEnum
+[].Physiology and metabolism.API NH.URE	XylEnum
+[].Physiology and metabolism.API NH.SAC	XylEnum
+[].Physiology and metabolism.API NH.PAL	XylEnum
+[].Physiology and metabolism.API NH.ODC	XylEnum
+[].Physiology and metabolism.API NH.MAL	XylEnum
+[].Physiology and metabolism.API NH.LIP	XylEnum
+[].Physiology and metabolism.API NH.GLU	XylEnum
+[].Physiology and metabolism.API NH.FRU	XylEnum
+[].Physiology and metabolism.API NH.beta GAL	XylEnum
+[].Physiology and metabolism.API NH.ProA	XylEnum
+[].Physiology and metabolism.API NH.GGT	XylEnum
+[].Physiology and metabolism.API NH.IND	XylEnum
+[].Physiology and metabolism.API NH.PEN	XylEnum
+[].Physiology and metabolism.API NH.[].URE	XylEnum
+[].Physiology and metabolism.API NH.[].SAC	XylEnum
+[].Physiology and metabolism.API NH.[].PAL	XylEnum
+[].Physiology and metabolism.API NH.[].ODC	XylEnum
+[].Physiology and metabolism.API NH.[].MAL	XylEnum
+[].Physiology and metabolism.API NH.[].LIP	XylEnum
+[].Physiology and metabolism.API NH.[].GLU	XylEnum
+[].Physiology and metabolism.API NH.[].FRU	XylEnum
+[].Physiology and metabolism.API NH.[].beta GAL	XylEnum
+[].Physiology and metabolism.API NH.[].ProA	XylEnum
+[].Physiology and metabolism.API NH.[].PEN	XylEnum
+[].Physiology and metabolism.API NH.[].GGT	XylEnum
+[].Physiology and metabolism.API NH.[].IND	XylEnum
+[].Physiology and metabolism.API STA.XYL	XylEnum
+[].Physiology and metabolism.API STA.XLT	XylEnum
+[].Physiology and metabolism.API STA.VP	XylEnum
+[].Physiology and metabolism.API STA.URE	XylEnum
+[].Physiology and metabolism.API STA.TRE	XylEnum
+[].Physiology and metabolism.API STA.SAC	XylEnum
+[].Physiology and metabolism.API STA.RAF	XylEnum
+[].Physiology and metabolism.API STA.PAL	XylEnum
+[].Physiology and metabolism.API STA.NIT	XylEnum
+[].Physiology and metabolism.API STA.NAG	XylEnum
+[].Physiology and metabolism.API STA.MNE	XylEnum
+[].Physiology and metabolism.API STA.MEL	XylEnum
+[].Physiology and metabolism.API STA.MDG	XylEnum
+[].Physiology and metabolism.API STA.MAN	XylEnum
+[].Physiology and metabolism.API STA.MAL	XylEnum
+[].Physiology and metabolism.API STA.LAC	XylEnum
+[].Physiology and metabolism.API STA.GLU	XylEnum
+[].Physiology and metabolism.API STA.FRU	XylEnum
+[].Physiology and metabolism.API STA.ADH	XylEnum
+[].Physiology and metabolism.API STA.LSTR	XylEnum
+[].Physiology and metabolism.API STA.Control	XylEnum
+[].Physiology and metabolism.API biotype100.TTE	XltEnum
+[].Physiology and metabolism.API biotype100.TRY	XltEnum
+[].Physiology and metabolism.API biotype100.TRE	XltEnum
+[].Physiology and metabolism.API biotype100.TATE	XltEnum
+[].Physiology and metabolism.API biotype100.SOR	XltEnum
+[].Physiology and metabolism.API biotype100.SAT	XltEnum
+[].Physiology and metabolism.API biotype100.SAC	XltEnum
+[].Physiology and metabolism.API biotype100.RIB	XltEnum
+[].Physiology and metabolism.API biotype100.RHA	XltEnum
+[].Physiology and metabolism.API biotype100.pOBE	XltEnum
+[].Physiology and metabolism.API biotype100.PLE	XltEnum
+[].Physiology and metabolism.API biotype100.PAT	XltEnum
+[].Physiology and metabolism.API biotype100.PAC	XltEnum
+[].Physiology and metabolism.API biotype100.NAG	XltEnum
+[].Physiology and metabolism.API biotype100.MUC	XltEnum
+[].Physiology and metabolism.API biotype100.MTL	XltEnum
+[].Physiology and metabolism.API biotype100.MTE	XltEnum
+[].Physiology and metabolism.API biotype100.MTAT	XltEnum
+[].Physiology and metabolism.API biotype100.MLZ	XltEnum
+[].Physiology and metabolism.API biotype100.MEL	XltEnum
+[].Physiology and metabolism.API biotype100.MDG	XltEnum
+[].Physiology and metabolism.API biotype100.MbGu	XltEnum
+[].Physiology and metabolism.API biotype100.MbGa	XltEnum
+[].Physiology and metabolism.API biotype100.MAN	XltEnum
+[].Physiology and metabolism.API biotype100.MaGa	XltEnum
+[].Physiology and metabolism.API biotype100.LTE	XltEnum
+[].Physiology and metabolism.API biotype100.LTAT	XltEnum
+[].Physiology and metabolism.API biotype100.LMLT	XltEnum
+[].Physiology and metabolism.API biotype100.INO	XltEnum
+[].Physiology and metabolism.API biotype100.HBG	XltEnum
+[].Physiology and metabolism.API biotype100.GRT	XltEnum
+[].Physiology and metabolism.API biotype100.GNT	XltEnum
+[].Physiology and metabolism.API biotype100.GEN	XltEnum
+[].Physiology and metabolism.API biotype100.GAT	XltEnum
+[].Physiology and metabolism.API biotype100.GAL	XltEnum
+[].Physiology and metabolism.API biotype100.ESC	XltEnum
+[].Physiology and metabolism.API biotype100.ERY	XltEnum
+[].Physiology and metabolism.API biotype100.DTAT	XltEnum
+[].Physiology and metabolism.API biotype100.DMLT	XltEnum
+[].Physiology and metabolism.API biotype100.CIT	XltEnum
+[].Physiology and metabolism.API biotype100.CEL	XltEnum
+[].Physiology and metabolism.API biotype100.CATE	XltEnum
+[].Physiology and metabolism.API biotype100.5KG	XltEnum
+[].Physiology and metabolism.API biotype100.3MDG	XltEnum
+[].Physiology and metabolism.API biotype100.2KG	XltEnum
+[].Physiology and metabolism.API biotype100.XYL	XltEnum
+[].Physiology and metabolism.API biotype100.XLT	XltEnum
+[].Physiology and metabolism.API biotype100.TUR	XltEnum
+[].Physiology and metabolism.API biotype100.TAG	XltEnum
+[].Physiology and metabolism.API biotype100.SBE	XltEnum
+[].Physiology and metabolism.API biotype100.RAF	XltEnum
+[].Physiology and metabolism.API biotype100.MNE	XltEnum
+[].Physiology and metabolism.API biotype100.MAL	XltEnum
+[].Physiology and metabolism.API biotype100.LYX	XltEnum
+[].Physiology and metabolism.API biotype100.LARL	XltEnum
+[].Physiology and metabolism.API biotype100.LAC	XltEnum
+[].Physiology and metabolism.API biotype100.GLY	XltEnum
+[].Physiology and metabolism.API biotype100.GLU	XltEnum
+[].Physiology and metabolism.API biotype100.FUC	XltEnum
+[].Physiology and metabolism.API biotype100.FRU	XltEnum
+[].Physiology and metabolism.API biotype100.DUL	XltEnum
+[].Physiology and metabolism.API biotype100.DARL	XltEnum
+[].Physiology and metabolism.API biotype100.ARA	XltEnum
+[].Physiology and metabolism.API biotype100.ADO	XltEnum
+[].Physiology and metabolism.API biotype100.TGE	XltEnum
+[].Physiology and metabolism.API biotype100.SUC	XltEnum
+[].Physiology and metabolism.API biotype100.QAT	XltEnum
+[].Physiology and metabolism.API biotype100.PPAT	XltEnum
+[].Physiology and metabolism.API biotype100.PCE	XltEnum
+[].Physiology and metabolism.API biotype100.mOBE	XltEnum
+[].Physiology and metabolism.API biotype100.LAT	XltEnum
+[].Physiology and metabolism.API biotype100.HIS	XltEnum
+[].Physiology and metabolism.API biotype100.HIN	XltEnum
+[].Physiology and metabolism.API biotype100.GTE	XltEnum
+[].Physiology and metabolism.API biotype100.CYT	XltEnum
+[].Physiology and metabolism.API biotype100.CMT	XltEnum
+[].Physiology and metabolism.API biotype100.CAP	XltEnum
+[].Physiology and metabolism.API biotype100.BET	XltEnum
+[].Physiology and metabolism.API biotype100.BAT	XltEnum
+[].Physiology and metabolism.API biotype100.ABT	XltEnum
+[].Physiology and metabolism.API biotype100.TTN	XltEnum
+[].Physiology and metabolism.API biotype100.SER	XltEnum
+[].Physiology and metabolism.API biotype100.PRO	XltEnum
+[].Physiology and metabolism.API biotype100.MNT	XltEnum
+[].Physiology and metabolism.API biotype100.LALA	XltEnum
+[].Physiology and metabolism.API biotype100.ITA	XltEnum
+[].Physiology and metabolism.API biotype100.GYT	XltEnum
+[].Physiology and metabolism.API biotype100.GTT	XltEnum
+[].Physiology and metabolism.API biotype100.GRE	XltEnum
+[].Physiology and metabolism.API biotype100.GLN	XltEnum
+[].Physiology and metabolism.API biotype100.FUM	XltEnum
+[].Physiology and metabolism.API biotype100.ETN	XltEnum
+[].Physiology and metabolism.API biotype100.DALA	XltEnum
+[].Physiology and metabolism.API biotype100.AVT	XltEnum
+[].Physiology and metabolism.API biotype100.APT	XltEnum
+[].Physiology and metabolism.API biotype100.3OBU	XltEnum
+[].Physiology and metabolism.API biotype100.TYR	XltEnum
+[].Physiology and metabolism.API biotype100.PROP	XltEnum
+[].Physiology and metabolism.API biotype100.2KT	XltEnum
+[].Physiology and metabolism.API coryne.URE	XylEnum
+[].Physiology and metabolism.API coryne.GEL	XylEnum
+[].Physiology and metabolism.API coryne.ESC	XylEnum
+[].Physiology and metabolism.API coryne.PYRA	XylEnum
+[].Physiology and metabolism.API coryne.PAL	XylEnum
+[].Physiology and metabolism.API coryne.beta NAG	XylEnum
+[].Physiology and metabolism.API coryne.beta GAL	XylEnum
+[].Physiology and metabolism.API coryne.alpha GLU	XylEnum
+[].Physiology and metabolism.API coryne.beta GUR	XylEnum
+[].Physiology and metabolism.API coryne.SAC	XylEnum
+[].Physiology and metabolism.API coryne.PYZ	XylEnum
+[].Physiology and metabolism.API coryne.XYL	XylEnum
+[].Physiology and metabolism.API coryne.RIB	XylEnum
+[].Physiology and metabolism.API coryne.MAN	XylEnum
+[].Physiology and metabolism.API coryne.LAC	XylEnum
+[].Physiology and metabolism.API coryne.NIT	XylEnum
+[].Physiology and metabolism.API coryne.GLYG	XylEnum
+[].Physiology and metabolism.API coryne.MAL	XylEnum
+[].Physiology and metabolism.API coryne.GLU	XylEnum
+[].Physiology and metabolism.API coryne.Control	XylEnum
+[].Physiology and metabolism.API coryne.CAT	XylEnum
+[].Physiology and metabolism.API coryne.[].GEL	XylEnum
+[].Physiology and metabolism.API coryne.[].ESC	XylEnum
+[].Physiology and metabolism.API coryne.[].URE	XylEnum
+[].Physiology and metabolism.API coryne.[].PYRA	XylEnum
+[].Physiology and metabolism.API coryne.[].PAL	XylEnum
+[].Physiology and metabolism.API coryne.[].beta NAG	XylEnum
+[].Physiology and metabolism.API coryne.[].alpha GLU	XylEnum
+[].Physiology and metabolism.API coryne.[].SAC	XylEnum
+[].Physiology and metabolism.API coryne.[].beta GUR	XylEnum
+[].Physiology and metabolism.API coryne.[].beta GAL	XylEnum
+[].Physiology and metabolism.API coryne.[].XYL	XylEnum
+[].Physiology and metabolism.API coryne.[].RIB	XylEnum
+[].Physiology and metabolism.API coryne.[].PYZ	XylEnum
+[].Physiology and metabolism.API coryne.[].NIT	XylEnum
+[].Physiology and metabolism.API coryne.[].MAN	XylEnum
+[].Physiology and metabolism.API coryne.[].LAC	XylEnum
+[].Physiology and metabolism.API coryne.[].GLYG	XylEnum
+[].Physiology and metabolism.API coryne.[].MAL	XylEnum
+[].Physiology and metabolism.API coryne.[].GLU	XylEnum
+[].Physiology and metabolism.API coryne.[].Control	XylEnum
+[].Physiology and metabolism.API coryne.[].CAT	XylEnum
+[].Physiology and metabolism.API rID32A.TyrA	XylEnum
+[].Physiology and metabolism.API rID32A.ProA	XylEnum
+[].Physiology and metabolism.API rID32A.PheA	XylEnum
+[].Physiology and metabolism.API rID32A.PAL	XylEnum
+[].Physiology and metabolism.API rID32A.MNE	XylEnum
+[].Physiology and metabolism.API rID32A.LGA	XylEnum
+[].Physiology and metabolism.API rID32A.LeuA	XylEnum
+[].Physiology and metabolism.API rID32A.beta GUR	XylEnum
+[].Physiology and metabolism.API rID32A.beta GLU	XylEnum
+[].Physiology and metabolism.API rID32A.beta GAL	XylEnum
+[].Physiology and metabolism.API rID32A.ArgA	XylEnum
+[].Physiology and metabolism.API rID32A.alpha ARA	XylEnum
+[].Physiology and metabolism.API rID32A.AlaA	XylEnum
+[].Physiology and metabolism.API rID32A.ADH Arg	XylEnum
+[].Physiology and metabolism.API rID32A.URE	XylEnum
+[].Physiology and metabolism.API rID32A.RAF	XylEnum
+[].Physiology and metabolism.API rID32A.GDC	XylEnum
+[].Physiology and metabolism.API rID32A.beta NAG	XylEnum
+[].Physiology and metabolism.API rID32A.alpha GAL	XylEnum
+[].Physiology and metabolism.API rID32A.alpha FUC	XylEnum
+[].Physiology and metabolism.API rID32A.PyrA	XylEnum
+[].Physiology and metabolism.API rID32A.IND	XylEnum
+[].Physiology and metabolism.API rID32A.alpha GLU	XylEnum
+[].Physiology and metabolism.API rID32A.GlyA	XylEnum
+[].Physiology and metabolism.API rID32A.NIT	XylEnum
+[].Physiology and metabolism.API rID32A.HisA	XylEnum
+[].Physiology and metabolism.API rID32A.GGA	XylEnum
+[].Physiology and metabolism.API rID32A.SerA	XylEnum
+[].Physiology and metabolism.API rID32A.beta GP	XylEnum
+[].Physiology and metabolism.API rID32A.[].MNE	XylEnum
+[].Physiology and metabolism.API rID32A.[].beta GP	XylEnum
+[].Physiology and metabolism.API rID32A.[].beta GLU	XylEnum
+[].Physiology and metabolism.API rID32A.[].beta GAL	XylEnum
+[].Physiology and metabolism.API rID32A.[].alpha GLU	XylEnum
+[].Physiology and metabolism.API rID32A.[].alpha ARA	XylEnum
+[].Physiology and metabolism.API rID32A.[].RAF	XylEnum
+[].Physiology and metabolism.API rID32A.[].PheA	XylEnum
+[].Physiology and metabolism.API rID32A.[].PAL	XylEnum
+[].Physiology and metabolism.API rID32A.[].beta NAG	XylEnum
+[].Physiology and metabolism.API rID32A.[].beta GUR	XylEnum
+[].Physiology and metabolism.API rID32A.[].ArgA	XylEnum
+[].Physiology and metabolism.API rID32A.[].ADH Arg	XylEnum
+[].Physiology and metabolism.API rID32A.[].PyrA	XylEnum
+[].Physiology and metabolism.API rID32A.[].ProA	XylEnum
+[].Physiology and metabolism.API rID32A.[].LeuA	XylEnum
+[].Physiology and metabolism.API rID32A.[].alpha GAL	XylEnum
+[].Physiology and metabolism.API rID32A.[].AlaA	XylEnum
+[].Physiology and metabolism.API rID32A.[].URE	XylEnum
+[].Physiology and metabolism.API rID32A.[].TyrA	XylEnum
+[].Physiology and metabolism.API rID32A.[].LGA	XylEnum
+[].Physiology and metabolism.API rID32A.[].GlyA	XylEnum
+[].Physiology and metabolism.API rID32A.[].GDC	XylEnum
+[].Physiology and metabolism.API rID32A.[].alpha FUC	XylEnum
+[].Physiology and metabolism.API rID32A.[].IND	XylEnum
+[].Physiology and metabolism.API rID32A.[].HisA	XylEnum
+[].Physiology and metabolism.API rID32A.[].NIT	XylEnum
+[].Physiology and metabolism.API rID32A.[].GGA	XylEnum
+[].Physiology and metabolism.API rID32A.[].SerA	XylEnum
+[].Physiology and metabolism.API rID32STR.TRE	XylEnum
+[].Physiology and metabolism.API rID32STR.TAG	XylEnum
+[].Physiology and metabolism.API rID32STR.SOR	XylEnum
+[].Physiology and metabolism.API rID32STR.SAC	XylEnum
+[].Physiology and metabolism.API rID32STR.RIB	XylEnum
+[].Physiology and metabolism.API rID32STR.PyrA	XylEnum
+[].Physiology and metabolism.API rID32STR.PAL	XylEnum
+[].Physiology and metabolism.API rID32STR.MEL	XylEnum
+[].Physiology and metabolism.API rID32STR.Mbeta DG	XylEnum
+[].Physiology and metabolism.API rID32STR.MAN	XylEnum
+[].Physiology and metabolism.API rID32STR.MAL	XylEnum
+[].Physiology and metabolism.API rID32STR.LARA	XylEnum
+[].Physiology and metabolism.API rID32STR.LAC	XylEnum
+[].Physiology and metabolism.API rID32STR.HIP	XylEnum
+[].Physiology and metabolism.API rID32STR.GTA	XylEnum
+[].Physiology and metabolism.API rID32STR.DARL	XylEnum
+[].Physiology and metabolism.API rID32STR.beta NAG	XylEnum
+[].Physiology and metabolism.API rID32STR.beta MAN	XylEnum
+[].Physiology and metabolism.API rID32STR.beta GUR	XylEnum
+[].Physiology and metabolism.API rID32STR.beta GLU	XylEnum
+[].Physiology and metabolism.API rID32STR.beta GAR	XylEnum
+[].Physiology and metabolism.API rID32STR.alpha GAL	XylEnum
+[].Physiology and metabolism.API rID32STR.ADH Arg	XylEnum
+[].Physiology and metabolism.API rID32STR.RAF	XylEnum
+[].Physiology and metabolism.API rID32STR.PUL	XylEnum
+[].Physiology and metabolism.API rID32STR.MLZ	XylEnum
+[].Physiology and metabolism.API rID32STR.GLYG	XylEnum
+[].Physiology and metabolism.API rID32STR.URE	XylEnum
+[].Physiology and metabolism.API rID32STR.beta GAL	XylEnum
+[].Physiology and metabolism.API rID32STR.APPA	XylEnum
+[].Physiology and metabolism.API rID32STR.CDEX	XylEnum
+[].Physiology and metabolism.API rID32STR.VP	XylEnum
+[].Physiology and metabolism.API rID32STR.[].TRE	XylEnum
+[].Physiology and metabolism.API rID32STR.[].SOR	XylEnum
+[].Physiology and metabolism.API rID32STR.[].SAC	XylEnum
+[].Physiology and metabolism.API rID32STR.[].RAF	XylEnum
+[].Physiology and metabolism.API rID32STR.[].PAL	XylEnum
+[].Physiology and metabolism.API rID32STR.[].MAN	XylEnum
+[].Physiology and metabolism.API rID32STR.[].LARA	XylEnum
+[].Physiology and metabolism.API rID32STR.[].LAC	XylEnum
+[].Physiology and metabolism.API rID32STR.[].DARL	XylEnum
+[].Physiology and metabolism.API rID32STR.[].beta GUR	XylEnum
+[].Physiology and metabolism.API rID32STR.[].beta GLU	XylEnum
+[].Physiology and metabolism.API rID32STR.[].beta GAR	XylEnum
+[].Physiology and metabolism.API rID32STR.[].alpha GAL	XylEnum
+[].Physiology and metabolism.API rID32STR.[].ADH Arg	XylEnum
+[].Physiology and metabolism.API rID32STR.[].URE	XylEnum
+[].Physiology and metabolism.API rID32STR.[].TAG	XylEnum
+[].Physiology and metabolism.API rID32STR.[].RIB	XylEnum
+[].Physiology and metabolism.API rID32STR.[].PyrA	XylEnum
+[].Physiology and metabolism.API rID32STR.[].PUL	XylEnum
+[].Physiology and metabolism.API rID32STR.[].MLZ	XylEnum
+[].Physiology and metabolism.API rID32STR.[].MEL	XylEnum
+[].Physiology and metabolism.API rID32STR.[].Mbeta DG	XylEnum
+[].Physiology and metabolism.API rID32STR.[].MAL	XylEnum
+[].Physiology and metabolism.API rID32STR.[].GLYG	XylEnum
+[].Physiology and metabolism.API rID32STR.[].CDEX	XylEnum
+[].Physiology and metabolism.API rID32STR.[].beta MAN	XylEnum
+[].Physiology and metabolism.API rID32STR.[].VP	XylEnum
+[].Physiology and metabolism.API rID32STR.[].GTA	XylEnum
+[].Physiology and metabolism.API rID32STR.[].beta NAG	XylEnum
+[].Physiology and metabolism.API rID32STR.[].beta GAL	XylEnum
+[].Physiology and metabolism.API rID32STR.[].APPA	XylEnum
+[].Physiology and metabolism.API rID32STR.[].HIP	XylEnum
+[].Physiology and metabolism.API zym.Lipase	XylEnum
+[].Physiology and metabolism.API zym.Trypsin	XylEnum
+[].Physiology and metabolism.API zym.N-acetyl-beta- glucosaminidase	XylEnum
+[].Physiology and metabolism.API zym.Esterase	XylEnum
+[].Physiology and metabolism.API zym.Cystine arylamidase	XylEnum
+[].Physiology and metabolism.API zym.Alkaline phosphatase	XylEnum
+[].Physiology and metabolism.API zym.Acid phosphatase	XylEnum
+[].Physiology and metabolism.API zym.Valine arylamidase	XylEnum
+[].Physiology and metabolism.API zym.Esterase Lipase	XylEnum
+[].Physiology and metabolism.API zym.beta- Glucuronidase	XylEnum
+[].Physiology and metabolism.API zym.beta- Glucosidase	XylEnum
+[].Physiology and metabolism.API zym.alpha- Mannosidase	XylEnum
+[].Physiology and metabolism.API zym.alpha- Glucosidase	XylEnum
+[].Physiology and metabolism.API zym.alpha- Chymotrypsin	XylEnum
+[].Physiology and metabolism.API zym.Naphthol-AS-BI-phosphohydrolase	XylEnum
+[].Physiology and metabolism.API zym.Leucine arylamidase	XylEnum
+[].Physiology and metabolism.API zym.beta- Galactosidase	XylEnum
+[].Physiology and metabolism.API zym.alpha- Fucosidase	XylEnum
+[].Physiology and metabolism.API zym.alpha- Galactosidase	XylEnum
+[].Physiology and metabolism.API zym.Control	XylEnum
+[].Physiology and metabolism.API zym.[].Trypsin	XylEnum
+[].Physiology and metabolism.API zym.[].Lipase	XylEnum
+[].Physiology and metabolism.API zym.[].Cystine arylamidase	XylEnum
+[].Physiology and metabolism.API zym.[].alpha- Chymotrypsin	XylEnum
+[].Physiology and metabolism.API zym.[].N-acetyl-beta- glucosaminidase	XylEnum
+[].Physiology and metabolism.API zym.[].Esterase Lipase	XylEnum
+[].Physiology and metabolism.API zym.[].Esterase	XylEnum
+[].Physiology and metabolism.API zym.[].beta- Galactosidase	XylEnum
+[].Physiology and metabolism.API zym.[].alpha- Mannosidase	XylEnum
+[].Physiology and metabolism.API zym.[].alpha- Galactosidase	XylEnum
+[].Physiology and metabolism.API zym.[].alpha- Fucosidase	XylEnum
+[].Physiology and metabolism.API zym.[].Alkaline phosphatase	XylEnum
+[].Physiology and metabolism.API zym.[].Valine arylamidase	XylEnum
+[].Physiology and metabolism.API zym.[].Naphthol-AS-BI-phosphohydrolase	XylEnum
+[].Physiology and metabolism.API zym.[].Leucine arylamidase	XylEnum
+[].Physiology and metabolism.API zym.[].beta- Glucuronidase	XylEnum
+[].Physiology and metabolism.API zym.[].beta- Glucosidase	XylEnum
+[].Physiology and metabolism.API zym.[].alpha- Glucosidase	XylEnum
+[].Physiology and metabolism.API zym.[].Acid phosphatase	XylEnum
+[].Physiology and metabolism.API zym.[].Control	XylEnum
+[].Physiology and metabolism.antibiogram.medium	MediumEnum
+[].Physiology and metabolism.antibiogram.oxygen condition	MediumEnum
+[].Physiology and metabolism.antibiogram.[].medium	MediumEnum
+[].Physiology and metabolism.antibiogram.[].oxygen condition	MediumEnum
+[].Physiology and metabolism.antibiotic resistance.is antibiotic	YesNoEnum
+[].Physiology and metabolism.antibiotic resistance.is resistant	YesNoEnum
+[].Physiology and metabolism.antibiotic resistance.is sensitive	YesNoEnum
+[].Physiology and metabolism.antibiotic resistance.is intermediate	YesNoEnum
+[].Physiology and metabolism.antibiotic resistance.[].is sensitive	YesNoEnum
+[].Physiology and metabolism.antibiotic resistance.[].is resistant	YesNoEnum
+[].Physiology and metabolism.antibiotic resistance.[].is intermediate	YesNoEnum
+[].Physiology and metabolism.compound production.excreted	YesNoEnum
+[].Physiology and metabolism.compound production.[].excreted	YesNoEnum
+[].Physiology and metabolism.enzymes.activity	XylEnum
+[].Physiology and metabolism.enzymes.[].activity	XylEnum
+[].Physiology and metabolism.fatty acid profile.type of FA analysis	TypeOfFaAnalysisEnum
+[].Physiology and metabolism.fatty acid profile.system	TypeOfFaAnalysisEnum
+[].Physiology and metabolism.fatty acid profile.agar/liquid	TypeOfFaAnalysisEnum
+[].Physiology and metabolism.fatty acid profile.incubation_oxygen	TypeOfFaAnalysisEnum
+[].Physiology and metabolism.fatty acid profile.treatment	TypeOfFaAnalysisEnum
+[].Physiology and metabolism.fatty acid profile.[].type of FA analysis	TypeOfFaAnalysisEnum
+[].Physiology and metabolism.fatty acid profile.[].system	TypeOfFaAnalysisEnum
+[].Physiology and metabolism.fatty acid profile.[].agar/liquid	TypeOfFaAnalysisEnum
+[].Physiology and metabolism.fatty acid profile.[].incubation_oxygen	TypeOfFaAnalysisEnum
+[].Physiology and metabolism.fatty acid profile.[].treatment	TypeOfFaAnalysisEnum
+[].Physiology and metabolism.fatty acid profile.[].fatty acids.fatty acid	FattyAcidEnum
+[].Physiology and metabolism.halophily.tested relation	HalophilyEnum
+[].Physiology and metabolism.halophily.salt	HalophilyEnum
+[].Physiology and metabolism.halophily.growth	HalophilyEnum
+[].Physiology and metabolism.halophily.halophily level	HalophilyEnum
+[].Physiology and metabolism.halophily.[].tested relation	HalophilyEnum
+[].Physiology and metabolism.halophily.[].salt	HalophilyEnum
+[].Physiology and metabolism.halophily.[].growth	HalophilyEnum
+[].Physiology and metabolism.halophily.[].halophily level	HalophilyEnum
+[].Physiology and metabolism.metabolite production.production	YesNoEnum
+[].Physiology and metabolism.metabolite production.[].production	YesNoEnum
+[].Physiology and metabolism.metabolite production.[].excretion	YesNoEnum
+[].Physiology and metabolism.metabolite tests.metabolite	MetaboliteEnum
+[].Physiology and metabolism.metabolite tests.indole test	MetaboliteEnum
+[].Physiology and metabolism.metabolite tests.voges-proskauer-test	MetaboliteEnum
+[].Physiology and metabolism.metabolite tests.methylred-test	MetaboliteEnum
+[].Physiology and metabolism.metabolite tests.citrate test	MetaboliteEnum
+[].Physiology and metabolism.metabolite tests.[].metabolite	MetaboliteEnum
+[].Physiology and metabolism.metabolite tests.[].voges-proskauer-test	MetaboliteEnum
+[].Physiology and metabolism.metabolite tests.[].indole test	MetaboliteEnum
+[].Physiology and metabolism.metabolite tests.[].methylred-test	MetaboliteEnum
+[].Physiology and metabolism.metabolite tests.[].citrate test	MetaboliteEnum
+[].Physiology and metabolism.metabolite utilization.utilization activity	XltEnum
+[].Physiology and metabolism.metabolite utilization.[].utilization activity	XylEnum
+[].Physiology and metabolism.oxygen tolerance.oxygen tolerance	OxygenToleranceEnum
+[].Physiology and metabolism.oxygen tolerance.[].oxygen tolerance	OxygenToleranceEnum
+[].Physiology and metabolism.spore formation.spore formation	SporeFormationEnum
+[].Physiology and metabolism.spore formation.type of spore	SporeFormationEnum
+[].Physiology and metabolism.spore formation.[].spore formation	SporeFormationEnum
+[].Physiology and metabolism.spore formation.[].type of spore	SporeFormationEnum
+[].Physiology and metabolism.tolerance.concentration	ConcentrationEnum
+[].Safety information.risk assessment.biosafety level comment	BiosafetyLevelCommentEnum
+[].Safety information.risk assessment.pathogenicity human	BiosafetyLevelCommentEnum
+[].Safety information.risk assessment.pathogenicity animal	BiosafetyLevelCommentEnum
+[].Safety information.risk assessment.pathogenicity plant	BiosafetyLevelCommentEnum
+[].Safety information.risk assessment.[].biosafety level	BiosafetyLevelEnum
+[].Safety information.risk assessment.[].biosafety level comment	BiosafetyLevelEnum
+[].Safety information.risk assessment.[].pathogenicity human	BiosafetyLevelEnum
+[].Safety information.risk assessment.[].pathogenicity animal	BiosafetyLevelEnum
+[].Safety information.risk assessment.[].pathogenicity plant	BiosafetyLevelEnum
+[].Sequence information.16S sequences.database	DatabaseEnum
+[].Sequence information.16S sequences.[].database	DatabaseEnum
+[].Sequence information.GC content.method	MethodEnum
+[].Sequence information.GC content.[].method	MethodEnum
+[].Sequence information.Genome sequences.database	DatabaseEnum
+[].Sequence information.Genome sequences.assembly level	DatabaseEnum
+[].Sequence information.Genome sequences.[].database	DatabaseEnum
+[].Sequence information.Genome sequences.[].assembly level	DatabaseEnum

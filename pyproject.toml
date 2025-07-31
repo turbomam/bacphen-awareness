@@ -8,6 +8,7 @@ dependencies = [
     "click>=8.2.1",
     "deepdiff>=8.5.0",
     "genson>=1.3.0",
+    "matplotlib>=3.10.3",
     "pandas>=2.3.1",
     "pymongo>=4.13.2",
 ]
@@ -18,3 +19,6 @@ package = true
 [project.scripts]
 bacdive-tools = "bacdive_tools.cli:cli"
 merge-path-counts = "bacdive_tools.merge_path_counts:merge"
+histogram-path-counts = "bacdive_tools.histogram_path_counts:histogram"
+export-enum-values = "bacdive_tools.export_enum_values:export_enum_values"
+discover-enums = "bacdive_tools.discover_enums:discover_enums"

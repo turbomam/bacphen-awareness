@@ -1,0 +1,1004 @@
+path	decision	reason	lineage
+[].Culture and growth conditions.culture medium.growth	include	categorical	[].Culture and growth conditions.culture medium
+[].Culture and growth conditions.culture medium.[].growth	include	categorical	[].Culture and growth conditions.culture medium.[]
+[].Culture and growth conditions.culture pH.type	include	categorical	[].Culture and growth conditions.culture pH
+[].Culture and growth conditions.culture pH.ability	include	categorical	[].Culture and growth conditions.culture pH
+[].Culture and growth conditions.culture pH.PH range	include	categorical	[].Culture and growth conditions.culture pH
+[].Culture and growth conditions.culture pH.[].type	include	categorical	[].Culture and growth conditions.culture pH.[]
+[].Culture and growth conditions.culture pH.[].ability	include	categorical	[].Culture and growth conditions.culture pH.[]
+[].Culture and growth conditions.culture pH.[].PH range	include	categorical	[].Culture and growth conditions.culture pH.[]
+[].Culture and growth conditions.culture temp.type	include	categorical	[].Culture and growth conditions.culture temp
+[].Culture and growth conditions.culture temp.growth	include	categorical	[].Culture and growth conditions.culture temp
+[].Culture and growth conditions.culture temp.[].type	include	categorical	[].Culture and growth conditions.culture temp.[]
+[].Culture and growth conditions.culture temp.[].growth	include	categorical	[].Culture and growth conditions.culture temp.[]
+[].External links.literature.topic	include	categorical	[].External links.literature
+[].External links.literature.topic2	include	categorical	[].External links.literature
+[].External links.literature.[].topic	include	categorical	[].External links.literature.[]
+[].External links.literature.[].topic2	include	categorical	[].External links.literature.[]
+[].External links.phages.@ref	exclude	numeric-dominated	[].External links.phages
+[].General.NCBI tax id.Matching level	include	categorical	[].General.NCBI tax id
+[].General.NCBI tax id.[].Matching level	include	categorical	[].General.NCBI tax id.[]
+[].Isolation, sampling and environmental information.isolation.continent	include	categorical	[].Isolation, sampling and environmental information.isolation
+[].Isolation, sampling and environmental information.isolation source categories.Cat1	include	categorical	[].Isolation, sampling and environmental information.isolation source categories
+[].Isolation, sampling and environmental information.isolation source categories.[].Cat1	include	categorical	[].Isolation, sampling and environmental information.isolation source categories.[]
+[].Isolation, sampling and environmental information.isolation.[].continent	include	categorical	[].Isolation, sampling and environmental information.isolation.[]
+[].Isolation, sampling and environmental information.taxonmaps.@ref	exclude	numeric-dominated	[].Isolation, sampling and environmental information.taxonmaps
+[].Morphology.cell morphology.gram stain	include	categorical	[].Morphology.cell morphology
+[].Morphology.cell morphology.motility	include	categorical	[].Morphology.cell morphology
+[].Morphology.cell morphology.flagellum arrangement	include	categorical	[].Morphology.cell morphology
+[].Morphology.cell morphology.[].gram stain	include	categorical	[].Morphology.cell morphology.[]
+[].Morphology.cell morphology.[].motility	include	categorical	[].Morphology.cell morphology.[]
+[].Morphology.cell morphology.[].flagellum arrangement	include	categorical	[].Morphology.cell morphology.[]
+[].Morphology.colony morphology.hemolysis ability	exclude	numeric-dominated	[].Morphology.colony morphology
+[].Morphology.colony morphology.colony shape	include	categorical	[].Morphology.colony morphology
+[].Morphology.colony morphology.type of hemolysis	include	categorical	[].Morphology.colony morphology
+[].Morphology.colony morphology.[].hemolysis ability	exclude	numeric-dominated	[].Morphology.colony morphology.[]
+[].Morphology.colony morphology.[].type of hemolysis	include	categorical	[].Morphology.colony morphology.[]
+[].Morphology.multicellular morphology.forms multicellular complex	include	categorical	[].Morphology.multicellular morphology
+[].Morphology.multicellular morphology.complex size	include	categorical	[].Morphology.multicellular morphology
+[].Morphology.multicellular morphology.[].forms multicellular complex	include	categorical	[].Morphology.multicellular morphology.[]
+[].Morphology.multicellular morphology.[].complex size	include	categorical	[].Morphology.multicellular morphology.[]
+[].Morphology.multimedia.intellectual property rights	exclude	long-text-non-biological	[].Morphology.multimedia
+[].Morphology.multimedia.[].intellectual property rights	exclude	long-text-non-biological	[].Morphology.multimedia.[]
+[].Morphology.pigmentation.production	include	categorical	[].Morphology.pigmentation
+[].Morphology.pigmentation.[].production	include	categorical	[].Morphology.pigmentation.[]
+[].Name and taxonomic classification.type strain	include	categorical	[].Name and taxonomic classification
+[].Name and taxonomic classification.domain	include	categorical	[].Name and taxonomic classification
+[].Name and taxonomic classification.LPSN.@ref	exclude	numeric-dominated	[].Name and taxonomic classification.LPSN
+[].Name and taxonomic classification.LPSN.domain	include	categorical	[].Name and taxonomic classification.LPSN
+[].Name and taxonomic classification.LPSN.description	include	categorical	[].Name and taxonomic classification.LPSN
+[].Name and taxonomic classification.LPSN.synonyms.@ref	exclude	numeric-dominated	[].Name and taxonomic classification.LPSN.synonyms
+[].Physiology and metabolism.API 20A.XYL	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.URE	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.TRE	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.SOR	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.SAL	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.SAC	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.RHA	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.RAF	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.MNE	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.MLZ	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.MAN	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.MAL	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.LAC	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.GLY	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.GLU	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.GEL	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.CEL	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.ARA	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.ESC	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.IND	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.CAT	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.GRAM	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.SPOR	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.COCC	include	categorical	[].Physiology and metabolism.API 20A
+[].Physiology and metabolism.API 20A.[].XYL	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].URE	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].TRE	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].SOR	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].SAL	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].SAC	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].RHA	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].RAF	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].MNE	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].MLZ	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].MAN	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].MAL	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].LAC	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].GLY	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].GLU	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].GEL	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].CEL	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].ARA	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].ESC	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].IND	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].CAT	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].COCC	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].GRAM	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20A.[].SPOR	include	categorical	[].Physiology and metabolism.API 20A.[]
+[].Physiology and metabolism.API 20E.URE	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.H2S	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.ODC	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.CIT	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.TDA Trp	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.ONPG	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.LDC Lys	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.IND	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.ADH Arg	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.GEL	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.VP	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.GLU	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.SAC	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.MEL	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.Sor	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.RHA	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.INO	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.MAN	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.ARA	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.AMY	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.OX	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.NO2	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.N2	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.MAC	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.OF-O	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.OF-F	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.MOB	include	categorical	[].Physiology and metabolism.API 20E
+[].Physiology and metabolism.API 20E.[].ONPG	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].URE	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].ODC	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].LDC Lys	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].H2S	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].GEL	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].CIT	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].ADH Arg	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].VP	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].TDA Trp	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].IND	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].GLU	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].Sor	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].RHA	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].MAN	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].INO	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].ARA	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].AMY	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].SAC	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].MEL	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].OX	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].NO2	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].N2	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].MAC	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].OF-O	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20E.[].OF-F	include	categorical	[].Physiology and metabolism.API 20E.[]
+[].Physiology and metabolism.API 20NE.URE	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.PAC	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.NAG	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.MNE	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.MLT	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.MAN	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.MAL	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.GNT	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.GLU_ Ferm	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.GEL	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.ESC	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.CIT	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.CAP	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.ARA	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.ADI	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.ADH Arg	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.PNPG	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.TRP	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.GLU_ Assim	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.NO3	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.OX	include	categorical	[].Physiology and metabolism.API 20NE
+[].Physiology and metabolism.API 20NE.[].PAC	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].MNE	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].MLT	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].GNT	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].GLU_ Ferm	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].GLU_ Assim	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].GEL	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].ESC	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].CIT	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].CAP	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].ARA	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].ADI	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].URE	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].TRP	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].PNPG	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].NAG	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].MAN	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].MAL	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].NO3	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].ADH Arg	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20NE.[].OX	include	categorical	[].Physiology and metabolism.API 20NE.[]
+[].Physiology and metabolism.API 20STR.VP	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.TRE	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.SOR	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.RIB	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.RAF	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.PYRA	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.PAL	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.MAN	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.LAP	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.LAC	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.INU	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.HIP	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.GLYG	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.ESC	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.beta GUR	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.beta GAL	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.ARA	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.AMD	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.alpha GAL	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.ADH	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.beta HEM	include	categorical	[].Physiology and metabolism.API 20STR
+[].Physiology and metabolism.API 20STR.[].VP	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].TRE	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].SOR	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].RIB	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].RAF	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].PYRA	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].PAL	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].MAN	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].LAP	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].LAC	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].INU	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].HIP	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].GLYG	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].ESC	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].beta GUR	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].beta GAL	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].ARA	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].AMD	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].alpha GAL	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].ADH	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 20STR.[].beta HEM	include	categorical	[].Physiology and metabolism.API 20STR.[]
+[].Physiology and metabolism.API 50CHac.XLT	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.TUR	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.TRE	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.TAG	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.SOR	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.SBE	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.SAL	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.RHA	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.RAF	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.NAG	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.MNE	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.MLZ	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.MEL	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.MDX	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.MDM	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.MDG	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.MAN	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.MAL	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.LYX	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.LXYL	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.LFUC	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.LARL	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.LARA	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.LAC	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.INU	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.INO	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.GNT	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.GLYG	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.GLY	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.GLU	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.GAL	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.FRU	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.ESC	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.ERY	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.DXYL	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.DUL	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.DFUC	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.DARL	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.DARA	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.CEL	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.ARB	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.AMY	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.AMD	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.ADO	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.2KG	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.SAC	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.RIB	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.GEN	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.5KG	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.Q	include	categorical	[].Physiology and metabolism.API 50CHac
+[].Physiology and metabolism.API 50CHac.[].XLT	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].TUR	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].TRE	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].TAG	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].SOR	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].SBE	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].SAL	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].SAC	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].RIB	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].RHA	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].RAF	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].NAG	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].MNE	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].MLZ	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].MEL	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].MDX	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].MDM	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].MDG	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].MAN	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].MAL	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].LYX	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].LXYL	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].LFUC	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].LARL	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].LARA	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].LAC	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].INU	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].INO	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].GLYG	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].GLY	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].GLU	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].GEN	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].GAL	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].ESC	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].ERY	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].DXYL	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].DUL	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].DFUC	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].DARL	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].DARA	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].CEL	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].AMD	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].ADO	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].GNT	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].FRU	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].ARB	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].AMY	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].5KG	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].2KG	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHac.[].Q	include	categorical	[].Physiology and metabolism.API 50CHac.[]
+[].Physiology and metabolism.API 50CHas.@ref	exclude	numeric-dominated	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.XLT	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.TUR	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.TRE	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.TAG	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.SOR	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.SBE	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.SAL	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.SAC	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.RIB	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.RHA	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.RAF	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.Q	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.NAG	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.MNE	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.MLZ	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.MEL	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.MDX	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.MDM	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.MDG	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.MAN	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.MAL	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.LYX	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.LXYL	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.LFUC	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.LARL	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.LARA	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.LAC	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.INU	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.INO	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.GLYG	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.GLY	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.GLU	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.GEN	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.GAL	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.FRU	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.ESC	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.ERY	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.DXYL	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.DUL	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.DFUC	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.DARL	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.DARA	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.CEL	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.ARB	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.AMY	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.AMD	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.ADO	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.GNT	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.5KG	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API 50CHas.2KG	include	categorical	[].Physiology and metabolism.API 50CHas
+[].Physiology and metabolism.API CAM.TTC	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.PYRA	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.PAL	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.GGT	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.URE	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.NIT	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.HIP	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.EST	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.AspA	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.ArgA	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.SUT	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.MLT	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.H2S	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.GLU	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.CFZ	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.PROP	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.NAL	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.ERO	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.CIT	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.ACE	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.CAT	include	categorical	[].Physiology and metabolism.API CAM
+[].Physiology and metabolism.API CAM.[].URE	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].PYRA	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].PAL	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].NIT	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].GGT	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].AspA	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].ArgA	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].TTC	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].HIP	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].EST	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].H2S	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].SUT	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].PROP	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].NAL	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].MLT	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].GLU	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].ERO	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].CIT	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].CFZ	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].ACE	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API CAM.[].CAT	include	categorical	[].Physiology and metabolism.API CAM.[]
+[].Physiology and metabolism.API ID32E.URE	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.TRE	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.SOR	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.SAC	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.RP	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.RHA	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.PLE	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.ODC	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.LDC Lys	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.LARL	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.LARA	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.INO	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.GLU	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.GAT	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.DARL	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.CEL	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.beta GUR	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.beta GLU	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.beta GAL	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.alphaMAL	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.alpha GAL	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.ADO	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.ADH Arg	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.5KG	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.MNT	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.MAL	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.alpha GLU	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.MAN	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.LIP	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.IND	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.beta NAG	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.AspA	include	categorical	[].Physiology and metabolism.API ID32E
+[].Physiology and metabolism.API ID32E.[].URE	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].TRE	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].SOR	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].SAC	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].RP	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].RHA	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].PLE	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].ODC	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].MNT	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].MAN	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].MAL	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].LIP	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].LDC Lys	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].LARL	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].LARA	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].INO	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].IND	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].GLU	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].GAT	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].DARL	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].CEL	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].beta NAG	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].beta GUR	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].beta GLU	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].beta GAL	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].alphaMAL	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].alpha GLU	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].alpha GAL	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].ADO	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].ADH Arg	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].5KG	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32E.[].AspA	include	categorical	[].Physiology and metabolism.API ID32E.[]
+[].Physiology and metabolism.API ID32STA.URE	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.TUR	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.TRE	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.SAC	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.RIB	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.RAF	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.NOVO	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.NIT	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.NAG	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.MNE	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.MAN	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.MAL	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.LAC	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.GLU	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.FRU	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.ESC	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.CEL	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.beta GUR	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.ArgA	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.ARA	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.ADH Arg	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.PAL	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.ODC	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.beta GAL	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.PyrA	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.VP	include	categorical	[].Physiology and metabolism.API ID32STA
+[].Physiology and metabolism.API ID32STA.[].URE	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].TUR	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].TRE	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].SAC	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].RAF	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].PyrA	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].PAL	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].NOVO	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].NAG	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].MNE	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].MAN	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].MAL	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].GLU	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].FRU	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].ESC	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].beta GAL	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].ArgA	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].ARA	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].ADH Arg	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].RIB	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].ODC	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].LAC	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].beta GUR	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].VP	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].CEL	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API ID32STA.[].NIT	include	categorical	[].Physiology and metabolism.API ID32STA.[]
+[].Physiology and metabolism.API LIST.XYL	include	categorical	[].Physiology and metabolism.API LIST
+[].Physiology and metabolism.API LIST.RIB	include	categorical	[].Physiology and metabolism.API LIST
+[].Physiology and metabolism.API LIST.RHA	include	categorical	[].Physiology and metabolism.API LIST
+[].Physiology and metabolism.API LIST.MDG	include	categorical	[].Physiology and metabolism.API LIST
+[].Physiology and metabolism.API LIST.G1P	include	categorical	[].Physiology and metabolism.API LIST
+[].Physiology and metabolism.API LIST.ESC	include	categorical	[].Physiology and metabolism.API LIST
+[].Physiology and metabolism.API LIST.DARL	include	categorical	[].Physiology and metabolism.API LIST
+[].Physiology and metabolism.API LIST.alpha MAN	include	categorical	[].Physiology and metabolism.API LIST
+[].Physiology and metabolism.API LIST.TAG	include	categorical	[].Physiology and metabolism.API LIST
+[].Physiology and metabolism.API LIST.DIM	include	categorical	[].Physiology and metabolism.API LIST
+[].Physiology and metabolism.API LIST.beta HEM	include	categorical	[].Physiology and metabolism.API LIST
+[].Physiology and metabolism.API LIST.[].XYL	include	categorical	[].Physiology and metabolism.API LIST.[]
+[].Physiology and metabolism.API LIST.[].TAG	include	categorical	[].Physiology and metabolism.API LIST.[]
+[].Physiology and metabolism.API LIST.[].RIB	include	categorical	[].Physiology and metabolism.API LIST.[]
+[].Physiology and metabolism.API LIST.[].RHA	include	categorical	[].Physiology and metabolism.API LIST.[]
+[].Physiology and metabolism.API LIST.[].MDG	include	categorical	[].Physiology and metabolism.API LIST.[]
+[].Physiology and metabolism.API LIST.[].G1P	include	categorical	[].Physiology and metabolism.API LIST.[]
+[].Physiology and metabolism.API LIST.[].ESC	include	categorical	[].Physiology and metabolism.API LIST.[]
+[].Physiology and metabolism.API LIST.[].DARL	include	categorical	[].Physiology and metabolism.API LIST.[]
+[].Physiology and metabolism.API LIST.[].alpha MAN	include	categorical	[].Physiology and metabolism.API LIST.[]
+[].Physiology and metabolism.API LIST.[].DIM	include	categorical	[].Physiology and metabolism.API LIST.[]
+[].Physiology and metabolism.API LIST.[].beta HEM	include	categorical	[].Physiology and metabolism.API LIST.[]
+[].Physiology and metabolism.API NH.URE	include	categorical	[].Physiology and metabolism.API NH
+[].Physiology and metabolism.API NH.SAC	include	categorical	[].Physiology and metabolism.API NH
+[].Physiology and metabolism.API NH.PAL	include	categorical	[].Physiology and metabolism.API NH
+[].Physiology and metabolism.API NH.ODC	include	categorical	[].Physiology and metabolism.API NH
+[].Physiology and metabolism.API NH.MAL	include	categorical	[].Physiology and metabolism.API NH
+[].Physiology and metabolism.API NH.LIP	include	categorical	[].Physiology and metabolism.API NH
+[].Physiology and metabolism.API NH.GLU	include	categorical	[].Physiology and metabolism.API NH
+[].Physiology and metabolism.API NH.FRU	include	categorical	[].Physiology and metabolism.API NH
+[].Physiology and metabolism.API NH.beta GAL	include	categorical	[].Physiology and metabolism.API NH
+[].Physiology and metabolism.API NH.ProA	include	categorical	[].Physiology and metabolism.API NH
+[].Physiology and metabolism.API NH.GGT	include	categorical	[].Physiology and metabolism.API NH
+[].Physiology and metabolism.API NH.IND	include	categorical	[].Physiology and metabolism.API NH
+[].Physiology and metabolism.API NH.PEN	include	categorical	[].Physiology and metabolism.API NH
+[].Physiology and metabolism.API NH.[].URE	include	categorical	[].Physiology and metabolism.API NH.[]
+[].Physiology and metabolism.API NH.[].SAC	include	categorical	[].Physiology and metabolism.API NH.[]
+[].Physiology and metabolism.API NH.[].PAL	include	categorical	[].Physiology and metabolism.API NH.[]
+[].Physiology and metabolism.API NH.[].ODC	include	categorical	[].Physiology and metabolism.API NH.[]
+[].Physiology and metabolism.API NH.[].MAL	include	categorical	[].Physiology and metabolism.API NH.[]
+[].Physiology and metabolism.API NH.[].LIP	include	categorical	[].Physiology and metabolism.API NH.[]
+[].Physiology and metabolism.API NH.[].GLU	include	categorical	[].Physiology and metabolism.API NH.[]
+[].Physiology and metabolism.API NH.[].FRU	include	categorical	[].Physiology and metabolism.API NH.[]
+[].Physiology and metabolism.API NH.[].beta GAL	include	categorical	[].Physiology and metabolism.API NH.[]
+[].Physiology and metabolism.API NH.[].ProA	include	categorical	[].Physiology and metabolism.API NH.[]
+[].Physiology and metabolism.API NH.[].PEN	include	categorical	[].Physiology and metabolism.API NH.[]
+[].Physiology and metabolism.API NH.[].GGT	include	categorical	[].Physiology and metabolism.API NH.[]
+[].Physiology and metabolism.API NH.[].IND	include	categorical	[].Physiology and metabolism.API NH.[]
+[].Physiology and metabolism.API STA.XYL	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.XLT	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.VP	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.URE	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.TRE	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.SAC	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.RAF	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.PAL	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.NIT	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.NAG	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.MNE	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.MEL	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.MDG	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.MAN	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.MAL	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.LAC	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.GLU	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.FRU	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.ADH	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.LSTR	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API STA.Control	include	categorical	[].Physiology and metabolism.API STA
+[].Physiology and metabolism.API biotype100.TTE	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.TRY	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.TRE	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.TATE	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.SOR	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.SAT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.SAC	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.RIB	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.RHA	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.pOBE	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.PLE	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.PAT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.PAC	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.NAG	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.MUC	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.MTL	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.MTE	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.MTAT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.MLZ	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.MEL	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.MDG	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.MbGu	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.MbGa	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.MAN	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.MaGa	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.LTE	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.LTAT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.LMLT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.INO	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.HBG	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.GRT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.GNT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.GEN	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.GAT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.GAL	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.ESC	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.ERY	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.DTAT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.DMLT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.CIT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.CEL	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.CATE	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.5KG	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.3MDG	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.2KG	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.XYL	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.XLT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.TUR	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.TAG	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.SBE	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.RAF	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.MNE	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.MAL	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.LYX	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.LARL	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.LAC	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.GLY	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.GLU	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.FUC	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.FRU	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.DUL	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.DARL	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.ARA	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.ADO	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.TGE	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.SUC	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.QAT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.PPAT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.PCE	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.mOBE	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.LAT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.HIS	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.HIN	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.GTE	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.CYT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.CMT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.CAP	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.BET	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.BAT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.ABT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.TTN	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.SER	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.PRO	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.MNT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.LALA	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.ITA	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.GYT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.GTT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.GRE	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.GLN	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.FUM	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.ETN	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.DALA	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.AVT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.APT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.3OBU	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.TYR	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.PROP	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API biotype100.2KT	include	categorical	[].Physiology and metabolism.API biotype100
+[].Physiology and metabolism.API coryne.URE	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.GEL	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.ESC	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.PYRA	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.PAL	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.beta NAG	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.beta GAL	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.alpha GLU	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.beta GUR	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.SAC	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.PYZ	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.XYL	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.RIB	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.MAN	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.LAC	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.NIT	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.GLYG	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.MAL	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.GLU	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.Control	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.CAT	include	categorical	[].Physiology and metabolism.API coryne
+[].Physiology and metabolism.API coryne.[].GEL	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].ESC	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].URE	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].PYRA	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].PAL	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].beta NAG	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].alpha GLU	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].SAC	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].beta GUR	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].beta GAL	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].XYL	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].RIB	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].PYZ	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].NIT	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].MAN	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].LAC	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].GLYG	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].MAL	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].GLU	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].Control	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API coryne.[].CAT	include	categorical	[].Physiology and metabolism.API coryne.[]
+[].Physiology and metabolism.API rID32A.TyrA	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.ProA	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.PheA	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.PAL	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.MNE	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.LGA	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.LeuA	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.beta GUR	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.beta GLU	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.beta GAL	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.ArgA	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.alpha ARA	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.AlaA	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.ADH Arg	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.URE	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.RAF	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.GDC	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.beta NAG	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.alpha GAL	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.alpha FUC	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.PyrA	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.IND	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.alpha GLU	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.GlyA	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.NIT	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.HisA	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.GGA	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.SerA	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.beta GP	include	categorical	[].Physiology and metabolism.API rID32A
+[].Physiology and metabolism.API rID32A.[].MNE	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].beta GP	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].beta GLU	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].beta GAL	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].alpha GLU	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].alpha ARA	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].RAF	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].PheA	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].PAL	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].beta NAG	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].beta GUR	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].ArgA	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].ADH Arg	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].PyrA	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].ProA	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].LeuA	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].alpha GAL	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].AlaA	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].URE	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].TyrA	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].LGA	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].GlyA	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].GDC	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].alpha FUC	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].IND	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].HisA	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].NIT	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].GGA	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32A.[].SerA	include	categorical	[].Physiology and metabolism.API rID32A.[]
+[].Physiology and metabolism.API rID32STR.TRE	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.TAG	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.SOR	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.SAC	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.RIB	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.PyrA	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.PAL	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.MEL	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.Mbeta DG	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.MAN	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.MAL	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.LARA	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.LAC	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.HIP	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.GTA	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.DARL	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.beta NAG	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.beta MAN	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.beta GUR	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.beta GLU	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.beta GAR	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.alpha GAL	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.ADH Arg	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.RAF	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.PUL	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.MLZ	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.GLYG	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.URE	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.beta GAL	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.APPA	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.CDEX	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.VP	include	categorical	[].Physiology and metabolism.API rID32STR
+[].Physiology and metabolism.API rID32STR.[].TRE	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].SOR	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].SAC	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].RAF	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].PAL	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].MAN	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].LARA	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].LAC	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].DARL	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].beta GUR	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].beta GLU	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].beta GAR	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].alpha GAL	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].ADH Arg	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].URE	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].TAG	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].RIB	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].PyrA	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].PUL	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].MLZ	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].MEL	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].Mbeta DG	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].MAL	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].GLYG	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].CDEX	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].beta MAN	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].VP	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].GTA	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].beta NAG	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].beta GAL	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].APPA	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API rID32STR.[].HIP	include	categorical	[].Physiology and metabolism.API rID32STR.[]
+[].Physiology and metabolism.API zym.Lipase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.Trypsin	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.N-acetyl-beta- glucosaminidase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.Esterase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.Cystine arylamidase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.Alkaline phosphatase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.Acid phosphatase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.Valine arylamidase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.Esterase Lipase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.beta- Glucuronidase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.beta- Glucosidase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.alpha- Mannosidase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.alpha- Glucosidase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.alpha- Chymotrypsin	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.Naphthol-AS-BI-phosphohydrolase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.Leucine arylamidase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.beta- Galactosidase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.alpha- Fucosidase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.alpha- Galactosidase	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.Control	include	categorical	[].Physiology and metabolism.API zym
+[].Physiology and metabolism.API zym.[].Trypsin	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].Lipase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].Cystine arylamidase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].alpha- Chymotrypsin	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].N-acetyl-beta- glucosaminidase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].Esterase Lipase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].Esterase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].beta- Galactosidase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].alpha- Mannosidase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].alpha- Galactosidase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].alpha- Fucosidase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].Alkaline phosphatase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].Valine arylamidase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].Naphthol-AS-BI-phosphohydrolase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].Leucine arylamidase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].beta- Glucuronidase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].beta- Glucosidase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].alpha- Glucosidase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].Acid phosphatase	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.API zym.[].Control	include	categorical	[].Physiology and metabolism.API zym.[]
+[].Physiology and metabolism.antibiogram.teicoplanin	exclude	numeric-dominated	[].Physiology and metabolism.antibiogram
+[].Physiology and metabolism.antibiogram.quinupristin/dalfopristin	exclude	numeric-dominated	[].Physiology and metabolism.antibiogram
+[].Physiology and metabolism.antibiogram.polymyxin b	exclude	numeric-dominated	[].Physiology and metabolism.antibiogram
+[].Physiology and metabolism.antibiogram.nystatin	exclude	numeric-dominated	[].Physiology and metabolism.antibiogram
+[].Physiology and metabolism.antibiogram.incubation temperature	exclude	numeric-dominated	[].Physiology and metabolism.antibiogram
+[].Physiology and metabolism.antibiogram.incubation time	exclude	numeric-dominated	[].Physiology and metabolism.antibiogram
+[].Physiology and metabolism.antibiogram.medium	include	categorical	[].Physiology and metabolism.antibiogram
+[].Physiology and metabolism.antibiogram.oxygen condition	include	categorical	[].Physiology and metabolism.antibiogram
+[].Physiology and metabolism.antibiogram.[].nystatin	exclude	numeric-dominated	[].Physiology and metabolism.antibiogram.[]
+[].Physiology and metabolism.antibiogram.[].incubation temperature	exclude	numeric-dominated	[].Physiology and metabolism.antibiogram.[]
+[].Physiology and metabolism.antibiogram.[].incubation time	exclude	numeric-dominated	[].Physiology and metabolism.antibiogram.[]
+[].Physiology and metabolism.antibiogram.[].medium	include	categorical	[].Physiology and metabolism.antibiogram.[]
+[].Physiology and metabolism.antibiogram.[].oxygen condition	include	categorical	[].Physiology and metabolism.antibiogram.[]
+[].Physiology and metabolism.antibiotic resistance.is antibiotic	include	categorical	[].Physiology and metabolism.antibiotic resistance
+[].Physiology and metabolism.antibiotic resistance.is resistant	include	categorical	[].Physiology and metabolism.antibiotic resistance
+[].Physiology and metabolism.antibiotic resistance.is sensitive	include	categorical	[].Physiology and metabolism.antibiotic resistance
+[].Physiology and metabolism.antibiotic resistance.is intermediate	include	categorical	[].Physiology and metabolism.antibiotic resistance
+[].Physiology and metabolism.antibiotic resistance.[].is sensitive	include	categorical	[].Physiology and metabolism.antibiotic resistance.[]
+[].Physiology and metabolism.antibiotic resistance.[].is resistant	include	categorical	[].Physiology and metabolism.antibiotic resistance.[]
+[].Physiology and metabolism.antibiotic resistance.[].is intermediate	include	categorical	[].Physiology and metabolism.antibiotic resistance.[]
+[].Physiology and metabolism.compound production.excreted	include	categorical	[].Physiology and metabolism.compound production
+[].Physiology and metabolism.compound production.[].excreted	include	categorical	[].Physiology and metabolism.compound production.[]
+[].Physiology and metabolism.enzymes.activity	include	categorical	[].Physiology and metabolism.enzymes
+[].Physiology and metabolism.enzymes.[].activity	include	categorical	[].Physiology and metabolism.enzymes.[]
+[].Physiology and metabolism.fatty acid profile.type of FA analysis	include	categorical	[].Physiology and metabolism.fatty acid profile
+[].Physiology and metabolism.fatty acid profile.system	include	categorical	[].Physiology and metabolism.fatty acid profile
+[].Physiology and metabolism.fatty acid profile.agar/liquid	include	categorical	[].Physiology and metabolism.fatty acid profile
+[].Physiology and metabolism.fatty acid profile.incubation_oxygen	include	categorical	[].Physiology and metabolism.fatty acid profile
+[].Physiology and metabolism.fatty acid profile.treatment	include	categorical	[].Physiology and metabolism.fatty acid profile
+[].Physiology and metabolism.fatty acid profile.[].type of FA analysis	include	categorical	[].Physiology and metabolism.fatty acid profile.[]
+[].Physiology and metabolism.fatty acid profile.[].system	include	categorical	[].Physiology and metabolism.fatty acid profile.[]
+[].Physiology and metabolism.fatty acid profile.[].agar/liquid	include	categorical	[].Physiology and metabolism.fatty acid profile.[]
+[].Physiology and metabolism.fatty acid profile.[].incubation_oxygen	include	categorical	[].Physiology and metabolism.fatty acid profile.[]
+[].Physiology and metabolism.fatty acid profile.[].treatment	include	categorical	[].Physiology and metabolism.fatty acid profile.[]
+[].Physiology and metabolism.fatty acid profile.[].fatty acids.percentage	exclude	numeric-dominated	[].Physiology and metabolism.fatty acid profile.[].fatty acids
+[].Physiology and metabolism.fatty acid profile.[].fatty acids.ECL	exclude	numeric-dominated	[].Physiology and metabolism.fatty acid profile.[].fatty acids
+[].Physiology and metabolism.fatty acid profile.[].fatty acids.@ref	exclude	numeric-dominated	[].Physiology and metabolism.fatty acid profile.[].fatty acids
+[].Physiology and metabolism.fatty acid profile.[].fatty acids.fatty acid	include	categorical	[].Physiology and metabolism.fatty acid profile.[].fatty acids
+[].Physiology and metabolism.halophily.tested relation	include	categorical	[].Physiology and metabolism.halophily
+[].Physiology and metabolism.halophily.salt	include	categorical	[].Physiology and metabolism.halophily
+[].Physiology and metabolism.halophily.growth	include	categorical	[].Physiology and metabolism.halophily
+[].Physiology and metabolism.halophily.halophily level	include	categorical	[].Physiology and metabolism.halophily
+[].Physiology and metabolism.halophily.[].tested relation	include	categorical	[].Physiology and metabolism.halophily.[]
+[].Physiology and metabolism.halophily.[].salt	include	categorical	[].Physiology and metabolism.halophily.[]
+[].Physiology and metabolism.halophily.[].growth	include	categorical	[].Physiology and metabolism.halophily.[]
+[].Physiology and metabolism.halophily.[].halophily level	include	categorical	[].Physiology and metabolism.halophily.[]
+[].Physiology and metabolism.metabolite production.production	include	categorical	[].Physiology and metabolism.metabolite production
+[].Physiology and metabolism.metabolite production.[].production	include	categorical	[].Physiology and metabolism.metabolite production.[]
+[].Physiology and metabolism.metabolite production.[].excretion	include	categorical	[].Physiology and metabolism.metabolite production.[]
+[].Physiology and metabolism.metabolite tests.Chebi-ID	exclude	numeric-dominated	[].Physiology and metabolism.metabolite tests
+[].Physiology and metabolism.metabolite tests.metabolite	include	categorical	[].Physiology and metabolism.metabolite tests
+[].Physiology and metabolism.metabolite tests.indole test	include	categorical	[].Physiology and metabolism.metabolite tests
+[].Physiology and metabolism.metabolite tests.voges-proskauer-test	include	categorical	[].Physiology and metabolism.metabolite tests
+[].Physiology and metabolism.metabolite tests.methylred-test	include	categorical	[].Physiology and metabolism.metabolite tests
+[].Physiology and metabolism.metabolite tests.citrate test	include	categorical	[].Physiology and metabolism.metabolite tests
+[].Physiology and metabolism.metabolite tests.[].Chebi-ID	exclude	numeric-dominated	[].Physiology and metabolism.metabolite tests.[]
+[].Physiology and metabolism.metabolite tests.[].metabolite	include	categorical	[].Physiology and metabolism.metabolite tests.[]
+[].Physiology and metabolism.metabolite tests.[].voges-proskauer-test	include	categorical	[].Physiology and metabolism.metabolite tests.[]
+[].Physiology and metabolism.metabolite tests.[].indole test	include	categorical	[].Physiology and metabolism.metabolite tests.[]
+[].Physiology and metabolism.metabolite tests.[].methylred-test	include	categorical	[].Physiology and metabolism.metabolite tests.[]
+[].Physiology and metabolism.metabolite tests.[].citrate test	include	categorical	[].Physiology and metabolism.metabolite tests.[]
+[].Physiology and metabolism.metabolite utilization.utilization activity	include	categorical	[].Physiology and metabolism.metabolite utilization
+[].Physiology and metabolism.metabolite utilization.[].utilization activity	include	categorical	[].Physiology and metabolism.metabolite utilization.[]
+[].Physiology and metabolism.oxygen tolerance.oxygen tolerance	include	categorical	[].Physiology and metabolism.oxygen tolerance
+[].Physiology and metabolism.oxygen tolerance.[].oxygen tolerance	include	categorical	[].Physiology and metabolism.oxygen tolerance.[]
+[].Physiology and metabolism.spore formation.spore formation	include	categorical	[].Physiology and metabolism.spore formation
+[].Physiology and metabolism.spore formation.type of spore	include	categorical	[].Physiology and metabolism.spore formation
+[].Physiology and metabolism.spore formation.[].spore formation	include	categorical	[].Physiology and metabolism.spore formation.[]
+[].Physiology and metabolism.spore formation.[].type of spore	include	categorical	[].Physiology and metabolism.spore formation.[]
+[].Physiology and metabolism.tolerance.concentration	include	categorical	[].Physiology and metabolism.tolerance
+[].Safety information.risk assessment.biosafety level	exclude	numeric-dominated	[].Safety information.risk assessment
+[].Safety information.risk assessment.biosafety level comment	include	categorical	[].Safety information.risk assessment
+[].Safety information.risk assessment.pathogenicity human	include	categorical	[].Safety information.risk assessment
+[].Safety information.risk assessment.pathogenicity animal	include	categorical	[].Safety information.risk assessment
+[].Safety information.risk assessment.pathogenicity plant	include	categorical	[].Safety information.risk assessment
+[].Safety information.risk assessment.[].biosafety level	include	categorical	[].Safety information.risk assessment.[]
+[].Safety information.risk assessment.[].biosafety level comment	include	categorical	[].Safety information.risk assessment.[]
+[].Safety information.risk assessment.[].pathogenicity human	include	categorical	[].Safety information.risk assessment.[]
+[].Safety information.risk assessment.[].pathogenicity animal	include	categorical	[].Safety information.risk assessment.[]
+[].Safety information.risk assessment.[].pathogenicity plant	include	categorical	[].Safety information.risk assessment.[]
+[].Sequence information.16S sequences.database	include	categorical	[].Sequence information.16S sequences
+[].Sequence information.16S sequences.[].database	include	categorical	[].Sequence information.16S sequences.[]
+[].Sequence information.GC content.method	include	categorical	[].Sequence information.GC content
+[].Sequence information.GC content.[].method	include	categorical	[].Sequence information.GC content.[]
+[].Sequence information.Genome sequences.database	include	categorical	[].Sequence information.Genome sequences
+[].Sequence information.Genome sequences.assembly level	include	categorical	[].Sequence information.Genome sequences
+[].Sequence information.Genome sequences.[].database	include	categorical	[].Sequence information.Genome sequences.[]
+[].Sequence information.Genome sequences.[].assembly level	include	categorical	[].Sequence information.Genome sequences.[]

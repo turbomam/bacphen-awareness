@@ -1,0 +1,980 @@
+path	enum
+[].Culture and growth conditions.culture medium.growth	Enum_0001
+[].Culture and growth conditions.culture medium.[].growth	Enum_0001
+[].Culture and growth conditions.culture pH.type	Enum_0002
+[].Culture and growth conditions.culture pH.ability	Enum_0002
+[].Culture and growth conditions.culture pH.PH range	Enum_0002
+[].Culture and growth conditions.culture pH.[].type	Enum_0003
+[].Culture and growth conditions.culture pH.[].ability	Enum_0003
+[].Culture and growth conditions.culture pH.[].PH range	Enum_0003
+[].Culture and growth conditions.culture temp.type	Enum_0004
+[].Culture and growth conditions.culture temp.growth	Enum_0004
+[].Culture and growth conditions.culture temp.[].type	Enum_0005
+[].Culture and growth conditions.culture temp.[].growth	Enum_0005
+[].External links.literature.topic	Enum_0006
+[].External links.literature.topic2	Enum_0006
+[].External links.literature.[].topic	Enum_0007
+[].External links.literature.[].topic2	Enum_0007
+[].General.NCBI tax id.Matching level	Enum_0008
+[].General.NCBI tax id.[].Matching level	Enum_0008
+[].Isolation, sampling and environmental information.isolation.continent	Enum_0009
+[].Isolation, sampling and environmental information.isolation source categories.Cat1	Enum_0010
+[].Isolation, sampling and environmental information.isolation source categories.[].Cat1	Enum_0010
+[].Isolation, sampling and environmental information.isolation.[].continent	Enum_0009
+[].Morphology.cell morphology.gram stain	Enum_0011
+[].Morphology.cell morphology.motility	Enum_0011
+[].Morphology.cell morphology.flagellum arrangement	Enum_0011
+[].Morphology.cell morphology.[].gram stain	Enum_0011
+[].Morphology.cell morphology.[].motility	Enum_0011
+[].Morphology.cell morphology.[].flagellum arrangement	Enum_0011
+[].Morphology.colony morphology.colony shape	Enum_0012
+[].Morphology.colony morphology.type of hemolysis	Enum_0012
+[].Morphology.colony morphology.[].type of hemolysis	Enum_0013
+[].Morphology.multicellular morphology.forms multicellular complex	Enum_0014
+[].Morphology.multicellular morphology.complex size	Enum_0014
+[].Morphology.multicellular morphology.[].forms multicellular complex	Enum_0015
+[].Morphology.multicellular morphology.[].complex size	Enum_0015
+[].Morphology.pigmentation.production	Enum_0001
+[].Morphology.pigmentation.[].production	Enum_0001
+[].Name and taxonomic classification.type strain	Enum_0016
+[].Name and taxonomic classification.domain	Enum_0016
+[].Name and taxonomic classification.LPSN.domain	Enum_0017
+[].Name and taxonomic classification.LPSN.description	Enum_0017
+[].Physiology and metabolism.API 20A.XYL	Enum_0018
+[].Physiology and metabolism.API 20A.URE	Enum_0018
+[].Physiology and metabolism.API 20A.TRE	Enum_0018
+[].Physiology and metabolism.API 20A.SOR	Enum_0018
+[].Physiology and metabolism.API 20A.SAL	Enum_0018
+[].Physiology and metabolism.API 20A.SAC	Enum_0018
+[].Physiology and metabolism.API 20A.RHA	Enum_0018
+[].Physiology and metabolism.API 20A.RAF	Enum_0018
+[].Physiology and metabolism.API 20A.MNE	Enum_0018
+[].Physiology and metabolism.API 20A.MLZ	Enum_0018
+[].Physiology and metabolism.API 20A.MAN	Enum_0018
+[].Physiology and metabolism.API 20A.MAL	Enum_0018
+[].Physiology and metabolism.API 20A.LAC	Enum_0018
+[].Physiology and metabolism.API 20A.GLY	Enum_0018
+[].Physiology and metabolism.API 20A.GLU	Enum_0018
+[].Physiology and metabolism.API 20A.GEL	Enum_0018
+[].Physiology and metabolism.API 20A.CEL	Enum_0018
+[].Physiology and metabolism.API 20A.ARA	Enum_0018
+[].Physiology and metabolism.API 20A.ESC	Enum_0018
+[].Physiology and metabolism.API 20A.IND	Enum_0018
+[].Physiology and metabolism.API 20A.CAT	Enum_0018
+[].Physiology and metabolism.API 20A.GRAM	Enum_0018
+[].Physiology and metabolism.API 20A.SPOR	Enum_0018
+[].Physiology and metabolism.API 20A.COCC	Enum_0018
+[].Physiology and metabolism.API 20A.[].XYL	Enum_0018
+[].Physiology and metabolism.API 20A.[].URE	Enum_0018
+[].Physiology and metabolism.API 20A.[].TRE	Enum_0018
+[].Physiology and metabolism.API 20A.[].SOR	Enum_0018
+[].Physiology and metabolism.API 20A.[].SAL	Enum_0018
+[].Physiology and metabolism.API 20A.[].SAC	Enum_0018
+[].Physiology and metabolism.API 20A.[].RHA	Enum_0018
+[].Physiology and metabolism.API 20A.[].RAF	Enum_0018
+[].Physiology and metabolism.API 20A.[].MNE	Enum_0018
+[].Physiology and metabolism.API 20A.[].MLZ	Enum_0018
+[].Physiology and metabolism.API 20A.[].MAN	Enum_0018
+[].Physiology and metabolism.API 20A.[].MAL	Enum_0018
+[].Physiology and metabolism.API 20A.[].LAC	Enum_0018
+[].Physiology and metabolism.API 20A.[].GLY	Enum_0018
+[].Physiology and metabolism.API 20A.[].GLU	Enum_0018
+[].Physiology and metabolism.API 20A.[].GEL	Enum_0018
+[].Physiology and metabolism.API 20A.[].CEL	Enum_0018
+[].Physiology and metabolism.API 20A.[].ARA	Enum_0018
+[].Physiology and metabolism.API 20A.[].ESC	Enum_0018
+[].Physiology and metabolism.API 20A.[].IND	Enum_0018
+[].Physiology and metabolism.API 20A.[].CAT	Enum_0018
+[].Physiology and metabolism.API 20A.[].COCC	Enum_0018
+[].Physiology and metabolism.API 20A.[].GRAM	Enum_0018
+[].Physiology and metabolism.API 20A.[].SPOR	Enum_0018
+[].Physiology and metabolism.API 20E.URE	Enum_0018
+[].Physiology and metabolism.API 20E.H2S	Enum_0018
+[].Physiology and metabolism.API 20E.ODC	Enum_0018
+[].Physiology and metabolism.API 20E.CIT	Enum_0018
+[].Physiology and metabolism.API 20E.TDA Trp	Enum_0018
+[].Physiology and metabolism.API 20E.ONPG	Enum_0018
+[].Physiology and metabolism.API 20E.LDC Lys	Enum_0018
+[].Physiology and metabolism.API 20E.IND	Enum_0018
+[].Physiology and metabolism.API 20E.ADH Arg	Enum_0018
+[].Physiology and metabolism.API 20E.GEL	Enum_0018
+[].Physiology and metabolism.API 20E.VP	Enum_0018
+[].Physiology and metabolism.API 20E.GLU	Enum_0018
+[].Physiology and metabolism.API 20E.SAC	Enum_0018
+[].Physiology and metabolism.API 20E.MEL	Enum_0018
+[].Physiology and metabolism.API 20E.Sor	Enum_0018
+[].Physiology and metabolism.API 20E.RHA	Enum_0018
+[].Physiology and metabolism.API 20E.INO	Enum_0018
+[].Physiology and metabolism.API 20E.MAN	Enum_0018
+[].Physiology and metabolism.API 20E.ARA	Enum_0018
+[].Physiology and metabolism.API 20E.AMY	Enum_0018
+[].Physiology and metabolism.API 20E.OX	Enum_0018
+[].Physiology and metabolism.API 20E.NO2	Enum_0018
+[].Physiology and metabolism.API 20E.N2	Enum_0018
+[].Physiology and metabolism.API 20E.MAC	Enum_0018
+[].Physiology and metabolism.API 20E.OF-O	Enum_0018
+[].Physiology and metabolism.API 20E.OF-F	Enum_0018
+[].Physiology and metabolism.API 20E.MOB	Enum_0018
+[].Physiology and metabolism.API 20E.[].ONPG	Enum_0018
+[].Physiology and metabolism.API 20E.[].URE	Enum_0018
+[].Physiology and metabolism.API 20E.[].ODC	Enum_0018
+[].Physiology and metabolism.API 20E.[].LDC Lys	Enum_0018
+[].Physiology and metabolism.API 20E.[].H2S	Enum_0018
+[].Physiology and metabolism.API 20E.[].GEL	Enum_0018
+[].Physiology and metabolism.API 20E.[].CIT	Enum_0018
+[].Physiology and metabolism.API 20E.[].ADH Arg	Enum_0018
+[].Physiology and metabolism.API 20E.[].VP	Enum_0018
+[].Physiology and metabolism.API 20E.[].TDA Trp	Enum_0018
+[].Physiology and metabolism.API 20E.[].IND	Enum_0018
+[].Physiology and metabolism.API 20E.[].GLU	Enum_0018
+[].Physiology and metabolism.API 20E.[].Sor	Enum_0018
+[].Physiology and metabolism.API 20E.[].RHA	Enum_0018
+[].Physiology and metabolism.API 20E.[].MAN	Enum_0018
+[].Physiology and metabolism.API 20E.[].INO	Enum_0018
+[].Physiology and metabolism.API 20E.[].ARA	Enum_0018
+[].Physiology and metabolism.API 20E.[].AMY	Enum_0018
+[].Physiology and metabolism.API 20E.[].SAC	Enum_0018
+[].Physiology and metabolism.API 20E.[].MEL	Enum_0018
+[].Physiology and metabolism.API 20E.[].OX	Enum_0018
+[].Physiology and metabolism.API 20E.[].NO2	Enum_0018
+[].Physiology and metabolism.API 20E.[].N2	Enum_0018
+[].Physiology and metabolism.API 20E.[].MAC	Enum_0018
+[].Physiology and metabolism.API 20E.[].OF-O	Enum_0018
+[].Physiology and metabolism.API 20E.[].OF-F	Enum_0018
+[].Physiology and metabolism.API 20NE.URE	Enum_0018
+[].Physiology and metabolism.API 20NE.PAC	Enum_0018
+[].Physiology and metabolism.API 20NE.NAG	Enum_0018
+[].Physiology and metabolism.API 20NE.MNE	Enum_0018
+[].Physiology and metabolism.API 20NE.MLT	Enum_0018
+[].Physiology and metabolism.API 20NE.MAN	Enum_0018
+[].Physiology and metabolism.API 20NE.MAL	Enum_0018
+[].Physiology and metabolism.API 20NE.GNT	Enum_0018
+[].Physiology and metabolism.API 20NE.GLU_ Ferm	Enum_0018
+[].Physiology and metabolism.API 20NE.GEL	Enum_0018
+[].Physiology and metabolism.API 20NE.ESC	Enum_0018
+[].Physiology and metabolism.API 20NE.CIT	Enum_0018
+[].Physiology and metabolism.API 20NE.CAP	Enum_0018
+[].Physiology and metabolism.API 20NE.ARA	Enum_0018
+[].Physiology and metabolism.API 20NE.ADI	Enum_0018
+[].Physiology and metabolism.API 20NE.ADH Arg	Enum_0018
+[].Physiology and metabolism.API 20NE.PNPG	Enum_0018
+[].Physiology and metabolism.API 20NE.TRP	Enum_0018
+[].Physiology and metabolism.API 20NE.GLU_ Assim	Enum_0018
+[].Physiology and metabolism.API 20NE.NO3	Enum_0018
+[].Physiology and metabolism.API 20NE.OX	Enum_0018
+[].Physiology and metabolism.API 20NE.[].PAC	Enum_0018
+[].Physiology and metabolism.API 20NE.[].MNE	Enum_0018
+[].Physiology and metabolism.API 20NE.[].MLT	Enum_0018
+[].Physiology and metabolism.API 20NE.[].GNT	Enum_0018
+[].Physiology and metabolism.API 20NE.[].GLU_ Ferm	Enum_0018
+[].Physiology and metabolism.API 20NE.[].GLU_ Assim	Enum_0018
+[].Physiology and metabolism.API 20NE.[].GEL	Enum_0018
+[].Physiology and metabolism.API 20NE.[].ESC	Enum_0018
+[].Physiology and metabolism.API 20NE.[].CIT	Enum_0018
+[].Physiology and metabolism.API 20NE.[].CAP	Enum_0018
+[].Physiology and metabolism.API 20NE.[].ARA	Enum_0018
+[].Physiology and metabolism.API 20NE.[].ADI	Enum_0018
+[].Physiology and metabolism.API 20NE.[].URE	Enum_0018
+[].Physiology and metabolism.API 20NE.[].TRP	Enum_0018
+[].Physiology and metabolism.API 20NE.[].PNPG	Enum_0018
+[].Physiology and metabolism.API 20NE.[].NAG	Enum_0018
+[].Physiology and metabolism.API 20NE.[].MAN	Enum_0018
+[].Physiology and metabolism.API 20NE.[].MAL	Enum_0018
+[].Physiology and metabolism.API 20NE.[].NO3	Enum_0018
+[].Physiology and metabolism.API 20NE.[].ADH Arg	Enum_0018
+[].Physiology and metabolism.API 20NE.[].OX	Enum_0018
+[].Physiology and metabolism.API 20STR.VP	Enum_0018
+[].Physiology and metabolism.API 20STR.TRE	Enum_0018
+[].Physiology and metabolism.API 20STR.SOR	Enum_0018
+[].Physiology and metabolism.API 20STR.RIB	Enum_0018
+[].Physiology and metabolism.API 20STR.RAF	Enum_0018
+[].Physiology and metabolism.API 20STR.PYRA	Enum_0018
+[].Physiology and metabolism.API 20STR.PAL	Enum_0018
+[].Physiology and metabolism.API 20STR.MAN	Enum_0018
+[].Physiology and metabolism.API 20STR.LAP	Enum_0018
+[].Physiology and metabolism.API 20STR.LAC	Enum_0018
+[].Physiology and metabolism.API 20STR.INU	Enum_0018
+[].Physiology and metabolism.API 20STR.HIP	Enum_0018
+[].Physiology and metabolism.API 20STR.GLYG	Enum_0018
+[].Physiology and metabolism.API 20STR.ESC	Enum_0018
+[].Physiology and metabolism.API 20STR.beta GUR	Enum_0018
+[].Physiology and metabolism.API 20STR.beta GAL	Enum_0018
+[].Physiology and metabolism.API 20STR.ARA	Enum_0018
+[].Physiology and metabolism.API 20STR.AMD	Enum_0018
+[].Physiology and metabolism.API 20STR.alpha GAL	Enum_0018
+[].Physiology and metabolism.API 20STR.ADH	Enum_0018
+[].Physiology and metabolism.API 20STR.beta HEM	Enum_0018
+[].Physiology and metabolism.API 20STR.[].VP	Enum_0018
+[].Physiology and metabolism.API 20STR.[].TRE	Enum_0018
+[].Physiology and metabolism.API 20STR.[].SOR	Enum_0018
+[].Physiology and metabolism.API 20STR.[].RIB	Enum_0018
+[].Physiology and metabolism.API 20STR.[].RAF	Enum_0018
+[].Physiology and metabolism.API 20STR.[].PYRA	Enum_0018
+[].Physiology and metabolism.API 20STR.[].PAL	Enum_0018
+[].Physiology and metabolism.API 20STR.[].MAN	Enum_0018
+[].Physiology and metabolism.API 20STR.[].LAP	Enum_0018
+[].Physiology and metabolism.API 20STR.[].LAC	Enum_0018
+[].Physiology and metabolism.API 20STR.[].INU	Enum_0018
+[].Physiology and metabolism.API 20STR.[].HIP	Enum_0018
+[].Physiology and metabolism.API 20STR.[].GLYG	Enum_0018
+[].Physiology and metabolism.API 20STR.[].ESC	Enum_0018
+[].Physiology and metabolism.API 20STR.[].beta GUR	Enum_0018
+[].Physiology and metabolism.API 20STR.[].beta GAL	Enum_0018
+[].Physiology and metabolism.API 20STR.[].ARA	Enum_0018
+[].Physiology and metabolism.API 20STR.[].AMD	Enum_0018
+[].Physiology and metabolism.API 20STR.[].alpha GAL	Enum_0018
+[].Physiology and metabolism.API 20STR.[].ADH	Enum_0018
+[].Physiology and metabolism.API 20STR.[].beta HEM	Enum_0018
+[].Physiology and metabolism.API 50CHac.XLT	Enum_0018
+[].Physiology and metabolism.API 50CHac.TUR	Enum_0018
+[].Physiology and metabolism.API 50CHac.TRE	Enum_0018
+[].Physiology and metabolism.API 50CHac.TAG	Enum_0018
+[].Physiology and metabolism.API 50CHac.SOR	Enum_0018
+[].Physiology and metabolism.API 50CHac.SBE	Enum_0018
+[].Physiology and metabolism.API 50CHac.SAL	Enum_0018
+[].Physiology and metabolism.API 50CHac.RHA	Enum_0018
+[].Physiology and metabolism.API 50CHac.RAF	Enum_0018
+[].Physiology and metabolism.API 50CHac.NAG	Enum_0018
+[].Physiology and metabolism.API 50CHac.MNE	Enum_0018
+[].Physiology and metabolism.API 50CHac.MLZ	Enum_0018
+[].Physiology and metabolism.API 50CHac.MEL	Enum_0018
+[].Physiology and metabolism.API 50CHac.MDX	Enum_0018
+[].Physiology and metabolism.API 50CHac.MDM	Enum_0018
+[].Physiology and metabolism.API 50CHac.MDG	Enum_0018
+[].Physiology and metabolism.API 50CHac.MAN	Enum_0018
+[].Physiology and metabolism.API 50CHac.MAL	Enum_0018
+[].Physiology and metabolism.API 50CHac.LYX	Enum_0018
+[].Physiology and metabolism.API 50CHac.LXYL	Enum_0018
+[].Physiology and metabolism.API 50CHac.LFUC	Enum_0018
+[].Physiology and metabolism.API 50CHac.LARL	Enum_0018
+[].Physiology and metabolism.API 50CHac.LARA	Enum_0018
+[].Physiology and metabolism.API 50CHac.LAC	Enum_0018
+[].Physiology and metabolism.API 50CHac.INU	Enum_0018
+[].Physiology and metabolism.API 50CHac.INO	Enum_0018
+[].Physiology and metabolism.API 50CHac.GNT	Enum_0018
+[].Physiology and metabolism.API 50CHac.GLYG	Enum_0018
+[].Physiology and metabolism.API 50CHac.GLY	Enum_0018
+[].Physiology and metabolism.API 50CHac.GLU	Enum_0018
+[].Physiology and metabolism.API 50CHac.GAL	Enum_0018
+[].Physiology and metabolism.API 50CHac.FRU	Enum_0018
+[].Physiology and metabolism.API 50CHac.ESC	Enum_0018
+[].Physiology and metabolism.API 50CHac.ERY	Enum_0018
+[].Physiology and metabolism.API 50CHac.DXYL	Enum_0018
+[].Physiology and metabolism.API 50CHac.DUL	Enum_0018
+[].Physiology and metabolism.API 50CHac.DFUC	Enum_0018
+[].Physiology and metabolism.API 50CHac.DARL	Enum_0018
+[].Physiology and metabolism.API 50CHac.DARA	Enum_0018
+[].Physiology and metabolism.API 50CHac.CEL	Enum_0018
+[].Physiology and metabolism.API 50CHac.ARB	Enum_0018
+[].Physiology and metabolism.API 50CHac.AMY	Enum_0018
+[].Physiology and metabolism.API 50CHac.AMD	Enum_0018
+[].Physiology and metabolism.API 50CHac.ADO	Enum_0018
+[].Physiology and metabolism.API 50CHac.2KG	Enum_0018
+[].Physiology and metabolism.API 50CHac.SAC	Enum_0018
+[].Physiology and metabolism.API 50CHac.RIB	Enum_0018
+[].Physiology and metabolism.API 50CHac.GEN	Enum_0018
+[].Physiology and metabolism.API 50CHac.5KG	Enum_0018
+[].Physiology and metabolism.API 50CHac.Q	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].XLT	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].TUR	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].TRE	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].TAG	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].SOR	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].SBE	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].SAL	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].SAC	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].RIB	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].RHA	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].RAF	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].NAG	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].MNE	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].MLZ	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].MEL	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].MDX	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].MDM	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].MDG	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].MAN	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].MAL	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].LYX	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].LXYL	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].LFUC	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].LARL	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].LARA	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].LAC	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].INU	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].INO	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].GLYG	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].GLY	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].GLU	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].GEN	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].GAL	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].ESC	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].ERY	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].DXYL	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].DUL	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].DFUC	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].DARL	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].DARA	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].CEL	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].AMD	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].ADO	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].GNT	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].FRU	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].ARB	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].AMY	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].5KG	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].2KG	Enum_0018
+[].Physiology and metabolism.API 50CHac.[].Q	Enum_0018
+[].Physiology and metabolism.API 50CHas.XLT	Enum_0019
+[].Physiology and metabolism.API 50CHas.TUR	Enum_0019
+[].Physiology and metabolism.API 50CHas.TRE	Enum_0019
+[].Physiology and metabolism.API 50CHas.TAG	Enum_0019
+[].Physiology and metabolism.API 50CHas.SOR	Enum_0019
+[].Physiology and metabolism.API 50CHas.SBE	Enum_0019
+[].Physiology and metabolism.API 50CHas.SAL	Enum_0019
+[].Physiology and metabolism.API 50CHas.SAC	Enum_0019
+[].Physiology and metabolism.API 50CHas.RIB	Enum_0019
+[].Physiology and metabolism.API 50CHas.RHA	Enum_0019
+[].Physiology and metabolism.API 50CHas.RAF	Enum_0019
+[].Physiology and metabolism.API 50CHas.Q	Enum_0019
+[].Physiology and metabolism.API 50CHas.NAG	Enum_0019
+[].Physiology and metabolism.API 50CHas.MNE	Enum_0019
+[].Physiology and metabolism.API 50CHas.MLZ	Enum_0019
+[].Physiology and metabolism.API 50CHas.MEL	Enum_0019
+[].Physiology and metabolism.API 50CHas.MDX	Enum_0019
+[].Physiology and metabolism.API 50CHas.MDM	Enum_0019
+[].Physiology and metabolism.API 50CHas.MDG	Enum_0019
+[].Physiology and metabolism.API 50CHas.MAN	Enum_0019
+[].Physiology and metabolism.API 50CHas.MAL	Enum_0019
+[].Physiology and metabolism.API 50CHas.LYX	Enum_0019
+[].Physiology and metabolism.API 50CHas.LXYL	Enum_0019
+[].Physiology and metabolism.API 50CHas.LFUC	Enum_0019
+[].Physiology and metabolism.API 50CHas.LARL	Enum_0019
+[].Physiology and metabolism.API 50CHas.LARA	Enum_0019
+[].Physiology and metabolism.API 50CHas.LAC	Enum_0019
+[].Physiology and metabolism.API 50CHas.INU	Enum_0019
+[].Physiology and metabolism.API 50CHas.INO	Enum_0019
+[].Physiology and metabolism.API 50CHas.GLYG	Enum_0019
+[].Physiology and metabolism.API 50CHas.GLY	Enum_0019
+[].Physiology and metabolism.API 50CHas.GLU	Enum_0019
+[].Physiology and metabolism.API 50CHas.GEN	Enum_0019
+[].Physiology and metabolism.API 50CHas.GAL	Enum_0019
+[].Physiology and metabolism.API 50CHas.FRU	Enum_0019
+[].Physiology and metabolism.API 50CHas.ESC	Enum_0019
+[].Physiology and metabolism.API 50CHas.ERY	Enum_0019
+[].Physiology and metabolism.API 50CHas.DXYL	Enum_0019
+[].Physiology and metabolism.API 50CHas.DUL	Enum_0019
+[].Physiology and metabolism.API 50CHas.DFUC	Enum_0019
+[].Physiology and metabolism.API 50CHas.DARL	Enum_0019
+[].Physiology and metabolism.API 50CHas.DARA	Enum_0019
+[].Physiology and metabolism.API 50CHas.CEL	Enum_0019
+[].Physiology and metabolism.API 50CHas.ARB	Enum_0019
+[].Physiology and metabolism.API 50CHas.AMY	Enum_0019
+[].Physiology and metabolism.API 50CHas.AMD	Enum_0019
+[].Physiology and metabolism.API 50CHas.ADO	Enum_0019
+[].Physiology and metabolism.API 50CHas.GNT	Enum_0019
+[].Physiology and metabolism.API 50CHas.5KG	Enum_0019
+[].Physiology and metabolism.API 50CHas.2KG	Enum_0019
+[].Physiology and metabolism.API CAM.TTC	Enum_0018
+[].Physiology and metabolism.API CAM.PYRA	Enum_0018
+[].Physiology and metabolism.API CAM.PAL	Enum_0018
+[].Physiology and metabolism.API CAM.GGT	Enum_0018
+[].Physiology and metabolism.API CAM.URE	Enum_0018
+[].Physiology and metabolism.API CAM.NIT	Enum_0018
+[].Physiology and metabolism.API CAM.HIP	Enum_0018
+[].Physiology and metabolism.API CAM.EST	Enum_0018
+[].Physiology and metabolism.API CAM.AspA	Enum_0018
+[].Physiology and metabolism.API CAM.ArgA	Enum_0018
+[].Physiology and metabolism.API CAM.SUT	Enum_0018
+[].Physiology and metabolism.API CAM.MLT	Enum_0018
+[].Physiology and metabolism.API CAM.H2S	Enum_0018
+[].Physiology and metabolism.API CAM.GLU	Enum_0018
+[].Physiology and metabolism.API CAM.CFZ	Enum_0018
+[].Physiology and metabolism.API CAM.PROP	Enum_0018
+[].Physiology and metabolism.API CAM.NAL	Enum_0018
+[].Physiology and metabolism.API CAM.ERO	Enum_0018
+[].Physiology and metabolism.API CAM.CIT	Enum_0018
+[].Physiology and metabolism.API CAM.ACE	Enum_0018
+[].Physiology and metabolism.API CAM.CAT	Enum_0018
+[].Physiology and metabolism.API CAM.[].URE	Enum_0018
+[].Physiology and metabolism.API CAM.[].PYRA	Enum_0018
+[].Physiology and metabolism.API CAM.[].PAL	Enum_0018
+[].Physiology and metabolism.API CAM.[].NIT	Enum_0018
+[].Physiology and metabolism.API CAM.[].GGT	Enum_0018
+[].Physiology and metabolism.API CAM.[].AspA	Enum_0018
+[].Physiology and metabolism.API CAM.[].ArgA	Enum_0018
+[].Physiology and metabolism.API CAM.[].TTC	Enum_0018
+[].Physiology and metabolism.API CAM.[].HIP	Enum_0018
+[].Physiology and metabolism.API CAM.[].EST	Enum_0018
+[].Physiology and metabolism.API CAM.[].H2S	Enum_0018
+[].Physiology and metabolism.API CAM.[].SUT	Enum_0018
+[].Physiology and metabolism.API CAM.[].PROP	Enum_0018
+[].Physiology and metabolism.API CAM.[].NAL	Enum_0018
+[].Physiology and metabolism.API CAM.[].MLT	Enum_0018
+[].Physiology and metabolism.API CAM.[].GLU	Enum_0018
+[].Physiology and metabolism.API CAM.[].ERO	Enum_0018
+[].Physiology and metabolism.API CAM.[].CIT	Enum_0018
+[].Physiology and metabolism.API CAM.[].CFZ	Enum_0018
+[].Physiology and metabolism.API CAM.[].ACE	Enum_0018
+[].Physiology and metabolism.API CAM.[].CAT	Enum_0018
+[].Physiology and metabolism.API ID32E.URE	Enum_0019
+[].Physiology and metabolism.API ID32E.TRE	Enum_0019
+[].Physiology and metabolism.API ID32E.SOR	Enum_0019
+[].Physiology and metabolism.API ID32E.SAC	Enum_0019
+[].Physiology and metabolism.API ID32E.RP	Enum_0019
+[].Physiology and metabolism.API ID32E.RHA	Enum_0019
+[].Physiology and metabolism.API ID32E.PLE	Enum_0019
+[].Physiology and metabolism.API ID32E.ODC	Enum_0019
+[].Physiology and metabolism.API ID32E.LDC Lys	Enum_0019
+[].Physiology and metabolism.API ID32E.LARL	Enum_0019
+[].Physiology and metabolism.API ID32E.LARA	Enum_0019
+[].Physiology and metabolism.API ID32E.INO	Enum_0019
+[].Physiology and metabolism.API ID32E.GLU	Enum_0019
+[].Physiology and metabolism.API ID32E.GAT	Enum_0019
+[].Physiology and metabolism.API ID32E.DARL	Enum_0019
+[].Physiology and metabolism.API ID32E.CEL	Enum_0019
+[].Physiology and metabolism.API ID32E.beta GUR	Enum_0019
+[].Physiology and metabolism.API ID32E.beta GLU	Enum_0019
+[].Physiology and metabolism.API ID32E.beta GAL	Enum_0019
+[].Physiology and metabolism.API ID32E.alphaMAL	Enum_0019
+[].Physiology and metabolism.API ID32E.alpha GAL	Enum_0019
+[].Physiology and metabolism.API ID32E.ADO	Enum_0019
+[].Physiology and metabolism.API ID32E.ADH Arg	Enum_0019
+[].Physiology and metabolism.API ID32E.5KG	Enum_0019
+[].Physiology and metabolism.API ID32E.MNT	Enum_0019
+[].Physiology and metabolism.API ID32E.MAL	Enum_0019
+[].Physiology and metabolism.API ID32E.alpha GLU	Enum_0019
+[].Physiology and metabolism.API ID32E.MAN	Enum_0019
+[].Physiology and metabolism.API ID32E.LIP	Enum_0019
+[].Physiology and metabolism.API ID32E.IND	Enum_0019
+[].Physiology and metabolism.API ID32E.beta NAG	Enum_0019
+[].Physiology and metabolism.API ID32E.AspA	Enum_0019
+[].Physiology and metabolism.API ID32E.[].URE	Enum_0019
+[].Physiology and metabolism.API ID32E.[].TRE	Enum_0019
+[].Physiology and metabolism.API ID32E.[].SOR	Enum_0019
+[].Physiology and metabolism.API ID32E.[].SAC	Enum_0019
+[].Physiology and metabolism.API ID32E.[].RP	Enum_0019
+[].Physiology and metabolism.API ID32E.[].RHA	Enum_0019
+[].Physiology and metabolism.API ID32E.[].PLE	Enum_0019
+[].Physiology and metabolism.API ID32E.[].ODC	Enum_0019
+[].Physiology and metabolism.API ID32E.[].MNT	Enum_0019
+[].Physiology and metabolism.API ID32E.[].MAN	Enum_0019
+[].Physiology and metabolism.API ID32E.[].MAL	Enum_0019
+[].Physiology and metabolism.API ID32E.[].LIP	Enum_0019
+[].Physiology and metabolism.API ID32E.[].LDC Lys	Enum_0019
+[].Physiology and metabolism.API ID32E.[].LARL	Enum_0019
+[].Physiology and metabolism.API ID32E.[].LARA	Enum_0019
+[].Physiology and metabolism.API ID32E.[].INO	Enum_0019
+[].Physiology and metabolism.API ID32E.[].IND	Enum_0019
+[].Physiology and metabolism.API ID32E.[].GLU	Enum_0019
+[].Physiology and metabolism.API ID32E.[].GAT	Enum_0019
+[].Physiology and metabolism.API ID32E.[].DARL	Enum_0019
+[].Physiology and metabolism.API ID32E.[].CEL	Enum_0019
+[].Physiology and metabolism.API ID32E.[].beta NAG	Enum_0019
+[].Physiology and metabolism.API ID32E.[].beta GUR	Enum_0019
+[].Physiology and metabolism.API ID32E.[].beta GLU	Enum_0019
+[].Physiology and metabolism.API ID32E.[].beta GAL	Enum_0019
+[].Physiology and metabolism.API ID32E.[].alphaMAL	Enum_0019
+[].Physiology and metabolism.API ID32E.[].alpha GLU	Enum_0019
+[].Physiology and metabolism.API ID32E.[].alpha GAL	Enum_0019
+[].Physiology and metabolism.API ID32E.[].ADO	Enum_0019
+[].Physiology and metabolism.API ID32E.[].ADH Arg	Enum_0019
+[].Physiology and metabolism.API ID32E.[].5KG	Enum_0019
+[].Physiology and metabolism.API ID32E.[].AspA	Enum_0019
+[].Physiology and metabolism.API ID32STA.URE	Enum_0018
+[].Physiology and metabolism.API ID32STA.TUR	Enum_0018
+[].Physiology and metabolism.API ID32STA.TRE	Enum_0018
+[].Physiology and metabolism.API ID32STA.SAC	Enum_0018
+[].Physiology and metabolism.API ID32STA.RIB	Enum_0018
+[].Physiology and metabolism.API ID32STA.RAF	Enum_0018
+[].Physiology and metabolism.API ID32STA.NOVO	Enum_0018
+[].Physiology and metabolism.API ID32STA.NIT	Enum_0018
+[].Physiology and metabolism.API ID32STA.NAG	Enum_0018
+[].Physiology and metabolism.API ID32STA.MNE	Enum_0018
+[].Physiology and metabolism.API ID32STA.MAN	Enum_0018
+[].Physiology and metabolism.API ID32STA.MAL	Enum_0018
+[].Physiology and metabolism.API ID32STA.LAC	Enum_0018
+[].Physiology and metabolism.API ID32STA.GLU	Enum_0018
+[].Physiology and metabolism.API ID32STA.FRU	Enum_0018
+[].Physiology and metabolism.API ID32STA.ESC	Enum_0018
+[].Physiology and metabolism.API ID32STA.CEL	Enum_0018
+[].Physiology and metabolism.API ID32STA.beta GUR	Enum_0018
+[].Physiology and metabolism.API ID32STA.ArgA	Enum_0018
+[].Physiology and metabolism.API ID32STA.ARA	Enum_0018
+[].Physiology and metabolism.API ID32STA.ADH Arg	Enum_0018
+[].Physiology and metabolism.API ID32STA.PAL	Enum_0018
+[].Physiology and metabolism.API ID32STA.ODC	Enum_0018
+[].Physiology and metabolism.API ID32STA.beta GAL	Enum_0018
+[].Physiology and metabolism.API ID32STA.PyrA	Enum_0018
+[].Physiology and metabolism.API ID32STA.VP	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].URE	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].TUR	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].TRE	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].SAC	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].RAF	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].PyrA	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].PAL	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].NOVO	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].NAG	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].MNE	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].MAN	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].MAL	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].GLU	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].FRU	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].ESC	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].beta GAL	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].ArgA	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].ARA	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].ADH Arg	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].RIB	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].ODC	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].LAC	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].beta GUR	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].VP	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].CEL	Enum_0018
+[].Physiology and metabolism.API ID32STA.[].NIT	Enum_0018
+[].Physiology and metabolism.API LIST.XYL	Enum_0018
+[].Physiology and metabolism.API LIST.RIB	Enum_0018
+[].Physiology and metabolism.API LIST.RHA	Enum_0018
+[].Physiology and metabolism.API LIST.MDG	Enum_0018
+[].Physiology and metabolism.API LIST.G1P	Enum_0018
+[].Physiology and metabolism.API LIST.ESC	Enum_0018
+[].Physiology and metabolism.API LIST.DARL	Enum_0018
+[].Physiology and metabolism.API LIST.alpha MAN	Enum_0018
+[].Physiology and metabolism.API LIST.TAG	Enum_0018
+[].Physiology and metabolism.API LIST.DIM	Enum_0018
+[].Physiology and metabolism.API LIST.beta HEM	Enum_0018
+[].Physiology and metabolism.API LIST.[].XYL	Enum_0018
+[].Physiology and metabolism.API LIST.[].TAG	Enum_0018
+[].Physiology and metabolism.API LIST.[].RIB	Enum_0018
+[].Physiology and metabolism.API LIST.[].RHA	Enum_0018
+[].Physiology and metabolism.API LIST.[].MDG	Enum_0018
+[].Physiology and metabolism.API LIST.[].G1P	Enum_0018
+[].Physiology and metabolism.API LIST.[].ESC	Enum_0018
+[].Physiology and metabolism.API LIST.[].DARL	Enum_0018
+[].Physiology and metabolism.API LIST.[].alpha MAN	Enum_0018
+[].Physiology and metabolism.API LIST.[].DIM	Enum_0018
+[].Physiology and metabolism.API LIST.[].beta HEM	Enum_0018
+[].Physiology and metabolism.API NH.URE	Enum_0018
+[].Physiology and metabolism.API NH.SAC	Enum_0018
+[].Physiology and metabolism.API NH.PAL	Enum_0018
+[].Physiology and metabolism.API NH.ODC	Enum_0018
+[].Physiology and metabolism.API NH.MAL	Enum_0018
+[].Physiology and metabolism.API NH.LIP	Enum_0018
+[].Physiology and metabolism.API NH.GLU	Enum_0018
+[].Physiology and metabolism.API NH.FRU	Enum_0018
+[].Physiology and metabolism.API NH.beta GAL	Enum_0018
+[].Physiology and metabolism.API NH.ProA	Enum_0018
+[].Physiology and metabolism.API NH.GGT	Enum_0018
+[].Physiology and metabolism.API NH.IND	Enum_0018
+[].Physiology and metabolism.API NH.PEN	Enum_0018
+[].Physiology and metabolism.API NH.[].URE	Enum_0018
+[].Physiology and metabolism.API NH.[].SAC	Enum_0018
+[].Physiology and metabolism.API NH.[].PAL	Enum_0018
+[].Physiology and metabolism.API NH.[].ODC	Enum_0018
+[].Physiology and metabolism.API NH.[].MAL	Enum_0018
+[].Physiology and metabolism.API NH.[].LIP	Enum_0018
+[].Physiology and metabolism.API NH.[].GLU	Enum_0018
+[].Physiology and metabolism.API NH.[].FRU	Enum_0018
+[].Physiology and metabolism.API NH.[].beta GAL	Enum_0018
+[].Physiology and metabolism.API NH.[].ProA	Enum_0018
+[].Physiology and metabolism.API NH.[].PEN	Enum_0018
+[].Physiology and metabolism.API NH.[].GGT	Enum_0018
+[].Physiology and metabolism.API NH.[].IND	Enum_0018
+[].Physiology and metabolism.API STA.XYL	Enum_0018
+[].Physiology and metabolism.API STA.XLT	Enum_0018
+[].Physiology and metabolism.API STA.VP	Enum_0018
+[].Physiology and metabolism.API STA.URE	Enum_0018
+[].Physiology and metabolism.API STA.TRE	Enum_0018
+[].Physiology and metabolism.API STA.SAC	Enum_0018
+[].Physiology and metabolism.API STA.RAF	Enum_0018
+[].Physiology and metabolism.API STA.PAL	Enum_0018
+[].Physiology and metabolism.API STA.NIT	Enum_0018
+[].Physiology and metabolism.API STA.NAG	Enum_0018
+[].Physiology and metabolism.API STA.MNE	Enum_0018
+[].Physiology and metabolism.API STA.MEL	Enum_0018
+[].Physiology and metabolism.API STA.MDG	Enum_0018
+[].Physiology and metabolism.API STA.MAN	Enum_0018
+[].Physiology and metabolism.API STA.MAL	Enum_0018
+[].Physiology and metabolism.API STA.LAC	Enum_0018
+[].Physiology and metabolism.API STA.GLU	Enum_0018
+[].Physiology and metabolism.API STA.FRU	Enum_0018
+[].Physiology and metabolism.API STA.ADH	Enum_0018
+[].Physiology and metabolism.API STA.LSTR	Enum_0018
+[].Physiology and metabolism.API STA.Control	Enum_0018
+[].Physiology and metabolism.API biotype100.TTE	Enum_0019
+[].Physiology and metabolism.API biotype100.TRY	Enum_0019
+[].Physiology and metabolism.API biotype100.TRE	Enum_0019
+[].Physiology and metabolism.API biotype100.TATE	Enum_0019
+[].Physiology and metabolism.API biotype100.SOR	Enum_0019
+[].Physiology and metabolism.API biotype100.SAT	Enum_0019
+[].Physiology and metabolism.API biotype100.SAC	Enum_0019
+[].Physiology and metabolism.API biotype100.RIB	Enum_0019
+[].Physiology and metabolism.API biotype100.RHA	Enum_0019
+[].Physiology and metabolism.API biotype100.pOBE	Enum_0019
+[].Physiology and metabolism.API biotype100.PLE	Enum_0019
+[].Physiology and metabolism.API biotype100.PAT	Enum_0019
+[].Physiology and metabolism.API biotype100.PAC	Enum_0019
+[].Physiology and metabolism.API biotype100.NAG	Enum_0019
+[].Physiology and metabolism.API biotype100.MUC	Enum_0019
+[].Physiology and metabolism.API biotype100.MTL	Enum_0019
+[].Physiology and metabolism.API biotype100.MTE	Enum_0019
+[].Physiology and metabolism.API biotype100.MTAT	Enum_0019
+[].Physiology and metabolism.API biotype100.MLZ	Enum_0019
+[].Physiology and metabolism.API biotype100.MEL	Enum_0019
+[].Physiology and metabolism.API biotype100.MDG	Enum_0019
+[].Physiology and metabolism.API biotype100.MbGu	Enum_0019
+[].Physiology and metabolism.API biotype100.MbGa	Enum_0019
+[].Physiology and metabolism.API biotype100.MAN	Enum_0019
+[].Physiology and metabolism.API biotype100.MaGa	Enum_0019
+[].Physiology and metabolism.API biotype100.LTE	Enum_0019
+[].Physiology and metabolism.API biotype100.LTAT	Enum_0019
+[].Physiology and metabolism.API biotype100.LMLT	Enum_0019
+[].Physiology and metabolism.API biotype100.INO	Enum_0019
+[].Physiology and metabolism.API biotype100.HBG	Enum_0019
+[].Physiology and metabolism.API biotype100.GRT	Enum_0019
+[].Physiology and metabolism.API biotype100.GNT	Enum_0019
+[].Physiology and metabolism.API biotype100.GEN	Enum_0019
+[].Physiology and metabolism.API biotype100.GAT	Enum_0019
+[].Physiology and metabolism.API biotype100.GAL	Enum_0019
+[].Physiology and metabolism.API biotype100.ESC	Enum_0019
+[].Physiology and metabolism.API biotype100.ERY	Enum_0019
+[].Physiology and metabolism.API biotype100.DTAT	Enum_0019
+[].Physiology and metabolism.API biotype100.DMLT	Enum_0019
+[].Physiology and metabolism.API biotype100.CIT	Enum_0019
+[].Physiology and metabolism.API biotype100.CEL	Enum_0019
+[].Physiology and metabolism.API biotype100.CATE	Enum_0019
+[].Physiology and metabolism.API biotype100.5KG	Enum_0019
+[].Physiology and metabolism.API biotype100.3MDG	Enum_0019
+[].Physiology and metabolism.API biotype100.2KG	Enum_0019
+[].Physiology and metabolism.API biotype100.XYL	Enum_0019
+[].Physiology and metabolism.API biotype100.XLT	Enum_0019
+[].Physiology and metabolism.API biotype100.TUR	Enum_0019
+[].Physiology and metabolism.API biotype100.TAG	Enum_0019
+[].Physiology and metabolism.API biotype100.SBE	Enum_0019
+[].Physiology and metabolism.API biotype100.RAF	Enum_0019
+[].Physiology and metabolism.API biotype100.MNE	Enum_0019
+[].Physiology and metabolism.API biotype100.MAL	Enum_0019
+[].Physiology and metabolism.API biotype100.LYX	Enum_0019
+[].Physiology and metabolism.API biotype100.LARL	Enum_0019
+[].Physiology and metabolism.API biotype100.LAC	Enum_0019
+[].Physiology and metabolism.API biotype100.GLY	Enum_0019
+[].Physiology and metabolism.API biotype100.GLU	Enum_0019
+[].Physiology and metabolism.API biotype100.FUC	Enum_0019
+[].Physiology and metabolism.API biotype100.FRU	Enum_0019
+[].Physiology and metabolism.API biotype100.DUL	Enum_0019
+[].Physiology and metabolism.API biotype100.DARL	Enum_0019
+[].Physiology and metabolism.API biotype100.ARA	Enum_0019
+[].Physiology and metabolism.API biotype100.ADO	Enum_0019
+[].Physiology and metabolism.API biotype100.TGE	Enum_0019
+[].Physiology and metabolism.API biotype100.SUC	Enum_0019
+[].Physiology and metabolism.API biotype100.QAT	Enum_0019
+[].Physiology and metabolism.API biotype100.PPAT	Enum_0019
+[].Physiology and metabolism.API biotype100.PCE	Enum_0019
+[].Physiology and metabolism.API biotype100.mOBE	Enum_0019
+[].Physiology and metabolism.API biotype100.LAT	Enum_0019
+[].Physiology and metabolism.API biotype100.HIS	Enum_0019
+[].Physiology and metabolism.API biotype100.HIN	Enum_0019
+[].Physiology and metabolism.API biotype100.GTE	Enum_0019
+[].Physiology and metabolism.API biotype100.CYT	Enum_0019
+[].Physiology and metabolism.API biotype100.CMT	Enum_0019
+[].Physiology and metabolism.API biotype100.CAP	Enum_0019
+[].Physiology and metabolism.API biotype100.BET	Enum_0019
+[].Physiology and metabolism.API biotype100.BAT	Enum_0019
+[].Physiology and metabolism.API biotype100.ABT	Enum_0019
+[].Physiology and metabolism.API biotype100.TTN	Enum_0019
+[].Physiology and metabolism.API biotype100.SER	Enum_0019
+[].Physiology and metabolism.API biotype100.PRO	Enum_0019
+[].Physiology and metabolism.API biotype100.MNT	Enum_0019
+[].Physiology and metabolism.API biotype100.LALA	Enum_0019
+[].Physiology and metabolism.API biotype100.ITA	Enum_0019
+[].Physiology and metabolism.API biotype100.GYT	Enum_0019
+[].Physiology and metabolism.API biotype100.GTT	Enum_0019
+[].Physiology and metabolism.API biotype100.GRE	Enum_0019
+[].Physiology and metabolism.API biotype100.GLN	Enum_0019
+[].Physiology and metabolism.API biotype100.FUM	Enum_0019
+[].Physiology and metabolism.API biotype100.ETN	Enum_0019
+[].Physiology and metabolism.API biotype100.DALA	Enum_0019
+[].Physiology and metabolism.API biotype100.AVT	Enum_0019
+[].Physiology and metabolism.API biotype100.APT	Enum_0019
+[].Physiology and metabolism.API biotype100.3OBU	Enum_0019
+[].Physiology and metabolism.API biotype100.TYR	Enum_0019
+[].Physiology and metabolism.API biotype100.PROP	Enum_0019
+[].Physiology and metabolism.API biotype100.2KT	Enum_0019
+[].Physiology and metabolism.API coryne.URE	Enum_0018
+[].Physiology and metabolism.API coryne.GEL	Enum_0018
+[].Physiology and metabolism.API coryne.ESC	Enum_0018
+[].Physiology and metabolism.API coryne.PYRA	Enum_0018
+[].Physiology and metabolism.API coryne.PAL	Enum_0018
+[].Physiology and metabolism.API coryne.beta NAG	Enum_0018
+[].Physiology and metabolism.API coryne.beta GAL	Enum_0018
+[].Physiology and metabolism.API coryne.alpha GLU	Enum_0018
+[].Physiology and metabolism.API coryne.beta GUR	Enum_0018
+[].Physiology and metabolism.API coryne.SAC	Enum_0018
+[].Physiology and metabolism.API coryne.PYZ	Enum_0018
+[].Physiology and metabolism.API coryne.XYL	Enum_0018
+[].Physiology and metabolism.API coryne.RIB	Enum_0018
+[].Physiology and metabolism.API coryne.MAN	Enum_0018
+[].Physiology and metabolism.API coryne.LAC	Enum_0018
+[].Physiology and metabolism.API coryne.NIT	Enum_0018
+[].Physiology and metabolism.API coryne.GLYG	Enum_0018
+[].Physiology and metabolism.API coryne.MAL	Enum_0018
+[].Physiology and metabolism.API coryne.GLU	Enum_0018
+[].Physiology and metabolism.API coryne.Control	Enum_0018
+[].Physiology and metabolism.API coryne.CAT	Enum_0018
+[].Physiology and metabolism.API coryne.[].GEL	Enum_0018
+[].Physiology and metabolism.API coryne.[].ESC	Enum_0018
+[].Physiology and metabolism.API coryne.[].URE	Enum_0018
+[].Physiology and metabolism.API coryne.[].PYRA	Enum_0018
+[].Physiology and metabolism.API coryne.[].PAL	Enum_0018
+[].Physiology and metabolism.API coryne.[].beta NAG	Enum_0018
+[].Physiology and metabolism.API coryne.[].alpha GLU	Enum_0018
+[].Physiology and metabolism.API coryne.[].SAC	Enum_0018
+[].Physiology and metabolism.API coryne.[].beta GUR	Enum_0018
+[].Physiology and metabolism.API coryne.[].beta GAL	Enum_0018
+[].Physiology and metabolism.API coryne.[].XYL	Enum_0018
+[].Physiology and metabolism.API coryne.[].RIB	Enum_0018
+[].Physiology and metabolism.API coryne.[].PYZ	Enum_0018
+[].Physiology and metabolism.API coryne.[].NIT	Enum_0018
+[].Physiology and metabolism.API coryne.[].MAN	Enum_0018
+[].Physiology and metabolism.API coryne.[].LAC	Enum_0018
+[].Physiology and metabolism.API coryne.[].GLYG	Enum_0018
+[].Physiology and metabolism.API coryne.[].MAL	Enum_0018
+[].Physiology and metabolism.API coryne.[].GLU	Enum_0018
+[].Physiology and metabolism.API coryne.[].Control	Enum_0018
+[].Physiology and metabolism.API coryne.[].CAT	Enum_0018
+[].Physiology and metabolism.API rID32A.TyrA	Enum_0018
+[].Physiology and metabolism.API rID32A.ProA	Enum_0018
+[].Physiology and metabolism.API rID32A.PheA	Enum_0018
+[].Physiology and metabolism.API rID32A.PAL	Enum_0018
+[].Physiology and metabolism.API rID32A.MNE	Enum_0018
+[].Physiology and metabolism.API rID32A.LGA	Enum_0018
+[].Physiology and metabolism.API rID32A.LeuA	Enum_0018
+[].Physiology and metabolism.API rID32A.beta GUR	Enum_0018
+[].Physiology and metabolism.API rID32A.beta GLU	Enum_0018
+[].Physiology and metabolism.API rID32A.beta GAL	Enum_0018
+[].Physiology and metabolism.API rID32A.ArgA	Enum_0018
+[].Physiology and metabolism.API rID32A.alpha ARA	Enum_0018
+[].Physiology and metabolism.API rID32A.AlaA	Enum_0018
+[].Physiology and metabolism.API rID32A.ADH Arg	Enum_0018
+[].Physiology and metabolism.API rID32A.URE	Enum_0018
+[].Physiology and metabolism.API rID32A.RAF	Enum_0018
+[].Physiology and metabolism.API rID32A.GDC	Enum_0018
+[].Physiology and metabolism.API rID32A.beta NAG	Enum_0018
+[].Physiology and metabolism.API rID32A.alpha GAL	Enum_0018
+[].Physiology and metabolism.API rID32A.alpha FUC	Enum_0018
+[].Physiology and metabolism.API rID32A.PyrA	Enum_0018
+[].Physiology and metabolism.API rID32A.IND	Enum_0018
+[].Physiology and metabolism.API rID32A.alpha GLU	Enum_0018
+[].Physiology and metabolism.API rID32A.GlyA	Enum_0018
+[].Physiology and metabolism.API rID32A.NIT	Enum_0018
+[].Physiology and metabolism.API rID32A.HisA	Enum_0018
+[].Physiology and metabolism.API rID32A.GGA	Enum_0018
+[].Physiology and metabolism.API rID32A.SerA	Enum_0018
+[].Physiology and metabolism.API rID32A.beta GP	Enum_0018
+[].Physiology and metabolism.API rID32A.[].MNE	Enum_0018
+[].Physiology and metabolism.API rID32A.[].beta GP	Enum_0018
+[].Physiology and metabolism.API rID32A.[].beta GLU	Enum_0018
+[].Physiology and metabolism.API rID32A.[].beta GAL	Enum_0018
+[].Physiology and metabolism.API rID32A.[].alpha GLU	Enum_0018
+[].Physiology and metabolism.API rID32A.[].alpha ARA	Enum_0018
+[].Physiology and metabolism.API rID32A.[].RAF	Enum_0018
+[].Physiology and metabolism.API rID32A.[].PheA	Enum_0018
+[].Physiology and metabolism.API rID32A.[].PAL	Enum_0018
+[].Physiology and metabolism.API rID32A.[].beta NAG	Enum_0018
+[].Physiology and metabolism.API rID32A.[].beta GUR	Enum_0018
+[].Physiology and metabolism.API rID32A.[].ArgA	Enum_0018
+[].Physiology and metabolism.API rID32A.[].ADH Arg	Enum_0018
+[].Physiology and metabolism.API rID32A.[].PyrA	Enum_0018
+[].Physiology and metabolism.API rID32A.[].ProA	Enum_0018
+[].Physiology and metabolism.API rID32A.[].LeuA	Enum_0018
+[].Physiology and metabolism.API rID32A.[].alpha GAL	Enum_0018
+[].Physiology and metabolism.API rID32A.[].AlaA	Enum_0018
+[].Physiology and metabolism.API rID32A.[].URE	Enum_0018
+[].Physiology and metabolism.API rID32A.[].TyrA	Enum_0018
+[].Physiology and metabolism.API rID32A.[].LGA	Enum_0018
+[].Physiology and metabolism.API rID32A.[].GlyA	Enum_0018
+[].Physiology and metabolism.API rID32A.[].GDC	Enum_0018
+[].Physiology and metabolism.API rID32A.[].alpha FUC	Enum_0018
+[].Physiology and metabolism.API rID32A.[].IND	Enum_0018
+[].Physiology and metabolism.API rID32A.[].HisA	Enum_0018
+[].Physiology and metabolism.API rID32A.[].NIT	Enum_0018
+[].Physiology and metabolism.API rID32A.[].GGA	Enum_0018
+[].Physiology and metabolism.API rID32A.[].SerA	Enum_0018
+[].Physiology and metabolism.API rID32STR.TRE	Enum_0018
+[].Physiology and metabolism.API rID32STR.TAG	Enum_0018
+[].Physiology and metabolism.API rID32STR.SOR	Enum_0018
+[].Physiology and metabolism.API rID32STR.SAC	Enum_0018
+[].Physiology and metabolism.API rID32STR.RIB	Enum_0018
+[].Physiology and metabolism.API rID32STR.PyrA	Enum_0018
+[].Physiology and metabolism.API rID32STR.PAL	Enum_0018
+[].Physiology and metabolism.API rID32STR.MEL	Enum_0018
+[].Physiology and metabolism.API rID32STR.Mbeta DG	Enum_0018
+[].Physiology and metabolism.API rID32STR.MAN	Enum_0018
+[].Physiology and metabolism.API rID32STR.MAL	Enum_0018
+[].Physiology and metabolism.API rID32STR.LARA	Enum_0018
+[].Physiology and metabolism.API rID32STR.LAC	Enum_0018
+[].Physiology and metabolism.API rID32STR.HIP	Enum_0018
+[].Physiology and metabolism.API rID32STR.GTA	Enum_0018
+[].Physiology and metabolism.API rID32STR.DARL	Enum_0018
+[].Physiology and metabolism.API rID32STR.beta NAG	Enum_0018
+[].Physiology and metabolism.API rID32STR.beta MAN	Enum_0018
+[].Physiology and metabolism.API rID32STR.beta GUR	Enum_0018
+[].Physiology and metabolism.API rID32STR.beta GLU	Enum_0018
+[].Physiology and metabolism.API rID32STR.beta GAR	Enum_0018
+[].Physiology and metabolism.API rID32STR.alpha GAL	Enum_0018
+[].Physiology and metabolism.API rID32STR.ADH Arg	Enum_0018
+[].Physiology and metabolism.API rID32STR.RAF	Enum_0018
+[].Physiology and metabolism.API rID32STR.PUL	Enum_0018
+[].Physiology and metabolism.API rID32STR.MLZ	Enum_0018
+[].Physiology and metabolism.API rID32STR.GLYG	Enum_0018
+[].Physiology and metabolism.API rID32STR.URE	Enum_0018
+[].Physiology and metabolism.API rID32STR.beta GAL	Enum_0018
+[].Physiology and metabolism.API rID32STR.APPA	Enum_0018
+[].Physiology and metabolism.API rID32STR.CDEX	Enum_0018
+[].Physiology and metabolism.API rID32STR.VP	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].TRE	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].SOR	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].SAC	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].RAF	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].PAL	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].MAN	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].LARA	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].LAC	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].DARL	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].beta GUR	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].beta GLU	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].beta GAR	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].alpha GAL	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].ADH Arg	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].URE	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].TAG	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].RIB	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].PyrA	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].PUL	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].MLZ	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].MEL	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].Mbeta DG	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].MAL	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].GLYG	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].CDEX	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].beta MAN	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].VP	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].GTA	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].beta NAG	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].beta GAL	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].APPA	Enum_0018
+[].Physiology and metabolism.API rID32STR.[].HIP	Enum_0018
+[].Physiology and metabolism.API zym.Lipase	Enum_0018
+[].Physiology and metabolism.API zym.Trypsin	Enum_0018
+[].Physiology and metabolism.API zym.N-acetyl-beta- glucosaminidase	Enum_0018
+[].Physiology and metabolism.API zym.Esterase	Enum_0018
+[].Physiology and metabolism.API zym.Cystine arylamidase	Enum_0018
+[].Physiology and metabolism.API zym.Alkaline phosphatase	Enum_0018
+[].Physiology and metabolism.API zym.Acid phosphatase	Enum_0018
+[].Physiology and metabolism.API zym.Valine arylamidase	Enum_0018
+[].Physiology and metabolism.API zym.Esterase Lipase	Enum_0018
+[].Physiology and metabolism.API zym.beta- Glucuronidase	Enum_0018
+[].Physiology and metabolism.API zym.beta- Glucosidase	Enum_0018
+[].Physiology and metabolism.API zym.alpha- Mannosidase	Enum_0018
+[].Physiology and metabolism.API zym.alpha- Glucosidase	Enum_0018
+[].Physiology and metabolism.API zym.alpha- Chymotrypsin	Enum_0018
+[].Physiology and metabolism.API zym.Naphthol-AS-BI-phosphohydrolase	Enum_0018
+[].Physiology and metabolism.API zym.Leucine arylamidase	Enum_0018
+[].Physiology and metabolism.API zym.beta- Galactosidase	Enum_0018
+[].Physiology and metabolism.API zym.alpha- Fucosidase	Enum_0018
+[].Physiology and metabolism.API zym.alpha- Galactosidase	Enum_0018
+[].Physiology and metabolism.API zym.Control	Enum_0018
+[].Physiology and metabolism.API zym.[].Trypsin	Enum_0018
+[].Physiology and metabolism.API zym.[].Lipase	Enum_0018
+[].Physiology and metabolism.API zym.[].Cystine arylamidase	Enum_0018
+[].Physiology and metabolism.API zym.[].alpha- Chymotrypsin	Enum_0018
+[].Physiology and metabolism.API zym.[].N-acetyl-beta- glucosaminidase	Enum_0018
+[].Physiology and metabolism.API zym.[].Esterase Lipase	Enum_0018
+[].Physiology and metabolism.API zym.[].Esterase	Enum_0018
+[].Physiology and metabolism.API zym.[].beta- Galactosidase	Enum_0018
+[].Physiology and metabolism.API zym.[].alpha- Mannosidase	Enum_0018
+[].Physiology and metabolism.API zym.[].alpha- Galactosidase	Enum_0018
+[].Physiology and metabolism.API zym.[].alpha- Fucosidase	Enum_0018
+[].Physiology and metabolism.API zym.[].Alkaline phosphatase	Enum_0018
+[].Physiology and metabolism.API zym.[].Valine arylamidase	Enum_0018
+[].Physiology and metabolism.API zym.[].Naphthol-AS-BI-phosphohydrolase	Enum_0018
+[].Physiology and metabolism.API zym.[].Leucine arylamidase	Enum_0018
+[].Physiology and metabolism.API zym.[].beta- Glucuronidase	Enum_0018
+[].Physiology and metabolism.API zym.[].beta- Glucosidase	Enum_0018
+[].Physiology and metabolism.API zym.[].alpha- Glucosidase	Enum_0018
+[].Physiology and metabolism.API zym.[].Acid phosphatase	Enum_0018
+[].Physiology and metabolism.API zym.[].Control	Enum_0018
+[].Physiology and metabolism.antibiogram.medium	Enum_0020
+[].Physiology and metabolism.antibiogram.oxygen condition	Enum_0020
+[].Physiology and metabolism.antibiogram.[].medium	Enum_0021
+[].Physiology and metabolism.antibiogram.[].oxygen condition	Enum_0021
+[].Physiology and metabolism.antibiotic resistance.is antibiotic	Enum_0001
+[].Physiology and metabolism.antibiotic resistance.is resistant	Enum_0001
+[].Physiology and metabolism.antibiotic resistance.is sensitive	Enum_0001
+[].Physiology and metabolism.antibiotic resistance.is intermediate	Enum_0001
+[].Physiology and metabolism.antibiotic resistance.[].is sensitive	Enum_0001
+[].Physiology and metabolism.antibiotic resistance.[].is resistant	Enum_0001
+[].Physiology and metabolism.antibiotic resistance.[].is intermediate	Enum_0001
+[].Physiology and metabolism.compound production.excreted	Enum_0022
+[].Physiology and metabolism.compound production.[].excreted	Enum_0022
+[].Physiology and metabolism.enzymes.activity	Enum_0018
+[].Physiology and metabolism.enzymes.[].activity	Enum_0018
+[].Physiology and metabolism.fatty acid profile.type of FA analysis	Enum_0023
+[].Physiology and metabolism.fatty acid profile.system	Enum_0023
+[].Physiology and metabolism.fatty acid profile.agar/liquid	Enum_0023
+[].Physiology and metabolism.fatty acid profile.incubation_oxygen	Enum_0023
+[].Physiology and metabolism.fatty acid profile.treatment	Enum_0023
+[].Physiology and metabolism.fatty acid profile.[].type of FA analysis	Enum_0024
+[].Physiology and metabolism.fatty acid profile.[].system	Enum_0024
+[].Physiology and metabolism.fatty acid profile.[].agar/liquid	Enum_0024
+[].Physiology and metabolism.fatty acid profile.[].incubation_oxygen	Enum_0024
+[].Physiology and metabolism.fatty acid profile.[].treatment	Enum_0024
+[].Physiology and metabolism.fatty acid profile.[].fatty acids.fatty acid	Enum_0025
+[].Physiology and metabolism.halophily.tested relation	Enum_0026
+[].Physiology and metabolism.halophily.salt	Enum_0026
+[].Physiology and metabolism.halophily.growth	Enum_0026
+[].Physiology and metabolism.halophily.halophily level	Enum_0026
+[].Physiology and metabolism.halophily.[].tested relation	Enum_0027
+[].Physiology and metabolism.halophily.[].salt	Enum_0027
+[].Physiology and metabolism.halophily.[].growth	Enum_0027
+[].Physiology and metabolism.halophily.[].halophily level	Enum_0027
+[].Physiology and metabolism.metabolite production.production	Enum_0001
+[].Physiology and metabolism.metabolite production.[].production	Enum_0001
+[].Physiology and metabolism.metabolite production.[].excretion	Enum_0001
+[].Physiology and metabolism.metabolite tests.metabolite	Enum_0028
+[].Physiology and metabolism.metabolite tests.indole test	Enum_0028
+[].Physiology and metabolism.metabolite tests.voges-proskauer-test	Enum_0028
+[].Physiology and metabolism.metabolite tests.methylred-test	Enum_0028
+[].Physiology and metabolism.metabolite tests.citrate test	Enum_0028
+[].Physiology and metabolism.metabolite tests.[].metabolite	Enum_0029
+[].Physiology and metabolism.metabolite tests.[].voges-proskauer-test	Enum_0029
+[].Physiology and metabolism.metabolite tests.[].indole test	Enum_0029
+[].Physiology and metabolism.metabolite tests.[].methylred-test	Enum_0029
+[].Physiology and metabolism.metabolite tests.[].citrate test	Enum_0029
+[].Physiology and metabolism.metabolite utilization.utilization activity	Enum_0019
+[].Physiology and metabolism.metabolite utilization.[].utilization activity	Enum_0018
+[].Physiology and metabolism.oxygen tolerance.oxygen tolerance	Enum_0030
+[].Physiology and metabolism.oxygen tolerance.[].oxygen tolerance	Enum_0030
+[].Physiology and metabolism.spore formation.spore formation	Enum_0031
+[].Physiology and metabolism.spore formation.type of spore	Enum_0031
+[].Physiology and metabolism.spore formation.[].spore formation	Enum_0031
+[].Physiology and metabolism.spore formation.[].type of spore	Enum_0031
+[].Physiology and metabolism.tolerance.concentration	Enum_0032
+[].Safety information.risk assessment.biosafety level comment	Enum_0033
+[].Safety information.risk assessment.pathogenicity human	Enum_0033
+[].Safety information.risk assessment.pathogenicity animal	Enum_0033
+[].Safety information.risk assessment.pathogenicity plant	Enum_0033
+[].Safety information.risk assessment.[].biosafety level	Enum_0034
+[].Safety information.risk assessment.[].biosafety level comment	Enum_0034
+[].Safety information.risk assessment.[].pathogenicity human	Enum_0034
+[].Safety information.risk assessment.[].pathogenicity animal	Enum_0034
+[].Safety information.risk assessment.[].pathogenicity plant	Enum_0034
+[].Sequence information.16S sequences.database	Enum_0035
+[].Sequence information.16S sequences.[].database	Enum_0035
+[].Sequence information.GC content.method	Enum_0036
+[].Sequence information.GC content.[].method	Enum_0036
+[].Sequence information.Genome sequences.database	Enum_0037
+[].Sequence information.Genome sequences.assembly level	Enum_0037
+[].Sequence information.Genome sequences.[].database	Enum_0037
+[].Sequence information.Genome sequences.[].assembly level	Enum_0037

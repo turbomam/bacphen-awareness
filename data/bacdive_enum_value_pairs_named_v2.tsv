@@ -1,0 +1,307 @@
+enum	value
+YesNoEnum	no
+YesNoEnum	yes
+TypeEnum	acidophile
+TypeEnum	alkaliphile
+TypeEnum	growth
+TypeEnum	maximum
+TypeEnum	minimum
+TypeEnum	no
+TypeEnum	optimum
+TypeEnum	positive
+TypeEnum	acidophile
+TypeEnum	alkaliphile
+TypeEnum	growth
+TypeEnum	inconsistent
+TypeEnum	maximum
+TypeEnum	minimum
+TypeEnum	no
+TypeEnum	optimum
+TypeEnum	positive
+TypeEnum	growth
+TypeEnum	no
+TypeEnum	optimum
+TypeEnum	positive
+TypeEnum	growth
+TypeEnum	inconsistent
+TypeEnum	maximum
+TypeEnum	minimum
+TypeEnum	no
+TypeEnum	optimum
+TypeEnum	other
+TypeEnum	positive
+TopicEnum	Biotechnology
+TopicEnum	Cultivation
+TopicEnum	Enzymology
+TopicEnum	Genetics
+TopicEnum	Metabolism
+TopicEnum	Pathogenicity
+TopicEnum	Phenotype
+TopicEnum	Phylogeny
+TopicEnum	Physiology
+TopicEnum	Proteome
+TopicEnum	Stress
+TopicEnum	Transcriptome
+TopicEnum	Biotechnology
+TopicEnum	Cultivation
+TopicEnum	Enzymology
+TopicEnum	Genetics
+TopicEnum	Lipids
+TopicEnum	Metabolism
+TopicEnum	Pathogenicity
+TopicEnum	Phenotype
+TopicEnum	Phylogeny
+TopicEnum	Physiology
+TopicEnum	Proteome
+TopicEnum	Stress
+TopicEnum	Transcriptome
+MatchingLevelEnum	species
+MatchingLevelEnum	strain
+MatchingLevelEnum	subspecies
+ContinentEnum	Africa
+ContinentEnum	Antarctica
+ContinentEnum	Arctic
+ContinentEnum	Asia
+ContinentEnum	Australia and Oceania
+ContinentEnum	Europe
+ContinentEnum	Middle and South America
+ContinentEnum	North America
+Cat1Enum	#Climate
+Cat1Enum	#Condition
+Cat1Enum	#Engineered
+Cat1Enum	#Environmental
+Cat1Enum	#Host
+Cat1Enum	#Host Body Product
+Cat1Enum	#Host Body-Site
+Cat1Enum	#Infection
+GramStainEnum	amphitrichous
+GramStainEnum	gliding
+GramStainEnum	lophotrichous
+GramStainEnum	monopolar
+GramStainEnum	monotrichous
+GramStainEnum	monotrichous, polar
+GramStainEnum	negative
+GramStainEnum	no
+GramStainEnum	peritrichous
+GramStainEnum	polar
+GramStainEnum	polytrichous, monopolar
+GramStainEnum	positive
+GramStainEnum	subpolar
+GramStainEnum	variable
+GramStainEnum	yes
+ColonyShapeEnum	CAMP test
+ColonyShapeEnum	alpha
+ColonyShapeEnum	alpha/beta
+ColonyShapeEnum	beta
+ColonyShapeEnum	circular
+ColonyShapeEnum	filamentous
+ColonyShapeEnum	fried-egg-shaped
+ColonyShapeEnum	gamma
+ColonyShapeEnum	irregular
+ColonyShapeEnum	oval
+ColonyShapeEnum	punctiform
+ColonyShapeEnum	rhizoid
+ColonyShapeEnum	round, undulate
+TypeOfHemolysisEnum	CAMP test
+TypeOfHemolysisEnum	alpha
+TypeOfHemolysisEnum	alpha/beta
+TypeOfHemolysisEnum	beta
+TypeOfHemolysisEnum	gamma
+FormsMulticellularComplexEnum	10 µm
+FormsMulticellularComplexEnum	200.0-800.0 µm
+FormsMulticellularComplexEnum	30 µm
+FormsMulticellularComplexEnum	40 µm
+FormsMulticellularComplexEnum	no
+FormsMulticellularComplexEnum	yes
+FormsMulticellularComplexEnum	10 µm
+FormsMulticellularComplexEnum	10.1-14.6 µm
+FormsMulticellularComplexEnum	200.0-800.0 µm
+FormsMulticellularComplexEnum	30 µm
+FormsMulticellularComplexEnum	40 µm
+FormsMulticellularComplexEnum	no
+FormsMulticellularComplexEnum	yes
+TypeStrainEnum	Archaea
+TypeStrainEnum	Bacteria
+TypeStrainEnum	no
+TypeStrainEnum	yes
+DomainEnum	Archaea
+DomainEnum	Bacteria
+DomainEnum	domain/archaea
+DomainEnum	domain/bacteria
+XylEnum	+
+XylEnum	+/-
+XylEnum	-
+XltEnum	+
+XltEnum	-
+MediumEnum	M 514
+MediumEnum	M 693
+MediumEnum	Mueller Hinton
+MediumEnum	Mueller-Hinton Agar
+MediumEnum	aerob
+MediumEnum	microaerophil
+MediumEnum	M 1
+MediumEnum	M 514
+MediumEnum	M 693
+MediumEnum	M 804
+MediumEnum	M 92
+MediumEnum	Mueller Hinton
+MediumEnum	Mueller-Hinton Agar
+MediumEnum	aerob
+MediumEnum	aerob + 5% CO2
+MediumEnum	microaerophil
+YesNoEnum	yes
+TypeOfFaAnalysisEnum	180 r.p.m.
+TypeOfFaAnalysisEnum	MIS MIDI
+TypeOfFaAnalysisEnum	aerobic
+TypeOfFaAnalysisEnum	agar
+TypeOfFaAnalysisEnum	agar surface was kept moist with liquid R2A medium
+TypeOfFaAnalysisEnum	anaerobic
+TypeOfFaAnalysisEnum	cultivation in ISP 2 broth for 5 days in shake flasks
+TypeOfFaAnalysisEnum	liquid
+TypeOfFaAnalysisEnum	medium supplemented with 5mM fumarate
+TypeOfFaAnalysisEnum	microaerophil
+TypeOfFaAnalysisEnum	whole cell analysis
+TypeOfFaAnalysisEnum	180 r.p.m.
+TypeOfFaAnalysisEnum	Alkaline hydrolysis extract
+TypeOfFaAnalysisEnum	Alkaline hydrolysis residue after extraction
+TypeOfFaAnalysisEnum	MIS MIDI
+TypeOfFaAnalysisEnum	aerobic
+TypeOfFaAnalysisEnum	agar
+TypeOfFaAnalysisEnum	agar surface was kept moist with liquid R2A medium
+TypeOfFaAnalysisEnum	anaerobic
+TypeOfFaAnalysisEnum	cultivation in ISP 2 broth for 5 days in shake flasks
+TypeOfFaAnalysisEnum	liquid
+TypeOfFaAnalysisEnum	medium supplemented with 5mM fumarate
+TypeOfFaAnalysisEnum	microaerophil
+TypeOfFaAnalysisEnum	whole cell analysis
+FattyAcidEnum	C16:0 iso
+HalophilyEnum	NaCl
+HalophilyEnum	growth
+HalophilyEnum	halophilic
+HalophilyEnum	halotolerant
+HalophilyEnum	maximum
+HalophilyEnum	moderately halophilic
+HalophilyEnum	no
+HalophilyEnum	non-halophilic
+HalophilyEnum	optimum
+HalophilyEnum	other
+HalophilyEnum	positive
+HalophilyEnum	resistant
+HalophilyEnum	slightly halophilic
+HalophilyEnum	Chromium (Cr6+)
+HalophilyEnum	KCl
+HalophilyEnum	Marine salts
+HalophilyEnum	MgCl2
+HalophilyEnum	MgCl2x6H2O
+HalophilyEnum	MgSO4x7H2O
+HalophilyEnum	Na+
+HalophilyEnum	Na2SO4
+HalophilyEnum	NaCL
+HalophilyEnum	NaCl
+HalophilyEnum	Sea Salts (S9883)
+HalophilyEnum	extremely halophilic
+HalophilyEnum	growth
+HalophilyEnum	haloalkaliphilic
+HalophilyEnum	halophilic
+HalophilyEnum	halotolerant
+HalophilyEnum	inconsistent
+HalophilyEnum	maximum
+HalophilyEnum	minimum
+HalophilyEnum	moderately halophilic
+HalophilyEnum	no
+HalophilyEnum	non-halophilic
+HalophilyEnum	optimum
+HalophilyEnum	other
+HalophilyEnum	positive
+HalophilyEnum	resistant
+HalophilyEnum	slightly halophilic
+MetaboliteEnum	+
+MetaboliteEnum	+/-
+MetaboliteEnum	-
+MetaboliteEnum	acetoin
+MetaboliteEnum	citrate
+MetaboliteEnum	gelatin
+MetaboliteEnum	glucose
+MetaboliteEnum	hydrogen sulfide
+MetaboliteEnum	indole
+MetaboliteEnum	nitrate
+MetaboliteEnum	+
+MetaboliteEnum	+/-
+MetaboliteEnum	-
+MetaboliteEnum	acetoin
+MetaboliteEnum	citrate
+MetaboliteEnum	dna
+MetaboliteEnum	gelatin
+MetaboliteEnum	glucose
+MetaboliteEnum	hydrogen sulfide
+MetaboliteEnum	indole
+MetaboliteEnum	nitrate
+MetaboliteEnum	tryptophan
+OxygenToleranceEnum	aerobe
+OxygenToleranceEnum	aerotolerant
+OxygenToleranceEnum	anaerobe
+OxygenToleranceEnum	facultative aerobe
+OxygenToleranceEnum	facultative anaerobe
+OxygenToleranceEnum	microaerophile
+OxygenToleranceEnum	microaerotolerant
+OxygenToleranceEnum	obligate aerobe
+OxygenToleranceEnum	obligate anaerobe
+SporeFormationEnum	arthrospore
+SporeFormationEnum	endospore
+SporeFormationEnum	exospore (microbial cyst)
+SporeFormationEnum	myxospore
+SporeFormationEnum	no
+SporeFormationEnum	spore
+SporeFormationEnum	yes
+SporeFormationEnum	zoospore
+ConcentrationEnum	0.04 %
+ConcentrationEnum	10.0 mM
+ConcentrationEnum	100.0 µg/ml
+ConcentrationEnum	12.5 mM
+ConcentrationEnum	20.0 % (w/v)
+ConcentrationEnum	4.0 mM
+BiosafetyLevelCommentEnum	German classification
+BiosafetyLevelCommentEnum	Risk group
+BiosafetyLevelCommentEnum	Risk group (French classification)
+BiosafetyLevelCommentEnum	Risk group (German classification)
+BiosafetyLevelCommentEnum	yes
+BiosafetyLevelCommentEnum	yes, in single cases
+BiosafetyLevelEnum	1
+BiosafetyLevelEnum	1+
+BiosafetyLevelEnum	2
+BiosafetyLevelEnum	3
+BiosafetyLevelEnum	3**
+BiosafetyLevelEnum	German classification
+BiosafetyLevelEnum	Hazard group
+BiosafetyLevelEnum	Hazard group (German classification)
+BiosafetyLevelEnum	L1
+BiosafetyLevelEnum	Risk group
+BiosafetyLevelEnum	Risk group (French classification)
+BiosafetyLevelEnum	Risk group (German classification)
+BiosafetyLevelEnum	Risk group (german classification)
+BiosafetyLevelEnum	hazard group
+BiosafetyLevelEnum	risk group (German classification)
+BiosafetyLevelEnum	yes
+BiosafetyLevelEnum	yes, in single cases
+DatabaseEnum	ena
+DatabaseEnum	nuccore
+MethodEnum	Buoyant density centrifugation (BD)
+MethodEnum	Thermal denaturation, fluorometry
+MethodEnum	capillary zone electrophoresis (CZE)
+MethodEnum	fluorimetric
+MethodEnum	genome sequence analysis
+MethodEnum	high performance liquid chromatography (HPLC)
+MethodEnum	paper chromatography
+MethodEnum	real time PCR (RTD-PCR)
+MethodEnum	sequence analysis
+MethodEnum	thermal denaturation, midpoint method (Tm)
+DatabaseEnum	chromosome
+DatabaseEnum	complete
+DatabaseEnum	contig
+DatabaseEnum	draft
+DatabaseEnum	img
+DatabaseEnum	ncbi
+DatabaseEnum	patric
+DatabaseEnum	plasmid
+DatabaseEnum	scaffold
+DatabaseEnum	wgs

@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+src/bacphen_awareness.egg-info/
 
 # Virtual environments
 .venv
@@ -12,11 +13,7 @@ wheels/
 # OS-generated files
 .DS_Store
 
-# Data directories
-data/
-!data/*schema*
-data/f9182e926889b24b86073cc384097c03/bacdive_strains_genson_schema.json
-.DS_Store
-__pycache__/
-*.egg-info/
-src/bacphen_awareness.egg-info/
+# Data directories - exclude large files but keep schemas and smaller files
+# Exclude large JSON files specifically
+data/**/*.json
+!data/**/*schema*.json

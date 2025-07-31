@@ -1,0 +1,307 @@
+enum	value
+Enum_0001	no
+Enum_0001	yes
+Enum_0002	acidophile
+Enum_0002	alkaliphile
+Enum_0002	growth
+Enum_0002	maximum
+Enum_0002	minimum
+Enum_0002	no
+Enum_0002	optimum
+Enum_0002	positive
+Enum_0003	acidophile
+Enum_0003	alkaliphile
+Enum_0003	growth
+Enum_0003	inconsistent
+Enum_0003	maximum
+Enum_0003	minimum
+Enum_0003	no
+Enum_0003	optimum
+Enum_0003	positive
+Enum_0004	growth
+Enum_0004	no
+Enum_0004	optimum
+Enum_0004	positive
+Enum_0005	growth
+Enum_0005	inconsistent
+Enum_0005	maximum
+Enum_0005	minimum
+Enum_0005	no
+Enum_0005	optimum
+Enum_0005	other
+Enum_0005	positive
+Enum_0006	Biotechnology
+Enum_0006	Cultivation
+Enum_0006	Enzymology
+Enum_0006	Genetics
+Enum_0006	Metabolism
+Enum_0006	Pathogenicity
+Enum_0006	Phenotype
+Enum_0006	Phylogeny
+Enum_0006	Physiology
+Enum_0006	Proteome
+Enum_0006	Stress
+Enum_0006	Transcriptome
+Enum_0007	Biotechnology
+Enum_0007	Cultivation
+Enum_0007	Enzymology
+Enum_0007	Genetics
+Enum_0007	Lipids
+Enum_0007	Metabolism
+Enum_0007	Pathogenicity
+Enum_0007	Phenotype
+Enum_0007	Phylogeny
+Enum_0007	Physiology
+Enum_0007	Proteome
+Enum_0007	Stress
+Enum_0007	Transcriptome
+Enum_0008	species
+Enum_0008	strain
+Enum_0008	subspecies
+Enum_0009	Africa
+Enum_0009	Antarctica
+Enum_0009	Arctic
+Enum_0009	Asia
+Enum_0009	Australia and Oceania
+Enum_0009	Europe
+Enum_0009	Middle and South America
+Enum_0009	North America
+Enum_0010	#Climate
+Enum_0010	#Condition
+Enum_0010	#Engineered
+Enum_0010	#Environmental
+Enum_0010	#Host
+Enum_0010	#Host Body Product
+Enum_0010	#Host Body-Site
+Enum_0010	#Infection
+Enum_0011	amphitrichous
+Enum_0011	gliding
+Enum_0011	lophotrichous
+Enum_0011	monopolar
+Enum_0011	monotrichous
+Enum_0011	monotrichous, polar
+Enum_0011	negative
+Enum_0011	no
+Enum_0011	peritrichous
+Enum_0011	polar
+Enum_0011	polytrichous, monopolar
+Enum_0011	positive
+Enum_0011	subpolar
+Enum_0011	variable
+Enum_0011	yes
+Enum_0012	CAMP test
+Enum_0012	alpha
+Enum_0012	alpha/beta
+Enum_0012	beta
+Enum_0012	circular
+Enum_0012	filamentous
+Enum_0012	fried-egg-shaped
+Enum_0012	gamma
+Enum_0012	irregular
+Enum_0012	oval
+Enum_0012	punctiform
+Enum_0012	rhizoid
+Enum_0012	round, undulate
+Enum_0013	CAMP test
+Enum_0013	alpha
+Enum_0013	alpha/beta
+Enum_0013	beta
+Enum_0013	gamma
+Enum_0014	10 µm
+Enum_0014	200.0-800.0 µm
+Enum_0014	30 µm
+Enum_0014	40 µm
+Enum_0014	no
+Enum_0014	yes
+Enum_0015	10 µm
+Enum_0015	10.1-14.6 µm
+Enum_0015	200.0-800.0 µm
+Enum_0015	30 µm
+Enum_0015	40 µm
+Enum_0015	no
+Enum_0015	yes
+Enum_0016	Archaea
+Enum_0016	Bacteria
+Enum_0016	no
+Enum_0016	yes
+Enum_0017	Archaea
+Enum_0017	Bacteria
+Enum_0017	domain/archaea
+Enum_0017	domain/bacteria
+Enum_0018	+
+Enum_0018	+/-
+Enum_0018	-
+Enum_0019	+
+Enum_0019	-
+Enum_0020	M 514
+Enum_0020	M 693
+Enum_0020	Mueller Hinton
+Enum_0020	Mueller-Hinton Agar
+Enum_0020	aerob
+Enum_0020	microaerophil
+Enum_0021	M 1
+Enum_0021	M 514
+Enum_0021	M 693
+Enum_0021	M 804
+Enum_0021	M 92
+Enum_0021	Mueller Hinton
+Enum_0021	Mueller-Hinton Agar
+Enum_0021	aerob
+Enum_0021	aerob + 5% CO2
+Enum_0021	microaerophil
+Enum_0022	yes
+Enum_0023	180 r.p.m.
+Enum_0023	MIS MIDI
+Enum_0023	aerobic
+Enum_0023	agar
+Enum_0023	agar surface was kept moist with liquid R2A medium
+Enum_0023	anaerobic
+Enum_0023	cultivation in ISP 2 broth for 5 days in shake flasks
+Enum_0023	liquid
+Enum_0023	medium supplemented with 5mM fumarate
+Enum_0023	microaerophil
+Enum_0023	whole cell analysis
+Enum_0024	180 r.p.m.
+Enum_0024	Alkaline hydrolysis extract
+Enum_0024	Alkaline hydrolysis residue after extraction
+Enum_0024	MIS MIDI
+Enum_0024	aerobic
+Enum_0024	agar
+Enum_0024	agar surface was kept moist with liquid R2A medium
+Enum_0024	anaerobic
+Enum_0024	cultivation in ISP 2 broth for 5 days in shake flasks
+Enum_0024	liquid
+Enum_0024	medium supplemented with 5mM fumarate
+Enum_0024	microaerophil
+Enum_0024	whole cell analysis
+Enum_0025	C16:0 iso
+Enum_0026	NaCl
+Enum_0026	growth
+Enum_0026	halophilic
+Enum_0026	halotolerant
+Enum_0026	maximum
+Enum_0026	moderately halophilic
+Enum_0026	no
+Enum_0026	non-halophilic
+Enum_0026	optimum
+Enum_0026	other
+Enum_0026	positive
+Enum_0026	resistant
+Enum_0026	slightly halophilic
+Enum_0027	Chromium (Cr6+)
+Enum_0027	KCl
+Enum_0027	Marine salts
+Enum_0027	MgCl2
+Enum_0027	MgCl2x6H2O
+Enum_0027	MgSO4x7H2O
+Enum_0027	Na+
+Enum_0027	Na2SO4
+Enum_0027	NaCL
+Enum_0027	NaCl
+Enum_0027	Sea Salts (S9883)
+Enum_0027	extremely halophilic
+Enum_0027	growth
+Enum_0027	haloalkaliphilic
+Enum_0027	halophilic
+Enum_0027	halotolerant
+Enum_0027	inconsistent
+Enum_0027	maximum
+Enum_0027	minimum
+Enum_0027	moderately halophilic
+Enum_0027	no
+Enum_0027	non-halophilic
+Enum_0027	optimum
+Enum_0027	other
+Enum_0027	positive
+Enum_0027	resistant
+Enum_0027	slightly halophilic
+Enum_0028	+
+Enum_0028	+/-
+Enum_0028	-
+Enum_0028	acetoin
+Enum_0028	citrate
+Enum_0028	gelatin
+Enum_0028	glucose
+Enum_0028	hydrogen sulfide
+Enum_0028	indole
+Enum_0028	nitrate
+Enum_0029	+
+Enum_0029	+/-
+Enum_0029	-
+Enum_0029	acetoin
+Enum_0029	citrate
+Enum_0029	dna
+Enum_0029	gelatin
+Enum_0029	glucose
+Enum_0029	hydrogen sulfide
+Enum_0029	indole
+Enum_0029	nitrate
+Enum_0029	tryptophan
+Enum_0030	aerobe
+Enum_0030	aerotolerant
+Enum_0030	anaerobe
+Enum_0030	facultative aerobe
+Enum_0030	facultative anaerobe
+Enum_0030	microaerophile
+Enum_0030	microaerotolerant
+Enum_0030	obligate aerobe
+Enum_0030	obligate anaerobe
+Enum_0031	arthrospore
+Enum_0031	endospore
+Enum_0031	exospore (microbial cyst)
+Enum_0031	myxospore
+Enum_0031	no
+Enum_0031	spore
+Enum_0031	yes
+Enum_0031	zoospore
+Enum_0032	0.04 %
+Enum_0032	10.0 mM
+Enum_0032	100.0 µg/ml
+Enum_0032	12.5 mM
+Enum_0032	20.0 % (w/v)
+Enum_0032	4.0 mM
+Enum_0033	German classification
+Enum_0033	Risk group
+Enum_0033	Risk group (French classification)
+Enum_0033	Risk group (German classification)
+Enum_0033	yes
+Enum_0033	yes, in single cases
+Enum_0034	1
+Enum_0034	1+
+Enum_0034	2
+Enum_0034	3
+Enum_0034	3**
+Enum_0034	German classification
+Enum_0034	Hazard group
+Enum_0034	Hazard group (German classification)
+Enum_0034	L1
+Enum_0034	Risk group
+Enum_0034	Risk group (French classification)
+Enum_0034	Risk group (German classification)
+Enum_0034	Risk group (german classification)
+Enum_0034	hazard group
+Enum_0034	risk group (German classification)
+Enum_0034	yes
+Enum_0034	yes, in single cases
+Enum_0035	ena
+Enum_0035	nuccore
+Enum_0036	Buoyant density centrifugation (BD)
+Enum_0036	Thermal denaturation, fluorometry
+Enum_0036	capillary zone electrophoresis (CZE)
+Enum_0036	fluorimetric
+Enum_0036	genome sequence analysis
+Enum_0036	high performance liquid chromatography (HPLC)
+Enum_0036	paper chromatography
+Enum_0036	real time PCR (RTD-PCR)
+Enum_0036	sequence analysis
+Enum_0036	thermal denaturation, midpoint method (Tm)
+Enum_0037	chromosome
+Enum_0037	complete
+Enum_0037	contig
+Enum_0037	draft
+Enum_0037	img
+Enum_0037	ncbi
+Enum_0037	patric
+Enum_0037	plasmid
+Enum_0037	scaffold
+Enum_0037	wgs

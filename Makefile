@@ -44,3 +44,26 @@ data/bacdive_path_counts_merged.tsv: data/bacdive_distinct_value_counts.tsv data
 	    --path-counts-file data/954eac922928d7abfd6130e7cc64a88c/bacdive_strains_path_counts.txt \
 	    --distinct-values-file data/bacdive_distinct_value_counts.tsv \
 	    --output $@
+
+# data/bacdive_distinct_value_histogram.png: data/bacdive_path_counts_merged.tsv
+# 	uv run histogram-path-counts \
+# 	    --merged-file $< \
+# 	    --output $@
+
+# data/bacdive_enum_values.tsv: data/bacdive_path_counts_merged.tsv
+# 	uv run export-enum-values \
+# 	    --merged-file $< \
+# 	    --output $@
+
+# Enum discovery outputs
+ENUM_OUTPUT_PREFIX := data/bacdive
+
+# make data/bacdive_enum_value_pairs.tsv
+
+$(ENUM_OUTPUT_PREFIX)_enum_value_pairs.tsv \
+$(ENUM_OUTPUT_PREFIX)_path_to_enum.tsv \
+$(ENUM_OUTPUT_PREFIX)_decision_log.tsv: data/bacdive_path_counts_merged.tsv data/bacdive_enum_values.tsv
+	uv run discover-enums \
+	    --merged-file data/bacdive_path_counts_merged.tsv \
+	    --values-file data/bacdive_enum_values.tsv \
+	    --output-prefix $(ENUM_OUTPUT_PREFIX)
