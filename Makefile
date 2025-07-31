@@ -67,3 +67,13 @@ $(ENUM_OUTPUT_PREFIX)_decision_log.tsv: data/bacdive_path_counts_merged.tsv data
 	    --merged-file data/bacdive_path_counts_merged.tsv \
 	    --values-file data/bacdive_enum_values.tsv \
 	    --output-prefix $(ENUM_OUTPUT_PREFIX)
+
+# Target: Tabulate values for a specific MongoDB path
+# Usage: make data/path_tabulation.tsv PATH="[].Culture and growth conditions.culture medium.growth"
+data/path_tabulation.tsv:
+	uv run tabulate-path-values \
+	    --mongo-uri $(MONGO_URI) \
+	    --db $(MONGO_DB) \
+	    --collection $(MONGO_COLLECTION) \
+	    --path '$(PATH)' \
+	    --output $@
