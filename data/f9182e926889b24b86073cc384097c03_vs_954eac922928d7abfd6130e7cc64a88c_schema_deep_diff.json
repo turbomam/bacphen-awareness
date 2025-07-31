@@ -1,0 +1,2627 @@
+{
+  "type_changes": {
+    "root['items']['properties']['General']['properties']['strain history']['anyOf'][1]['items']['type']": {
+      "old_type": "list",
+      "new_type": "str",
+      "old_value": [
+        "null",
+        "string"
+      ],
+      "new_value": "object"
+    }
+  },
+  "dictionary_item_added": [
+    "root['items']['properties']['Genome-based predictions']",
+    "root['items']['properties']['General']['properties']['strain history']['anyOf'][0]['properties']",
+    "root['items']['properties']['General']['properties']['strain history']['anyOf'][0]['required']",
+    "root['items']['properties']['General']['properties']['strain history']['anyOf'][1]['items']['properties']",
+    "root['items']['properties']['General']['properties']['strain history']['anyOf'][1]['items']['required']",
+    "root['items']['properties']['Morphology']['properties']['multicellular morphology']['anyOf'][1]['items']['properties']['complex size']",
+    "root['items']['properties']['Culture and growth conditions']['properties']['culture pH']['anyOf'][0]['items']['properties']['PH range']",
+    "root['items']['properties']['Culture and growth conditions']['properties']['culture pH']['anyOf'][1]['properties']['PH range']",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API biotype100']",
+    "root['items']['properties']['Isolation, sampling and environmental information']['properties']['taxonmaps']",
+    "root['items']['properties']['External links']['properties']['phages']"
+  ],
+  "dictionary_item_removed": [
+    "root['items']['properties']['Culture and growth conditions']['properties']['culture temp']['anyOf'][0]['properties']['range']",
+    "root['items']['properties']['Culture and growth conditions']['properties']['culture temp']['anyOf'][1]['items']['properties']['range']"
+  ],
+  "values_changed": {
+    "root['items']['properties']['General']['properties']['NCBI tax id']['anyOf'][0]": {
+      "new_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "NCBI tax id": {
+              "type": "integer"
+            },
+            "Matching level": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Matching level",
+            "NCBI tax id"
+          ]
+        }
+      },
+      "old_value": {
+        "type": "object",
+        "properties": {
+          "NCBI tax id": {
+            "type": "integer"
+          },
+          "Matching level": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "Matching level",
+          "NCBI tax id"
+        ]
+      }
+    },
+    "root['items']['properties']['General']['properties']['NCBI tax id']['anyOf'][1]": {
+      "new_value": {
+        "type": "object",
+        "properties": {
+          "NCBI tax id": {
+            "type": "integer"
+          },
+          "Matching level": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "Matching level",
+          "NCBI tax id"
+        ]
+      },
+      "old_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "NCBI tax id": {
+              "type": "integer"
+            },
+            "Matching level": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Matching level",
+            "NCBI tax id"
+          ]
+        }
+      }
+    },
+    "root['items']['properties']['General']['properties']['strain history']['anyOf'][0]['type']": {
+      "new_value": "object",
+      "old_value": "string"
+    },
+    "root['items']['properties']['Morphology']['properties']['cell morphology']['anyOf'][0]": {
+      "new_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "gram stain": {
+              "type": "string"
+            },
+            "cell length": {
+              "type": "string"
+            },
+            "cell shape": {
+              "type": "string"
+            },
+            "motility": {
+              "type": "string"
+            },
+            "cell width": {
+              "type": "string"
+            },
+            "flagellum arrangement": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref"
+          ]
+        }
+      },
+      "old_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "gram stain": {
+            "type": "string"
+          },
+          "cell length": {
+            "type": "string"
+          },
+          "cell width": {
+            "type": "string"
+          },
+          "cell shape": {
+            "type": "string"
+          },
+          "motility": {
+            "type": "string"
+          },
+          "flagellum arrangement": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref"
+        ]
+      }
+    },
+    "root['items']['properties']['Morphology']['properties']['cell morphology']['anyOf'][1]": {
+      "new_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "gram stain": {
+            "type": "string"
+          },
+          "cell shape": {
+            "type": "string"
+          },
+          "motility": {
+            "type": "string"
+          },
+          "cell length": {
+            "type": "string"
+          },
+          "cell width": {
+            "type": "string"
+          },
+          "flagellum arrangement": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref"
+        ]
+      },
+      "old_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "cell shape": {
+              "type": "string"
+            },
+            "motility": {
+              "type": "string"
+            },
+            "gram stain": {
+              "type": "string"
+            },
+            "flagellum arrangement": {
+              "type": "string"
+            },
+            "cell length": {
+              "type": "string"
+            },
+            "cell width": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref"
+          ]
+        }
+      }
+    },
+    "root['items']['properties']['Morphology']['properties']['colony morphology']['anyOf'][0]": {
+      "new_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "type of hemolysis": {
+              "type": "string"
+            },
+            "colony size": {
+              "type": "string"
+            },
+            "colony color": {
+              "type": "string"
+            },
+            "colony shape": {
+              "type": "string"
+            },
+            "incubation period": {
+              "type": "string"
+            },
+            "medium used": {
+              "type": "string"
+            },
+            "hemolysis ability": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref"
+          ]
+        }
+      },
+      "old_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "colony color": {
+            "type": "string"
+          },
+          "colony shape": {
+            "type": "string"
+          },
+          "incubation period": {
+            "type": "string"
+          },
+          "medium used": {
+            "type": "string"
+          },
+          "colony size": {
+            "type": "string"
+          },
+          "type of hemolysis": {
+            "type": "string"
+          },
+          "hemolysis ability": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref"
+        ]
+      }
+    },
+    "root['items']['properties']['Morphology']['properties']['colony morphology']['anyOf'][1]": {
+      "new_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "incubation period": {
+            "type": "string"
+          },
+          "colony size": {
+            "type": "string"
+          },
+          "colony color": {
+            "type": "string"
+          },
+          "colony shape": {
+            "type": "string"
+          },
+          "medium used": {
+            "type": "string"
+          },
+          "hemolysis ability": {
+            "type": "string"
+          },
+          "type of hemolysis": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref"
+        ]
+      },
+      "old_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "colony size": {
+              "type": "string"
+            },
+            "incubation period": {
+              "type": "string"
+            },
+            "medium used": {
+              "type": "string"
+            },
+            "colony color": {
+              "type": "string"
+            },
+            "type of hemolysis": {
+              "type": "string"
+            },
+            "colony shape": {
+              "type": "string"
+            },
+            "hemolysis ability": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref"
+          ]
+        }
+      }
+    },
+    "root['items']['properties']['Culture and growth conditions']['properties']['culture medium']['anyOf'][0]": {
+      "new_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "growth": {
+            "type": "string"
+          },
+          "link": {
+            "type": "string"
+          },
+          "composition": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "growth"
+        ]
+      },
+      "old_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "growth": {
+              "type": "string"
+            },
+            "composition": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref"
+          ]
+        }
+      }
+    },
+    "root['items']['properties']['Culture and growth conditions']['properties']['culture medium']['anyOf'][1]": {
+      "new_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "growth": {
+              "type": "string"
+            },
+            "link": {
+              "type": "string"
+            },
+            "composition": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref"
+          ]
+        }
+      },
+      "old_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "growth": {
+            "type": "string"
+          },
+          "link": {
+            "type": "string"
+          },
+          "composition": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "growth"
+        ]
+      }
+    },
+    "root['items']['properties']['Physiology and metabolism']['properties']['spore formation']['anyOf'][0]": {
+      "new_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "spore formation": {
+              "type": "string"
+            },
+            "spore description": {
+              "type": "string"
+            },
+            "type of spore": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref",
+            "spore formation"
+          ]
+        }
+      },
+      "old_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "spore formation": {
+            "type": "string"
+          },
+          "spore description": {
+            "type": "string"
+          },
+          "type of spore": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "spore formation"
+        ]
+      }
+    },
+    "root['items']['properties']['Physiology and metabolism']['properties']['spore formation']['anyOf'][1]": {
+      "new_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "spore formation": {
+            "type": "string"
+          },
+          "type of spore": {
+            "type": "string"
+          },
+          "spore description": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "spore formation"
+        ]
+      },
+      "old_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "spore formation": {
+              "type": "string"
+            },
+            "type of spore": {
+              "type": "string"
+            },
+            "spore description": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref",
+            "spore formation"
+          ]
+        }
+      }
+    },
+    "root['items']['properties']['Physiology and metabolism']['properties']['metabolite production']['anyOf'][0]": {
+      "new_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "Chebi-ID": {
+              "type": "integer"
+            },
+            "metabolite": {
+              "type": "string"
+            },
+            "production": {
+              "type": "string"
+            },
+            "excretion": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref",
+            "metabolite"
+          ]
+        }
+      },
+      "old_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "Chebi-ID": {
+            "type": "integer"
+          },
+          "metabolite": {
+            "type": "string"
+          },
+          "production": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "metabolite",
+          "production"
+        ]
+      }
+    },
+    "root['items']['properties']['Physiology and metabolism']['properties']['metabolite production']['anyOf'][1]": {
+      "new_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "Chebi-ID": {
+            "type": "integer"
+          },
+          "metabolite": {
+            "type": "string"
+          },
+          "production": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "metabolite",
+          "production"
+        ]
+      },
+      "old_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "Chebi-ID": {
+              "type": "integer"
+            },
+            "metabolite": {
+              "type": "string"
+            },
+            "production": {
+              "type": "string"
+            },
+            "excretion": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref",
+            "metabolite"
+          ]
+        }
+      }
+    },
+    "root['items']['properties']['Physiology and metabolism']['properties']['enzymes']['anyOf'][0]": {
+      "new_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "value": {
+              "type": "string"
+            },
+            "activity": {
+              "type": "string"
+            },
+            "ec": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref",
+            "value"
+          ]
+        }
+      },
+      "old_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "value": {
+            "type": "string"
+          },
+          "ec": {
+            "type": "string"
+          },
+          "activity": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "value"
+        ]
+      }
+    },
+    "root['items']['properties']['Physiology and metabolism']['properties']['enzymes']['anyOf'][1]": {
+      "new_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "value": {
+            "type": "string"
+          },
+          "activity": {
+            "type": "string"
+          },
+          "ec": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "value"
+        ]
+      },
+      "old_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "value": {
+              "type": "string"
+            },
+            "activity": {
+              "type": "string"
+            },
+            "ec": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref",
+            "value"
+          ]
+        }
+      }
+    },
+    "root['items']['properties']['Physiology and metabolism']['properties']['antibiotic resistance']['anyOf'][0]": {
+      "new_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "ChEBI": {
+            "type": "integer"
+          },
+          "metabolite": {
+            "type": "string"
+          },
+          "is antibiotic": {
+            "type": "string"
+          },
+          "is sensitive": {
+            "type": "string"
+          },
+          "is resistant": {
+            "type": "string"
+          },
+          "sensitivity conc.": {
+            "type": "string"
+          },
+          "resistance conc.": {
+            "type": "string"
+          },
+          "is intermediate": {
+            "type": "string"
+          },
+          "intermediate conc.": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "is antibiotic",
+          "metabolite"
+        ]
+      },
+      "old_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "ChEBI": {
+              "type": "integer"
+            },
+            "metabolite": {
+              "type": "string"
+            },
+            "is antibiotic": {
+              "type": "string"
+            },
+            "is resistant": {
+              "type": "string"
+            },
+            "is sensitive": {
+              "type": "string"
+            },
+            "resistance conc.": {
+              "type": "string"
+            },
+            "group ID": {
+              "type": "integer"
+            },
+            "sensitivity conc.": {
+              "type": "string"
+            },
+            "is intermediate": {
+              "type": "string"
+            },
+            "intermediate conc.": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref",
+            "is antibiotic",
+            "metabolite"
+          ]
+        }
+      }
+    },
+    "root['items']['properties']['Physiology and metabolism']['properties']['antibiotic resistance']['anyOf'][1]": {
+      "new_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "ChEBI": {
+              "type": "integer"
+            },
+            "metabolite": {
+              "type": "string"
+            },
+            "is antibiotic": {
+              "type": "string"
+            },
+            "is resistant": {
+              "type": "string"
+            },
+            "is sensitive": {
+              "type": "string"
+            },
+            "resistance conc.": {
+              "type": "string"
+            },
+            "sensitivity conc.": {
+              "type": "string"
+            },
+            "is intermediate": {
+              "type": "string"
+            },
+            "intermediate conc.": {
+              "type": "string"
+            },
+            "group ID": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "@ref",
+            "is antibiotic",
+            "metabolite"
+          ]
+        }
+      },
+      "old_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "ChEBI": {
+            "type": "integer"
+          },
+          "metabolite": {
+            "type": "string"
+          },
+          "is antibiotic": {
+            "type": "string"
+          },
+          "is sensitive": {
+            "type": "string"
+          },
+          "sensitivity conc.": {
+            "type": "string"
+          },
+          "is resistant": {
+            "type": "string"
+          },
+          "resistance conc.": {
+            "type": "string"
+          },
+          "is intermediate": {
+            "type": "string"
+          },
+          "intermediate conc.": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "is antibiotic",
+          "metabolite"
+        ]
+      }
+    },
+    "root['items']['properties']['Physiology and metabolism']['properties']['API coryne']['anyOf'][0]": {
+      "new_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "NIT": {
+              "type": "string"
+            },
+            "PYZ": {
+              "type": "string"
+            },
+            "PYRA": {
+              "type": "string"
+            },
+            "PAL": {
+              "type": "string"
+            },
+            "beta GUR": {
+              "type": "string"
+            },
+            "beta GAL": {
+              "type": "string"
+            },
+            "alpha GLU": {
+              "type": "string"
+            },
+            "beta NAG": {
+              "type": "string"
+            },
+            "ESC": {
+              "type": "string"
+            },
+            "URE": {
+              "type": "string"
+            },
+            "GEL": {
+              "type": "string"
+            },
+            "Control": {
+              "type": "string"
+            },
+            "GLU": {
+              "type": "string"
+            },
+            "RIB": {
+              "type": "string"
+            },
+            "XYL": {
+              "type": "string"
+            },
+            "MAN": {
+              "type": "string"
+            },
+            "MAL": {
+              "type": "string"
+            },
+            "LAC": {
+              "type": "string"
+            },
+            "SAC": {
+              "type": "string"
+            },
+            "GLYG": {
+              "type": "string"
+            },
+            "CAT": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref",
+            "ESC",
+            "GEL"
+          ]
+        }
+      },
+      "old_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "NIT": {
+            "type": "string"
+          },
+          "PYZ": {
+            "type": "string"
+          },
+          "PYRA": {
+            "type": "string"
+          },
+          "PAL": {
+            "type": "string"
+          },
+          "beta GUR": {
+            "type": "string"
+          },
+          "beta GAL": {
+            "type": "string"
+          },
+          "alpha GLU": {
+            "type": "string"
+          },
+          "beta NAG": {
+            "type": "string"
+          },
+          "ESC": {
+            "type": "string"
+          },
+          "URE": {
+            "type": "string"
+          },
+          "GEL": {
+            "type": "string"
+          },
+          "Control": {
+            "type": "string"
+          },
+          "GLU": {
+            "type": "string"
+          },
+          "RIB": {
+            "type": "string"
+          },
+          "XYL": {
+            "type": "string"
+          },
+          "MAN": {
+            "type": "string"
+          },
+          "MAL": {
+            "type": "string"
+          },
+          "LAC": {
+            "type": "string"
+          },
+          "SAC": {
+            "type": "string"
+          },
+          "GLYG": {
+            "type": "string"
+          },
+          "CAT": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "ESC",
+          "GEL",
+          "PAL",
+          "PYRA",
+          "URE",
+          "alpha GLU",
+          "beta GAL",
+          "beta NAG"
+        ]
+      }
+    },
+    "root['items']['properties']['Physiology and metabolism']['properties']['API coryne']['anyOf'][1]": {
+      "new_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "NIT": {
+            "type": "string"
+          },
+          "PYZ": {
+            "type": "string"
+          },
+          "PYRA": {
+            "type": "string"
+          },
+          "PAL": {
+            "type": "string"
+          },
+          "beta GUR": {
+            "type": "string"
+          },
+          "beta GAL": {
+            "type": "string"
+          },
+          "alpha GLU": {
+            "type": "string"
+          },
+          "beta NAG": {
+            "type": "string"
+          },
+          "ESC": {
+            "type": "string"
+          },
+          "URE": {
+            "type": "string"
+          },
+          "GEL": {
+            "type": "string"
+          },
+          "Control": {
+            "type": "string"
+          },
+          "GLU": {
+            "type": "string"
+          },
+          "RIB": {
+            "type": "string"
+          },
+          "XYL": {
+            "type": "string"
+          },
+          "MAN": {
+            "type": "string"
+          },
+          "MAL": {
+            "type": "string"
+          },
+          "LAC": {
+            "type": "string"
+          },
+          "SAC": {
+            "type": "string"
+          },
+          "GLYG": {
+            "type": "string"
+          },
+          "CAT": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "ESC",
+          "GEL",
+          "URE"
+        ]
+      },
+      "old_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "NIT": {
+              "type": "string"
+            },
+            "PYZ": {
+              "type": "string"
+            },
+            "PYRA": {
+              "type": "string"
+            },
+            "PAL": {
+              "type": "string"
+            },
+            "beta GUR": {
+              "type": "string"
+            },
+            "beta GAL": {
+              "type": "string"
+            },
+            "alpha GLU": {
+              "type": "string"
+            },
+            "beta NAG": {
+              "type": "string"
+            },
+            "ESC": {
+              "type": "string"
+            },
+            "URE": {
+              "type": "string"
+            },
+            "GEL": {
+              "type": "string"
+            },
+            "Control": {
+              "type": "string"
+            },
+            "GLU": {
+              "type": "string"
+            },
+            "RIB": {
+              "type": "string"
+            },
+            "XYL": {
+              "type": "string"
+            },
+            "MAN": {
+              "type": "string"
+            },
+            "MAL": {
+              "type": "string"
+            },
+            "LAC": {
+              "type": "string"
+            },
+            "SAC": {
+              "type": "string"
+            },
+            "GLYG": {
+              "type": "string"
+            },
+            "CAT": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref",
+            "ESC",
+            "GEL"
+          ]
+        }
+      }
+    },
+    "root['items']['properties']['Physiology and metabolism']['properties']['API ID32STA']['anyOf'][0]": {
+      "new_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "URE": {
+            "type": "string"
+          },
+          "ADH Arg": {
+            "type": "string"
+          },
+          "ODC": {
+            "type": "string"
+          },
+          "ESC": {
+            "type": "string"
+          },
+          "GLU": {
+            "type": "string"
+          },
+          "FRU": {
+            "type": "string"
+          },
+          "MNE": {
+            "type": "string"
+          },
+          "MAL": {
+            "type": "string"
+          },
+          "LAC": {
+            "type": "string"
+          },
+          "TRE": {
+            "type": "string"
+          },
+          "MAN": {
+            "type": "string"
+          },
+          "RAF": {
+            "type": "string"
+          },
+          "RIB": {
+            "type": "string"
+          },
+          "CEL": {
+            "type": "string"
+          },
+          "NIT": {
+            "type": "string"
+          },
+          "VP": {
+            "type": "string"
+          },
+          "beta GAL": {
+            "type": "string"
+          },
+          "ArgA": {
+            "type": "string"
+          },
+          "PAL": {
+            "type": "string"
+          },
+          "PyrA": {
+            "type": "string"
+          },
+          "NOVO": {
+            "type": "string"
+          },
+          "SAC": {
+            "type": "string"
+          },
+          "NAG": {
+            "type": "string"
+          },
+          "TUR": {
+            "type": "string"
+          },
+          "ARA": {
+            "type": "string"
+          },
+          "beta GUR": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "ADH Arg",
+          "ARA",
+          "ArgA",
+          "CEL",
+          "ESC",
+          "FRU",
+          "GLU",
+          "LAC",
+          "MAL",
+          "MAN",
+          "MNE",
+          "NAG",
+          "NIT",
+          "NOVO",
+          "RAF",
+          "RIB",
+          "SAC",
+          "TRE",
+          "TUR",
+          "URE",
+          "beta GUR"
+        ]
+      },
+      "old_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "URE": {
+              "type": "string"
+            },
+            "ADH Arg": {
+              "type": "string"
+            },
+            "ODC": {
+              "type": "string"
+            },
+            "ESC": {
+              "type": "string"
+            },
+            "GLU": {
+              "type": "string"
+            },
+            "FRU": {
+              "type": "string"
+            },
+            "MNE": {
+              "type": "string"
+            },
+            "MAL": {
+              "type": "string"
+            },
+            "LAC": {
+              "type": "string"
+            },
+            "TRE": {
+              "type": "string"
+            },
+            "MAN": {
+              "type": "string"
+            },
+            "RAF": {
+              "type": "string"
+            },
+            "RIB": {
+              "type": "string"
+            },
+            "CEL": {
+              "type": "string"
+            },
+            "NIT": {
+              "type": "string"
+            },
+            "VP": {
+              "type": "string"
+            },
+            "beta GAL": {
+              "type": "string"
+            },
+            "ArgA": {
+              "type": "string"
+            },
+            "PAL": {
+              "type": "string"
+            },
+            "PyrA": {
+              "type": "string"
+            },
+            "NOVO": {
+              "type": "string"
+            },
+            "SAC": {
+              "type": "string"
+            },
+            "NAG": {
+              "type": "string"
+            },
+            "TUR": {
+              "type": "string"
+            },
+            "ARA": {
+              "type": "string"
+            },
+            "beta GUR": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref",
+            "ADH Arg",
+            "ARA",
+            "ArgA",
+            "ESC",
+            "FRU",
+            "GLU",
+            "MAL",
+            "MAN",
+            "MNE",
+            "NAG",
+            "NOVO",
+            "PAL",
+            "PyrA",
+            "RAF",
+            "SAC",
+            "TRE",
+            "TUR",
+            "URE",
+            "beta GAL"
+          ]
+        }
+      }
+    },
+    "root['items']['properties']['Physiology and metabolism']['properties']['API ID32STA']['anyOf'][1]": {
+      "new_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "URE": {
+              "type": "string"
+            },
+            "ADH Arg": {
+              "type": "string"
+            },
+            "ODC": {
+              "type": "string"
+            },
+            "ESC": {
+              "type": "string"
+            },
+            "GLU": {
+              "type": "string"
+            },
+            "FRU": {
+              "type": "string"
+            },
+            "MNE": {
+              "type": "string"
+            },
+            "MAL": {
+              "type": "string"
+            },
+            "LAC": {
+              "type": "string"
+            },
+            "TRE": {
+              "type": "string"
+            },
+            "MAN": {
+              "type": "string"
+            },
+            "RAF": {
+              "type": "string"
+            },
+            "RIB": {
+              "type": "string"
+            },
+            "CEL": {
+              "type": "string"
+            },
+            "NIT": {
+              "type": "string"
+            },
+            "VP": {
+              "type": "string"
+            },
+            "beta GAL": {
+              "type": "string"
+            },
+            "ArgA": {
+              "type": "string"
+            },
+            "PAL": {
+              "type": "string"
+            },
+            "PyrA": {
+              "type": "string"
+            },
+            "NOVO": {
+              "type": "string"
+            },
+            "SAC": {
+              "type": "string"
+            },
+            "NAG": {
+              "type": "string"
+            },
+            "TUR": {
+              "type": "string"
+            },
+            "ARA": {
+              "type": "string"
+            },
+            "beta GUR": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref",
+            "ADH Arg",
+            "ARA",
+            "ArgA",
+            "ESC",
+            "FRU",
+            "GLU",
+            "MAL",
+            "MAN",
+            "MNE",
+            "NAG",
+            "NOVO",
+            "PAL",
+            "PyrA",
+            "RAF",
+            "SAC",
+            "TRE",
+            "TUR",
+            "URE",
+            "beta GAL"
+          ]
+        }
+      },
+      "old_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "URE": {
+            "type": "string"
+          },
+          "ADH Arg": {
+            "type": "string"
+          },
+          "ODC": {
+            "type": "string"
+          },
+          "ESC": {
+            "type": "string"
+          },
+          "GLU": {
+            "type": "string"
+          },
+          "FRU": {
+            "type": "string"
+          },
+          "MNE": {
+            "type": "string"
+          },
+          "MAL": {
+            "type": "string"
+          },
+          "LAC": {
+            "type": "string"
+          },
+          "TRE": {
+            "type": "string"
+          },
+          "MAN": {
+            "type": "string"
+          },
+          "RAF": {
+            "type": "string"
+          },
+          "RIB": {
+            "type": "string"
+          },
+          "CEL": {
+            "type": "string"
+          },
+          "NIT": {
+            "type": "string"
+          },
+          "VP": {
+            "type": "string"
+          },
+          "beta GAL": {
+            "type": "string"
+          },
+          "ArgA": {
+            "type": "string"
+          },
+          "PAL": {
+            "type": "string"
+          },
+          "PyrA": {
+            "type": "string"
+          },
+          "NOVO": {
+            "type": "string"
+          },
+          "SAC": {
+            "type": "string"
+          },
+          "NAG": {
+            "type": "string"
+          },
+          "TUR": {
+            "type": "string"
+          },
+          "ARA": {
+            "type": "string"
+          },
+          "beta GUR": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "ADH Arg",
+          "ARA",
+          "ArgA",
+          "CEL",
+          "ESC",
+          "FRU",
+          "GLU",
+          "LAC",
+          "MAL",
+          "MAN",
+          "MNE",
+          "NAG",
+          "NIT",
+          "NOVO",
+          "RAF",
+          "RIB",
+          "SAC",
+          "TRE",
+          "TUR",
+          "URE",
+          "beta GUR"
+        ]
+      }
+    },
+    "root['items']['properties']['Physiology and metabolism']['properties']['antibiogram']['anyOf'][0]": {
+      "new_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "medium": {
+            "type": "string"
+          },
+          "Penicillin G": {
+            "type": "string"
+          },
+          "oxacillin": {
+            "type": "string"
+          },
+          "ampicillin": {
+            "type": "string"
+          },
+          "ticarcillin": {
+            "type": "string"
+          },
+          "mezlocillin": {
+            "type": "string"
+          },
+          "cefalotin": {
+            "type": "string"
+          },
+          "cefazolin": {
+            "type": "string"
+          },
+          "cefotaxime": {
+            "type": "string"
+          },
+          "aztreonam": {
+            "type": "string"
+          },
+          "imipenem": {
+            "type": "string"
+          },
+          "tetracycline": {
+            "type": "string"
+          },
+          "chloramphenicol": {
+            "type": "string"
+          },
+          "gentamycin": {
+            "type": "string"
+          },
+          "amikacin": {
+            "type": "string"
+          },
+          "vancomycin": {
+            "type": "string"
+          },
+          "erythromycin": {
+            "type": "string"
+          },
+          "lincomycin": {
+            "type": "string"
+          },
+          "ofloxacin": {
+            "type": "string"
+          },
+          "norfloxacin": {
+            "type": "string"
+          },
+          "colistin": {
+            "type": "string"
+          },
+          "pipemidic acid": {
+            "type": "string"
+          },
+          "nitrofurantoin": {
+            "type": "string"
+          },
+          "bacitracin": {
+            "type": "string"
+          },
+          "polymyxin b": {
+            "type": "string"
+          },
+          "kanamycin": {
+            "type": "string"
+          },
+          "neomycin": {
+            "type": "string"
+          },
+          "doxycycline": {
+            "type": "string"
+          },
+          "ceftriaxone": {
+            "type": "string"
+          },
+          "clindamycin": {
+            "type": "string"
+          },
+          "fosfomycin": {
+            "type": "string"
+          },
+          "moxifloxacin": {
+            "type": "string"
+          },
+          "linezolid": {
+            "type": "string"
+          },
+          "nystatin": {
+            "type": "string"
+          },
+          "quinupristin/dalfopristin": {
+            "type": "string"
+          },
+          "teicoplanin": {
+            "type": "string"
+          },
+          "piperacillin/tazobactam": {
+            "type": "string"
+          },
+          "incubation temperature": {
+            "type": "integer"
+          },
+          "incubation time": {
+            "type": "integer"
+          },
+          "oxygen condition": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "Penicillin G",
+          "amikacin",
+          "ampicillin",
+          "aztreonam",
+          "bacitracin",
+          "cefalotin",
+          "cefazolin",
+          "cefotaxime",
+          "ceftriaxone",
+          "chloramphenicol",
+          "clindamycin",
+          "colistin",
+          "doxycycline",
+          "erythromycin",
+          "fosfomycin",
+          "gentamycin",
+          "imipenem",
+          "kanamycin",
+          "lincomycin",
+          "linezolid",
+          "medium",
+          "mezlocillin",
+          "moxifloxacin",
+          "neomycin",
+          "nitrofurantoin",
+          "norfloxacin",
+          "nystatin",
+          "ofloxacin",
+          "oxacillin",
+          "pipemidic acid",
+          "piperacillin/tazobactam",
+          "polymyxin b",
+          "quinupristin/dalfopristin",
+          "teicoplanin",
+          "tetracycline",
+          "ticarcillin",
+          "vancomycin"
+        ]
+      },
+      "old_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "medium": {
+              "type": "string"
+            },
+            "incubation temperature": {
+              "type": "integer"
+            },
+            "incubation time": {
+              "type": "integer"
+            },
+            "oxygen condition": {
+              "type": "string"
+            },
+            "Penicillin G": {
+              "type": "string"
+            },
+            "oxacillin": {
+              "type": "string"
+            },
+            "ampicillin": {
+              "type": "string"
+            },
+            "ticarcillin": {
+              "type": "string"
+            },
+            "mezlocillin": {
+              "type": "string"
+            },
+            "cefalotin": {
+              "type": "string"
+            },
+            "cefazolin": {
+              "type": "string"
+            },
+            "cefotaxime": {
+              "type": "string"
+            },
+            "aztreonam": {
+              "type": "string"
+            },
+            "imipenem": {
+              "type": "string"
+            },
+            "tetracycline": {
+              "type": "string"
+            },
+            "chloramphenicol": {
+              "type": "string"
+            },
+            "gentamycin": {
+              "type": "string"
+            },
+            "amikacin": {
+              "type": "string"
+            },
+            "vancomycin": {
+              "type": "string"
+            },
+            "erythromycin": {
+              "type": "string"
+            },
+            "lincomycin": {
+              "type": "string"
+            },
+            "ofloxacin": {
+              "type": "string"
+            },
+            "norfloxacin": {
+              "type": "string"
+            },
+            "colistin": {
+              "type": "string"
+            },
+            "pipemidic acid": {
+              "type": "string"
+            },
+            "nitrofurantoin": {
+              "type": "string"
+            },
+            "bacitracin": {
+              "type": "string"
+            },
+            "polymyxin b": {
+              "type": "string"
+            },
+            "kanamycin": {
+              "type": "string"
+            },
+            "neomycin": {
+              "type": "string"
+            },
+            "doxycycline": {
+              "type": "string"
+            },
+            "ceftriaxone": {
+              "type": "string"
+            },
+            "clindamycin": {
+              "type": "string"
+            },
+            "fosfomycin": {
+              "type": "string"
+            },
+            "moxifloxacin": {
+              "type": "string"
+            },
+            "linezolid": {
+              "type": "string"
+            },
+            "nystatin": {
+              "type": "string"
+            },
+            "quinupristin/dalfopristin": {
+              "type": "string"
+            },
+            "teicoplanin": {
+              "type": "string"
+            },
+            "piperacillin/tazobactam": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref",
+            "Penicillin G",
+            "amikacin",
+            "ampicillin",
+            "aztreonam",
+            "bacitracin",
+            "cefalotin",
+            "cefazolin",
+            "cefotaxime",
+            "ceftriaxone",
+            "chloramphenicol",
+            "clindamycin",
+            "colistin",
+            "doxycycline",
+            "erythromycin",
+            "fosfomycin",
+            "gentamycin",
+            "imipenem",
+            "kanamycin",
+            "lincomycin",
+            "linezolid",
+            "medium",
+            "mezlocillin",
+            "moxifloxacin",
+            "neomycin",
+            "nitrofurantoin",
+            "norfloxacin",
+            "nystatin",
+            "ofloxacin",
+            "oxacillin",
+            "pipemidic acid",
+            "piperacillin/tazobactam",
+            "polymyxin b",
+            "quinupristin/dalfopristin",
+            "teicoplanin",
+            "tetracycline",
+            "ticarcillin",
+            "vancomycin"
+          ]
+        }
+      }
+    },
+    "root['items']['properties']['Physiology and metabolism']['properties']['antibiogram']['anyOf'][1]": {
+      "new_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "medium": {
+              "type": "string"
+            },
+            "incubation temperature": {
+              "type": "integer"
+            },
+            "oxygen condition": {
+              "type": "string"
+            },
+            "Penicillin G": {
+              "type": "string"
+            },
+            "oxacillin": {
+              "type": "string"
+            },
+            "ampicillin": {
+              "type": "string"
+            },
+            "ticarcillin": {
+              "type": "string"
+            },
+            "mezlocillin": {
+              "type": "string"
+            },
+            "cefalotin": {
+              "type": "string"
+            },
+            "cefazolin": {
+              "type": "string"
+            },
+            "cefotaxime": {
+              "type": "string"
+            },
+            "aztreonam": {
+              "type": "string"
+            },
+            "imipenem": {
+              "type": "string"
+            },
+            "tetracycline": {
+              "type": "string"
+            },
+            "chloramphenicol": {
+              "type": "string"
+            },
+            "gentamycin": {
+              "type": "string"
+            },
+            "amikacin": {
+              "type": "string"
+            },
+            "vancomycin": {
+              "type": "string"
+            },
+            "erythromycin": {
+              "type": "string"
+            },
+            "lincomycin": {
+              "type": "string"
+            },
+            "ofloxacin": {
+              "type": "string"
+            },
+            "norfloxacin": {
+              "type": "string"
+            },
+            "colistin": {
+              "type": "string"
+            },
+            "pipemidic acid": {
+              "type": "string"
+            },
+            "nitrofurantoin": {
+              "type": "string"
+            },
+            "bacitracin": {
+              "type": "string"
+            },
+            "polymyxin b": {
+              "type": "string"
+            },
+            "kanamycin": {
+              "type": "string"
+            },
+            "neomycin": {
+              "type": "string"
+            },
+            "doxycycline": {
+              "type": "string"
+            },
+            "ceftriaxone": {
+              "type": "string"
+            },
+            "clindamycin": {
+              "type": "string"
+            },
+            "fosfomycin": {
+              "type": "string"
+            },
+            "moxifloxacin": {
+              "type": "string"
+            },
+            "linezolid": {
+              "type": "string"
+            },
+            "nystatin": {
+              "type": "string"
+            },
+            "quinupristin/dalfopristin": {
+              "type": "string"
+            },
+            "teicoplanin": {
+              "type": "string"
+            },
+            "piperacillin/tazobactam": {
+              "type": "string"
+            },
+            "incubation time": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "@ref",
+            "Penicillin G",
+            "amikacin",
+            "ampicillin",
+            "aztreonam",
+            "bacitracin",
+            "cefalotin",
+            "cefazolin",
+            "cefotaxime",
+            "ceftriaxone",
+            "chloramphenicol",
+            "clindamycin",
+            "colistin",
+            "doxycycline",
+            "erythromycin",
+            "fosfomycin",
+            "gentamycin",
+            "imipenem",
+            "kanamycin",
+            "lincomycin",
+            "linezolid",
+            "medium",
+            "mezlocillin",
+            "moxifloxacin",
+            "neomycin",
+            "nitrofurantoin",
+            "norfloxacin",
+            "nystatin",
+            "ofloxacin",
+            "oxacillin",
+            "pipemidic acid",
+            "piperacillin/tazobactam",
+            "polymyxin b",
+            "quinupristin/dalfopristin",
+            "teicoplanin",
+            "tetracycline",
+            "ticarcillin",
+            "vancomycin"
+          ]
+        }
+      },
+      "old_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "medium": {
+            "type": "string"
+          },
+          "incubation temperature": {
+            "type": "integer"
+          },
+          "oxygen condition": {
+            "type": "string"
+          },
+          "Penicillin G": {
+            "type": "string"
+          },
+          "oxacillin": {
+            "type": "string"
+          },
+          "ampicillin": {
+            "type": "string"
+          },
+          "ticarcillin": {
+            "type": "string"
+          },
+          "mezlocillin": {
+            "type": "string"
+          },
+          "cefalotin": {
+            "type": "string"
+          },
+          "cefazolin": {
+            "type": "string"
+          },
+          "cefotaxime": {
+            "type": "string"
+          },
+          "aztreonam": {
+            "type": "string"
+          },
+          "imipenem": {
+            "type": "string"
+          },
+          "tetracycline": {
+            "type": "string"
+          },
+          "chloramphenicol": {
+            "type": "string"
+          },
+          "gentamycin": {
+            "type": "string"
+          },
+          "amikacin": {
+            "type": "string"
+          },
+          "vancomycin": {
+            "type": "string"
+          },
+          "erythromycin": {
+            "type": "string"
+          },
+          "lincomycin": {
+            "type": "string"
+          },
+          "ofloxacin": {
+            "type": "string"
+          },
+          "norfloxacin": {
+            "type": "string"
+          },
+          "colistin": {
+            "type": "string"
+          },
+          "pipemidic acid": {
+            "type": "string"
+          },
+          "nitrofurantoin": {
+            "type": "string"
+          },
+          "bacitracin": {
+            "type": "string"
+          },
+          "polymyxin b": {
+            "type": "string"
+          },
+          "kanamycin": {
+            "type": "string"
+          },
+          "neomycin": {
+            "type": "string"
+          },
+          "doxycycline": {
+            "type": "string"
+          },
+          "ceftriaxone": {
+            "type": "string"
+          },
+          "clindamycin": {
+            "type": "string"
+          },
+          "fosfomycin": {
+            "type": "string"
+          },
+          "moxifloxacin": {
+            "type": "string"
+          },
+          "linezolid": {
+            "type": "string"
+          },
+          "nystatin": {
+            "type": "string"
+          },
+          "quinupristin/dalfopristin": {
+            "type": "string"
+          },
+          "teicoplanin": {
+            "type": "string"
+          },
+          "piperacillin/tazobactam": {
+            "type": "string"
+          },
+          "incubation time": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "@ref",
+          "Penicillin G",
+          "amikacin",
+          "ampicillin",
+          "aztreonam",
+          "bacitracin",
+          "cefalotin",
+          "cefazolin",
+          "cefotaxime",
+          "ceftriaxone",
+          "chloramphenicol",
+          "clindamycin",
+          "colistin",
+          "doxycycline",
+          "erythromycin",
+          "fosfomycin",
+          "gentamycin",
+          "imipenem",
+          "kanamycin",
+          "lincomycin",
+          "linezolid",
+          "medium",
+          "mezlocillin",
+          "moxifloxacin",
+          "neomycin",
+          "nitrofurantoin",
+          "norfloxacin",
+          "nystatin",
+          "ofloxacin",
+          "oxacillin",
+          "pipemidic acid",
+          "piperacillin/tazobactam",
+          "polymyxin b",
+          "quinupristin/dalfopristin",
+          "teicoplanin",
+          "tetracycline",
+          "ticarcillin",
+          "vancomycin"
+        ]
+      }
+    },
+    "root['items']['properties']['Sequence information']['properties']['Genome sequences']['anyOf'][0]": {
+      "new_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "description": {
+              "type": "string"
+            },
+            "accession": {
+              "type": "string"
+            },
+            "assembly level": {
+              "type": "string"
+            },
+            "database": {
+              "type": "string"
+            },
+            "NCBI tax ID": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "@ref",
+            "accession",
+            "database",
+            "description"
+          ]
+        }
+      },
+      "old_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "description": {
+            "type": "string"
+          },
+          "accession": {
+            "type": "string"
+          },
+          "database": {
+            "type": "string"
+          },
+          "NCBI tax ID": {
+            "type": "integer"
+          },
+          "assembly level": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "accession",
+          "database"
+        ]
+      }
+    },
+    "root['items']['properties']['Sequence information']['properties']['Genome sequences']['anyOf'][1]": {
+      "new_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "description": {
+            "type": "string"
+          },
+          "accession": {
+            "type": "string"
+          },
+          "assembly level": {
+            "type": "string"
+          },
+          "database": {
+            "type": "string"
+          },
+          "NCBI tax ID": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "@ref",
+          "NCBI tax ID",
+          "accession",
+          "database",
+          "description"
+        ]
+      },
+      "old_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "description": {
+              "type": "string"
+            },
+            "accession": {
+              "type": "string"
+            },
+            "database": {
+              "type": "string"
+            },
+            "NCBI tax ID": {
+              "type": "integer"
+            },
+            "assembly level": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref",
+            "accession",
+            "database"
+          ]
+        }
+      }
+    },
+    "root['items']['properties']['External links']['properties']['straininfo link']['anyOf'][0]": {
+      "new_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "straininfo": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "@ref",
+          "straininfo"
+        ]
+      },
+      "old_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "passport": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "@ref",
+            "passport"
+          ]
+        }
+      }
+    },
+    "root['items']['properties']['External links']['properties']['straininfo link']['anyOf'][1]": {
+      "new_value": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "@ref": {
+              "type": "integer"
+            },
+            "straininfo": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "@ref",
+            "straininfo"
+          ]
+        }
+      },
+      "old_value": {
+        "type": "object",
+        "properties": {
+          "@ref": {
+            "type": "integer"
+          },
+          "passport": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "@ref",
+          "passport"
+        ]
+      }
+    }
+  },
+  "iterable_item_added": {
+    "root['items']['properties']['Physiology and metabolism']['properties']['API rID32A']['anyOf'][1]['required'][10]": "TyrA",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API 50CHac']['anyOf'][0]['required'][5]": "ARB",
+    "root['items']['required'][3]": "Genome-based predictions"
+  },
+  "iterable_item_removed": {
+    "root['items']['properties']['General']['required'][4]": "keywords",
+    "root['items']['properties']['Name and taxonomic classification']['properties']['LPSN']['required'][1]": "class",
+    "root['items']['properties']['Name and taxonomic classification']['properties']['LPSN']['required'][2]": "description",
+    "root['items']['properties']['Name and taxonomic classification']['properties']['LPSN']['required'][3]": "domain",
+    "root['items']['properties']['Name and taxonomic classification']['properties']['LPSN']['required'][4]": "family",
+    "root['items']['properties']['Name and taxonomic classification']['properties']['LPSN']['required'][7]": "keyword",
+    "root['items']['properties']['Name and taxonomic classification']['properties']['LPSN']['required'][8]": "order",
+    "root['items']['properties']['Name and taxonomic classification']['properties']['LPSN']['required'][9]": "phylum",
+    "root['items']['properties']['Name and taxonomic classification']['required'][1]": "LPSN",
+    "root['items']['properties']['Name and taxonomic classification']['required'][3]": "domain",
+    "root['items']['properties']['Morphology']['properties']['pigmentation']['anyOf'][0]['required'][1]": "production",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API zym']['anyOf'][1]['items']['required'][1]": "Acid phosphatase",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API zym']['anyOf'][1]['items']['required'][2]": "Alkaline phosphatase",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API zym']['anyOf'][1]['items']['required'][4]": "Esterase",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API zym']['anyOf'][1]['items']['required'][5]": "Esterase Lipase",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API zym']['anyOf'][1]['items']['required'][7]": "N-acetyl-beta- glucosaminidase",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API zym']['anyOf'][1]['items']['required'][8]": "Naphthol-AS-BI-phosphohydrolase",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API zym']['anyOf'][1]['items']['required'][11]": "alpha- Fucosidase",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API zym']['anyOf'][1]['items']['required'][12]": "alpha- Galactosidase",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API zym']['anyOf'][1]['items']['required'][13]": "alpha- Glucosidase",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API zym']['anyOf'][1]['items']['required'][14]": "alpha- Mannosidase",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API zym']['anyOf'][1]['items']['required'][15]": "beta- Galactosidase",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API zym']['anyOf'][1]['items']['required'][16]": "beta- Glucosidase",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API rID32A']['anyOf'][0]['items']['required'][1]": "ADH Arg",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API 50CHac']['anyOf'][0]['required'][36]": "Q",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API 50CHac']['anyOf'][1]['items']['required'][3]": "AMY",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API 50CHac']['anyOf'][1]['items']['required'][4]": "ARB",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API 50CHac']['anyOf'][1]['items']['required'][35]": "Q",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API 20NE']['anyOf'][1]['items']['required'][1]": "ADH Arg",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API 20NE']['anyOf'][1]['items']['required'][11]": "MAL",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API 20NE']['anyOf'][1]['items']['required'][14]": "NAG",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API 20NE']['anyOf'][1]['items']['required'][16]": "PNPG",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API 20NE']['anyOf'][1]['items']['required'][17]": "URE",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API LIST']['anyOf'][0]['required'][2]": "DIM",
+    "root['items']['properties']['Physiology and metabolism']['properties']['API LIST']['anyOf'][1]['items']['required'][2]": "DIM",
+    "root['items']['properties']['Safety information']['properties']['risk assessment']['anyOf'][1]['items']['required'][1]": "biosafety level"
+  }
+}

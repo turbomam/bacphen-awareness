@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# OS-generated files
+.DS_Store
+
+# Data directories
+data/
+!data/*schema*
+data/f9182e926889b24b86073cc384097c03/bacdive_strains_genson_schema.json
