@@ -15,5 +15,5 @@ src/bacphen_awareness.egg-info/
 
 # Data directories - exclude large files but keep schemas and smaller files
 # Exclude large JSON files specifically
-data/**/*.json
-!data/**/*schema*.json
+data/input
+data/output/f9182e926889b24b86073cc384097c03/bacdive_strains_as_list.json
