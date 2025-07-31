@@ -1,0 +1,40 @@
+# MongoDB connection options:
+# - Defaults: MONGO_URI=mongodb://localhost:27017, MONGO_DB=bacdive, MONGO_COLLECTION=strains
+# - Override on command line or via environment variables.
+# - Authentication examples:
+#     make MONGO_URI="mongodb://user:pass@localhost:27017" data/bacdive_distinct_value_counts.tsv
+#     make MONGO_URI="mongodb://user:pass@localhost:27017/?authSource=admin" data/bacdive_distinct_value_counts.tsv
+#     make MONGO_URI="mongodb+srv://user:pass@cluster0.mongodb.net" MONGO_DB=bacdive data/bacdive_distinct_value_counts.tsv
+
+PATH_COUNTS_FILE := data/954eac922928d7abfd6130e7cc64a88c/bacdive_strains_path_counts.txt
+MONGO_URI ?= mongodb://localhost:27017
+MONGO_DB ?= bacdive
+MONGO_COLLECTION ?= strains
+
+# Path to BacDive JSON dump
+BACDIVE_JSON := data/954eac922928d7abfd6130e7cc64a88c/bacdive_strains.json
+
+.PHONY: mongo/import mongo/index
+
+# Target: Import BacDive data into MongoDB
+mongo/import: $(BACDIVE_JSON)
+	mongoimport --uri=$(MONGO_URI) \
+	    --db=$(MONGO_DB) \
+	    --collection=$(MONGO_COLLECTION) \
+	    --drop \
+	    --file=$< \
+	    --jsonArray
+
+# Target: Create an index for NCBI tax IDs
+mongo/index:
+	mongosh "$(MONGO_URI)/$(MONGO_DB)" --eval \
+	    'db.$(MONGO_COLLECTION).createIndex({"General.NCBI tax id.NCBI tax id": 1})'
+
+# Target: Generate the distinct value counts report
+data/bacdive_distinct_value_counts.tsv: $(PATH_COUNTS_FILE)
+	uv run bacdive-tools \
+	    --mongo-uri $(MONGO_URI) \
+	    --db $(MONGO_DB) \
+	    --collection $(MONGO_COLLECTION) \
+	    --path-counts-file $< \
+	    --output $@

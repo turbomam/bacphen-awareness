@@ -1,0 +1,2 @@
+[console_scripts]
+bacdive-tools = bacdive_tools.cli:cli

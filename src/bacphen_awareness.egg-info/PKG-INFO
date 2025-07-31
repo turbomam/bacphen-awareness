@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: bacphen-awareness
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: click>=8.2.1
+Requires-Dist: deepdiff>=8.5.0
+Requires-Dist: genson>=1.3.0
+Requires-Dist: pymongo>=4.13.2

@@ -8,4 +8,11 @@ dependencies = [
     "click>=8.2.1",
     "deepdiff>=8.5.0",
     "genson>=1.3.0",
+    "pymongo>=4.13.2",
 ]
+
+[tool.uv]
+package = true
+
+[project.scripts]
+bacdive-tools = "bacdive_tools.cli:cli"
