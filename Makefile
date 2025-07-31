@@ -13,6 +13,11 @@ MONGO_COLLECTION ?= strains
 
 # Path to BacDive JSON dump
 BACDIVE_JSON := data/954eac922928d7abfd6130e7cc64a88c/bacdive_strains.json
+BACDIVE_JSON_OLD := data/f9182e926889b24b86073cc384097c03/bacdive_strains.json
+
+# Output directories
+OUTPUT_DIR_NEW := data/output/954eac922928d7abfd6130e7cc64a88c
+OUTPUT_DIR_OLD := data/output/f9182e926889b24b86073cc384097c03
 
 .PHONY: mongo/import mongo/index
 
@@ -54,6 +59,32 @@ data/bacdive_path_counts_merged.tsv: data/bacdive_distinct_value_counts.tsv data
 # 	uv run export-enum-values \
 # 	    --merged-file $< \
 # 	    --output $@
+
+# JSON Schema Generation Targets
+.PHONY: schemas schema-compare
+
+# Convert dict-first JSON to list format for efficient schema generation
+$(OUTPUT_DIR_OLD)/bacdive_strains_as_list.json: $(BACDIVE_JSON_OLD)
+	@mkdir -p $(OUTPUT_DIR_OLD)
+	jq '[ to_entries[] | .value ]' $< > $@
+
+# Generate schema from new format JSON (efficient)
+$(OUTPUT_DIR_NEW)/bacdive_strains_genson_schema.json: $(BACDIVE_JSON)
+	@mkdir -p $(OUTPUT_DIR_NEW)
+	uv run genson $< | jq > $@
+
+# Generate schema from old format JSON (via list conversion)
+$(OUTPUT_DIR_OLD)/bacdive_strains_as_list_genson_schema.json: $(OUTPUT_DIR_OLD)/bacdive_strains_as_list.json
+	uv run genson $< | jq > $@
+
+# Compare the two schemas using deepdiff
+$(OUTPUT_DIR_OLD)_vs_$(shell basename $(OUTPUT_DIR_NEW))_schema_deep_diff.json: $(OUTPUT_DIR_OLD)/bacdive_strains_as_list_genson_schema.json $(OUTPUT_DIR_NEW)/bacdive_strains_genson_schema.json
+	uv run deep diff $(OUTPUT_DIR_OLD)/bacdive_strains_as_list_genson_schema.json $(OUTPUT_DIR_NEW)/bacdive_strains_genson_schema.json > $@
+
+# Convenience targets
+schemas: $(OUTPUT_DIR_NEW)/bacdive_strains_genson_schema.json $(OUTPUT_DIR_OLD)/bacdive_strains_as_list_genson_schema.json
+
+schema-compare: $(OUTPUT_DIR_OLD)_vs_$(shell basename $(OUTPUT_DIR_NEW))_schema_deep_diff.json
 
 # Enum discovery outputs
 ENUM_OUTPUT_PREFIX := data/bacdive
