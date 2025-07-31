@@ -38,3 +38,9 @@ data/bacdive_distinct_value_counts.tsv: $(PATH_COUNTS_FILE)
 	    --collection $(MONGO_COLLECTION) \
 	    --path-counts-file $< \
 	    --output $@
+
+data/bacdive_path_counts_merged.tsv: data/bacdive_distinct_value_counts.tsv data/954eac922928d7abfd6130e7cc64a88c/bacdive_strains_path_counts.txt
+	uv run merge-path-counts \
+	    --path-counts-file data/954eac922928d7abfd6130e7cc64a88c/bacdive_strains_path_counts.txt \
+	    --distinct-values-file data/bacdive_distinct_value_counts.tsv \
+	    --output $@

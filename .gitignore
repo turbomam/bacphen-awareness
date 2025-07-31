@@ -19,3 +19,4 @@ data/f9182e926889b24b86073cc384097c03/bacdive_strains_genson_schema.json
 .DS_Store
 __pycache__/
 *.egg-info/
+src/bacphen_awareness.egg-info/
