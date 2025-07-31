@@ -1,0 +1,1391 @@
+881660 [].Physiology and metabolism.metabolite utilization.[].metabolite
+881660 [].Physiology and metabolism.metabolite utilization.[].@ref
+881629 [].Physiology and metabolism.metabolite utilization.[].utilization activity
+873084 [].Physiology and metabolism.metabolite utilization.[].kind of utilization tested
+862537 [].Physiology and metabolism.metabolite utilization.[].Chebi-ID
+577932 [].Physiology and metabolism.enzymes.[].value
+577932 [].Physiology and metabolism.enzymes.[].@ref
+577858 [].Physiology and metabolism.enzymes.[].activity
+436013 [].Physiology and metabolism.enzymes.[].ec
+383408 [].Reference.[].@id
+343267 [].Reference.[].authors
+333433 [].Reference.[].doi/url
+302312 [].Reference.[].title
+278413 [].Name and taxonomic classification.LPSN.synonyms.[].synonym
+278413 [].Name and taxonomic classification.LPSN.synonyms.[].@ref
+216839 [].General.keywords.[]
+99392 [].Name and taxonomic classification.type strain
+99392 [].Name and taxonomic classification.species
+99392 [].Name and taxonomic classification.phylum
+99392 [].Name and taxonomic classification.order
+99392 [].Name and taxonomic classification.genus
+99392 [].Name and taxonomic classification.family
+99392 [].Name and taxonomic classification.class
+99392 [].Name and taxonomic classification.@ref
+99392 [].General.doi
+99392 [].General.description
+99392 [].General.BacDive-ID
+99392 [].General.@ref
+99392 [].External links.@ref
+98851 [].Name and taxonomic classification.domain
+98398 [].Name and taxonomic classification.LPSN.species
+98398 [].Name and taxonomic classification.LPSN.genus
+98398 [].Name and taxonomic classification.LPSN.full scientific name
+98398 [].Name and taxonomic classification.LPSN.@ref
+98394 [].Name and taxonomic classification.LPSN.phylum
+98394 [].Name and taxonomic classification.LPSN.order
+98394 [].Name and taxonomic classification.LPSN.keyword
+98394 [].Name and taxonomic classification.LPSN.family
+98394 [].Name and taxonomic classification.LPSN.domain
+98394 [].Name and taxonomic classification.LPSN.description
+98394 [].Name and taxonomic classification.LPSN.class
+94863 [].General.NCBI tax id.NCBI tax id
+94863 [].General.NCBI tax id.Matching level
+81383 [].Isolation, sampling and environmental information.isolation source categories.[].Cat1
+81225 [].Isolation, sampling and environmental information.isolation source categories.[].Cat2
+69887 [].Name and taxonomic classification.strain designation
+68925 [].Culture and growth conditions.culture medium.[].@ref
+68922 [].Culture and growth conditions.culture medium.[].name
+68911 [].Culture and growth conditions.culture medium.[].growth
+67918 [].Physiology and metabolism.fatty acid profile.fatty acids.[].fatty acid
+67918 [].Physiology and metabolism.fatty acid profile.fatty acids.[].@ref
+67907 [].Physiology and metabolism.fatty acid profile.fatty acids.[].percentage
+66774 [].External links.culture collection no.
+63025 [].Culture and growth conditions.culture temp.[].@ref
+62974 [].Culture and growth conditions.culture temp.[].type
+62972 [].Culture and growth conditions.culture temp.[].temperature
+62951 [].Culture and growth conditions.culture temp.[].growth
+62076 [].Reference.[].catalogue
+53741 [].Isolation, sampling and environmental information.isolation source categories.[].Cat3
+49436 [].Physiology and metabolism.fatty acid profile.fatty acids.[].ECL
+48646 [].External links.literature.[].title
+48646 [].External links.literature.[].Pubmed-ID
+48646 [].External links.literature.[].journal
+48643 [].External links.literature.[].year
+48642 [].External links.literature.[].authors
+47138 [].External links.literature.[].DOI
+46201 [].Culture and growth conditions.culture medium.[].composition
+46121 [].Sequence information.Genome sequences.[].description
+46121 [].Sequence information.Genome sequences.[].database
+46121 [].Sequence information.Genome sequences.[].accession
+46121 [].Sequence information.Genome sequences.[].@ref
+46119 [].Sequence information.Genome sequences.[].NCBI tax ID
+45914 [].External links.straininfo link.straininfo
+45914 [].External links.straininfo link.@ref
+45838 [].Sequence information.Genome sequences.[].assembly level
+45384 [].General.keywords
+44689 [].Isolation, sampling and environmental information.isolation.@ref
+44377 [].External links.literature.[].topic
+43182 [].Name and taxonomic classification.full scientific name
+43176 [].External links.literature.[].mesh
+42858 [].Isolation, sampling and environmental information.isolation.sample type
+39136 [].Isolation, sampling and environmental information.isolation.country
+39061 [].Isolation, sampling and environmental information.isolation.continent
+38754 [].Isolation, sampling and environmental information.isolation.origin.country
+35873 [].External links.literature.[].topic2
+34916 [].Isolation, sampling and environmental information.isolation.[].@ref
+32983 [].Culture and growth conditions.culture medium.[].link
+32617 [].Culture and growth conditions.culture temp.@ref
+32616 [].Culture and growth conditions.culture temp.type
+32616 [].Culture and growth conditions.culture temp.temperature
+32616 [].Culture and growth conditions.culture temp.growth
+32204 [].General.strain history.history
+32204 [].General.strain history.@ref
+31353 [].Isolation, sampling and environmental information.isolation.[].sample type
+30687 [].Isolation, sampling and environmental information.isolation.geographic location
+28992 [].General.DSM-Number
+27664 [].Isolation, sampling and environmental information.isolation.[].country
+27420 [].Isolation, sampling and environmental information.isolation.[].continent
+27336 [].Isolation, sampling and environmental information.isolation.[].origin.country
+26678 [].Safety information.risk assessment.@ref
+26677 [].Safety information.risk assessment.biosafety level
+26656 [].Safety information.risk assessment.biosafety level comment
+26301 [].General.strain history.[].history
+26301 [].General.strain history.[].@ref
+24090 [].Name and taxonomic classification.LPSN.synonyms.synonym
+24090 [].Name and taxonomic classification.LPSN.synonyms.@ref
+23157 [].Physiology and metabolism.metabolite production.[].metabolite
+23157 [].Physiology and metabolism.metabolite production.[].@ref
+23154 [].Physiology and metabolism.metabolite production.[].production
+22901 [].Physiology and metabolism.metabolite production.[].Chebi-ID
+21353 [].Sequence information.16S sequences.database
+21353 [].Sequence information.16S sequences.accession
+21353 [].Sequence information.16S sequences.@ref
+21337 [].Sequence information.16S sequences.description
+21086 [].Sequence information.16S sequences.[].database
+21086 [].Sequence information.16S sequences.[].accession
+21086 [].Sequence information.16S sequences.[].@ref
+21062 [].Sequence information.16S sequences.[].description
+20947 [].Sequence information.16S sequences.[].NCBI tax ID
+20942 [].Sequence information.16S sequences.[].length
+20558 [].Sequence information.16S sequences.NCBI tax ID
+20522 [].Sequence information.16S sequences.length
+20475 [].Isolation, sampling and environmental information.isolation.[].geographic location
+19587 [].Culture and growth conditions.culture medium.growth
+19587 [].Culture and growth conditions.culture medium.@ref
+19585 [].Culture and growth conditions.culture medium.name
+19185 [].Reference.[].pubmed
+18955 [].Physiology and metabolism.halophily.[].@ref
+18907 [].Physiology and metabolism.halophily.[].tested relation
+18906 [].Physiology and metabolism.halophily.[].salt
+18906 [].Physiology and metabolism.halophily.[].concentration
+18655 [].Physiology and metabolism.oxygen tolerance.@ref
+18654 [].Physiology and metabolism.oxygen tolerance.oxygen tolerance
+18575 [].Physiology and metabolism.halophily.[].growth
+18343 [].Physiology and metabolism.metabolite tests.[].metabolite
+18343 [].Physiology and metabolism.metabolite tests.[].Chebi-ID
+18343 [].Physiology and metabolism.metabolite tests.[].@ref
+17562 [].Culture and growth conditions.culture medium.link
+17014 [].Physiology and metabolism.antibiotic resistance.[].metabolite
+17014 [].Physiology and metabolism.antibiotic resistance.[].is antibiotic
+17014 [].Physiology and metabolism.antibiotic resistance.[].@ref
+16608 [].Physiology and metabolism.antibiotic resistance.[].ChEBI
+16447 [].Isolation, sampling and environmental information.isolation.sampling date
+15933 [].Physiology and metabolism.metabolite production.production
+15933 [].Physiology and metabolism.metabolite production.metabolite
+15933 [].Physiology and metabolism.metabolite production.@ref
+15836 [].Reference.[].journal
+15710 [].Physiology and metabolism.metabolite production.Chebi-ID
+15655 [].Isolation, sampling and environmental information.taxonmaps.url
+15655 [].Isolation, sampling and environmental information.taxonmaps.Total samples
+15655 [].Isolation, sampling and environmental information.taxonmaps.Last taxonomy
+15655 [].Isolation, sampling and environmental information.taxonmaps.File name
+15655 [].Isolation, sampling and environmental information.taxonmaps.16S sequence
+15655 [].Isolation, sampling and environmental information.taxonmaps.@ref
+15522 [].Culture and growth conditions.culture medium.composition
+15410 [].Isolation, sampling and environmental information.taxonmaps.aquatic counts
+15132 [].Isolation, sampling and environmental information.taxonmaps.soil counts
+15099 [].Isolation, sampling and environmental information.taxonmaps.animal counts
+14072 [].Isolation, sampling and environmental information.taxonmaps.plant counts
+13251 [].Morphology.cell morphology.@ref
+12873 [].Morphology.cell morphology.gram stain
+12463 [].Morphology.cell morphology.cell shape
+12165 [].Sequence information.GC content.[].GC-content
+12165 [].Sequence information.GC content.[].@ref
+12093 [].Physiology and metabolism.metabolite tests.metabolite
+12093 [].Physiology and metabolism.metabolite tests.Chebi-ID
+12093 [].Physiology and metabolism.metabolite tests.@ref
+11860 [].Culture and growth conditions.culture pH.[].type
+11860 [].Culture and growth conditions.culture pH.[].pH
+11860 [].Culture and growth conditions.culture pH.[].ability
+11860 [].Culture and growth conditions.culture pH.[].@ref
+11768 [].Isolation, sampling and environmental information.isolation source categories.Cat1
+11707 [].Isolation, sampling and environmental information.isolation source categories.Cat2
+11411 [].Morphology.cell morphology.motility
+11305 [].Morphology.colony morphology.[].@ref
+10964 [].Physiology and metabolism.API zym.@ref
+10963 [].Physiology and metabolism.API zym.Lipase
+10962 [].Physiology and metabolism.API zym.Trypsin
+10962 [].Physiology and metabolism.API zym.N-acetyl-beta- glucosaminidase
+10962 [].Physiology and metabolism.API zym.Esterase
+10962 [].Physiology and metabolism.API zym.Cystine arylamidase
+10962 [].Physiology and metabolism.API zym.Alkaline phosphatase
+10962 [].Physiology and metabolism.API zym.Acid phosphatase
+10961 [].Physiology and metabolism.API zym.Valine arylamidase
+10961 [].Physiology and metabolism.API zym.Esterase Lipase
+10961 [].Physiology and metabolism.API zym.beta- Glucuronidase
+10961 [].Physiology and metabolism.API zym.beta- Glucosidase
+10961 [].Physiology and metabolism.API zym.alpha- Mannosidase
+10961 [].Physiology and metabolism.API zym.alpha- Glucosidase
+10961 [].Physiology and metabolism.API zym.alpha- Chymotrypsin
+10960 [].Physiology and metabolism.API zym.Naphthol-AS-BI-phosphohydrolase
+10960 [].Physiology and metabolism.API zym.Leucine arylamidase
+10959 [].Physiology and metabolism.API zym.beta- Galactosidase
+10959 [].Physiology and metabolism.API zym.alpha- Fucosidase
+10958 [].Physiology and metabolism.API zym.alpha- Galactosidase
+10636 [].External links.literature.year
+10636 [].External links.literature.title
+10636 [].External links.literature.Pubmed-ID
+10636 [].External links.literature.journal
+10634 [].External links.literature.authors
+10578 [].External links.literature.DOI
+10479 [].Safety information.risk assessment.[].@ref
+10478 [].Safety information.risk assessment.[].biosafety level
+10465 [].External links.literature.topic
+10425 [].Sequence information.GC content.GC-content
+10425 [].Sequence information.GC content.@ref
+10417 [].Physiology and metabolism.antibiotic resistance.[].is sensitive
+10385 [].Physiology and metabolism.oxygen tolerance.[].@ref
+10384 [].Physiology and metabolism.oxygen tolerance.[].oxygen tolerance
+10355 [].Safety information.risk assessment.[].biosafety level comment
+10169 [].Physiology and metabolism.API zym.Control
+10166 [].Physiology and metabolism.observation.[].observation
+10166 [].Physiology and metabolism.observation.[].@ref
+9902 [].External links.literature.mesh
+9775 [].External links.literature.topic2
+9552 [].Morphology.colony morphology.[].medium used
+9408 [].Isolation, sampling and environmental information.isolation source categories.Cat3
+9022 [].Physiology and metabolism.metabolite tests.[].voges-proskauer-test
+8871 [].Morphology.colony morphology.[].colony color
+8588 [].Morphology.multicellular morphology.[].@ref
+8537 [].Morphology.multicellular morphology.[].forms multicellular complex
+8485 [].Morphology.multicellular morphology.[].medium name
+8122 [].Morphology.colony morphology.@ref
+7976 [].Physiology and metabolism.antibiotic resistance.[].sensitivity conc.
+7605 [].Morphology.colony morphology.[].incubation period
+7565 [].General.NCBI tax id.[].NCBI tax id
+7565 [].General.NCBI tax id.[].Matching level
+7416 [].Sequence information.GC content.[].method
+7136 [].Physiology and metabolism.observation.observation
+7136 [].Physiology and metabolism.observation.@ref
+7007 [].Sequence information.GC content.method
+6863 [].Physiology and metabolism.metabolite tests.indole test
+6856 [].Physiology and metabolism.antibiotic resistance.[].is resistant
+6605 [].Morphology.cell morphology.[].@ref
+6592 [].Physiology and metabolism.API 50CHac.XLT
+6592 [].Physiology and metabolism.API 50CHac.TUR
+6592 [].Physiology and metabolism.API 50CHac.TRE
+6592 [].Physiology and metabolism.API 50CHac.TAG
+6592 [].Physiology and metabolism.API 50CHac.SOR
+6592 [].Physiology and metabolism.API 50CHac.SBE
+6592 [].Physiology and metabolism.API 50CHac.SAL
+6592 [].Physiology and metabolism.API 50CHac.RHA
+6592 [].Physiology and metabolism.API 50CHac.RAF
+6592 [].Physiology and metabolism.API 50CHac.NAG
+6592 [].Physiology and metabolism.API 50CHac.MNE
+6592 [].Physiology and metabolism.API 50CHac.MLZ
+6592 [].Physiology and metabolism.API 50CHac.MEL
+6592 [].Physiology and metabolism.API 50CHac.MDX
+6592 [].Physiology and metabolism.API 50CHac.MDM
+6592 [].Physiology and metabolism.API 50CHac.MDG
+6592 [].Physiology and metabolism.API 50CHac.MAN
+6592 [].Physiology and metabolism.API 50CHac.MAL
+6592 [].Physiology and metabolism.API 50CHac.LYX
+6592 [].Physiology and metabolism.API 50CHac.LXYL
+6592 [].Physiology and metabolism.API 50CHac.LFUC
+6592 [].Physiology and metabolism.API 50CHac.LARL
+6592 [].Physiology and metabolism.API 50CHac.LARA
+6592 [].Physiology and metabolism.API 50CHac.LAC
+6592 [].Physiology and metabolism.API 50CHac.INU
+6592 [].Physiology and metabolism.API 50CHac.INO
+6592 [].Physiology and metabolism.API 50CHac.GNT
+6592 [].Physiology and metabolism.API 50CHac.GLYG
+6592 [].Physiology and metabolism.API 50CHac.GLY
+6592 [].Physiology and metabolism.API 50CHac.GLU
+6592 [].Physiology and metabolism.API 50CHac.GAL
+6592 [].Physiology and metabolism.API 50CHac.FRU
+6592 [].Physiology and metabolism.API 50CHac.ESC
+6592 [].Physiology and metabolism.API 50CHac.ERY
+6592 [].Physiology and metabolism.API 50CHac.DXYL
+6592 [].Physiology and metabolism.API 50CHac.DUL
+6592 [].Physiology and metabolism.API 50CHac.DFUC
+6592 [].Physiology and metabolism.API 50CHac.DARL
+6592 [].Physiology and metabolism.API 50CHac.DARA
+6592 [].Physiology and metabolism.API 50CHac.CEL
+6592 [].Physiology and metabolism.API 50CHac.ARB
+6592 [].Physiology and metabolism.API 50CHac.AMY
+6592 [].Physiology and metabolism.API 50CHac.AMD
+6592 [].Physiology and metabolism.API 50CHac.ADO
+6592 [].Physiology and metabolism.API 50CHac.2KG
+6592 [].Physiology and metabolism.API 50CHac.@ref
+6591 [].Physiology and metabolism.API 50CHac.SAC
+6591 [].Physiology and metabolism.API 50CHac.RIB
+6591 [].Physiology and metabolism.API 50CHac.GEN
+6591 [].Physiology and metabolism.API 50CHac.5KG
+6528 [].Morphology.multicellular morphology.forms multicellular complex
+6528 [].Morphology.multicellular morphology.@ref
+6453 [].Morphology.multicellular morphology.complex name
+6006 [].Physiology and metabolism.metabolite tests.[].indole test
+5855 [].Physiology and metabolism.fatty acid profile.[].fatty acids.[].percentage
+5855 [].Physiology and metabolism.fatty acid profile.[].fatty acids.[].fatty acid
+5855 [].Physiology and metabolism.fatty acid profile.[].fatty acids.[].@ref
+5495 [].Physiology and metabolism.antibiotic resistance.[].resistance conc.
+5419 [].Physiology and metabolism.fatty acid profile.type of FA analysis
+5339 [].Morphology.cell morphology.[].gram stain
+5050 [].Physiology and metabolism.spore formation.spore formation
+5050 [].Physiology and metabolism.spore formation.@ref
+4961 [].Morphology.cell morphology.[].cell shape
+4898 [].Physiology and metabolism.fatty acid profile.[].fatty acids.[].ECL
+4532 [].Morphology.colony morphology.incubation period
+4498 [].Morphology.cell morphology.[].motility
+4465 [].Sequence information.Genome sequences.NCBI tax ID
+4465 [].Sequence information.Genome sequences.description
+4465 [].Sequence information.Genome sequences.database
+4465 [].Sequence information.Genome sequences.accession
+4465 [].Sequence information.Genome sequences.@ref
+4459 [].Sequence information.Genome sequences.assembly level
+4409 [].Physiology and metabolism.fatty acid profile.method/protocol
+4247 [].Isolation, sampling and environmental information.isolation.[].isolation date
+4228 [].Physiology and metabolism.metabolite tests.voges-proskauer-test
+4163 [].Physiology and metabolism.antibiotic resistance.metabolite
+4163 [].Physiology and metabolism.antibiotic resistance.is antibiotic
+4163 [].Physiology and metabolism.antibiotic resistance.@ref
+4095 [].Reference.[].ID_cross_reference
+4090 [].Morphology.pigmentation.@ref
+4088 [].Morphology.pigmentation.production
+4037 [].Morphology.cell morphology.cell length
+3992 [].Morphology.multicellular morphology.[].complex name
+3930 [].Morphology.cell morphology.cell width
+3878 [].Culture and growth conditions.culture pH.[].PH range
+3759 [].Physiology and metabolism.antibiotic resistance.is resistant
+3599 [].Physiology and metabolism.API biotype100.TTE
+3599 [].Physiology and metabolism.API biotype100.TRY
+3599 [].Physiology and metabolism.API biotype100.TRE
+3599 [].Physiology and metabolism.API biotype100.TATE
+3599 [].Physiology and metabolism.API biotype100.SOR
+3599 [].Physiology and metabolism.API biotype100.SAT
+3599 [].Physiology and metabolism.API biotype100.SAC
+3599 [].Physiology and metabolism.API biotype100.RIB
+3599 [].Physiology and metabolism.API biotype100.RHA
+3599 [].Physiology and metabolism.API biotype100.pOBE
+3599 [].Physiology and metabolism.API biotype100.PLE
+3599 [].Physiology and metabolism.API biotype100.PAT
+3599 [].Physiology and metabolism.API biotype100.PAC
+3599 [].Physiology and metabolism.API biotype100.NAG
+3599 [].Physiology and metabolism.API biotype100.MUC
+3599 [].Physiology and metabolism.API biotype100.MTL
+3599 [].Physiology and metabolism.API biotype100.MTE
+3599 [].Physiology and metabolism.API biotype100.MTAT
+3599 [].Physiology and metabolism.API biotype100.MLZ
+3599 [].Physiology and metabolism.API biotype100.MEL
+3599 [].Physiology and metabolism.API biotype100.MDG
+3599 [].Physiology and metabolism.API biotype100.MbGu
+3599 [].Physiology and metabolism.API biotype100.MbGa
+3599 [].Physiology and metabolism.API biotype100.MAN
+3599 [].Physiology and metabolism.API biotype100.MaGa
+3599 [].Physiology and metabolism.API biotype100.LTE
+3599 [].Physiology and metabolism.API biotype100.LTAT
+3599 [].Physiology and metabolism.API biotype100.LMLT
+3599 [].Physiology and metabolism.API biotype100.INO
+3599 [].Physiology and metabolism.API biotype100.HBG
+3599 [].Physiology and metabolism.API biotype100.GRT
+3599 [].Physiology and metabolism.API biotype100.GNT
+3599 [].Physiology and metabolism.API biotype100.GEN
+3599 [].Physiology and metabolism.API biotype100.GAT
+3599 [].Physiology and metabolism.API biotype100.GAL
+3599 [].Physiology and metabolism.API biotype100.ESC
+3599 [].Physiology and metabolism.API biotype100.ERY
+3599 [].Physiology and metabolism.API biotype100.DTAT
+3599 [].Physiology and metabolism.API biotype100.DMLT
+3599 [].Physiology and metabolism.API biotype100.CIT
+3599 [].Physiology and metabolism.API biotype100.CEL
+3599 [].Physiology and metabolism.API biotype100.CATE
+3599 [].Physiology and metabolism.API biotype100.5KG
+3599 [].Physiology and metabolism.API biotype100.3MDG
+3599 [].Physiology and metabolism.API biotype100.2KG
+3599 [].Physiology and metabolism.API biotype100.@ref
+3598 [].Physiology and metabolism.API biotype100.XYL
+3598 [].Physiology and metabolism.API biotype100.XLT
+3598 [].Physiology and metabolism.API biotype100.TUR
+3598 [].Physiology and metabolism.API biotype100.TAG
+3598 [].Physiology and metabolism.API biotype100.SBE
+3598 [].Physiology and metabolism.API biotype100.RAF
+3598 [].Physiology and metabolism.API biotype100.MNE
+3598 [].Physiology and metabolism.API biotype100.MAL
+3598 [].Physiology and metabolism.API biotype100.LYX
+3598 [].Physiology and metabolism.API biotype100.LARL
+3598 [].Physiology and metabolism.API biotype100.LAC
+3598 [].Physiology and metabolism.API biotype100.GLY
+3598 [].Physiology and metabolism.API biotype100.GLU
+3598 [].Physiology and metabolism.API biotype100.FUC
+3598 [].Physiology and metabolism.API biotype100.FRU
+3598 [].Physiology and metabolism.API biotype100.DUL
+3598 [].Physiology and metabolism.API biotype100.DARL
+3598 [].Physiology and metabolism.API biotype100.ARA
+3598 [].Physiology and metabolism.API biotype100.ADO
+3597 [].Physiology and metabolism.API biotype100.TGE
+3597 [].Physiology and metabolism.API biotype100.SUC
+3597 [].Physiology and metabolism.API biotype100.QAT
+3597 [].Physiology and metabolism.API biotype100.PPAT
+3597 [].Physiology and metabolism.API biotype100.PCE
+3597 [].Physiology and metabolism.API biotype100.mOBE
+3597 [].Physiology and metabolism.API biotype100.LAT
+3597 [].Physiology and metabolism.API biotype100.HIS
+3597 [].Physiology and metabolism.API biotype100.HIN
+3597 [].Physiology and metabolism.API biotype100.GTE
+3597 [].Physiology and metabolism.API biotype100.CYT
+3597 [].Physiology and metabolism.API biotype100.CMT
+3597 [].Physiology and metabolism.API biotype100.CAP
+3597 [].Physiology and metabolism.API biotype100.BET
+3597 [].Physiology and metabolism.API biotype100.BAT
+3597 [].Physiology and metabolism.API biotype100.ABT
+3594 [].Physiology and metabolism.API biotype100.TTN
+3594 [].Physiology and metabolism.API biotype100.SER
+3594 [].Physiology and metabolism.API biotype100.PRO
+3594 [].Physiology and metabolism.API biotype100.MNT
+3594 [].Physiology and metabolism.API biotype100.LALA
+3594 [].Physiology and metabolism.API biotype100.ITA
+3594 [].Physiology and metabolism.API biotype100.GYT
+3594 [].Physiology and metabolism.API biotype100.GTT
+3594 [].Physiology and metabolism.API biotype100.GRE
+3594 [].Physiology and metabolism.API biotype100.GLN
+3594 [].Physiology and metabolism.API biotype100.FUM
+3594 [].Physiology and metabolism.API biotype100.ETN
+3594 [].Physiology and metabolism.API biotype100.DALA
+3594 [].Physiology and metabolism.API biotype100.AVT
+3594 [].Physiology and metabolism.API biotype100.APT
+3594 [].Physiology and metabolism.API biotype100.3OBU
+3593 [].Physiology and metabolism.API biotype100.TYR
+3593 [].Physiology and metabolism.API biotype100.PROP
+3593 [].Physiology and metabolism.API biotype100.2KT
+3452 [].Physiology and metabolism.API rID32STR.TRE
+3452 [].Physiology and metabolism.API rID32STR.TAG
+3452 [].Physiology and metabolism.API rID32STR.SOR
+3452 [].Physiology and metabolism.API rID32STR.SAC
+3452 [].Physiology and metabolism.API rID32STR.RIB
+3452 [].Physiology and metabolism.API rID32STR.PyrA
+3452 [].Physiology and metabolism.API rID32STR.PAL
+3452 [].Physiology and metabolism.API rID32STR.MEL
+3452 [].Physiology and metabolism.API rID32STR.Mbeta DG
+3452 [].Physiology and metabolism.API rID32STR.MAN
+3452 [].Physiology and metabolism.API rID32STR.MAL
+3452 [].Physiology and metabolism.API rID32STR.LARA
+3452 [].Physiology and metabolism.API rID32STR.LAC
+3452 [].Physiology and metabolism.API rID32STR.HIP
+3452 [].Physiology and metabolism.API rID32STR.GTA
+3452 [].Physiology and metabolism.API rID32STR.DARL
+3452 [].Physiology and metabolism.API rID32STR.beta NAG
+3452 [].Physiology and metabolism.API rID32STR.beta MAN
+3452 [].Physiology and metabolism.API rID32STR.beta GUR
+3452 [].Physiology and metabolism.API rID32STR.beta GLU
+3452 [].Physiology and metabolism.API rID32STR.beta GAR
+3452 [].Physiology and metabolism.API rID32STR.alpha GAL
+3452 [].Physiology and metabolism.API rID32STR.ADH Arg
+3452 [].Physiology and metabolism.API rID32STR.@ref
+3451 [].Physiology and metabolism.API rID32STR.RAF
+3451 [].Physiology and metabolism.API rID32STR.PUL
+3451 [].Physiology and metabolism.API rID32STR.MLZ
+3451 [].Physiology and metabolism.API rID32STR.GLYG
+3450 [].Physiology and metabolism.API rID32STR.URE
+3450 [].Physiology and metabolism.API rID32STR.beta GAL
+3450 [].Physiology and metabolism.API rID32STR.APPA
+3448 [].Physiology and metabolism.API rID32STR.CDEX
+3447 [].Physiology and metabolism.API rID32STR.VP
+3425 [].Morphology.multimedia.[].multimedia content
+3425 [].Morphology.multimedia.[].intellectual property rights
+3425 [].Morphology.multimedia.[].@ref
+3380 [].Physiology and metabolism.antibiotic resistance.is sensitive
+3342 [].Isolation, sampling and environmental information.isolation.latitude
+3341 [].Isolation, sampling and environmental information.isolation.longitude
+3304 [].Physiology and metabolism.API 20NE.URE
+3304 [].Physiology and metabolism.API 20NE.PAC
+3304 [].Physiology and metabolism.API 20NE.NAG
+3304 [].Physiology and metabolism.API 20NE.MNE
+3304 [].Physiology and metabolism.API 20NE.MLT
+3304 [].Physiology and metabolism.API 20NE.MAN
+3304 [].Physiology and metabolism.API 20NE.MAL
+3304 [].Physiology and metabolism.API 20NE.GNT
+3304 [].Physiology and metabolism.API 20NE.GLU_ Ferm
+3304 [].Physiology and metabolism.API 20NE.GEL
+3304 [].Physiology and metabolism.API 20NE.ESC
+3304 [].Physiology and metabolism.API 20NE.CIT
+3304 [].Physiology and metabolism.API 20NE.CAP
+3304 [].Physiology and metabolism.API 20NE.ARA
+3304 [].Physiology and metabolism.API 20NE.ADI
+3304 [].Physiology and metabolism.API 20NE.ADH Arg
+3304 [].Physiology and metabolism.API 20NE.@ref
+3303 [].Physiology and metabolism.API 20NE.PNPG
+3302 [].Physiology and metabolism.API 20NE.TRP
+3302 [].Physiology and metabolism.API 20NE.GLU_ Assim
+3295 [].Physiology and metabolism.API 20NE.NO3
+3254 [].Morphology.multimedia.[].caption
+3219 [].Physiology and metabolism.metabolite tests.[].methylred-test
+3209 [].Physiology and metabolism.halophily.@ref
+3200 [].Physiology and metabolism.halophily.tested relation
+3200 [].Physiology and metabolism.halophily.salt
+3199 [].Physiology and metabolism.halophily.concentration
+3177 [].Physiology and metabolism.halophily.growth
+3143 [].Physiology and metabolism.API coryne.URE
+3143 [].Physiology and metabolism.API coryne.GEL
+3143 [].Physiology and metabolism.API coryne.ESC
+3143 [].Physiology and metabolism.API coryne.@ref
+3142 [].Physiology and metabolism.API coryne.PYRA
+3142 [].Physiology and metabolism.API coryne.PAL
+3142 [].Physiology and metabolism.API coryne.beta NAG
+3142 [].Physiology and metabolism.API coryne.beta GAL
+3142 [].Physiology and metabolism.API coryne.alpha GLU
+3141 [].Physiology and metabolism.API coryne.beta GUR
+3135 [].Physiology and metabolism.API coryne.SAC
+3132 [].Physiology and metabolism.API coryne.PYZ
+3076 [].Physiology and metabolism.API 20E.@ref
+3075 [].Physiology and metabolism.API coryne.XYL
+3075 [].Physiology and metabolism.API coryne.RIB
+3075 [].Physiology and metabolism.API coryne.MAN
+3075 [].Physiology and metabolism.API coryne.LAC
+3075 [].Physiology and metabolism.API 20E.URE
+3075 [].Physiology and metabolism.API 20E.H2S
+3074 [].Physiology and metabolism.API 20E.ODC
+3073 [].Physiology and metabolism.API coryne.NIT
+3073 [].Physiology and metabolism.API coryne.GLYG
+3073 [].Physiology and metabolism.API 20E.CIT
+3072 [].Physiology and metabolism.API 20E.TDA Trp
+3072 [].Physiology and metabolism.API 20E.ONPG
+3072 [].Physiology and metabolism.API 20E.LDC Lys
+3070 [].Physiology and metabolism.API 20E.IND
+3070 [].Physiology and metabolism.API 20E.ADH Arg
+3069 [].Physiology and metabolism.API 20E.GEL
+3063 [].Physiology and metabolism.API 20E.VP
+3049 [].Physiology and metabolism.API coryne.MAL
+3022 [].Morphology.multimedia.multimedia content
+3022 [].Morphology.multimedia.intellectual property rights
+3022 [].Morphology.multimedia.@ref
+2906 [].Isolation, sampling and environmental information.isolation.isolation date
+2884 [].Physiology and metabolism.API coryne.GLU
+2717 [].Physiology and metabolism.API 20NE.OX
+2649 [].Morphology.colony morphology.colony color
+2549 [].Physiology and metabolism.compound production.[].@ref
+2548 [].Physiology and metabolism.compound production.[].compound
+2523 [].Safety information.risk assessment.pathogenicity human
+2500 [].Morphology.colony morphology.medium used
+2499 [].Morphology.multicellular morphology.[].complex color
+2450 [].Physiology and metabolism.API 20E.GLU
+2389 [].Physiology and metabolism.API coryne.Control
+2306 [].Isolation, sampling and environmental information.isolation.[].longitude
+2306 [].Isolation, sampling and environmental information.isolation.[].latitude
+2266 [].Morphology.colony morphology.colony shape
+2261 [].Physiology and metabolism.API coryne.CAT
+2158 [].Morphology.multimedia.caption
+2074 [].Isolation, sampling and environmental information.isolation.host species
+2068 [].Safety information.risk assessment.pathogenicity animal
+2020 [].Morphology.cell morphology.[].cell length
+1996 [].Morphology.cell morphology.[].cell width
+1902 [].Isolation, sampling and environmental information.isolation.[].sampling date
+1877 [].Physiology and metabolism.API rID32A.TyrA
+1877 [].Physiology and metabolism.API rID32A.ProA
+1877 [].Physiology and metabolism.API rID32A.PheA
+1877 [].Physiology and metabolism.API rID32A.PAL
+1877 [].Physiology and metabolism.API rID32A.MNE
+1877 [].Physiology and metabolism.API rID32A.LGA
+1877 [].Physiology and metabolism.API rID32A.LeuA
+1877 [].Physiology and metabolism.API rID32A.beta GUR
+1877 [].Physiology and metabolism.API rID32A.beta GLU
+1877 [].Physiology and metabolism.API rID32A.beta GAL
+1877 [].Physiology and metabolism.API rID32A.ArgA
+1877 [].Physiology and metabolism.API rID32A.alpha ARA
+1877 [].Physiology and metabolism.API rID32A.AlaA
+1877 [].Physiology and metabolism.API rID32A.ADH Arg
+1877 [].Physiology and metabolism.API rID32A.@ref
+1876 [].Physiology and metabolism.API rID32A.URE
+1876 [].Physiology and metabolism.API rID32A.RAF
+1876 [].Physiology and metabolism.API rID32A.GDC
+1876 [].Physiology and metabolism.API rID32A.beta NAG
+1876 [].Physiology and metabolism.API rID32A.alpha GAL
+1876 [].Physiology and metabolism.API rID32A.alpha FUC
+1875 [].Physiology and metabolism.API rID32A.PyrA
+1875 [].Physiology and metabolism.API rID32A.IND
+1875 [].Physiology and metabolism.API rID32A.alpha GLU
+1874 [].Physiology and metabolism.API rID32A.GlyA
+1873 [].Physiology and metabolism.API rID32A.NIT
+1873 [].Physiology and metabolism.API rID32A.HisA
+1872 [].Physiology and metabolism.API rID32A.GGA
+1871 [].Physiology and metabolism.API rID32A.SerA
+1851 [].Physiology and metabolism.API rID32A.beta GP
+1840 [].Physiology and metabolism.API 20E.SAC
+1840 [].Physiology and metabolism.API 20E.MEL
+1839 [].Physiology and metabolism.API 20E.Sor
+1839 [].Physiology and metabolism.API 20E.RHA
+1839 [].Physiology and metabolism.API 20E.INO
+1830 [].Isolation, sampling and environmental information.isolation.[].host species
+1637 [].Physiology and metabolism.API zym.[].Trypsin
+1637 [].Physiology and metabolism.API zym.[].Lipase
+1637 [].Physiology and metabolism.API zym.[].Cystine arylamidase
+1637 [].Physiology and metabolism.API zym.[].alpha- Chymotrypsin
+1637 [].Physiology and metabolism.API zym.[].@ref
+1636 [].Physiology and metabolism.API zym.[].N-acetyl-beta- glucosaminidase
+1636 [].Physiology and metabolism.API zym.[].Esterase Lipase
+1636 [].Physiology and metabolism.API zym.[].Esterase
+1636 [].Physiology and metabolism.API zym.[].beta- Galactosidase
+1636 [].Physiology and metabolism.API zym.[].alpha- Mannosidase
+1636 [].Physiology and metabolism.API zym.[].alpha- Galactosidase
+1636 [].Physiology and metabolism.API zym.[].alpha- Fucosidase
+1636 [].Physiology and metabolism.API zym.[].Alkaline phosphatase
+1635 [].Physiology and metabolism.API zym.[].Valine arylamidase
+1635 [].Physiology and metabolism.API zym.[].Naphthol-AS-BI-phosphohydrolase
+1635 [].Physiology and metabolism.API zym.[].Leucine arylamidase
+1635 [].Physiology and metabolism.API zym.[].beta- Glucuronidase
+1635 [].Physiology and metabolism.API zym.[].beta- Glucosidase
+1635 [].Physiology and metabolism.API zym.[].alpha- Glucosidase
+1635 [].Physiology and metabolism.API zym.[].Acid phosphatase
+1623 [].Morphology.colony morphology.colony size
+1621 [].Physiology and metabolism.fatty acid profile.system
+1615 [].Physiology and metabolism.compound production.@ref
+1609 [].Physiology and metabolism.compound production.compound
+1544 [].Physiology and metabolism.fatty acid profile.incubation medium
+1522 [].Physiology and metabolism.API 20E.MAN
+1522 [].Physiology and metabolism.API 20E.ARA
+1522 [].Physiology and metabolism.API 20E.AMY
+1508 [].Physiology and metabolism.antibiotic resistance.[].group ID
+1473 [].Physiology and metabolism.fatty acid profile.incubation temperature
+1423 [].Physiology and metabolism.API ID32E.URE
+1423 [].Physiology and metabolism.API ID32E.TRE
+1423 [].Physiology and metabolism.API ID32E.SOR
+1423 [].Physiology and metabolism.API ID32E.SAC
+1423 [].Physiology and metabolism.API ID32E.RP
+1423 [].Physiology and metabolism.API ID32E.RHA
+1423 [].Physiology and metabolism.API ID32E.PLE
+1423 [].Physiology and metabolism.API ID32E.ODC
+1423 [].Physiology and metabolism.API ID32E.LDC Lys
+1423 [].Physiology and metabolism.API ID32E.LARL
+1423 [].Physiology and metabolism.API ID32E.LARA
+1423 [].Physiology and metabolism.API ID32E.INO
+1423 [].Physiology and metabolism.API ID32E.GLU
+1423 [].Physiology and metabolism.API ID32E.GAT
+1423 [].Physiology and metabolism.API ID32E.DARL
+1423 [].Physiology and metabolism.API ID32E.CEL
+1423 [].Physiology and metabolism.API ID32E.beta GUR
+1423 [].Physiology and metabolism.API ID32E.beta GLU
+1423 [].Physiology and metabolism.API ID32E.beta GAL
+1423 [].Physiology and metabolism.API ID32E.alphaMAL
+1423 [].Physiology and metabolism.API ID32E.alpha GAL
+1423 [].Physiology and metabolism.API ID32E.ADO
+1423 [].Physiology and metabolism.API ID32E.ADH Arg
+1423 [].Physiology and metabolism.API ID32E.5KG
+1423 [].Physiology and metabolism.API ID32E.@ref
+1422 [].Physiology and metabolism.API ID32E.MNT
+1422 [].Physiology and metabolism.API ID32E.MAL
+1422 [].Physiology and metabolism.API ID32E.alpha GLU
+1421 [].Physiology and metabolism.API ID32E.MAN
+1421 [].Physiology and metabolism.API ID32E.LIP
+1420 [].Physiology and metabolism.API ID32E.IND
+1419 [].Physiology and metabolism.API ID32E.beta NAG
+1419 [].Physiology and metabolism.API ID32E.AspA
+1307 [].Physiology and metabolism.murein.@ref
+1304 [].Physiology and metabolism.murein.type
+1303 [].Physiology and metabolism.murein.murein short key
+1289 [].Physiology and metabolism.API 20NE.[].PAC
+1289 [].Physiology and metabolism.API 20NE.[].MNE
+1289 [].Physiology and metabolism.API 20NE.[].MLT
+1289 [].Physiology and metabolism.API 20NE.[].GNT
+1289 [].Physiology and metabolism.API 20NE.[].GLU_ Ferm
+1289 [].Physiology and metabolism.API 20NE.[].GLU_ Assim
+1289 [].Physiology and metabolism.API 20NE.[].GEL
+1289 [].Physiology and metabolism.API 20NE.[].ESC
+1289 [].Physiology and metabolism.API 20NE.[].CIT
+1289 [].Physiology and metabolism.API 20NE.[].CAP
+1289 [].Physiology and metabolism.API 20NE.[].ARA
+1289 [].Physiology and metabolism.API 20NE.[].ADI
+1289 [].Physiology and metabolism.API 20NE.[].@ref
+1288 [].Physiology and metabolism.API 20NE.[].URE
+1288 [].Physiology and metabolism.API 20NE.[].TRP
+1288 [].Physiology and metabolism.API 20NE.[].PNPG
+1288 [].Physiology and metabolism.API 20NE.[].NAG
+1288 [].Physiology and metabolism.API 20NE.[].MAN
+1288 [].Physiology and metabolism.API 20NE.[].MAL
+1287 [].Physiology and metabolism.API 20NE.[].NO3
+1287 [].Physiology and metabolism.API 20NE.[].ADH Arg
+1264 [].Physiology and metabolism.API 20E.OX
+1240 [].Physiology and metabolism.antibiotic resistance.ChEBI
+1235 [].Physiology and metabolism.fatty acid profile.incubation time
+1203 [].Physiology and metabolism.API 50CHac.Q
+1200 [].Physiology and metabolism.API NH.URE
+1200 [].Physiology and metabolism.API NH.SAC
+1200 [].Physiology and metabolism.API NH.PAL
+1200 [].Physiology and metabolism.API NH.ODC
+1200 [].Physiology and metabolism.API NH.MAL
+1200 [].Physiology and metabolism.API NH.LIP
+1200 [].Physiology and metabolism.API NH.GLU
+1200 [].Physiology and metabolism.API NH.FRU
+1200 [].Physiology and metabolism.API NH.beta GAL
+1200 [].Physiology and metabolism.API NH.@ref
+1199 [].Physiology and metabolism.API NH.ProA
+1199 [].Physiology and metabolism.API NH.GGT
+1198 [].Physiology and metabolism.API NH.IND
+1187 [].Physiology and metabolism.fatty acid profile.library/peak naming table
+1180 [].Morphology.colony morphology.hemolysis ability
+1147 [].Culture and growth conditions.culture pH.type
+1147 [].Culture and growth conditions.culture pH.pH
+1147 [].Culture and growth conditions.culture pH.ability
+1147 [].Culture and growth conditions.culture pH.@ref
+1131 [].Isolation, sampling and environmental information.isolation.[].enrichment culture
+1129 [].Physiology and metabolism.API zym.[].Control
+1103 [].Physiology and metabolism.API 20NE.[].OX
+1084 [].Physiology and metabolism.fatty acid profile.software version
+1049 [].Physiology and metabolism.API NH.PEN
+1019 [].Physiology and metabolism.API 20E.NO2
+ 998 [].Physiology and metabolism.API 20E.[].ONPG
+ 998 [].Physiology and metabolism.API 20E.[].@ref
+ 997 [].Isolation, sampling and environmental information.isolation.[].enrichment culture temperature
+ 996 [].Physiology and metabolism.metabolite tests.methylred-test
+ 996 [].Physiology and metabolism.API 20E.[].URE
+ 996 [].Physiology and metabolism.API 20E.[].ODC
+ 996 [].Physiology and metabolism.API 20E.[].LDC Lys
+ 996 [].Physiology and metabolism.API 20E.[].H2S
+ 996 [].Physiology and metabolism.API 20E.[].GEL
+ 996 [].Physiology and metabolism.API 20E.[].CIT
+ 996 [].Physiology and metabolism.API 20E.[].ADH Arg
+ 994 [].Physiology and metabolism.API 20E.[].VP
+ 991 [].Physiology and metabolism.API 20E.[].TDA Trp
+ 991 [].Physiology and metabolism.API 20E.[].IND
+ 988 [].Physiology and metabolism.API 20E.[].GLU
+ 987 [].Physiology and metabolism.API 20E.[].Sor
+ 987 [].Physiology and metabolism.API 20E.[].RHA
+ 987 [].Physiology and metabolism.API 20E.[].MAN
+ 987 [].Physiology and metabolism.API 20E.[].INO
+ 987 [].Physiology and metabolism.API 20E.[].ARA
+ 987 [].Physiology and metabolism.API 20E.[].AMY
+ 985 [].Physiology and metabolism.API 20E.[].SAC
+ 985 [].Physiology and metabolism.API 20E.[].MEL
+ 967 [].Physiology and metabolism.fatty acid profile.agar/liquid
+ 967 [].Morphology.pigmentation.[].production
+ 967 [].Morphology.pigmentation.[].@ref
+ 943 [].Physiology and metabolism.API rID32A.[].MNE
+ 943 [].Physiology and metabolism.API rID32A.[].beta GP
+ 943 [].Physiology and metabolism.API rID32A.[].beta GLU
+ 943 [].Physiology and metabolism.API rID32A.[].beta GAL
+ 943 [].Physiology and metabolism.API rID32A.[].alpha GLU
+ 943 [].Physiology and metabolism.API rID32A.[].alpha ARA
+ 943 [].Physiology and metabolism.API rID32A.[].@ref
+ 942 [].Physiology and metabolism.API rID32A.[].RAF
+ 942 [].Physiology and metabolism.API rID32A.[].PheA
+ 942 [].Physiology and metabolism.API rID32A.[].PAL
+ 942 [].Physiology and metabolism.API rID32A.[].beta NAG
+ 942 [].Physiology and metabolism.API rID32A.[].beta GUR
+ 942 [].Physiology and metabolism.API rID32A.[].ArgA
+ 942 [].Physiology and metabolism.API rID32A.[].ADH Arg
+ 941 [].Physiology and metabolism.API rID32A.[].PyrA
+ 941 [].Physiology and metabolism.API rID32A.[].ProA
+ 941 [].Physiology and metabolism.API rID32A.[].LeuA
+ 941 [].Physiology and metabolism.API rID32A.[].alpha GAL
+ 941 [].Physiology and metabolism.API rID32A.[].AlaA
+ 940 [].Physiology and metabolism.API rID32A.[].URE
+ 940 [].Physiology and metabolism.API rID32A.[].TyrA
+ 940 [].Physiology and metabolism.API rID32A.[].LGA
+ 940 [].Physiology and metabolism.API rID32A.[].GlyA
+ 940 [].Physiology and metabolism.API rID32A.[].GDC
+ 940 [].Physiology and metabolism.API rID32A.[].alpha FUC
+ 936 [].Physiology and metabolism.API rID32A.[].IND
+ 934 [].Physiology and metabolism.API rID32A.[].HisA
+ 933 [].Physiology and metabolism.API rID32A.[].NIT
+ 931 [].Physiology and metabolism.API rID32A.[].GGA
+ 929 [].Physiology and metabolism.API rID32A.[].SerA
+ 867 [].Morphology.pigmentation.name
+ 848 [].Isolation, sampling and environmental information.isolation.[].enrichment culture duration
+ 813 [].Morphology.pigmentation.[].name
+ 797 [].Physiology and metabolism.spore formation.[].spore formation
+ 797 [].Physiology and metabolism.spore formation.[].@ref
+ 770 [].Physiology and metabolism.antibiotic resistance.resistance conc.
+ 747 [].Physiology and metabolism.API 20E.N2
+ 736 [].Physiology and metabolism.API 20E.[].OX
+ 732 [].Physiology and metabolism.API 50CHac.[].XLT
+ 732 [].Physiology and metabolism.API 50CHac.[].TUR
+ 732 [].Physiology and metabolism.API 50CHac.[].TRE
+ 732 [].Physiology and metabolism.API 50CHac.[].TAG
+ 732 [].Physiology and metabolism.API 50CHac.[].SOR
+ 732 [].Physiology and metabolism.API 50CHac.[].SBE
+ 732 [].Physiology and metabolism.API 50CHac.[].SAL
+ 732 [].Physiology and metabolism.API 50CHac.[].SAC
+ 732 [].Physiology and metabolism.API 50CHac.[].RIB
+ 732 [].Physiology and metabolism.API 50CHac.[].RHA
+ 732 [].Physiology and metabolism.API 50CHac.[].RAF
+ 732 [].Physiology and metabolism.API 50CHac.[].NAG
+ 732 [].Physiology and metabolism.API 50CHac.[].MNE
+ 732 [].Physiology and metabolism.API 50CHac.[].MLZ
+ 732 [].Physiology and metabolism.API 50CHac.[].MEL
+ 732 [].Physiology and metabolism.API 50CHac.[].MDX
+ 732 [].Physiology and metabolism.API 50CHac.[].MDM
+ 732 [].Physiology and metabolism.API 50CHac.[].MDG
+ 732 [].Physiology and metabolism.API 50CHac.[].MAN
+ 732 [].Physiology and metabolism.API 50CHac.[].MAL
+ 732 [].Physiology and metabolism.API 50CHac.[].LYX
+ 732 [].Physiology and metabolism.API 50CHac.[].LXYL
+ 732 [].Physiology and metabolism.API 50CHac.[].LFUC
+ 732 [].Physiology and metabolism.API 50CHac.[].LARL
+ 732 [].Physiology and metabolism.API 50CHac.[].LARA
+ 732 [].Physiology and metabolism.API 50CHac.[].LAC
+ 732 [].Physiology and metabolism.API 50CHac.[].INU
+ 732 [].Physiology and metabolism.API 50CHac.[].INO
+ 732 [].Physiology and metabolism.API 50CHac.[].GLYG
+ 732 [].Physiology and metabolism.API 50CHac.[].GLY
+ 732 [].Physiology and metabolism.API 50CHac.[].GLU
+ 732 [].Physiology and metabolism.API 50CHac.[].GEN
+ 732 [].Physiology and metabolism.API 50CHac.[].GAL
+ 732 [].Physiology and metabolism.API 50CHac.[].ESC
+ 732 [].Physiology and metabolism.API 50CHac.[].ERY
+ 732 [].Physiology and metabolism.API 50CHac.[].DXYL
+ 732 [].Physiology and metabolism.API 50CHac.[].DUL
+ 732 [].Physiology and metabolism.API 50CHac.[].DFUC
+ 732 [].Physiology and metabolism.API 50CHac.[].DARL
+ 732 [].Physiology and metabolism.API 50CHac.[].DARA
+ 732 [].Physiology and metabolism.API 50CHac.[].CEL
+ 732 [].Physiology and metabolism.API 50CHac.[].AMD
+ 732 [].Physiology and metabolism.API 50CHac.[].ADO
+ 732 [].Physiology and metabolism.API 50CHac.[].@ref
+ 731 [].Physiology and metabolism.API 50CHac.[].GNT
+ 731 [].Physiology and metabolism.API 50CHac.[].FRU
+ 731 [].Physiology and metabolism.API 50CHac.[].ARB
+ 731 [].Physiology and metabolism.API 50CHac.[].AMY
+ 730 [].Physiology and metabolism.API 50CHac.[].5KG
+ 730 [].Physiology and metabolism.API 50CHac.[].2KG
+ 705 [].Physiology and metabolism.API rID32STR.[].TRE
+ 705 [].Physiology and metabolism.API rID32STR.[].SOR
+ 705 [].Physiology and metabolism.API rID32STR.[].SAC
+ 705 [].Physiology and metabolism.API rID32STR.[].RAF
+ 705 [].Physiology and metabolism.API rID32STR.[].PAL
+ 705 [].Physiology and metabolism.API rID32STR.[].MAN
+ 705 [].Physiology and metabolism.API rID32STR.[].LARA
+ 705 [].Physiology and metabolism.API rID32STR.[].LAC
+ 705 [].Physiology and metabolism.API rID32STR.[].DARL
+ 705 [].Physiology and metabolism.API rID32STR.[].beta GUR
+ 705 [].Physiology and metabolism.API rID32STR.[].beta GLU
+ 705 [].Physiology and metabolism.API rID32STR.[].beta GAR
+ 705 [].Physiology and metabolism.API rID32STR.[].alpha GAL
+ 705 [].Physiology and metabolism.API rID32STR.[].ADH Arg
+ 705 [].Physiology and metabolism.API rID32STR.[].@ref
+ 704 [].Physiology and metabolism.API rID32STR.[].URE
+ 704 [].Physiology and metabolism.API rID32STR.[].TAG
+ 704 [].Physiology and metabolism.API rID32STR.[].RIB
+ 704 [].Physiology and metabolism.API rID32STR.[].PyrA
+ 704 [].Physiology and metabolism.API rID32STR.[].PUL
+ 704 [].Physiology and metabolism.API rID32STR.[].MLZ
+ 704 [].Physiology and metabolism.API rID32STR.[].MEL
+ 704 [].Physiology and metabolism.API rID32STR.[].Mbeta DG
+ 704 [].Physiology and metabolism.API rID32STR.[].MAL
+ 704 [].Physiology and metabolism.API rID32STR.[].GLYG
+ 704 [].Physiology and metabolism.API rID32STR.[].CDEX
+ 704 [].Physiology and metabolism.API rID32STR.[].beta MAN
+ 703 [].Physiology and metabolism.API rID32STR.[].VP
+ 703 [].Physiology and metabolism.API rID32STR.[].GTA
+ 703 [].Physiology and metabolism.API rID32STR.[].beta NAG
+ 703 [].Physiology and metabolism.API rID32STR.[].beta GAL
+ 703 [].Physiology and metabolism.API rID32STR.[].APPA
+ 702 [].Physiology and metabolism.API rID32STR.[].HIP
+ 697 [].Morphology.cell morphology.flagellum arrangement
+ 694 [].Physiology and metabolism.spore formation.type of spore
+ 685 [].Physiology and metabolism.API ID32STA.URE
+ 685 [].Physiology and metabolism.API ID32STA.TUR
+ 685 [].Physiology and metabolism.API ID32STA.TRE
+ 685 [].Physiology and metabolism.API ID32STA.SAC
+ 685 [].Physiology and metabolism.API ID32STA.RIB
+ 685 [].Physiology and metabolism.API ID32STA.RAF
+ 685 [].Physiology and metabolism.API ID32STA.NOVO
+ 685 [].Physiology and metabolism.API ID32STA.NIT
+ 685 [].Physiology and metabolism.API ID32STA.NAG
+ 685 [].Physiology and metabolism.API ID32STA.MNE
+ 685 [].Physiology and metabolism.API ID32STA.MAN
+ 685 [].Physiology and metabolism.API ID32STA.MAL
+ 685 [].Physiology and metabolism.API ID32STA.LAC
+ 685 [].Physiology and metabolism.API ID32STA.GLU
+ 685 [].Physiology and metabolism.API ID32STA.FRU
+ 685 [].Physiology and metabolism.API ID32STA.ESC
+ 685 [].Physiology and metabolism.API ID32STA.CEL
+ 685 [].Physiology and metabolism.API ID32STA.beta GUR
+ 685 [].Physiology and metabolism.API ID32STA.ArgA
+ 685 [].Physiology and metabolism.API ID32STA.ARA
+ 685 [].Physiology and metabolism.API ID32STA.ADH Arg
+ 685 [].Physiology and metabolism.API ID32STA.@ref
+ 684 [].Physiology and metabolism.API NH.[].URE
+ 684 [].Physiology and metabolism.API NH.[].SAC
+ 684 [].Physiology and metabolism.API NH.[].PAL
+ 684 [].Physiology and metabolism.API NH.[].ODC
+ 684 [].Physiology and metabolism.API NH.[].MAL
+ 684 [].Physiology and metabolism.API NH.[].LIP
+ 684 [].Physiology and metabolism.API NH.[].GLU
+ 684 [].Physiology and metabolism.API NH.[].FRU
+ 684 [].Physiology and metabolism.API NH.[].@ref
+ 684 [].Physiology and metabolism.API ID32STA.PAL
+ 684 [].Physiology and metabolism.API ID32STA.ODC
+ 684 [].Physiology and metabolism.API ID32STA.beta GAL
+ 683 [].Physiology and metabolism.API NH.[].beta GAL
+ 683 [].Physiology and metabolism.API ID32STA.PyrA
+ 682 [].Physiology and metabolism.API ID32STA.VP
+ 680 [].Physiology and metabolism.API NH.[].ProA
+ 679 [].Physiology and metabolism.API NH.[].PEN
+ 679 [].Physiology and metabolism.API NH.[].GGT
+ 672 [].Physiology and metabolism.API NH.[].IND
+ 659 [].Physiology and metabolism.enzymes.value
+ 659 [].Physiology and metabolism.enzymes.@ref
+ 633 [].Safety information.risk assessment.[].pathogenicity human
+ 613 [].Physiology and metabolism.spore formation.spore description
+ 602 [].Physiology and metabolism.enzymes.activity
+ 595 [].Physiology and metabolism.enzymes.ec
+ 591 [].Morphology.colony morphology.[].colony shape
+ 576 [].Physiology and metabolism.API 50CHac.[].Q
+ 573 [].Morphology.colony morphology.type of hemolysis
+ 571 [].Name and taxonomic classification.variant
+ 571 [].Isolation, sampling and environmental information.isolation.enrichment culture
+ 557 [].Safety information.risk assessment.[].pathogenicity animal
+ 552 [].Isolation, sampling and environmental information.isolation.[].isolation procedure
+ 543 [].Physiology and metabolism.API ID32STA.[].URE
+ 543 [].Physiology and metabolism.API ID32STA.[].TUR
+ 543 [].Physiology and metabolism.API ID32STA.[].TRE
+ 543 [].Physiology and metabolism.API ID32STA.[].SAC
+ 543 [].Physiology and metabolism.API ID32STA.[].RAF
+ 543 [].Physiology and metabolism.API ID32STA.[].PyrA
+ 543 [].Physiology and metabolism.API ID32STA.[].PAL
+ 543 [].Physiology and metabolism.API ID32STA.[].NOVO
+ 543 [].Physiology and metabolism.API ID32STA.[].NAG
+ 543 [].Physiology and metabolism.API ID32STA.[].MNE
+ 543 [].Physiology and metabolism.API ID32STA.[].MAN
+ 543 [].Physiology and metabolism.API ID32STA.[].MAL
+ 543 [].Physiology and metabolism.API ID32STA.[].GLU
+ 543 [].Physiology and metabolism.API ID32STA.[].FRU
+ 543 [].Physiology and metabolism.API ID32STA.[].ESC
+ 543 [].Physiology and metabolism.API ID32STA.[].beta GAL
+ 543 [].Physiology and metabolism.API ID32STA.[].ArgA
+ 543 [].Physiology and metabolism.API ID32STA.[].ARA
+ 543 [].Physiology and metabolism.API ID32STA.[].ADH Arg
+ 543 [].Physiology and metabolism.API ID32STA.[].@ref
+ 542 [].Physiology and metabolism.API ID32STA.[].RIB
+ 542 [].Physiology and metabolism.API ID32STA.[].ODC
+ 542 [].Physiology and metabolism.API ID32STA.[].LAC
+ 542 [].Physiology and metabolism.API ID32STA.[].beta GUR
+ 541 [].Physiology and metabolism.API ID32STA.[].VP
+ 541 [].Physiology and metabolism.API ID32STA.[].CEL
+ 539 [].Physiology and metabolism.API ID32STA.[].NIT
+ 507 [].Isolation, sampling and environmental information.isolation.enrichment culture temperature
+ 489 [].Physiology and metabolism.antibiogram.[].vancomycin
+ 489 [].Physiology and metabolism.antibiogram.[].ticarcillin
+ 489 [].Physiology and metabolism.antibiogram.[].tetracycline
+ 489 [].Physiology and metabolism.antibiogram.[].teicoplanin
+ 489 [].Physiology and metabolism.antibiogram.[].quinupristin/dalfopristin
+ 489 [].Physiology and metabolism.antibiogram.[].polymyxin b
+ 489 [].Physiology and metabolism.antibiogram.[].piperacillin/tazobactam
+ 489 [].Physiology and metabolism.antibiogram.[].pipemidic acid
+ 489 [].Physiology and metabolism.antibiogram.[].Penicillin G
+ 489 [].Physiology and metabolism.antibiogram.[].oxacillin
+ 489 [].Physiology and metabolism.antibiogram.[].ofloxacin
+ 489 [].Physiology and metabolism.antibiogram.[].nystatin
+ 489 [].Physiology and metabolism.antibiogram.[].norfloxacin
+ 489 [].Physiology and metabolism.antibiogram.[].nitrofurantoin
+ 489 [].Physiology and metabolism.antibiogram.[].neomycin
+ 489 [].Physiology and metabolism.antibiogram.[].moxifloxacin
+ 489 [].Physiology and metabolism.antibiogram.[].mezlocillin
+ 489 [].Physiology and metabolism.antibiogram.[].medium
+ 489 [].Physiology and metabolism.antibiogram.[].linezolid
+ 489 [].Physiology and metabolism.antibiogram.[].lincomycin
+ 489 [].Physiology and metabolism.antibiogram.[].kanamycin
+ 489 [].Physiology and metabolism.antibiogram.[].imipenem
+ 489 [].Physiology and metabolism.antibiogram.[].gentamycin
+ 489 [].Physiology and metabolism.antibiogram.[].fosfomycin
+ 489 [].Physiology and metabolism.antibiogram.[].erythromycin
+ 489 [].Physiology and metabolism.antibiogram.[].doxycycline
+ 489 [].Physiology and metabolism.antibiogram.[].colistin
+ 489 [].Physiology and metabolism.antibiogram.[].clindamycin
+ 489 [].Physiology and metabolism.antibiogram.[].chloramphenicol
+ 489 [].Physiology and metabolism.antibiogram.[].ceftriaxone
+ 489 [].Physiology and metabolism.antibiogram.[].cefotaxime
+ 489 [].Physiology and metabolism.antibiogram.[].cefazolin
+ 489 [].Physiology and metabolism.antibiogram.[].cefalotin
+ 489 [].Physiology and metabolism.antibiogram.[].bacitracin
+ 489 [].Physiology and metabolism.antibiogram.[].aztreonam
+ 489 [].Physiology and metabolism.antibiogram.[].ampicillin
+ 489 [].Physiology and metabolism.antibiogram.[].amikacin
+ 489 [].Physiology and metabolism.antibiogram.[].@ref
+ 482 [].Physiology and metabolism.fatty acid profile.[].type of FA analysis
+ 478 [].Morphology.cell morphology.[].flagellum arrangement
+ 473 [].Isolation, sampling and environmental information.isolation.[].enrichment culture composition
+ 460 [].Physiology and metabolism.nutrition type.type
+ 460 [].Physiology and metabolism.nutrition type.@ref
+ 433 [].Physiology and metabolism.fatty acid profile.[].method/protocol
+ 419 [].Isolation, sampling and environmental information.isolation.enrichment culture duration
+ 419 [].Culture and growth conditions.culture pH.PH range
+ 398 [].Physiology and metabolism.antibiogram.[].incubation temperature
+ 395 [].Physiology and metabolism.antibiotic resistance.sensitivity conc.
+ 366 [].External links.phages.[].strain number
+ 366 [].External links.phages.[].name
+ 366 [].External links.phages.[].link
+ 366 [].External links.phages.[].@ref
+ 355 [].Physiology and metabolism.halophily.[].halophily level
+ 346 [].External links.straininfo link.[].straininfo
+ 346 [].External links.straininfo link.[].@ref
+ 336 [].Physiology and metabolism.antibiogram.[].oxygen condition
+ 319 [].Physiology and metabolism.API CAM.[].URE
+ 319 [].Physiology and metabolism.API CAM.[].PYRA
+ 319 [].Physiology and metabolism.API CAM.[].PAL
+ 319 [].Physiology and metabolism.API CAM.[].NIT
+ 319 [].Physiology and metabolism.API CAM.[].GGT
+ 319 [].Physiology and metabolism.API CAM.[].AspA
+ 319 [].Physiology and metabolism.API CAM.[].ArgA
+ 319 [].Physiology and metabolism.API CAM.[].@ref
+ 318 [].Physiology and metabolism.API CAM.[].TTC
+ 318 [].Physiology and metabolism.API CAM.[].HIP
+ 318 [].Physiology and metabolism.API CAM.[].EST
+ 313 [].Physiology and metabolism.fatty acid profile.instrument
+ 313 [].Physiology and metabolism.API CAM.[].H2S
+ 312 [].Physiology and metabolism.API CAM.[].SUT
+ 312 [].Physiology and metabolism.API CAM.[].PROP
+ 312 [].Physiology and metabolism.API CAM.[].NAL
+ 312 [].Physiology and metabolism.API CAM.[].MLT
+ 312 [].Physiology and metabolism.API CAM.[].GLU
+ 312 [].Physiology and metabolism.API CAM.[].ERO
+ 312 [].Physiology and metabolism.API CAM.[].CIT
+ 312 [].Physiology and metabolism.API CAM.[].CFZ
+ 312 [].Physiology and metabolism.API CAM.[].ACE
+ 312 [].Morphology.colony morphology.[].hemolysis ability
+ 307 [].Physiology and metabolism.API coryne.[].GEL
+ 307 [].Physiology and metabolism.API coryne.[].ESC
+ 307 [].Physiology and metabolism.API coryne.[].@ref
+ 306 [].Physiology and metabolism.API coryne.[].URE
+ 306 [].Physiology and metabolism.API coryne.[].PYRA
+ 306 [].Physiology and metabolism.API coryne.[].PAL
+ 306 [].Physiology and metabolism.API coryne.[].beta NAG
+ 306 [].Physiology and metabolism.API coryne.[].alpha GLU
+ 305 [].Physiology and metabolism.API coryne.[].SAC
+ 305 [].Physiology and metabolism.API coryne.[].beta GUR
+ 305 [].Physiology and metabolism.API coryne.[].beta GAL
+ 304 [].Physiology and metabolism.API coryne.[].XYL
+ 304 [].Physiology and metabolism.API coryne.[].RIB
+ 304 [].Physiology and metabolism.API coryne.[].PYZ
+ 304 [].Physiology and metabolism.API coryne.[].NIT
+ 304 [].Physiology and metabolism.API coryne.[].MAN
+ 304 [].Physiology and metabolism.API coryne.[].LAC
+ 304 [].Physiology and metabolism.API coryne.[].GLYG
+ 301 [].Physiology and metabolism.API coryne.[].MAL
+ 299 [].Physiology and metabolism.API 20STR.VP
+ 299 [].Physiology and metabolism.API 20STR.TRE
+ 299 [].Physiology and metabolism.API 20STR.SOR
+ 299 [].Physiology and metabolism.API 20STR.RIB
+ 299 [].Physiology and metabolism.API 20STR.RAF
+ 299 [].Physiology and metabolism.API 20STR.PYRA
+ 299 [].Physiology and metabolism.API 20STR.PAL
+ 299 [].Physiology and metabolism.API 20STR.MAN
+ 299 [].Physiology and metabolism.API 20STR.LAP
+ 299 [].Physiology and metabolism.API 20STR.LAC
+ 299 [].Physiology and metabolism.API 20STR.INU
+ 299 [].Physiology and metabolism.API 20STR.HIP
+ 299 [].Physiology and metabolism.API 20STR.GLYG
+ 299 [].Physiology and metabolism.API 20STR.ESC
+ 299 [].Physiology and metabolism.API 20STR.beta GUR
+ 299 [].Physiology and metabolism.API 20STR.beta GAL
+ 299 [].Physiology and metabolism.API 20STR.ARA
+ 299 [].Physiology and metabolism.API 20STR.AMD
+ 299 [].Physiology and metabolism.API 20STR.alpha GAL
+ 299 [].Physiology and metabolism.API 20STR.ADH
+ 299 [].Physiology and metabolism.API 20STR.@ref
+ 298 [].Physiology and metabolism.metabolite utilization.utilization activity
+ 298 [].Physiology and metabolism.metabolite utilization.metabolite
+ 298 [].Physiology and metabolism.metabolite utilization.kind of utilization tested
+ 298 [].Physiology and metabolism.metabolite utilization.@ref
+ 298 [].Morphology.colony morphology.[].colony size
+ 296 [].Physiology and metabolism.API CAM.TTC
+ 296 [].Physiology and metabolism.API CAM.PYRA
+ 296 [].Physiology and metabolism.API CAM.PAL
+ 296 [].Physiology and metabolism.API CAM.GGT
+ 296 [].Physiology and metabolism.API CAM.@ref
+ 295 [].Physiology and metabolism.API CAM.URE
+ 295 [].Physiology and metabolism.API CAM.NIT
+ 295 [].Physiology and metabolism.API CAM.HIP
+ 295 [].Physiology and metabolism.API CAM.EST
+ 295 [].Physiology and metabolism.API CAM.AspA
+ 295 [].Physiology and metabolism.API CAM.ArgA
+ 294 [].Physiology and metabolism.API CAM.SUT
+ 294 [].Physiology and metabolism.API CAM.MLT
+ 294 [].Physiology and metabolism.API CAM.H2S
+ 294 [].Physiology and metabolism.API CAM.GLU
+ 294 [].Physiology and metabolism.API CAM.CFZ
+ 294 [].Morphology.colony morphology.[].type of hemolysis
+ 293 [].Physiology and metabolism.API CAM.PROP
+ 293 [].Physiology and metabolism.API CAM.NAL
+ 293 [].Physiology and metabolism.API CAM.ERO
+ 293 [].Physiology and metabolism.API CAM.CIT
+ 293 [].Physiology and metabolism.API CAM.ACE
+ 292 [].Physiology and metabolism.metabolite utilization.Chebi-ID
+ 288 [].Physiology and metabolism.API CAM.[].CAT
+ 285 [].Safety information.risk assessment.pathogenicity plant
+ 278 [].Physiology and metabolism.API CAM.CAT
+ 266 [].Physiology and metabolism.API 20STR.beta HEM
+ 263 [].Physiology and metabolism.API coryne.[].GLU
+ 247 [].Isolation, sampling and environmental information.isolation.isolation procedure
+ 245 [].Physiology and metabolism.API LIST.XYL
+ 245 [].Physiology and metabolism.API LIST.RIB
+ 245 [].Physiology and metabolism.API LIST.RHA
+ 245 [].Physiology and metabolism.API LIST.MDG
+ 245 [].Physiology and metabolism.API LIST.G1P
+ 245 [].Physiology and metabolism.API LIST.ESC
+ 245 [].Physiology and metabolism.API LIST.DARL
+ 245 [].Physiology and metabolism.API LIST.alpha MAN
+ 245 [].Physiology and metabolism.API LIST.@ref
+ 244 [].Physiology and metabolism.API LIST.TAG
+ 244 [].Physiology and metabolism.API LIST.DIM
+ 244 [].Physiology and metabolism.API coryne.[].Control
+ 220 [].Physiology and metabolism.spore formation.[].type of spore
+ 220 [].Physiology and metabolism.API STA.XYL
+ 220 [].Physiology and metabolism.API STA.XLT
+ 220 [].Physiology and metabolism.API STA.VP
+ 220 [].Physiology and metabolism.API STA.URE
+ 220 [].Physiology and metabolism.API STA.TRE
+ 220 [].Physiology and metabolism.API STA.SAC
+ 220 [].Physiology and metabolism.API STA.RAF
+ 220 [].Physiology and metabolism.API STA.PAL
+ 220 [].Physiology and metabolism.API STA.NIT
+ 220 [].Physiology and metabolism.API STA.NAG
+ 220 [].Physiology and metabolism.API STA.MNE
+ 220 [].Physiology and metabolism.API STA.MEL
+ 220 [].Physiology and metabolism.API STA.MDG
+ 220 [].Physiology and metabolism.API STA.MAN
+ 220 [].Physiology and metabolism.API STA.MAL
+ 220 [].Physiology and metabolism.API STA.LAC
+ 220 [].Physiology and metabolism.API STA.GLU
+ 220 [].Physiology and metabolism.API STA.FRU
+ 220 [].Physiology and metabolism.API STA.ADH
+ 220 [].Physiology and metabolism.API STA.@ref
+ 216 [].Physiology and metabolism.API coryne.[].CAT
+ 214 [].Physiology and metabolism.API STA.LSTR
+ 196 [].Morphology.pigmentation.[].color
+ 194 [].Physiology and metabolism.fatty acid profile.incubation_oxygen
+ 170 [].Isolation, sampling and environmental information.isolation.enrichment culture composition
+ 156 [].Morphology.pigmentation.color
+ 140 [].Physiology and metabolism.API 20A.XYL
+ 140 [].Physiology and metabolism.API 20A.URE
+ 140 [].Physiology and metabolism.API 20A.TRE
+ 140 [].Physiology and metabolism.API 20A.SOR
+ 140 [].Physiology and metabolism.API 20A.SAL
+ 140 [].Physiology and metabolism.API 20A.SAC
+ 140 [].Physiology and metabolism.API 20A.RHA
+ 140 [].Physiology and metabolism.API 20A.RAF
+ 140 [].Physiology and metabolism.API 20A.MNE
+ 140 [].Physiology and metabolism.API 20A.MLZ
+ 140 [].Physiology and metabolism.API 20A.MAN
+ 140 [].Physiology and metabolism.API 20A.MAL
+ 140 [].Physiology and metabolism.API 20A.LAC
+ 140 [].Physiology and metabolism.API 20A.GLY
+ 140 [].Physiology and metabolism.API 20A.GLU
+ 140 [].Physiology and metabolism.API 20A.GEL
+ 140 [].Physiology and metabolism.API 20A.CEL
+ 140 [].Physiology and metabolism.API 20A.ARA
+ 140 [].Physiology and metabolism.API 20A.@ref
+ 139 [].Physiology and metabolism.API 20A.ESC
+ 134 [].External links.phages.strain number
+ 134 [].External links.phages.name
+ 134 [].External links.phages.link
+ 134 [].External links.phages.@ref
+ 130 [].Physiology and metabolism.fatty acid profile.fatty acids.[].SD
+ 129 [].Physiology and metabolism.API 20A.IND
+ 113 [].Physiology and metabolism.API 20A.[].XYL
+ 113 [].Physiology and metabolism.API 20A.[].URE
+ 113 [].Physiology and metabolism.API 20A.[].TRE
+ 113 [].Physiology and metabolism.API 20A.[].SOR
+ 113 [].Physiology and metabolism.API 20A.[].SAL
+ 113 [].Physiology and metabolism.API 20A.[].SAC
+ 113 [].Physiology and metabolism.API 20A.[].RHA
+ 113 [].Physiology and metabolism.API 20A.[].RAF
+ 113 [].Physiology and metabolism.API 20A.[].MNE
+ 113 [].Physiology and metabolism.API 20A.[].MLZ
+ 113 [].Physiology and metabolism.API 20A.[].MAN
+ 113 [].Physiology and metabolism.API 20A.[].MAL
+ 113 [].Physiology and metabolism.API 20A.[].LAC
+ 113 [].Physiology and metabolism.API 20A.[].GLY
+ 113 [].Physiology and metabolism.API 20A.[].GLU
+ 113 [].Physiology and metabolism.API 20A.[].GEL
+ 113 [].Physiology and metabolism.API 20A.[].CEL
+ 113 [].Physiology and metabolism.API 20A.[].ARA
+ 113 [].Physiology and metabolism.API 20A.[].@ref
+ 112 [].Physiology and metabolism.API 20A.[].ESC
+ 110 [].Physiology and metabolism.antibiogram.[].incubation time
+ 107 [].Physiology and metabolism.API 20A.[].IND
+ 107 [].Physiology and metabolism.antibiogram.vancomycin
+ 107 [].Physiology and metabolism.antibiogram.ticarcillin
+ 107 [].Physiology and metabolism.antibiogram.tetracycline
+ 107 [].Physiology and metabolism.antibiogram.teicoplanin
+ 107 [].Physiology and metabolism.antibiogram.quinupristin/dalfopristin
+ 107 [].Physiology and metabolism.antibiogram.polymyxin b
+ 107 [].Physiology and metabolism.antibiogram.piperacillin/tazobactam
+ 107 [].Physiology and metabolism.antibiogram.pipemidic acid
+ 107 [].Physiology and metabolism.antibiogram.Penicillin G
+ 107 [].Physiology and metabolism.antibiogram.oxacillin
+ 107 [].Physiology and metabolism.antibiogram.ofloxacin
+ 107 [].Physiology and metabolism.antibiogram.nystatin
+ 107 [].Physiology and metabolism.antibiogram.norfloxacin
+ 107 [].Physiology and metabolism.antibiogram.nitrofurantoin
+ 107 [].Physiology and metabolism.antibiogram.neomycin
+ 107 [].Physiology and metabolism.antibiogram.moxifloxacin
+ 107 [].Physiology and metabolism.antibiogram.mezlocillin
+ 107 [].Physiology and metabolism.antibiogram.medium
+ 107 [].Physiology and metabolism.antibiogram.linezolid
+ 107 [].Physiology and metabolism.antibiogram.lincomycin
+ 107 [].Physiology and metabolism.antibiogram.kanamycin
+ 107 [].Physiology and metabolism.antibiogram.imipenem
+ 107 [].Physiology and metabolism.antibiogram.gentamycin
+ 107 [].Physiology and metabolism.antibiogram.fosfomycin
+ 107 [].Physiology and metabolism.antibiogram.erythromycin
+ 107 [].Physiology and metabolism.antibiogram.doxycycline
+ 107 [].Physiology and metabolism.antibiogram.colistin
+ 107 [].Physiology and metabolism.antibiogram.clindamycin
+ 107 [].Physiology and metabolism.antibiogram.chloramphenicol
+ 107 [].Physiology and metabolism.antibiogram.ceftriaxone
+ 107 [].Physiology and metabolism.antibiogram.cefotaxime
+ 107 [].Physiology and metabolism.antibiogram.cefazolin
+ 107 [].Physiology and metabolism.antibiogram.cefalotin
+ 107 [].Physiology and metabolism.antibiogram.bacitracin
+ 107 [].Physiology and metabolism.antibiogram.aztreonam
+ 107 [].Physiology and metabolism.antibiogram.ampicillin
+ 107 [].Physiology and metabolism.antibiogram.amikacin
+ 107 [].Physiology and metabolism.antibiogram.@ref
+ 102 [].Safety information.risk assessment.[].pathogenicity plant
+  99 [].Physiology and metabolism.metabolite tests.[].citrate test
+  97 [].Physiology and metabolism.spore formation.[].spore description
+  95 [].Physiology and metabolism.tolerance.compound
+  95 [].Physiology and metabolism.tolerance.@ref
+  95 [].Physiology and metabolism.API LIST.[].XYL
+  95 [].Physiology and metabolism.API LIST.[].TAG
+  95 [].Physiology and metabolism.API LIST.[].RIB
+  95 [].Physiology and metabolism.API LIST.[].RHA
+  95 [].Physiology and metabolism.API LIST.[].MDG
+  95 [].Physiology and metabolism.API LIST.[].G1P
+  95 [].Physiology and metabolism.API LIST.[].ESC
+  95 [].Physiology and metabolism.API LIST.[].DARL
+  95 [].Physiology and metabolism.API LIST.[].alpha MAN
+  95 [].Physiology and metabolism.API LIST.[].@ref
+  94 [].Physiology and metabolism.API LIST.[].DIM
+  91 [].Morphology.multicellular morphology.further description
+  82 [].Physiology and metabolism.fatty acid profile.[].system
+  80 [].Physiology and metabolism.fatty acid profile.[].incubation medium
+  80 [].Physiology and metabolism.API LIST.beta HEM
+  79 [].Physiology and metabolism.fatty acid profile.incubation pH
+  77 [].Physiology and metabolism.fatty acid profile.[].incubation time
+  76 [].Physiology and metabolism.fatty acid profile.[].software version
+  76 [].Physiology and metabolism.fatty acid profile.[].incubation temperature
+  76 [].Physiology and metabolism.API 20E.[].NO2
+  76 [].Physiology and metabolism.antibiogram.incubation temperature
+  76 [].Morphology.multicellular morphology.[].further description
+  68 [].Physiology and metabolism.API 20E.[].N2
+  67 [].Physiology and metabolism.fatty acid profile.[].library/peak naming table
+  66 [].Physiology and metabolism.nutrition type.[].type
+  66 [].Physiology and metabolism.nutrition type.[].@ref
+  62 [].Physiology and metabolism.antibiogram.oxygen condition
+  61 [].Physiology and metabolism.fatty acid profile.[].agar/liquid
+  53 [].Morphology.multicellular morphology.complex color
+  52 [].Physiology and metabolism.tolerance.[].compound
+  52 [].Physiology and metabolism.tolerance.[].@ref
+  51 [].Physiology and metabolism.tolerance.percentage
+  51 [].Morphology.multicellular morphology.medium name
+  48 [].Physiology and metabolism.API LIST.[].beta HEM
+  48 [].Physiology and metabolism.API 20A.[].CAT
+  38 [].Physiology and metabolism.fatty acid profile.[].instrument
+  38 [].Physiology and metabolism.API 20A.CAT
+  36 [].Physiology and metabolism.API 20A.[].COCC
+  34 [].Physiology and metabolism.API 20A.[].GRAM
+  32 [].Physiology and metabolism.antibiotic resistance.[].is intermediate
+  30 [].Physiology and metabolism.API ID32E.[].URE
+  30 [].Physiology and metabolism.API ID32E.[].TRE
+  30 [].Physiology and metabolism.API ID32E.[].SOR
+  30 [].Physiology and metabolism.API ID32E.[].SAC
+  30 [].Physiology and metabolism.API ID32E.[].RP
+  30 [].Physiology and metabolism.API ID32E.[].RHA
+  30 [].Physiology and metabolism.API ID32E.[].PLE
+  30 [].Physiology and metabolism.API ID32E.[].ODC
+  30 [].Physiology and metabolism.API ID32E.[].MNT
+  30 [].Physiology and metabolism.API ID32E.[].MAN
+  30 [].Physiology and metabolism.API ID32E.[].MAL
+  30 [].Physiology and metabolism.API ID32E.[].LIP
+  30 [].Physiology and metabolism.API ID32E.[].LDC Lys
+  30 [].Physiology and metabolism.API ID32E.[].LARL
+  30 [].Physiology and metabolism.API ID32E.[].LARA
+  30 [].Physiology and metabolism.API ID32E.[].INO
+  30 [].Physiology and metabolism.API ID32E.[].IND
+  30 [].Physiology and metabolism.API ID32E.[].GLU
+  30 [].Physiology and metabolism.API ID32E.[].GAT
+  30 [].Physiology and metabolism.API ID32E.[].DARL
+  30 [].Physiology and metabolism.API ID32E.[].CEL
+  30 [].Physiology and metabolism.API ID32E.[].beta NAG
+  30 [].Physiology and metabolism.API ID32E.[].beta GUR
+  30 [].Physiology and metabolism.API ID32E.[].beta GLU
+  30 [].Physiology and metabolism.API ID32E.[].beta GAL
+  30 [].Physiology and metabolism.API ID32E.[].alphaMAL
+  30 [].Physiology and metabolism.API ID32E.[].alpha GLU
+  30 [].Physiology and metabolism.API ID32E.[].alpha GAL
+  30 [].Physiology and metabolism.API ID32E.[].ADO
+  30 [].Physiology and metabolism.API ID32E.[].ADH Arg
+  30 [].Physiology and metabolism.API ID32E.[].5KG
+  30 [].Physiology and metabolism.API ID32E.[].@ref
+  30 [].Physiology and metabolism.API 20A.[].SPOR
+  29 [].Physiology and metabolism.API ID32E.[].AspA
+  29 [].Physiology and metabolism.API 20STR.[].VP
+  29 [].Physiology and metabolism.API 20STR.[].TRE
+  29 [].Physiology and metabolism.API 20STR.[].SOR
+  29 [].Physiology and metabolism.API 20STR.[].RIB
+  29 [].Physiology and metabolism.API 20STR.[].RAF
+  29 [].Physiology and metabolism.API 20STR.[].PYRA
+  29 [].Physiology and metabolism.API 20STR.[].PAL
+  29 [].Physiology and metabolism.API 20STR.[].MAN
+  29 [].Physiology and metabolism.API 20STR.[].LAP
+  29 [].Physiology and metabolism.API 20STR.[].LAC
+  29 [].Physiology and metabolism.API 20STR.[].INU
+  29 [].Physiology and metabolism.API 20STR.[].HIP
+  29 [].Physiology and metabolism.API 20STR.[].GLYG
+  29 [].Physiology and metabolism.API 20STR.[].ESC
+  29 [].Physiology and metabolism.API 20STR.[].beta GUR
+  29 [].Physiology and metabolism.API 20STR.[].beta GAL
+  29 [].Physiology and metabolism.API 20STR.[].ARA
+  29 [].Physiology and metabolism.API 20STR.[].AMD
+  29 [].Physiology and metabolism.API 20STR.[].alpha GAL
+  29 [].Physiology and metabolism.API 20STR.[].ADH
+  29 [].Physiology and metabolism.API 20STR.[].@ref
+  24 [].Physiology and metabolism.tolerance.[].concentration
+  24 [].Physiology and metabolism.murein.[].type
+  24 [].Physiology and metabolism.murein.[].@ref
+  23 [].Physiology and metabolism.halophily.halophily level
+  23 [].Physiology and metabolism.antibiotic resistance.[].intermediate conc.
+  22 [].Physiology and metabolism.murein.[].murein short key
+  22 [].Physiology and metabolism.antibiogram.incubation time
+  15 [].Physiology and metabolism.tolerance.[].percentage
+  15 [].Physiology and metabolism.fatty acid profile.[].incubation_oxygen
+  13 [].Physiology and metabolism.API 50CHas.XLT
+  13 [].Physiology and metabolism.API 50CHas.TUR
+  13 [].Physiology and metabolism.API 50CHas.TRE
+  13 [].Physiology and metabolism.API 50CHas.TAG
+  13 [].Physiology and metabolism.API 50CHas.SOR
+  13 [].Physiology and metabolism.API 50CHas.SBE
+  13 [].Physiology and metabolism.API 50CHas.SAL
+  13 [].Physiology and metabolism.API 50CHas.SAC
+  13 [].Physiology and metabolism.API 50CHas.RIB
+  13 [].Physiology and metabolism.API 50CHas.RHA
+  13 [].Physiology and metabolism.API 50CHas.RAF
+  13 [].Physiology and metabolism.API 50CHas.Q
+  13 [].Physiology and metabolism.API 50CHas.NAG
+  13 [].Physiology and metabolism.API 50CHas.MNE
+  13 [].Physiology and metabolism.API 50CHas.MLZ
+  13 [].Physiology and metabolism.API 50CHas.MEL
+  13 [].Physiology and metabolism.API 50CHas.MDX
+  13 [].Physiology and metabolism.API 50CHas.MDM
+  13 [].Physiology and metabolism.API 50CHas.MDG
+  13 [].Physiology and metabolism.API 50CHas.MAN
+  13 [].Physiology and metabolism.API 50CHas.MAL
+  13 [].Physiology and metabolism.API 50CHas.LYX
+  13 [].Physiology and metabolism.API 50CHas.LXYL
+  13 [].Physiology and metabolism.API 50CHas.LFUC
+  13 [].Physiology and metabolism.API 50CHas.LARL
+  13 [].Physiology and metabolism.API 50CHas.LARA
+  13 [].Physiology and metabolism.API 50CHas.LAC
+  13 [].Physiology and metabolism.API 50CHas.INU
+  13 [].Physiology and metabolism.API 50CHas.INO
+  13 [].Physiology and metabolism.API 50CHas.GLYG
+  13 [].Physiology and metabolism.API 50CHas.GLY
+  13 [].Physiology and metabolism.API 50CHas.GLU
+  13 [].Physiology and metabolism.API 50CHas.GEN
+  13 [].Physiology and metabolism.API 50CHas.GAL
+  13 [].Physiology and metabolism.API 50CHas.FRU
+  13 [].Physiology and metabolism.API 50CHas.ESC
+  13 [].Physiology and metabolism.API 50CHas.ERY
+  13 [].Physiology and metabolism.API 50CHas.DXYL
+  13 [].Physiology and metabolism.API 50CHas.DUL
+  13 [].Physiology and metabolism.API 50CHas.DFUC
+  13 [].Physiology and metabolism.API 50CHas.DARL
+  13 [].Physiology and metabolism.API 50CHas.DARA
+  13 [].Physiology and metabolism.API 50CHas.CEL
+  13 [].Physiology and metabolism.API 50CHas.ARB
+  13 [].Physiology and metabolism.API 50CHas.AMY
+  13 [].Physiology and metabolism.API 50CHas.AMD
+  13 [].Physiology and metabolism.API 50CHas.ADO
+  13 [].Physiology and metabolism.API 50CHas.@ref
+  13 [].Physiology and metabolism.API 20A.GRAM
+  12 [].Physiology and metabolism.metabolite tests.citrate test
+  12 [].Physiology and metabolism.API 50CHas.GNT
+  12 [].Physiology and metabolism.API 50CHas.5KG
+  12 [].Physiology and metabolism.API 50CHas.2KG
+  12 [].Physiology and metabolism.API 20A.SPOR
+  11 [].Physiology and metabolism.API 20STR.[].beta HEM
+  11 [].Physiology and metabolism.API 20E.MAC
+  11 [].Physiology and metabolism.API 20A.COCC
+  10 [].Physiology and metabolism.tolerance.concentration
+   9 [].Physiology and metabolism.fatty acid profile.[].fatty acids.[].SD
+   7 [].Morphology.multicellular morphology.complex size
+   5 [].Physiology and metabolism.fatty acid profile.treatment
+   4 [].Physiology and metabolism.API 20E.OF-O
+   4 [].Physiology and metabolism.API 20E.OF-F
+   4 [].Physiology and metabolism.API 20E.MOB
+   3 [].Physiology and metabolism.API 20E.[].MAC
+   2 [].Physiology and metabolism.metabolite production.[].excretion
+   2 [].Physiology and metabolism.fatty acid profile.[].treatment
+   2 [].Physiology and metabolism.compound production.excreted
+   2 [].Physiology and metabolism.API STA.Control
+   2 [].Physiology and metabolism.API 20E.[].OF-O
+   2 [].Physiology and metabolism.API 20E.[].OF-F
+   1 [].Physiology and metabolism.fatty acid profile.[].fatty acids.percentage
+   1 [].Physiology and metabolism.fatty acid profile.[].fatty acids.fatty acid
+   1 [].Physiology and metabolism.fatty acid profile.[].fatty acids.ECL
+   1 [].Physiology and metabolism.fatty acid profile.[].fatty acids.@ref
+   1 [].Physiology and metabolism.compound production.[].excreted
+   1 [].Physiology and metabolism.antibiotic resistance.is intermediate
+   1 [].Physiology and metabolism.antibiotic resistance.intermediate conc.
+   1 [].Morphology.multicellular morphology.[].complex size
