@@ -13,19 +13,28 @@ MONGO_COLLECTION ?= strains
 
 # Path to BacDive JSON dump
 BACDIVE_JSON := data/954eac922928d7abfd6130e7cc64a88c/bacdive_strains.json
-BACDIVE_JSON_OLD := data/f9182e926889b24b86073cc384097c03/bacdive_strains.json
 
 # Output directories
 OUTPUT_DIR_NEW := data/output/954eac922928d7abfd6130e7cc64a88c
 OUTPUT_DIR_OLD := data/output/f9182e926889b24b86073cc384097c03
 
-.PHONY: mongo/import mongo/index
+.PHONY: mongo/import mongo/index ijsem/fetch-from-scratch ijsem/get-annotations ijsem/get-annotations-from-scratch
 
 # Target: Import BacDive data into MongoDB
 mongo/import: $(BACDIVE_JSON)
 	mongoimport --uri=$(MONGO_URI) \
 	    --db=$(MONGO_DB) \
 	    --collection=$(MONGO_COLLECTION) \
+	    --drop \
+	    --file=$< \
+	    --jsonArray
+
+
+# Target: Import old BacDive data into MongoDB
+mongo/import_old: data/output/f9182e926889b24b86073cc384097c03/bacdive_strains_as_list.json
+	mongoimport --uri=$(MONGO_URI) \
+	    --db=$(MONGO_DB) \
+	    --collection=strains_old \
 	    --drop \
 	    --file=$< \
 	    --jsonArray
@@ -108,3 +117,38 @@ data/path_tabulation.tsv:
 	    --collection $(MONGO_COLLECTION) \
 	    --path '$(PATH)' \
 	    --output $@
+
+# Target: Fetch IJSEM articles from Europe PMC and store in MongoDB
+# Usage: make ijsem/fetch-from-scratch
+ijsem/fetch-from-scratch:
+	uv run ijsem-from-epmc \
+	    --mongo-uri $(MONGO_URI) \
+	    --db europepmc \
+	    --collection ijsem_articles \
+	    --state-collection ijsem_state \
+	    --from-scratch
+
+# Target: Get organism annotations for IJSEM articles from Europe PMC
+# Usage: make ijsem/get-annotations
+ijsem/get-annotations:
+	uv run get-epmc-annotations \
+	    --mongo-uri $(MONGO_URI) \
+	    --db europepmc \
+	    --collection organism_annotations \
+	    --source-collection ijsem_articles \
+	    --state-collection annotation_state \
+	    --chunk-size 10 \
+	    --sleep 1
+
+# Target: Get organism annotations from scratch (clears state)
+# Usage: make ijsem/get-annotations-from-scratch
+ijsem/get-annotations-from-scratch:
+	uv run get-epmc-annotations \
+	    --mongo-uri $(MONGO_URI) \
+	    --db europepmc \
+	    --collection organism_annotations \
+	    --source-collection ijsem_articles \
+	    --state-collection annotation_state \
+	    --chunk-size 5 \
+	    --sleep 1 \
+	    --from-scratch

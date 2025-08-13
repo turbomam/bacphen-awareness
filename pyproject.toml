@@ -11,6 +11,8 @@ dependencies = [
     "matplotlib>=3.10.3",
     "pandas>=2.3.1",
     "pymongo>=4.13.2",
+    "requests>=2.32.4",
+    "tqdm>=4.67.1",
 ]
 
 [tool.uv]
@@ -23,3 +25,5 @@ histogram-path-counts = "bacdive_tools.histogram_path_counts:histogram"
 export-enum-values = "bacdive_tools.export_enum_values:export_enum_values"
 discover-enums = "bacdive_tools.discover_enums:discover_enums"
 tabulate-path-values = "bacdive_tools.tabulate_path_values:main"
+ijsem-from-epmc = "bacdive_tools.ijsem_from_epmc_to_mongo:fetch_articles"
+get-epmc-annotations = "bacdive_tools.get_epmc_annotations:get_annotations"
